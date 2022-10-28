@@ -104,6 +104,86 @@
           "@mindivisor": "20"
         },
         {
+          "@uniquename": "PVPCHALLENGE_POWER_CRYSTAL_WISPS_YELLOW_0",
+          "@personaltype": "WISPS",
+          "@might": "0",
+          "@favor": "0",
+          "@mindivisor": "2",
+          "@fame": "8431.703",
+          "@mistcitystanding": "1515.178",
+          "@usequestscalingfactor": "true"
+        },
+        {
+          "@uniquename": "PVPCHALLENGE_POWER_CRYSTAL_WISPS_YELLOW_1",
+          "@personaltype": "WISPS",
+          "@might": "0",
+          "@favor": "0",
+          "@mindivisor": "2",
+          "@fame": "11804.384",
+          "@mistcitystanding": "2121.250",
+          "@usequestscalingfactor": "true"
+        },
+        {
+          "@uniquename": "PVPCHALLENGE_POWER_CRYSTAL_WISPS_YELLOW_2",
+          "@personaltype": "WISPS",
+          "@might": "0",
+          "@favor": "0",
+          "@mindivisor": "2",
+          "@fame": "16526.138",
+          "@mistcitystanding": "2969.750",
+          "@usequestscalingfactor": "true"
+        },
+        {
+          "@uniquename": "PVPCHALLENGE_POWER_CRYSTAL_WISPS_YELLOW_3",
+          "@personaltype": "WISPS",
+          "@might": "0",
+          "@favor": "0",
+          "@mindivisor": "2",
+          "@fame": "23136.593",
+          "@mistcitystanding": "4157.650",
+          "@usequestscalingfactor": "true"
+        },
+        {
+          "@uniquename": "PVPCHALLENGE_POWER_CRYSTAL_WISPS_BLACK_0",
+          "@personaltype": "WISPS",
+          "@might": "13536.516",
+          "@favor": "7133.7445",
+          "@mindivisor": "5",
+          "@fame": "21079.258",
+          "@mistcitystanding": "3787.9468",
+          "@usequestscalingfactor": "true"
+        },
+        {
+          "@uniquename": "PVPCHALLENGE_POWER_CRYSTAL_WISPS_BLACK_1",
+          "@personaltype": "WISPS",
+          "@might": "18951.12",
+          "@favor": "9987.2424",
+          "@mindivisor": "5",
+          "@fame": "29510.961",
+          "@mistcitystanding": "5303.1255",
+          "@usequestscalingfactor": "true"
+        },
+        {
+          "@uniquename": "PVPCHALLENGE_POWER_CRYSTAL_WISPS_BLACK_2",
+          "@personaltype": "WISPS",
+          "@might": "26531.57",
+          "@favor": "13982.1394",
+          "@mindivisor": "5",
+          "@fame": "41315.345",
+          "@mistcitystanding": "7424.3757",
+          "@usequestscalingfactor": "true"
+        },
+        {
+          "@uniquename": "PVPCHALLENGE_POWER_CRYSTAL_WISPS_BLACK_3",
+          "@personaltype": "WISPS",
+          "@might": "37144.205",
+          "@favor": "19574.9951",
+          "@mindivisor": "5",
+          "@fame": "57841.483",
+          "@mistcitystanding": "10394.1260",
+          "@usequestscalingfactor": "true"
+        },
+        {
           "@uniquename": "PVPCHALLENGE_TREASURES_SMALL_0",
           "@objectivetype": "TREASURES",
           "@might": "596.30",
@@ -1298,6 +1378,108 @@
           {
             "@mightrequirement": "1500000",
             "@item": "UNIQUE_AVATAR_GVGSEASON_17_CRYSTAL",
+            "@boughtpremium": "true",
+            "@premium": "false",
+            "@nonpremium": "false",
+            "@upgradeline": "2"
+          }
+        ]
+      },
+      {
+        "@uniquename": "GVG_SEASON_18",
+        "@displayname": "@SEASONS_SEASONNAME_SEASON_18",
+        "reward": [
+          {
+            "@mightrequirement": "10000",
+            "@item": "T4_GVGSEASONREWARD_FAMEBUFF",
+            "@boughtpremium": "true",
+            "@premium": "false",
+            "@nonpremium": "false",
+            "@upgradeline": "1"
+          },
+          {
+            "@mightrequirement": "30000",
+            "@item": "UNIQUE_AVATAR_GVGSEASON_18_BRONZE",
+            "@boughtpremium": "true",
+            "@premium": "false",
+            "@nonpremium": "false",
+            "@upgradeline": "2"
+          },
+          {
+            "@mightrequirement": "60000",
+            "@item": "T5_GVGSEASONREWARD_FAMEBUFF",
+            "@boughtpremium": "true",
+            "@premium": "false",
+            "@nonpremium": "false",
+            "@upgradeline": "1"
+          },
+          {
+            "@mightrequirement": "100000",
+            "@item": "UNIQUE_MOUNT_BATTLESPIDER_SILVER",
+            "@boughtpremium": "true",
+            "@premium": "false",
+            "@nonpremium": "false",
+            "@upgradeline": "3"
+          },
+          {
+            "@mightrequirement": "145000",
+            "@item": "T6_GVGSEASONREWARD_FAMEBUFF",
+            "@boughtpremium": "true",
+            "@premium": "false",
+            "@nonpremium": "false",
+            "@upgradeline": "1"
+          },
+          {
+            "@mightrequirement": "200000",
+            "@item": "UNIQUE_AVATAR_GVGSEASON_18_SILVER",
+            "@boughtpremium": "true",
+            "@premium": "false",
+            "@nonpremium": "false",
+            "@upgradeline": "2"
+          },
+          {
+            "@mightrequirement": "260000",
+            "@item": "T7_GVGSEASONREWARD_FAMEBUFF",
+            "@boughtpremium": "true",
+            "@premium": "false",
+            "@nonpremium": "false",
+            "@upgradeline": "1"
+          },
+          {
+            "@mightrequirement": "330000",
+            "@item": "UNIQUE_MOUNT_BATTLESPIDER_GOLD",
+            "@boughtpremium": "true",
+            "@premium": "false",
+            "@nonpremium": "false",
+            "@upgradeline": "3"
+          },
+          {
+            "@mightrequirement": "430000",
+            "@item": "T8_GVGSEASONREWARD_FAMEBUFF",
+            "@boughtpremium": "true",
+            "@premium": "false",
+            "@nonpremium": "false",
+            "@upgradeline": "1"
+          },
+          {
+            "@mightrequirement": "650000",
+            "@item": "UNIQUE_AVATAR_GVGSEASON_18_GOLD",
+            "@boughtpremium": "true",
+            "@premium": "false",
+            "@nonpremium": "false",
+            "@upgradeline": "2"
+          },
+          {
+            "@mightrequirement": "1000000",
+            "@item": "UNIQUE_MOUNT_BATTLESPIDER_CRYSTAL",
+            "@boughtpremium": "true",
+            "@premium": "false",
+            "@nonpremium": "false",
+            "@upgradeline": "3"
+          },
+          {
+            "@mightrequirement": "1500000",
+            "@item": "UNIQUE_AVATAR_GVGSEASON_18_CRYSTAL",
             "@boughtpremium": "true",
             "@premium": "false",
             "@nonpremium": "false",

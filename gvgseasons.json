@@ -91,7 +91,10 @@
               "@quality": "1",
               "@tier": "6"
             }
-          ]
+          ],
+          "hqroad": {
+            "@pointsthreshold": "1000"
+          }
         },
         "guildchallenge": {
           "guildchallengelevel": [
@@ -842,7 +845,10 @@
               "@quality": "1",
               "@tier": "6"
             }
-          ]
+          ],
+          "hqroad": {
+            "@pointsthreshold": "1000"
+          }
         },
         "guildchallenge": {
           "guildchallengelevel": [
@@ -1285,7 +1291,10 @@
               "@quality": "1",
               "@tier": "6"
             }
-          ]
+          ],
+          "hqroad": {
+            "@pointsthreshold": "1000"
+          }
         },
         "guildchallenge": {
           "guildchallengelevel": [
@@ -1893,7 +1902,10 @@
               "@quality": "1",
               "@tier": "6"
             }
-          ]
+          ],
+          "hqroad": {
+            "@pointsthreshold": "1000"
+          }
         },
         "guildchallenge": {
           "guildchallengelevel": [
@@ -2495,7 +2507,10 @@
               "@quality": "1",
               "@tier": "6"
             }
-          ]
+          ],
+          "hqroad": {
+            "@pointsthreshold": "1000"
+          }
         },
         "guildchallenge": {
           "guildchallengelevel": [
@@ -3097,7 +3112,10 @@
               "@quality": "1",
               "@tier": "6"
             }
-          ]
+          ],
+          "hqroad": {
+            "@pointsthreshold": "1000"
+          }
         },
         "guildchallenge": {
           "guildchallengelevel": [
@@ -3990,7 +4008,10 @@
               "@quality": "1",
               "@tier": "6"
             }
-          ]
+          ],
+          "hqroad": {
+            "@pointsthreshold": "1000"
+          }
         },
         "guildchallenge": {
           "guildchallengelevel": [
@@ -4874,7 +4895,10 @@
               "@quality": "1",
               "@tier": "6"
             }
-          ]
+          ],
+          "hqroad": {
+            "@pointsthreshold": "1000"
+          }
         },
         "guildchallenge": {
           "guildchallengelevel": [
@@ -6340,7 +6364,10 @@
               "@quality": "1",
               "@tier": "6"
             }
-          ]
+          ],
+          "hqroad": {
+            "@pointsthreshold": "1000"
+          }
         },
         "guildchallenge": {
           "guildchallengelevel": [
@@ -7472,7 +7499,10 @@
               "@quality": "1",
               "@tier": "6"
             }
-          ]
+          ],
+          "hqroad": {
+            "@pointsthreshold": "1000"
+          }
         },
         "guildchallenge": {
           "guildchallengelevel": [
@@ -8592,7 +8622,10 @@
               "@quality": "1",
               "@tier": "6"
             }
-          ]
+          ],
+          "hqroad": {
+            "@pointsthreshold": "1000"
+          }
         },
         "guildchallenge": {
           "guildchallengelevel": [
@@ -9712,7 +9745,10 @@
               "@quality": "1",
               "@tier": "6"
             }
-          ]
+          ],
+          "hqroad": {
+            "@pointsthreshold": "1000"
+          }
         },
         "guildchallenge": {
           "guildchallengelevel": [
@@ -10832,7 +10868,10 @@
               "@quality": "1",
               "@tier": "6"
             }
-          ]
+          ],
+          "hqroad": {
+            "@pointsthreshold": "1000"
+          }
         },
         "guildchallenge": {
           "guildchallengelevel": [
@@ -11952,7 +11991,10 @@
               "@quality": "1",
               "@tier": "6"
             }
-          ]
+          ],
+          "hqroad": {
+            "@pointsthreshold": "1000"
+          }
         },
         "guildchallenge": {
           "guildchallengelevel": [
@@ -13087,7 +13129,10 @@
               "@quality": "1",
               "@tier": "6"
             }
-          ]
+          ],
+          "hqroad": {
+            "@pointsthreshold": "1000"
+          }
         },
         "guildchallenge": {
           "guildchallengelevel": [
@@ -14106,7 +14151,10 @@
               "@quality": "1",
               "@tier": "6"
             }
-          ]
+          ],
+          "hqroad": {
+            "@pointsthreshold": "1000"
+          }
         },
         "guildchallenge": {
           "guildchallengelevel": [
@@ -15113,7 +15161,10 @@
               "@quality": "1",
               "@tier": "6"
             }
-          ]
+          ],
+          "hqroad": {
+            "@pointsthreshold": "1000"
+          }
         },
         "guildchallenge": {
           "guildchallengelevel": [
@@ -16120,7 +16171,10 @@
               "@quality": "1",
               "@tier": "6"
             }
-          ]
+          ],
+          "hqroad": {
+            "@pointsthreshold": "1000"
+          }
         },
         "guildchallenge": {
           "guildchallengelevel": [
@@ -16892,7 +16946,7 @@
       {
         "@uniquename": "GVG_SEASON_17",
         "@displayname": "@SEASONS_SEASONNAME_SEASON_17",
-        "@startdatetime": "2022-09-17T11:00:00Z",
+        "@startdatetime": "2022-09-10T11:00:00Z",
         "@enddatetime": "2022-12-05T10:59:00Z",
         "guildmemberrewards": {
           "@minimumparticipationpercentage": "75",
@@ -17109,7 +17163,10 @@
               "@quality": "1",
               "@tier": "6"
             }
-          ]
+          ],
+          "hqroad": {
+            "@pointsthreshold": "1000"
+          }
         },
         "guildchallenge": {
           "guildchallengelevel": [
@@ -18098,7 +18155,10 @@
               "@quality": "1",
               "@tier": "6"
             }
-          ]
+          ],
+          "hqroad": {
+            "@pointsthreshold": "1000"
+          }
         },
         "guildchallenge": {
           "guildchallengelevel": [

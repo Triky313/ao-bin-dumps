@@ -613,7 +613,7 @@
             </conditions>
         </popup>
         
-        <lootchestpopup uniquename="TWITCH_DROPS" type="LootChests" guitemplate="LootChests" priority="0" title="@EVENT_BASED_POPUPS_TITLE_TWITCH_DROPS" description="@EVENT_BASED_POPUPS_DESCRIPTION_TWITCH_DROPS" cheststitle="@EVENT_BASED_POPUPS_CHESTS_TITLE_TWITCH_DROPS" rewardstitle="@EVENT_BASED_POPUPS_REWARDS_TITLE_TWITCH_DROPS" buttontext="@EVENT_BASED_POPUPS_BUTTON_TWITCH_DROPS" imagepath="Gui/EventBasedPopups/EVENT_POPUP_TWITCH_DROPS" flagpath="Gui/EventBasedPopups/icons_shop_flag_purple_big" flagiconpath="Gui/EventBasedPopups/icon_twitch_drops">
+        <lootchestpopup uniquename="TWITCH_DROPS" type="LootChests" guitemplate="LootChests" priority="0" title="@EVENT_BASED_POPUPS_TITLE_TWITCH_DROPS" description="@EVENT_BASED_POPUPS_DESCRIPTION_TWITCH_DROPS" rewardstitle="@EVENT_BASED_POPUPS_REWARDS_TITLE_TWITCH_DROPS" buttontext="@EVENT_BASED_POPUPS_BUTTON_TWITCH_DROPS" imagepath="Gui/EventBasedPopups/EVENT_POPUP_TWITCH_DROPS" flagpath="Gui/EventBasedPopups/icons_shop_flag_purple_big" flagiconpath="Gui/EventBasedPopups/icon_twitch_drops">
             <categories>
                 <category name="Advertisement" />
             </categories>
@@ -629,12 +629,6 @@
                 <IfHasSeenPopup uniquename="TWITCH_DROPS" frequency="Days" operation="equals" timefactor="7" amount="0"/> 
             </and>
             </conditions>
-            <lootchests>
-                <item itemid="UNIQUE_LOOTCHEST_COMMUNITY_COMMON" />
-                <item itemid="UNIQUE_LOOTCHEST_COMMUNITY_RARE" />
-                <item itemid="UNIQUE_LOOTCHEST_COMMUNITY_EPIC" />
-                <item itemid="UNIQUE_LOOTCHEST_COMMUNITY_LEGENDARY" />
-            </lootchests>
             <possibledrops>
                 <item itemid="UNIQUE_UNLOCK_SKIN_GIANTSTAG_ALPACA_BROWN" />
                 <item itemid="UNIQUE_UNLOCK_SKIN_HORSE_UNICORN_AMETHYST" />

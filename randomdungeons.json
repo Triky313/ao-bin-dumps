@@ -21,34 +21,80 @@
       ]
     },
     "DifficultyLevels": {
-      "difficulty": [
+      "difficultygroup": [
         {
-          "@level": "1",
-          "@mobmodifier": "MOB_RANDOM_DUNGEON_BUFF_01",
-          "@silverfactor": "1.4268",
-          "@lootfactor": "1.4268",
-          "@mobfamefactor": "1.276"
+          "@name": "default",
+          "difficulty": [
+            {
+              "@level": "1",
+              "@mobmodifier": "MOB_RANDOM_DUNGEON_BUFF_01",
+              "@silverfactor": "1.4268",
+              "@lootfactor": "1.4268",
+              "@mobfamefactor": "1.276",
+              "@questscalingfactor": "1.276"
+            },
+            {
+              "@level": "2",
+              "@mobmodifier": "MOB_RANDOM_DUNGEON_BUFF_02",
+              "@silverfactor": "1.8768",
+              "@lootfactor": "1.8768",
+              "@mobfamefactor": "1.6592",
+              "@questscalingfactor": "1.6592"
+            },
+            {
+              "@level": "3",
+              "@mobmodifier": "MOB_RANDOM_DUNGEON_BUFF_03",
+              "@silverfactor": "2.4332",
+              "@lootfactor": "2.4332",
+              "@mobfamefactor": "2.133",
+              "@questscalingfactor": "2.133"
+            },
+            {
+              "@level": "4",
+              "@mobmodifier": "MOB_RANDOM_DUNGEON_BUFF_04",
+              "@silverfactor": "3.1832",
+              "@lootfactor": "3.1832",
+              "@mobfamefactor": "2.7416",
+              "@questscalingfactor": "2.7416"
+            }
+          ]
         },
         {
-          "@level": "2",
-          "@mobmodifier": "MOB_RANDOM_DUNGEON_BUFF_02",
-          "@silverfactor": "1.8768",
-          "@lootfactor": "1.8768",
-          "@mobfamefactor": "1.6592"
-        },
-        {
-          "@level": "3",
-          "@mobmodifier": "MOB_RANDOM_DUNGEON_BUFF_03",
-          "@silverfactor": "2.4332",
-          "@lootfactor": "2.4332",
-          "@mobfamefactor": "2.133"
-        },
-        {
-          "@level": "4",
-          "@mobmodifier": "MOB_RANDOM_DUNGEON_BUFF_04",
-          "@silverfactor": "3.1832",
-          "@lootfactor": "3.1832",
-          "@mobfamefactor": "2.7416"
+          "@name": "mists",
+          "difficulty": [
+            {
+              "@level": "1",
+              "@mobmodifier": "MOB_MISTS_BUFF_01",
+              "@silverfactor": "1.4268",
+              "@lootfactor": "1.4268",
+              "@mobfamefactor": "1.276",
+              "@questscalingfactor": "1.276"
+            },
+            {
+              "@level": "2",
+              "@mobmodifier": "MOB_MISTS_BUFF_02",
+              "@silverfactor": "1.8768",
+              "@lootfactor": "1.8768",
+              "@mobfamefactor": "1.6592",
+              "@questscalingfactor": "1.6592"
+            },
+            {
+              "@level": "3",
+              "@mobmodifier": "MOB_MISTS_BUFF_03",
+              "@silverfactor": "2.4332",
+              "@lootfactor": "2.4332",
+              "@mobfamefactor": "2.133",
+              "@questscalingfactor": "2.133"
+            },
+            {
+              "@level": "4",
+              "@mobmodifier": "MOB_MISTS_BUFF_04",
+              "@silverfactor": "3.1832",
+              "@lootfactor": "3.1832",
+              "@mobfamefactor": "2.7416",
+              "@questscalingfactor": "2.7416"
+            }
+          ]
         }
       ]
     },
@@ -205,6 +251,191 @@
             {
               "@level": "4",
               "@weight": "15"
+            }
+          ]
+        },
+        {
+          "@name": "MISTS_OPEN_WORLD_MODE_YELLOW_SOLO",
+          "@rerolltimesecondsmin": "300",
+          "@rerolltimesecondsmax": "900",
+          "level": [
+            {
+              "@level": "0",
+              "@weight": "9400"
+            },
+            {
+              "@level": "1",
+              "@weight": "405"
+            },
+            {
+              "@level": "2",
+              "@weight": "135"
+            },
+            {
+              "@level": "3",
+              "@weight": "45"
+            },
+            {
+              "@level": "4",
+              "@weight": "15"
+            }
+          ]
+        },
+        {
+          "@name": "MISTS_OPEN_WORLD_MODE_BLACK_SOLO",
+          "@rerolltimesecondsmin": "300",
+          "@rerolltimesecondsmax": "900",
+          "level": [
+            {
+              "@level": "0",
+              "@weight": "9400"
+            },
+            {
+              "@level": "1",
+              "@weight": "405"
+            },
+            {
+              "@level": "2",
+              "@weight": "135"
+            },
+            {
+              "@level": "3",
+              "@weight": "45"
+            },
+            {
+              "@level": "4",
+              "@weight": "15"
+            }
+          ]
+        },
+        {
+          "@name": "MISTS_OPEN_WORLD_MODE_BLACK_DUO",
+          "@rerolltimesecondsmin": "300",
+          "@rerolltimesecondsmax": "900",
+          "level": [
+            {
+              "@level": "0",
+              "@weight": "9400"
+            },
+            {
+              "@level": "1",
+              "@weight": "405"
+            },
+            {
+              "@level": "2",
+              "@weight": "135"
+            },
+            {
+              "@level": "3",
+              "@weight": "45"
+            },
+            {
+              "@level": "4",
+              "@weight": "15"
+            }
+          ]
+        },
+        {
+          "@name": "MISTS_INSTANCE_MODE_YELLOW_SOLO",
+          "@singlerollonly": "true",
+          "level": [
+            {
+              "@level": "0",
+              "@weight": "1000"
+            },
+            {
+              "@level": "1",
+              "@weight": "250"
+            },
+            {
+              "@level": "2",
+              "@weight": "100"
+            },
+            {
+              "@level": "3",
+              "@weight": "50"
+            },
+            {
+              "@level": "4",
+              "@weight": "25"
+            }
+          ]
+        },
+        {
+          "@name": "MISTS_INSTANCE_MODE_BLACK_SOLO",
+          "@singlerollonly": "true",
+          "level": [
+            {
+              "@level": "0",
+              "@weight": "1000"
+            },
+            {
+              "@level": "1",
+              "@weight": "250"
+            },
+            {
+              "@level": "2",
+              "@weight": "100"
+            },
+            {
+              "@level": "3",
+              "@weight": "50"
+            },
+            {
+              "@level": "4",
+              "@weight": "25"
+            }
+          ]
+        },
+        {
+          "@name": "MISTS_INSTANCE_MODE_BLACK_DUO",
+          "@singlerollonly": "true",
+          "level": [
+            {
+              "@level": "0",
+              "@weight": "1000"
+            },
+            {
+              "@level": "1",
+              "@weight": "250"
+            },
+            {
+              "@level": "2",
+              "@weight": "100"
+            },
+            {
+              "@level": "3",
+              "@weight": "50"
+            },
+            {
+              "@level": "4",
+              "@weight": "25"
+            }
+          ]
+        },
+        {
+          "@name": "ROADS_FIXED_DUNGEONS",
+          "@singlerollonly": "true",
+          "level": [
+            {
+              "@level": "0",
+              "@weight": "298"
+            },
+            {
+              "@level": "1",
+              "@weight": "238"
+            },
+            {
+              "@level": "2",
+              "@weight": "190"
+            },
+            {
+              "@level": "3",
+              "@weight": "152"
+            },
+            {
+              "@level": "4",
+              "@weight": "122"
             }
           ]
         }
@@ -873,7 +1104,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "1800",
-          "@tier": "4"
+          "@tier": "4",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "HER_T5_ROAD_SOLO",
@@ -881,7 +1113,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "1800",
-          "@tier": "5"
+          "@tier": "5",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "HER_T6_ROAD_SOLO",
@@ -889,7 +1122,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "1800",
-          "@tier": "6"
+          "@tier": "6",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "HER_T7_ROAD_SOLO",
@@ -897,7 +1131,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "1800",
-          "@tier": "7"
+          "@tier": "7",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "HER_T8_ROAD_SOLO",
@@ -905,7 +1140,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "1800",
-          "@tier": "8"
+          "@tier": "8",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "KPR_T4_ROAD_SOLO",
@@ -913,7 +1149,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "1800",
-          "@tier": "4"
+          "@tier": "4",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "KPR_T5_ROAD_SOLO",
@@ -921,7 +1158,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "1800",
-          "@tier": "5"
+          "@tier": "5",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "KPR_T6_ROAD_SOLO",
@@ -929,7 +1167,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "1800",
-          "@tier": "6"
+          "@tier": "6",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "KPR_T7_ROAD_SOLO",
@@ -937,7 +1176,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "1800",
-          "@tier": "7"
+          "@tier": "7",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "KPR_T8_ROAD_SOLO",
@@ -945,7 +1185,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "1800",
-          "@tier": "8"
+          "@tier": "8",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "UND_T4_ROAD_SOLO",
@@ -953,7 +1194,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "1800",
-          "@tier": "4"
+          "@tier": "4",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "UND_T5_ROAD_SOLO",
@@ -961,7 +1203,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "1800",
-          "@tier": "5"
+          "@tier": "5",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "UND_T6_ROAD_SOLO",
@@ -969,7 +1212,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "1800",
-          "@tier": "6"
+          "@tier": "6",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "UND_T7_ROAD_SOLO",
@@ -977,7 +1221,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "1800",
-          "@tier": "7"
+          "@tier": "7",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "UND_T8_ROAD_SOLO",
@@ -985,7 +1230,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "1800",
-          "@tier": "8"
+          "@tier": "8",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "MOR_T4_ROAD_SOLO",
@@ -993,7 +1239,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "1800",
-          "@tier": "4"
+          "@tier": "4",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "MOR_T5_ROAD_SOLO",
@@ -1001,7 +1248,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "1800",
-          "@tier": "5"
+          "@tier": "5",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "MOR_T6_ROAD_SOLO",
@@ -1009,7 +1257,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "1800",
-          "@tier": "6"
+          "@tier": "6",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "MOR_T7_ROAD_SOLO",
@@ -1017,7 +1266,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "1800",
-          "@tier": "7"
+          "@tier": "7",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "MOR_T8_ROAD_SOLO",
@@ -1025,7 +1275,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "1800",
-          "@tier": "8"
+          "@tier": "8",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "HER_T4_ROAD_VETERAN",
@@ -1033,7 +1284,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "3600",
-          "@tier": "4"
+          "@tier": "4",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "HER_T5_ROAD_VETERAN",
@@ -1041,7 +1293,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "3600",
-          "@tier": "5"
+          "@tier": "5",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "HER_T6_ROAD_VETERAN",
@@ -1049,7 +1302,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "3600",
-          "@tier": "6"
+          "@tier": "6",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "HER_T7_ROAD_VETERAN",
@@ -1057,7 +1311,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "3600",
-          "@tier": "7"
+          "@tier": "7",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "HER_T8_ROAD_VETERAN",
@@ -1065,7 +1320,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "3600",
-          "@tier": "8"
+          "@tier": "8",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "KPR_T4_ROAD_VETERAN",
@@ -1073,7 +1329,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "3600",
-          "@tier": "4"
+          "@tier": "4",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "KPR_T5_ROAD_VETERAN",
@@ -1081,7 +1338,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "3600",
-          "@tier": "5"
+          "@tier": "5",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "KPR_T6_ROAD_VETERAN",
@@ -1089,7 +1347,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "3600",
-          "@tier": "6"
+          "@tier": "6",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "KPR_T7_ROAD_VETERAN",
@@ -1097,7 +1356,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "3600",
-          "@tier": "7"
+          "@tier": "7",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "KPR_T8_ROAD_VETERAN",
@@ -1105,7 +1365,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "3600",
-          "@tier": "8"
+          "@tier": "8",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "UND_T4_ROAD_VETERAN",
@@ -1113,7 +1374,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "3600",
-          "@tier": "4"
+          "@tier": "4",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "UND_T5_ROAD_VETERAN",
@@ -1121,7 +1383,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "3600",
-          "@tier": "5"
+          "@tier": "5",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "UND_T6_ROAD_VETERAN",
@@ -1129,7 +1392,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "3600",
-          "@tier": "6"
+          "@tier": "6",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "UND_T7_ROAD_VETERAN",
@@ -1137,7 +1401,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "3600",
-          "@tier": "7"
+          "@tier": "7",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "UND_T8_ROAD_VETERAN",
@@ -1145,7 +1410,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "3600",
-          "@tier": "8"
+          "@tier": "8",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "MOR_T4_ROAD_VETERAN",
@@ -1153,7 +1419,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "3600",
-          "@tier": "4"
+          "@tier": "4",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "MOR_T5_ROAD_VETERAN",
@@ -1161,7 +1428,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "3600",
-          "@tier": "5"
+          "@tier": "5",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "MOR_T6_ROAD_VETERAN",
@@ -1169,7 +1437,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "3600",
-          "@tier": "6"
+          "@tier": "6",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "MOR_T7_ROAD_VETERAN",
@@ -1177,7 +1446,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "3600",
-          "@tier": "7"
+          "@tier": "7",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "MOR_T8_ROAD_VETERAN",
@@ -1185,7 +1455,8 @@
           "@maxfillratio": "1",
           "@activationtime": "60",
           "@cooldown": "3600",
-          "@tier": "8"
+          "@tier": "8",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "AVA_T6_ROAD_ELITE",
@@ -1193,7 +1464,8 @@
           "@maxfillratio": "1",
           "@activationtime": "120",
           "@cooldown": "18000",
-          "@tier": "6"
+          "@tier": "6",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         },
         {
           "@name": "AVA_T8_ROAD_ELITE",
@@ -1201,7 +1473,8 @@
           "@maxfillratio": "1",
           "@activationtime": "120",
           "@cooldown": "18000",
-          "@tier": "8"
+          "@tier": "8",
+          "@randomlevelrerollref": "ROADS_FIXED_DUNGEONS"
         }
       ]
     },
@@ -1215,10 +1488,23 @@
               "ClusterTier": {
                 "@tier": "1",
                 "@maxfillratio": "0.5",
-                "RandomExit": {
-                  "@name": "CORRUPTED_SOLO",
-                  "@weight": "1"
-                }
+                "RandomExit": [
+                  {
+                    "@name": "MISTS_SOLO_YELLOW",
+                    "@weight": "1",
+                    "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_YELLOW_SOLO"
+                  },
+                  {
+                    "@name": "MISTS_SOLO_BLACK",
+                    "@weight": "1",
+                    "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_SOLO"
+                  },
+                  {
+                    "@name": "MISTS_DUO_BLACK",
+                    "@weight": "4",
+                    "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_DUO"
+                  }
+                ]
               }
             },
             {
@@ -1227,6 +1513,21 @@
                 "@tier": "1",
                 "@maxfillratio": "0.5",
                 "RandomExit": [
+                  {
+                    "@name": "MISTS_SOLO_YELLOW",
+                    "@weight": "1",
+                    "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_YELLOW_SOLO"
+                  },
+                  {
+                    "@name": "MISTS_SOLO_BLACK",
+                    "@weight": "1",
+                    "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_SOLO"
+                  },
+                  {
+                    "@name": "MISTS_DUO_BLACK",
+                    "@weight": "4",
+                    "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_DUO"
+                  },
                   {
                     "@name": "CORRUPTED_SOLO",
                     "@weight": "1"
@@ -1254,221 +1555,488 @@
         },
         {
           "@name": "Avalon",
-          "Subtype": {
-            "@name": "SOLO",
-            "ClusterTier": [
-              {
-                "@tier": "4",
-                "@maxfillratio": "0.8",
-                "RandomExit": [
-                  {
-                    "@name": "CORRUPTED_SOLO",
-                    "@weight": "10"
-                  },
-                  {
-                    "@name": "T4_PORTAL_SOLO",
-                    "@weight": "40"
-                  },
-                  {
-                    "@name": "T4_PORTAL_CONSUMABLE_SOLO",
-                    "@weight": "0"
-                  },
-                  {
-                    "@name": "HELLGATE_2V2_LETHAL",
-                    "@weight": "5"
-                  },
-                  {
-                    "@name": "HELLGATE_5V5_LETHAL",
-                    "@weight": "0"
-                  },
-                  {
-                    "@name": "HELLGATE_10V10_LETHAL",
-                    "@weight": "0"
-                  },
-                  {
-                    "@name": "HELLGATE_2V2_NON_LETHAL",
-                    "@weight": "0"
-                  },
-                  {
-                    "@name": "HELLGATE_5V5_NON_LETHAL",
-                    "@weight": "0"
-                  },
-                  {
-                    "@name": "HELLGATE_10V10_NON_LETHAL",
-                    "@weight": "0"
-                  }
-                ]
-              },
-              {
-                "@tier": "5",
-                "@maxfillratio": "0.8",
-                "RandomExit": [
-                  {
-                    "@name": "CORRUPTED_SOLO",
-                    "@weight": "10"
-                  },
-                  {
-                    "@name": "T5_PORTAL_SOLO",
-                    "@weight": "40"
-                  },
-                  {
-                    "@name": "T5_PORTAL_CONSUMABLE_SOLO",
-                    "@weight": "0"
-                  },
-                  {
-                    "@name": "HELLGATE_2V2_LETHAL",
-                    "@weight": "5"
-                  },
-                  {
-                    "@name": "HELLGATE_5V5_LETHAL",
-                    "@weight": "0"
-                  },
-                  {
-                    "@name": "HELLGATE_10V10_LETHAL",
-                    "@weight": "0"
-                  },
-                  {
-                    "@name": "HELLGATE_2V2_NON_LETHAL",
-                    "@weight": "0"
-                  },
-                  {
-                    "@name": "HELLGATE_5V5_NON_LETHAL",
-                    "@weight": "0"
-                  },
-                  {
-                    "@name": "HELLGATE_10V10_NON_LETHAL",
-                    "@weight": "0"
-                  }
-                ]
-              },
-              {
-                "@tier": "6",
-                "@maxfillratio": "0.8",
-                "RandomExit": [
-                  {
-                    "@name": "CORRUPTED_SOLO",
-                    "@weight": "10"
-                  },
-                  {
-                    "@name": "T6_PORTAL_SOLO",
-                    "@weight": "40"
-                  },
-                  {
-                    "@name": "T6_PORTAL_CONSUMABLE_SOLO",
-                    "@weight": "0"
-                  },
-                  {
-                    "@name": "HELLGATE_2V2_LETHAL",
-                    "@weight": "5"
-                  },
-                  {
-                    "@name": "HELLGATE_5V5_LETHAL",
-                    "@weight": "0"
-                  },
-                  {
-                    "@name": "HELLGATE_10V10_LETHAL",
-                    "@weight": "0"
-                  },
-                  {
-                    "@name": "HELLGATE_2V2_NON_LETHAL",
-                    "@weight": "0"
-                  },
-                  {
-                    "@name": "HELLGATE_5V5_NON_LETHAL",
-                    "@weight": "0"
-                  },
-                  {
-                    "@name": "HELLGATE_10V10_NON_LETHAL",
-                    "@weight": "0"
-                  }
-                ]
-              },
-              {
-                "@tier": "7",
-                "@maxfillratio": "0.8",
-                "RandomExit": [
-                  {
-                    "@name": "CORRUPTED_SOLO",
-                    "@weight": "10"
-                  },
-                  {
-                    "@name": "T7_PORTAL_SOLO",
-                    "@weight": "40"
-                  },
-                  {
-                    "@name": "T7_PORTAL_CONSUMABLE_SOLO",
-                    "@weight": "0"
-                  },
-                  {
-                    "@name": "HELLGATE_2V2_LETHAL",
-                    "@weight": "5"
-                  },
-                  {
-                    "@name": "HELLGATE_5V5_LETHAL",
-                    "@weight": "0"
-                  },
-                  {
-                    "@name": "HELLGATE_10V10_LETHAL",
-                    "@weight": "0"
-                  },
-                  {
-                    "@name": "HELLGATE_2V2_NON_LETHAL",
-                    "@weight": "0"
-                  },
-                  {
-                    "@name": "HELLGATE_5V5_NON_LETHAL",
-                    "@weight": "0"
-                  },
-                  {
-                    "@name": "HELLGATE_10V10_NON_LETHAL",
-                    "@weight": "0"
-                  }
-                ]
-              },
-              {
-                "@tier": "8",
-                "@maxfillratio": "0.8",
-                "RandomExit": [
-                  {
-                    "@name": "CORRUPTED_SOLO",
-                    "@weight": "10"
-                  },
-                  {
-                    "@name": "T8_PORTAL_SOLO",
-                    "@weight": "40"
-                  },
-                  {
-                    "@name": "T8_PORTAL_CONSUMABLE_SOLO",
-                    "@weight": "0"
-                  },
-                  {
-                    "@name": "HELLGATE_2V2_LETHAL",
-                    "@weight": "5"
-                  },
-                  {
-                    "@name": "HELLGATE_5V5_LETHAL",
-                    "@weight": "0"
-                  },
-                  {
-                    "@name": "HELLGATE_10V10_LETHAL",
-                    "@weight": "0"
-                  },
-                  {
-                    "@name": "HELLGATE_2V2_NON_LETHAL",
-                    "@weight": "0"
-                  },
-                  {
-                    "@name": "HELLGATE_5V5_NON_LETHAL",
-                    "@weight": "0"
-                  },
-                  {
-                    "@name": "HELLGATE_10V10_NON_LETHAL",
-                    "@weight": "0"
-                  }
-                ]
-              }
-            ]
-          }
+          "Subtype": [
+            {
+              "@name": "SOLO",
+              "ClusterTier": [
+                {
+                  "@tier": "4",
+                  "@maxfillratio": "0.8",
+                  "RandomExit": [
+                    {
+                      "@name": "MISTS_SOLO_BLACK",
+                      "@weight": "3",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_SOLO"
+                    },
+                    {
+                      "@name": "MISTS_DUO_BLACK",
+                      "@weight": "3",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_DUO"
+                    },
+                    {
+                      "@name": "CORRUPTED_SOLO",
+                      "@weight": "10"
+                    },
+                    {
+                      "@name": "T4_PORTAL_SOLO",
+                      "@weight": "40"
+                    },
+                    {
+                      "@name": "T4_PORTAL_CONSUMABLE_SOLO",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_2V2_LETHAL",
+                      "@weight": "5"
+                    },
+                    {
+                      "@name": "HELLGATE_5V5_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_10V10_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_2V2_NON_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_5V5_NON_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_10V10_NON_LETHAL",
+                      "@weight": "0"
+                    }
+                  ]
+                },
+                {
+                  "@tier": "5",
+                  "@maxfillratio": "0.8",
+                  "RandomExit": [
+                    {
+                      "@name": "MISTS_SOLO_BLACK",
+                      "@weight": "3",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_SOLO"
+                    },
+                    {
+                      "@name": "MISTS_DUO_BLACK",
+                      "@weight": "3",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_DUO"
+                    },
+                    {
+                      "@name": "CORRUPTED_SOLO",
+                      "@weight": "10"
+                    },
+                    {
+                      "@name": "T5_PORTAL_SOLO",
+                      "@weight": "40"
+                    },
+                    {
+                      "@name": "T5_PORTAL_CONSUMABLE_SOLO",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_2V2_LETHAL",
+                      "@weight": "5"
+                    },
+                    {
+                      "@name": "HELLGATE_5V5_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_10V10_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_2V2_NON_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_5V5_NON_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_10V10_NON_LETHAL",
+                      "@weight": "0"
+                    }
+                  ]
+                },
+                {
+                  "@tier": "6",
+                  "@maxfillratio": "0.8",
+                  "RandomExit": [
+                    {
+                      "@name": "MISTS_SOLO_BLACK",
+                      "@weight": "3",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_SOLO"
+                    },
+                    {
+                      "@name": "MISTS_DUO_BLACK",
+                      "@weight": "3",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_DUO"
+                    },
+                    {
+                      "@name": "CORRUPTED_SOLO",
+                      "@weight": "10"
+                    },
+                    {
+                      "@name": "T6_PORTAL_SOLO",
+                      "@weight": "40"
+                    },
+                    {
+                      "@name": "T6_PORTAL_CONSUMABLE_SOLO",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_2V2_LETHAL",
+                      "@weight": "5"
+                    },
+                    {
+                      "@name": "HELLGATE_5V5_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_10V10_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_2V2_NON_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_5V5_NON_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_10V10_NON_LETHAL",
+                      "@weight": "0"
+                    }
+                  ]
+                },
+                {
+                  "@tier": "7",
+                  "@maxfillratio": "0.8",
+                  "RandomExit": [
+                    {
+                      "@name": "MISTS_SOLO_BLACK",
+                      "@weight": "3",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_SOLO"
+                    },
+                    {
+                      "@name": "MISTS_DUO_BLACK",
+                      "@weight": "3",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_DUO"
+                    },
+                    {
+                      "@name": "CORRUPTED_SOLO",
+                      "@weight": "10"
+                    },
+                    {
+                      "@name": "T7_PORTAL_SOLO",
+                      "@weight": "40"
+                    },
+                    {
+                      "@name": "T7_PORTAL_CONSUMABLE_SOLO",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_2V2_LETHAL",
+                      "@weight": "5"
+                    },
+                    {
+                      "@name": "HELLGATE_5V5_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_10V10_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_2V2_NON_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_5V5_NON_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_10V10_NON_LETHAL",
+                      "@weight": "0"
+                    }
+                  ]
+                },
+                {
+                  "@tier": "8",
+                  "@maxfillratio": "0.8",
+                  "RandomExit": [
+                    {
+                      "@name": "MISTS_SOLO_BLACK",
+                      "@weight": "3",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_SOLO"
+                    },
+                    {
+                      "@name": "MISTS_DUO_BLACK",
+                      "@weight": "3",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_DUO"
+                    },
+                    {
+                      "@name": "CORRUPTED_SOLO",
+                      "@weight": "10"
+                    },
+                    {
+                      "@name": "T8_PORTAL_SOLO",
+                      "@weight": "40"
+                    },
+                    {
+                      "@name": "T8_PORTAL_CONSUMABLE_SOLO",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_2V2_LETHAL",
+                      "@weight": "5"
+                    },
+                    {
+                      "@name": "HELLGATE_5V5_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_10V10_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_2V2_NON_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_5V5_NON_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_10V10_NON_LETHAL",
+                      "@weight": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "@name": "VETERAN",
+              "ClusterTier": [
+                {
+                  "@tier": "4",
+                  "@maxfillratio": "0",
+                  "RandomExit": [
+                    {
+                      "@name": "T4_PORTAL_CONSUMABLE",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "T5_PORTAL_CONSUMABLE",
+                      "@weight": "0"
+                    }
+                  ]
+                },
+                {
+                  "@tier": "5",
+                  "@maxfillratio": "0",
+                  "RandomExit": [
+                    {
+                      "@name": "T4_PORTAL_CONSUMABLE",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "T5_PORTAL_CONSUMABLE",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "T6_PORTAL_CONSUMABLE",
+                      "@weight": "0"
+                    }
+                  ]
+                },
+                {
+                  "@tier": "6",
+                  "@maxfillratio": "0",
+                  "RandomExit": [
+                    {
+                      "@name": "T5_PORTAL_CONSUMABLE",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "T6_PORTAL_CONSUMABLE",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "T7_PORTAL_CONSUMABLE",
+                      "@weight": "0"
+                    }
+                  ]
+                },
+                {
+                  "@tier": "7",
+                  "@maxfillratio": "0",
+                  "RandomExit": [
+                    {
+                      "@name": "T6_PORTAL_CONSUMABLE",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "T7_PORTAL_CONSUMABLE",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "T8_PORTAL_CONSUMABLE",
+                      "@weight": "0"
+                    }
+                  ]
+                },
+                {
+                  "@tier": "8",
+                  "@maxfillratio": "0",
+                  "RandomExit": [
+                    {
+                      "@name": "T7_PORTAL_CONSUMABLE",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "T8_PORTAL_CONSUMABLE",
+                      "@weight": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@name": "Mists",
+          "Subtype": [
+            {
+              "@name": "SOLO",
+              "ClusterTier": [
+                {
+                  "@tier": "5",
+                  "@maxfillratio": "0.75",
+                  "RandomExit": [
+                    {
+                      "@name": "MISTS_SOLO_YELLOW",
+                      "@weight": "20",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_YELLOW_SOLO"
+                    },
+                    {
+                      "@name": "CORRUPTED_SOLO",
+                      "@weight": "40"
+                    },
+                    {
+                      "@name": "T5_PORTAL_ROYAL_SOLO",
+                      "@weight": "40",
+                      "@randomlevelrerollref": "SOLO_ROYAL"
+                    },
+                    {
+                      "@name": "T5_PORTAL_CONSUMABLE_SOLO",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "T5_PORTAL_ROYAL_CONSUMABLE_SOLO",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_2V2_NON_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_5V5_NON_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_10V10_NON_LETHAL",
+                      "@weight": "0"
+                    }
+                  ]
+                },
+                {
+                  "@tier": "6",
+                  "@maxfillratio": "0.75",
+                  "RandomExit": [
+                    {
+                      "@name": "MISTS_SOLO_BLACK",
+                      "@weight": "20",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_SOLO"
+                    },
+                    {
+                      "@name": "MISTS_DUO_BLACK",
+                      "@weight": "9",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_DUO"
+                    },
+                    {
+                      "@name": "CORRUPTED_SOLO",
+                      "@weight": "40"
+                    },
+                    {
+                      "@name": "T6_PORTAL_SOLO",
+                      "@weight": "40",
+                      "@randomlevelrerollref": "SOLO_ROYAL"
+                    },
+                    {
+                      "@name": "T6_PORTAL_CONSUMABLE_SOLO",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "T7_PORTAL_CONSUMABLE_SOLO",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_2V2_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_5V5_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_10V10_LETHAL",
+                      "@weight": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "@name": "VETERAN",
+              "ClusterTier": [
+                {
+                  "@tier": "5",
+                  "@maxfillratio": "0.0",
+                  "RandomExit": [
+                    {
+                      "@name": "T4_PORTAL_CONSUMABLE",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "T5_PORTAL_CONSUMABLE",
+                      "@weight": "0"
+                    }
+                  ]
+                },
+                {
+                  "@tier": "6",
+                  "@maxfillratio": "0.0",
+                  "RandomExit": [
+                    {
+                      "@name": "T6_PORTAL_CONSUMABLE",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "T7_PORTAL_CONSUMABLE",
+                      "@weight": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
           "@name": "Royal",
@@ -1532,6 +2100,11 @@
                   "@maxfillratio": "0.84",
                   "RandomExit": [
                     {
+                      "@name": "MISTS_SOLO_YELLOW",
+                      "@weight": "20",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_YELLOW_SOLO"
+                    },
+                    {
                       "@name": "CORRUPTED_SOLO",
                       "@weight": "40"
                     },
@@ -1566,6 +2139,16 @@
                   "@tier": "6",
                   "@maxfillratio": "0.78",
                   "RandomExit": [
+                    {
+                      "@name": "MISTS_SOLO_BLACK",
+                      "@weight": "20",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_SOLO"
+                    },
+                    {
+                      "@name": "MISTS_DUO_BLACK",
+                      "@weight": "9",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_DUO"
+                    },
                     {
                       "@name": "CORRUPTED_SOLO",
                       "@weight": "40"
@@ -1602,6 +2185,16 @@
                   "@maxfillratio": "0.72",
                   "RandomExit": [
                     {
+                      "@name": "MISTS_SOLO_BLACK",
+                      "@weight": "20",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_SOLO"
+                    },
+                    {
+                      "@name": "MISTS_DUO_BLACK",
+                      "@weight": "9",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_DUO"
+                    },
+                    {
                       "@name": "CORRUPTED_SOLO",
                       "@weight": "40"
                     },
@@ -1632,6 +2225,16 @@
                   "@tier": "8",
                   "@maxfillratio": "0.33",
                   "RandomExit": [
+                    {
+                      "@name": "MISTS_SOLO_BLACK",
+                      "@weight": "20",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_SOLO"
+                    },
+                    {
+                      "@name": "MISTS_DUO_BLACK",
+                      "@weight": "9",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_DUO"
+                    },
                     {
                       "@name": "CORRUPTED_SOLO",
                       "@weight": "40"
@@ -1958,6 +2561,16 @@
                   "@maxfillratio": "0.84",
                   "RandomExit": [
                     {
+                      "@name": "MISTS_SOLO_BLACK",
+                      "@weight": "20",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_SOLO"
+                    },
+                    {
+                      "@name": "MISTS_DUO_BLACK",
+                      "@weight": "9",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_DUO"
+                    },
+                    {
                       "@name": "CORRUPTED_SOLO",
                       "@weight": "40"
                     },
@@ -2013,6 +2626,16 @@
                   "@maxfillratio": "0.78",
                   "RandomExit": [
                     {
+                      "@name": "MISTS_SOLO_BLACK",
+                      "@weight": "20",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_SOLO"
+                    },
+                    {
+                      "@name": "MISTS_DUO_BLACK",
+                      "@weight": "9",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_DUO"
+                    },
+                    {
                       "@name": "CORRUPTED_SOLO",
                       "@weight": "40"
                     },
@@ -2064,6 +2687,16 @@
                   "@maxfillratio": "0.72",
                   "RandomExit": [
                     {
+                      "@name": "MISTS_SOLO_BLACK",
+                      "@weight": "20",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_SOLO"
+                    },
+                    {
+                      "@name": "MISTS_DUO_BLACK",
+                      "@weight": "9",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_DUO"
+                    },
+                    {
                       "@name": "CORRUPTED_SOLO",
                       "@weight": "40"
                     },
@@ -2110,6 +2743,16 @@
                   "@tier": "8",
                   "@maxfillratio": "0.66",
                   "RandomExit": [
+                    {
+                      "@name": "MISTS_SOLO_BLACK",
+                      "@weight": "20",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_SOLO"
+                    },
+                    {
+                      "@name": "MISTS_DUO_BLACK",
+                      "@weight": "9",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_DUO"
+                    },
                     {
                       "@name": "CORRUPTED_SOLO",
                       "@weight": "40"
@@ -2638,6 +3281,33 @@
           }
         },
         {
+          "@name": "MISTS_SOLO_YELLOW",
+          "fallback": {
+            "prefab": {
+              "@weight": "1",
+              "@name": "SHARED_MIST_WISP_PORTAL_MOB"
+            }
+          }
+        },
+        {
+          "@name": "MISTS_SOLO_BLACK",
+          "fallback": {
+            "prefab": {
+              "@weight": "1",
+              "@name": "SHARED_MIST_WISP_PORTAL_MOB"
+            }
+          }
+        },
+        {
+          "@name": "MISTS_DUO_BLACK",
+          "fallback": {
+            "prefab": {
+              "@weight": "1",
+              "@name": "SHARED_MIST_WISP_PORTAL_MOB"
+            }
+          }
+        },
+        {
           "@name": "CORRUPTED_SOLO",
           "fallback": {
             "prefab": {
@@ -2944,6 +3614,78 @@
                   }
                 ]
               }
+            },
+            {
+              "@name": "Mists",
+              "fallback": {
+                "prefab": [
+                  {
+                    "@weight": "1",
+                    "@name": "ROADS_RANDOM_EXIT_10x10_PORTAL_SOLO_A_CORRUPT"
+                  },
+                  {
+                    "@weight": "1",
+                    "@name": "ROADS_RANDOM_EXIT_10x10_PORTAL_SOLO_B_CORRUPT"
+                  },
+                  {
+                    "@weight": "1",
+                    "@name": "ROADS_RANDOM_EXIT_10x10_PORTAL_SOLO_C_CORRUPT"
+                  }
+                ]
+              },
+              "subbiome": [
+                {
+                  "@name": "Green",
+                  "prefab": [
+                    {
+                      "@weight": "1",
+                      "@name": "MISTS_GREEN_RANDOM_EXIT_10x10_PORTAL_SOLO_A_CORRUPT"
+                    },
+                    {
+                      "@weight": "1",
+                      "@name": "MISTS_GREEN_RANDOM_EXIT_10x10_PORTAL_SOLO_B_CORRUPT"
+                    },
+                    {
+                      "@weight": "1",
+                      "@name": "MISTS_GREEN_RANDOM_EXIT_10x10_PORTAL_SOLO_C_CORRUPT"
+                    }
+                  ]
+                },
+                {
+                  "@name": "Red",
+                  "prefab": [
+                    {
+                      "@weight": "1",
+                      "@name": "MISTS_RED_RANDOM_EXIT_10x10_PORTAL_SOLO_A_CORRUPT"
+                    },
+                    {
+                      "@weight": "1",
+                      "@name": "MISTS_RED_RANDOM_EXIT_10x10_PORTAL_SOLO_B_CORRUPT"
+                    },
+                    {
+                      "@weight": "1",
+                      "@name": "MISTS_RED_RANDOM_EXIT_10x10_PORTAL_SOLO_C_CORRUPT"
+                    }
+                  ]
+                },
+                {
+                  "@name": "Dead",
+                  "prefab": [
+                    {
+                      "@weight": "1",
+                      "@name": "MISTS_DEAD_RANDOM_EXIT_10x10_PORTAL_SOLO_A_CORRUPT"
+                    },
+                    {
+                      "@weight": "1",
+                      "@name": "MISTS_DEAD_RANDOM_EXIT_10x10_PORTAL_SOLO_B_CORRUPT"
+                    },
+                    {
+                      "@weight": "1",
+                      "@name": "MISTS_DEAD_RANDOM_EXIT_10x10_PORTAL_SOLO_C_CORRUPT"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -3790,6 +4532,78 @@
                   }
                 ]
               }
+            },
+            {
+              "@name": "Mists",
+              "fallback": {
+                "prefab": [
+                  {
+                    "@weight": "1",
+                    "@name": "ROADS_RANDOM_EXIT_10x10_PORTAL_SOLO_A"
+                  },
+                  {
+                    "@weight": "1",
+                    "@name": "ROADS_RANDOM_EXIT_10x10_PORTAL_SOLO_B"
+                  },
+                  {
+                    "@weight": "1",
+                    "@name": "ROADS_RANDOM_EXIT_10x10_PORTAL_SOLO_C"
+                  }
+                ]
+              },
+              "subbiome": [
+                {
+                  "@name": "Green",
+                  "prefab": [
+                    {
+                      "@weight": "1",
+                      "@name": "MISTS_GREEN_RANDOM_EXIT_10x10_PORTAL_SOLO_A"
+                    },
+                    {
+                      "@weight": "1",
+                      "@name": "MISTS_GREEN_RANDOM_EXIT_10x10_PORTAL_SOLO_B"
+                    },
+                    {
+                      "@weight": "1",
+                      "@name": "MISTS_GREEN_RANDOM_EXIT_10x10_PORTAL_SOLO_C"
+                    }
+                  ]
+                },
+                {
+                  "@name": "Red",
+                  "prefab": [
+                    {
+                      "@weight": "1",
+                      "@name": "MISTS_RED_RANDOM_EXIT_10x10_PORTAL_SOLO_A"
+                    },
+                    {
+                      "@weight": "1",
+                      "@name": "MISTS_RED_RANDOM_EXIT_10x10_PORTAL_SOLO_B"
+                    },
+                    {
+                      "@weight": "1",
+                      "@name": "MISTS_RED_RANDOM_EXIT_10x10_PORTAL_SOLO_C"
+                    }
+                  ]
+                },
+                {
+                  "@name": "Dead",
+                  "prefab": [
+                    {
+                      "@weight": "1",
+                      "@name": "MISTS_DEAD_RANDOM_EXIT_10x10_PORTAL_SOLO_A"
+                    },
+                    {
+                      "@weight": "1",
+                      "@name": "MISTS_DEAD_RANDOM_EXIT_10x10_PORTAL_SOLO_B"
+                    },
+                    {
+                      "@weight": "1",
+                      "@name": "MISTS_DEAD_RANDOM_EXIT_10x10_PORTAL_SOLO_C"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -4469,6 +5283,29 @@
                   "@name": "ROADS_RANDOM_EXIT_10x10_PORTAL"
                 }
               }
+            },
+            {
+              "@name": "Mists",
+              "subbiome": [
+                {
+                  "@name": "Green",
+                  "prefab": {
+                    "@name": "MISTS_GREEN_RANDOM_EXIT_10x10_PORTAL"
+                  }
+                },
+                {
+                  "@name": "Red",
+                  "prefab": {
+                    "@name": "MISTS_RED_RANDOM_EXIT_10x10_PORTAL"
+                  }
+                },
+                {
+                  "@name": "Dead",
+                  "prefab": {
+                    "@name": "MISTS_DEAD_RANDOM_EXIT_10x10_PORTAL"
+                  }
+                }
+              ]
             }
           ]
         },
@@ -4727,6 +5564,48 @@
           },
           "Visualization": {
             "@ref": "CORRUPTED_SOLO"
+          }
+        },
+        {
+          "@name": "MISTS_SOLO_YELLOW",
+          "@cooldown": "60",
+          "@activationtime": "0",
+          "@lifetimeafterlastuse": "5",
+          "RandomDungeonGenerators": {
+            "MistsGenerator": {
+              "@mistsmode": "MISTS_SOLO_YELLOW"
+            }
+          },
+          "Visualization": {
+            "@ref": "MISTS_SOLO_YELLOW"
+          }
+        },
+        {
+          "@name": "MISTS_SOLO_BLACK",
+          "@cooldown": "60",
+          "@activationtime": "0",
+          "@lifetimeafterlastuse": "5",
+          "RandomDungeonGenerators": {
+            "MistsGenerator": {
+              "@mistsmode": "MISTS_SOLO_BLACK"
+            }
+          },
+          "Visualization": {
+            "@ref": "MISTS_SOLO_BLACK"
+          }
+        },
+        {
+          "@name": "MISTS_DUO_BLACK",
+          "@cooldown": "60",
+          "@activationtime": "0",
+          "@lifetimeafterlastuse": "5",
+          "RandomDungeonGenerators": {
+            "MistsGenerator": {
+              "@mistsmode": "MISTS_DUO_BLACK"
+            }
+          },
+          "Visualization": {
+            "@ref": "MISTS_DUO_BLACK"
           }
         },
         {

@@ -1171,7 +1171,6 @@
         "@priority": "0",
         "@title": "@EVENT_BASED_POPUPS_TITLE_TWITCH_DROPS",
         "@description": "@EVENT_BASED_POPUPS_DESCRIPTION_TWITCH_DROPS",
-        "@cheststitle": "@EVENT_BASED_POPUPS_CHESTS_TITLE_TWITCH_DROPS",
         "@rewardstitle": "@EVENT_BASED_POPUPS_REWARDS_TITLE_TWITCH_DROPS",
         "@buttontext": "@EVENT_BASED_POPUPS_BUTTON_TWITCH_DROPS",
         "@imagepath": "Gui/EventBasedPopups/EVENT_POPUP_TWITCH_DROPS",
@@ -1201,22 +1200,6 @@
               "@amount": "0"
             }
           }
-        },
-        "lootchests": {
-          "item": [
-            {
-              "@itemid": "UNIQUE_LOOTCHEST_COMMUNITY_COMMON"
-            },
-            {
-              "@itemid": "UNIQUE_LOOTCHEST_COMMUNITY_RARE"
-            },
-            {
-              "@itemid": "UNIQUE_LOOTCHEST_COMMUNITY_EPIC"
-            },
-            {
-              "@itemid": "UNIQUE_LOOTCHEST_COMMUNITY_LEGENDARY"
-            }
-          ]
         },
         "possibledrops": {
           "item": [

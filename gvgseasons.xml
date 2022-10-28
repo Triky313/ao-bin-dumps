@@ -19,6 +19,7 @@
       <hq level="3" pointsthreshold="60000" quality="3" tier="7"/>
       <hq level="2" pointsthreshold="40000" quality="2" tier="6"/>
       <hq level="1" pointsthreshold="25000" quality="1" tier="6"/>
+      <hqroad pointsthreshold="1000"/>
     </hideouthqrequirements>
     <guildchallenge>
       <guildchallengelevel level="1"   challengepoints="0"          seasonpoints="0"/>      
@@ -279,6 +280,7 @@
       <hq level="3" pointsthreshold="60000" quality="3" tier="7"/>
       <hq level="2" pointsthreshold="40000" quality="2" tier="6"/>
       <hq level="1" pointsthreshold="25000" quality="1" tier="6"/>
+      <hqroad pointsthreshold="1000"/>
     </hideouthqrequirements>
     <guildchallenge>
       <guildchallengelevel level="1" challengepoints="100000" seasonpoints="300"/>
@@ -466,6 +468,7 @@
       <hq level="3" pointsthreshold="60000" quality="3" tier="7"/>
       <hq level="2" pointsthreshold="40000" quality="2" tier="6"/>
       <hq level="1" pointsthreshold="25000" quality="1" tier="6"/>
+      <hqroad pointsthreshold="1000"/>
     </hideouthqrequirements>
     <guildchallenge>
       <guildchallengelevel level="1" challengepoints="100000" seasonpoints="300"/>
@@ -715,6 +718,7 @@
       <hq level="3" pointsthreshold="60000" quality="3" tier="7"/>
       <hq level="2" pointsthreshold="40000" quality="2" tier="6"/>
       <hq level="1" pointsthreshold="25000" quality="1" tier="6"/>
+      <hqroad pointsthreshold="1000"/>
     </hideouthqrequirements>
     <guildchallenge>
       <guildchallengelevel level="1" challengepoints="100000" seasonpoints="300"/>
@@ -963,6 +967,7 @@
       <hq level="3" pointsthreshold="60000" quality="3" tier="7"/>
       <hq level="2" pointsthreshold="40000" quality="2" tier="6"/>
       <hq level="1" pointsthreshold="25000" quality="1" tier="6"/>
+      <hqroad pointsthreshold="1000"/>
     </hideouthqrequirements>
     <guildchallenge>
       <guildchallengelevel level="1" challengepoints="100000" seasonpoints="300"/>
@@ -1211,6 +1216,7 @@
       <hq level="3" pointsthreshold="60000" quality="3" tier="7"/>
       <hq level="2" pointsthreshold="40000" quality="2" tier="6"/>
       <hq level="1" pointsthreshold="25000" quality="1" tier="6"/>
+      <hqroad pointsthreshold="1000"/>
     </hideouthqrequirements>
     <guildchallenge>
       <guildchallengelevel level="1"   challengepoints="0"        seasonpoints="0"/>
@@ -1526,6 +1532,7 @@
       <hq level="3" pointsthreshold="60000" quality="3" tier="7"/>
       <hq level="2" pointsthreshold="40000" quality="2" tier="6"/>
       <hq level="1" pointsthreshold="25000" quality="1" tier="6"/>
+      <hqroad pointsthreshold="1000"/>
     </hideouthqrequirements>
     <guildchallenge>
       <guildchallengelevel level="1"   challengepoints="0"          seasonpoints="0"/>      
@@ -1838,6 +1845,7 @@
       <hq level="3" pointsthreshold="60000" quality="3" tier="7"/>
       <hq level="2" pointsthreshold="40000" quality="2" tier="6"/>
       <hq level="1" pointsthreshold="25000" quality="1" tier="6"/>
+      <hqroad pointsthreshold="1000"/>
     </hideouthqrequirements> 
     <guildchallenge>
       <guildchallengelevel level="1"   challengepoints="0"          seasonpoints="0"/>
@@ -2403,6 +2411,7 @@
       <hq level="3" pointsthreshold="60000" quality="3" tier="7"/>
       <hq level="2" pointsthreshold="40000" quality="2" tier="6"/>
       <hq level="1" pointsthreshold="25000" quality="1" tier="6"/>
+      <hqroad pointsthreshold="1000"/>
     </hideouthqrequirements>
     <guildchallenge>
       <guildchallengelevel level="1"   challengepoints="0"          seasonpoints="0"/>
@@ -2758,6 +2767,7 @@
       <hq level="3" pointsthreshold="60000" quality="3" tier="7"/>
       <hq level="2" pointsthreshold="40000" quality="2" tier="6"/>
       <hq level="1" pointsthreshold="25000" quality="1" tier="6"/>
+      <hqroad pointsthreshold="1000"/>
     </hideouthqrequirements>
     <guildchallenge>
       <guildchallengelevel level="1"   challengepoints="0"          seasonpoints="0"/>
@@ -3108,6 +3118,7 @@
       <hq level="3" pointsthreshold="60000" quality="3" tier="7"/>
       <hq level="2" pointsthreshold="40000" quality="2" tier="6"/>
       <hq level="1" pointsthreshold="25000" quality="1" tier="6"/>
+      <hqroad pointsthreshold="1000"/>
     </hideouthqrequirements>
     <guildchallenge>
       <guildchallengelevel level="1"   challengepoints="0"          seasonpoints="0"/>
@@ -3457,6 +3468,7 @@
       <hq level="3" pointsthreshold="60000" quality="3" tier="7"/>
       <hq level="2" pointsthreshold="40000" quality="2" tier="6"/>
       <hq level="1" pointsthreshold="25000" quality="1" tier="6"/>
+      <hqroad pointsthreshold="1000"/>
     </hideouthqrequirements>
     <guildchallenge>
       <guildchallengelevel level="1"   challengepoints="0"          seasonpoints="0"/>
@@ -3806,6 +3818,7 @@
       <hq level="3" pointsthreshold="60000" quality="3" tier="7"/>
       <hq level="2" pointsthreshold="40000" quality="2" tier="6"/>
       <hq level="1" pointsthreshold="25000" quality="1" tier="6"/>
+      <hqroad pointsthreshold="1000"/>
     </hideouthqrequirements>
     <guildchallenge>
       <guildchallengelevel level="1"   challengepoints="0"          seasonpoints="0"/>
@@ -4155,6 +4168,7 @@
       <hq level="3" pointsthreshold="40000" quality="3" tier="7"/>
       <hq level="2" pointsthreshold="20000" quality="3" tier="6"/>
       <hq level="1" pointsthreshold="10000" quality="1" tier="6"/>
+      <hqroad pointsthreshold="1000"/>
     </hideouthqrequirements>
     <guildchallenge>
       <guildchallengelevel level="1"   challengepoints="0"          seasonpoints="0"/>
@@ -4505,6 +4519,7 @@
       <hq level="3" pointsthreshold="40000" quality="3" tier="7"/>
       <hq level="2" pointsthreshold="20000" quality="3" tier="6"/>
       <hq level="1" pointsthreshold="10000" quality="1" tier="6"/>
+      <hqroad pointsthreshold="1000"/>
     </hideouthqrequirements>
     <guildchallenge>
       <guildchallengelevel level="1"   challengepoints="0"          seasonpoints="0"/>
@@ -4836,6 +4851,7 @@
       <hq level="3" pointsthreshold="40000" quality="3" tier="7"/>
       <hq level="2" pointsthreshold="20000" quality="3" tier="6"/>
       <hq level="1" pointsthreshold="10000" quality="1" tier="6"/>
+      <hqroad pointsthreshold="1000"/>
     </hideouthqrequirements>
     <guildchallenge>
       <guildchallengelevel level="1"   challengepoints="0"          seasonpoints="0"/>
@@ -5161,6 +5177,7 @@
       <hq level="3" pointsthreshold="40000" quality="3" tier="7"/>
       <hq level="2" pointsthreshold="20000" quality="3" tier="6"/>
       <hq level="1" pointsthreshold="10000" quality="1" tier="6"/>
+      <hqroad pointsthreshold="1000"/>
     </hideouthqrequirements>
     <guildchallenge>
       <guildchallengelevel level="1"   challengepoints="0"          seasonpoints="0"/>
@@ -5486,6 +5503,7 @@
       <hq level="3" pointsthreshold="40000" quality="3" tier="7"/>
       <hq level="2" pointsthreshold="20000" quality="3" tier="6"/>
       <hq level="1" pointsthreshold="10000" quality="1" tier="6"/>
+      <hqroad pointsthreshold="1000"/>
     </hideouthqrequirements>
     <guildchallenge>
       <guildchallengelevel level="1"   challengepoints="0"          seasonpoints="0"/>
@@ -5731,7 +5749,7 @@
     </seasontimes>
   </season>
 
-  <season uniquename="GVG_SEASON_17" displayname="@SEASONS_SEASONNAME_SEASON_17" startdatetime="2022-09-17T11:00:00Z" enddatetime="2022-12-05T10:59:00Z">
+  <season uniquename="GVG_SEASON_17" displayname="@SEASONS_SEASONNAME_SEASON_17" startdatetime="2022-09-10T11:00:00Z" enddatetime="2022-12-05T10:59:00Z">
 
     <guildmemberrewards minimumparticipationpercentage="75" >
       <guildmemberreward rank="1">
@@ -5793,6 +5811,7 @@
       <hq level="3" pointsthreshold="40000" quality="3" tier="7"/>
       <hq level="2" pointsthreshold="20000" quality="3" tier="6"/>
       <hq level="1" pointsthreshold="10000" quality="1" tier="6"/>
+      <hqroad pointsthreshold="1000"/>
     </hideouthqrequirements>
     <guildchallenge>
       <guildchallengelevel level="1"   challengepoints="0"          seasonpoints="0"/>
@@ -6100,6 +6119,7 @@
       <hq level="3" pointsthreshold="40000" quality="3" tier="7"/>
       <hq level="2" pointsthreshold="20000" quality="3" tier="6"/>
       <hq level="1" pointsthreshold="10000" quality="1" tier="6"/>
+      <hqroad pointsthreshold="1000"/>
     </hideouthqrequirements>
     <guildchallenge>
       <guildchallengelevel level="1"   challengepoints="0"          seasonpoints="0"/>

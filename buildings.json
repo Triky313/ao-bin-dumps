@@ -16,6 +16,31 @@
       "@unlocked": "true",
       "@hideonclustermap": "true",
       "@useautodemolish": "true",
+      "craftingrequirements": {
+        "@silver": "7000000",
+        "craftresource": [
+          {
+            "@uniquename": "T2_STONEBLOCK",
+            "@count": "3000"
+          },
+          {
+            "@uniquename": "T3_STONEBLOCK",
+            "@count": "2000"
+          },
+          {
+            "@uniquename": "T4_STONEBLOCK",
+            "@count": "800"
+          },
+          {
+            "@uniquename": "T5_STONEBLOCK",
+            "@count": "400"
+          },
+          {
+            "@uniquename": "T6_STONEBLOCK",
+            "@count": "200"
+          }
+        ]
+      },
       "AudioInfo": {
         "@name": "HIDEOUT_PLACEABLE_ITEM"
       },
@@ -226,6 +251,10 @@
         "@uniquename": "SWAMP_GREEN_T8_MELDBUILDING_PORTAL"
       },
       {
+        "@template": "T8_MELDBUILDING",
+        "@uniquename": "MIST_GREEN_T8_MELDBUILDING"
+      },
+      {
         "@template": "T1_BANK",
         "@uniquename": "SWAMP_GREEN_T1_BANK"
       },
@@ -284,6 +313,10 @@
       {
         "@template": "T1_BANK",
         "@uniquename": "SWAMP_GREEN_T1_BANK_PORTAL"
+      },
+      {
+        "@template": "T1_BANK",
+        "@uniquename": "MISTS_GREEN_T1_BANK"
       },
       {
         "@template": "T1_BANK_OUTLAND",
@@ -426,6 +459,10 @@
         "@uniquename": "SWAMP_GREEN_MARKETPLACE_PORTAL"
       },
       {
+        "@template": "MARKETPLACE_SMALL",
+        "@uniquename": "MISTS_GREEN_MARKETPLACE_SMALL"
+      },
+      {
         "@template": "FARMING_MERCHANT",
         "@uniquename": "FARMING_MERCHANT_HIDEOUT"
       },
@@ -502,6 +539,10 @@
         "@uniquename": "SWAMP_DEAD_SEASONS_STORE_PORTAL"
       },
       {
+        "@template": "SEASONS_STORE",
+        "@uniquename": "MISTS_GREEN_SEASONS_STORE"
+      },
+      {
         "@template": "VANITY_STORE",
         "@uniquename": "SWAMP_GREEN_VANITY_STORE"
       },
@@ -540,6 +581,10 @@
       {
         "@template": "VANITY_STORE",
         "@uniquename": "VANITY_STORE_HIDEOUT"
+      },
+      {
+        "@template": "VANITY_STORE",
+        "@uniquename": "MIST_GREEN_VANITY_STORE"
       },
       {
         "@template": "T8_REPAIRSHOP",
@@ -648,6 +693,10 @@
       {
         "@template": "T8_REPAIRSHOP",
         "@uniquename": "SWAMP_GREEN_REPAIRSHOP_PORTAL"
+      },
+      {
+        "@template": "T8_REPAIRSHOP",
+        "@uniquename": "MIST_GREEN_REPAIRSHOP"
       }
     ],
     "repairbuilding": [
@@ -2278,6 +2327,11 @@
               "@displaygroup": "8"
             },
             {
+              "@uniquename": "T8_HEAD_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
               "@uniquename": "T8_HEAD_PLATE_AVALON",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
@@ -2314,6 +2368,11 @@
             },
             {
               "@uniquename": "T8_ARMOR_PLATE_KEEPER",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T8_ARMOR_PLATE_FEY",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
             },
@@ -2358,6 +2417,11 @@
               "@displaygroup": "8"
             },
             {
+              "@uniquename": "T8_SHOES_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
               "@uniquename": "T8_SHOES_PLATE_AVALON",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
@@ -2394,6 +2458,11 @@
             },
             {
               "@uniquename": "T8_HEAD_LEATHER_UNDEAD",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T8_HEAD_LEATHER_FEY",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
             },
@@ -2438,6 +2507,11 @@
               "@displaygroup": "8"
             },
             {
+              "@uniquename": "T8_ARMOR_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
               "@uniquename": "T8_ARMOR_LEATHER_AVALON",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
@@ -2474,6 +2548,11 @@
             },
             {
               "@uniquename": "T8_SHOES_LEATHER_UNDEAD",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T8_SHOES_LEATHER_FEY",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
             },
@@ -2518,6 +2597,11 @@
               "@displaygroup": "8"
             },
             {
+              "@uniquename": "T8_HEAD_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
               "@uniquename": "T8_HEAD_CLOTH_AVALON",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
@@ -2558,6 +2642,11 @@
               "@displaygroup": "8"
             },
             {
+              "@uniquename": "T8_ARMOR_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
               "@uniquename": "T8_ARMOR_CLOTH_AVALON",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
@@ -2594,6 +2683,11 @@
             },
             {
               "@uniquename": "T8_SHOES_CLOTH_MORGANA",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T8_SHOES_CLOTH_FEY",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
             },
@@ -3425,6 +3519,11 @@
               "@displaygroup": "8"
             },
             {
+              "@uniquename": "T7_HEAD_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
               "@uniquename": "T7_HEAD_PLATE_AVALON",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
@@ -3461,6 +3560,11 @@
             },
             {
               "@uniquename": "T7_ARMOR_PLATE_KEEPER",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T7_ARMOR_PLATE_FEY",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
             },
@@ -3505,6 +3609,11 @@
               "@displaygroup": "8"
             },
             {
+              "@uniquename": "T7_SHOES_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
               "@uniquename": "T7_SHOES_PLATE_AVALON",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
@@ -3541,6 +3650,11 @@
             },
             {
               "@uniquename": "T7_HEAD_LEATHER_UNDEAD",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T7_HEAD_LEATHER_FEY",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
             },
@@ -3585,6 +3699,11 @@
               "@displaygroup": "8"
             },
             {
+              "@uniquename": "T7_ARMOR_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
               "@uniquename": "T7_ARMOR_LEATHER_AVALON",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
@@ -3621,6 +3740,11 @@
             },
             {
               "@uniquename": "T7_SHOES_LEATHER_UNDEAD",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T7_SHOES_LEATHER_FEY",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
             },
@@ -3665,6 +3789,11 @@
               "@displaygroup": "8"
             },
             {
+              "@uniquename": "T7_HEAD_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
               "@uniquename": "T7_HEAD_CLOTH_AVALON",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
@@ -3705,6 +3834,11 @@
               "@displaygroup": "8"
             },
             {
+              "@uniquename": "T7_ARMOR_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
               "@uniquename": "T7_ARMOR_CLOTH_AVALON",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
@@ -3741,6 +3875,11 @@
             },
             {
               "@uniquename": "T7_SHOES_CLOTH_MORGANA",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T7_SHOES_CLOTH_FEY",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
             },
@@ -4559,6 +4698,11 @@
               "@displaygroup": "8"
             },
             {
+              "@uniquename": "T6_HEAD_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
               "@uniquename": "T6_HEAD_PLATE_AVALON",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
@@ -4595,6 +4739,11 @@
             },
             {
               "@uniquename": "T6_ARMOR_PLATE_KEEPER",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T6_ARMOR_PLATE_FEY",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
             },
@@ -4639,6 +4788,11 @@
               "@displaygroup": "8"
             },
             {
+              "@uniquename": "T6_SHOES_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
               "@uniquename": "T6_SHOES_PLATE_AVALON",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
@@ -4675,6 +4829,11 @@
             },
             {
               "@uniquename": "T6_HEAD_LEATHER_UNDEAD",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T6_HEAD_LEATHER_FEY",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
             },
@@ -4719,6 +4878,11 @@
               "@displaygroup": "8"
             },
             {
+              "@uniquename": "T6_ARMOR_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
               "@uniquename": "T6_ARMOR_LEATHER_AVALON",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
@@ -4755,6 +4919,11 @@
             },
             {
               "@uniquename": "T6_SHOES_LEATHER_UNDEAD",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T6_SHOES_LEATHER_FEY",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
             },
@@ -4799,6 +4968,11 @@
               "@displaygroup": "8"
             },
             {
+              "@uniquename": "T6_HEAD_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
               "@uniquename": "T6_HEAD_CLOTH_AVALON",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
@@ -4839,6 +5013,11 @@
               "@displaygroup": "8"
             },
             {
+              "@uniquename": "T6_ARMOR_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
               "@uniquename": "T6_ARMOR_CLOTH_AVALON",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
@@ -4875,6 +5054,11 @@
             },
             {
               "@uniquename": "T6_SHOES_CLOTH_MORGANA",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T6_SHOES_CLOTH_FEY",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
             },
@@ -5478,12 +5662,32 @@
               "@displaygroup": "8"
             },
             {
-              "@uniquename": "T4_HEAD_PLATE_ROYAL",
+              "@uniquename": "T5_HEAD_PLATE_ROYAL",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
             },
             {
-              "@uniquename": "T4_HEAD_PLATE_UNDEAD",
+              "@uniquename": "T5_HEAD_PLATE_UNDEAD",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T5_HEAD_PLATE_HELL",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T5_HEAD_PLATE_KEEPER",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T5_HEAD_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T5_HEAD_PLATE_AVALON",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
             },
@@ -5503,12 +5707,32 @@
               "@displaygroup": "8"
             },
             {
-              "@uniquename": "T4_ARMOR_PLATE_ROYAL",
+              "@uniquename": "T5_ARMOR_PLATE_ROYAL",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
             },
             {
-              "@uniquename": "T4_ARMOR_PLATE_UNDEAD",
+              "@uniquename": "T5_ARMOR_PLATE_UNDEAD",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T5_ARMOR_PLATE_HELL",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T5_ARMOR_PLATE_KEEPER",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T5_ARMOR_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T5_ARMOR_PLATE_AVALON",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
             },
@@ -5528,12 +5752,32 @@
               "@displaygroup": "8"
             },
             {
-              "@uniquename": "T4_SHOES_PLATE_ROYAL",
+              "@uniquename": "T5_SHOES_PLATE_ROYAL",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
             },
             {
-              "@uniquename": "T4_SHOES_PLATE_UNDEAD",
+              "@uniquename": "T5_SHOES_PLATE_UNDEAD",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T5_SHOES_PLATE_HELL",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T5_SHOES_PLATE_KEEPER",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T5_SHOES_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T5_SHOES_PLATE_AVALON",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
             },
@@ -5553,12 +5797,32 @@
               "@displaygroup": "8"
             },
             {
-              "@uniquename": "T4_HEAD_LEATHER_ROYAL",
+              "@uniquename": "T5_HEAD_LEATHER_ROYAL",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
             },
             {
-              "@uniquename": "T4_HEAD_LEATHER_MORGANA",
+              "@uniquename": "T5_HEAD_LEATHER_MORGANA",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T5_HEAD_LEATHER_HELL",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T5_HEAD_LEATHER_UNDEAD",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T5_HEAD_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T5_HEAD_LEATHER_AVALON",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
             },
@@ -5578,12 +5842,32 @@
               "@displaygroup": "8"
             },
             {
-              "@uniquename": "T4_ARMOR_LEATHER_ROYAL",
+              "@uniquename": "T5_ARMOR_LEATHER_ROYAL",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
             },
             {
-              "@uniquename": "T4_ARMOR_LEATHER_MORGANA",
+              "@uniquename": "T5_ARMOR_LEATHER_MORGANA",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T5_ARMOR_LEATHER_HELL",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T5_ARMOR_LEATHER_UNDEAD",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T5_ARMOR_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T5_ARMOR_LEATHER_AVALON",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
             },
@@ -5603,12 +5887,32 @@
               "@displaygroup": "8"
             },
             {
-              "@uniquename": "T4_SHOES_LEATHER_ROYAL",
+              "@uniquename": "T5_SHOES_LEATHER_ROYAL",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
             },
             {
-              "@uniquename": "T4_SHOES_LEATHER_MORGANA",
+              "@uniquename": "T5_SHOES_LEATHER_MORGANA",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T5_SHOES_LEATHER_HELL",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T5_SHOES_LEATHER_UNDEAD",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T5_SHOES_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T5_SHOES_LEATHER_AVALON",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
             },
@@ -5628,12 +5932,32 @@
               "@displaygroup": "8"
             },
             {
-              "@uniquename": "T4_HEAD_CLOTH_ROYAL",
+              "@uniquename": "T5_HEAD_CLOTH_ROYAL",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
             },
             {
-              "@uniquename": "T4_HEAD_CLOTH_KEEPER",
+              "@uniquename": "T5_HEAD_CLOTH_KEEPER",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T5_HEAD_CLOTH_HELL",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T5_HEAD_CLOTH_MORGANA",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T5_HEAD_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T5_HEAD_CLOTH_AVALON",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
             },
@@ -5653,12 +5977,32 @@
               "@displaygroup": "8"
             },
             {
-              "@uniquename": "T4_ARMOR_CLOTH_ROYAL",
+              "@uniquename": "T5_ARMOR_CLOTH_ROYAL",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
             },
             {
-              "@uniquename": "T4_ARMOR_CLOTH_KEEPER",
+              "@uniquename": "T5_ARMOR_CLOTH_KEEPER",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T5_ARMOR_CLOTH_HELL",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T5_ARMOR_CLOTH_MORGANA",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T5_ARMOR_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T5_ARMOR_CLOTH_AVALON",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
             },
@@ -5678,12 +6022,32 @@
               "@displaygroup": "8"
             },
             {
-              "@uniquename": "T4_SHOES_CLOTH_ROYAL",
+              "@uniquename": "T5_SHOES_CLOTH_ROYAL",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
             },
             {
-              "@uniquename": "T4_SHOES_CLOTH_KEEPER",
+              "@uniquename": "T5_SHOES_CLOTH_KEEPER",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T5_SHOES_CLOTH_HELL",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T5_SHOES_CLOTH_MORGANA",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T5_SHOES_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T5_SHOES_CLOTH_AVALON",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
             },
@@ -8654,6 +9018,21 @@
               "@uniquename": "T4_SHOES_PLATE_AVALON",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "4"
+            },
+            {
+              "@uniquename": "T4_HEAD_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
+              "@uniquename": "T4_ARMOR_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
+              "@uniquename": "T4_SHOES_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
             }
           ]
         },
@@ -9387,6 +9766,21 @@
               "@displaygroup": "4"
             },
             {
+              "@uniquename": "T4_HEAD_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
+              "@uniquename": "T4_ARMOR_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
+              "@uniquename": "T4_SHOES_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
               "@uniquename": "T5_HEAD_PLATE_SET2",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "5"
@@ -9503,6 +9897,21 @@
             },
             {
               "@uniquename": "T5_SHOES_PLATE_AVALON",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "T5_HEAD_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "T5_ARMOR_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "T5_SHOES_PLATE_FEY",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "5"
             }
@@ -10473,6 +10882,21 @@
               "@displaygroup": "4"
             },
             {
+              "@uniquename": "T4_HEAD_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
+              "@uniquename": "T4_ARMOR_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
+              "@uniquename": "T4_SHOES_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
               "@uniquename": "T5_HEAD_PLATE_SET2",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "5"
@@ -10593,6 +11017,21 @@
               "@displaygroup": "5"
             },
             {
+              "@uniquename": "T5_HEAD_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "T5_ARMOR_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "T5_SHOES_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "5"
+            },
+            {
               "@uniquename": "T6_HEAD_PLATE_SET2",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "6"
@@ -10709,6 +11148,21 @@
             },
             {
               "@uniquename": "T6_SHOES_PLATE_AVALON",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "6"
+            },
+            {
+              "@uniquename": "T6_HEAD_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "6"
+            },
+            {
+              "@uniquename": "T6_ARMOR_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "6"
+            },
+            {
+              "@uniquename": "T6_SHOES_PLATE_FEY",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "6"
             }
@@ -11914,6 +12368,21 @@
               "@displaygroup": "4"
             },
             {
+              "@uniquename": "T4_HEAD_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
+              "@uniquename": "T4_ARMOR_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
+              "@uniquename": "T4_SHOES_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
               "@uniquename": "T5_HEAD_PLATE_SET2",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "5"
@@ -12030,6 +12499,21 @@
             },
             {
               "@uniquename": "T5_SHOES_PLATE_AVALON",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "T5_HEAD_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "T5_ARMOR_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "T5_SHOES_PLATE_FEY",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "5"
             },
@@ -12154,6 +12638,21 @@
               "@displaygroup": "6"
             },
             {
+              "@uniquename": "T6_HEAD_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "6"
+            },
+            {
+              "@uniquename": "T6_ARMOR_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "6"
+            },
+            {
+              "@uniquename": "T6_SHOES_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "6"
+            },
+            {
               "@uniquename": "T7_HEAD_PLATE_SET2",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "7"
@@ -12270,6 +12769,21 @@
             },
             {
               "@uniquename": "T7_SHOES_PLATE_AVALON",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "7"
+            },
+            {
+              "@uniquename": "T7_HEAD_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "7"
+            },
+            {
+              "@uniquename": "T7_ARMOR_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "7"
+            },
+            {
+              "@uniquename": "T7_SHOES_PLATE_FEY",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "7"
             }
@@ -13709,6 +14223,21 @@
               "@displaygroup": "4"
             },
             {
+              "@uniquename": "T4_HEAD_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
+              "@uniquename": "T4_ARMOR_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
+              "@uniquename": "T4_SHOES_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
               "@uniquename": "T5_HEAD_PLATE_SET2",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "5"
@@ -13825,6 +14354,21 @@
             },
             {
               "@uniquename": "T5_SHOES_PLATE_AVALON",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "T5_HEAD_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "T5_ARMOR_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "T5_SHOES_PLATE_FEY",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "5"
             },
@@ -13949,6 +14493,21 @@
               "@displaygroup": "6"
             },
             {
+              "@uniquename": "T6_HEAD_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "6"
+            },
+            {
+              "@uniquename": "T6_ARMOR_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "6"
+            },
+            {
+              "@uniquename": "T6_SHOES_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "6"
+            },
+            {
               "@uniquename": "T7_HEAD_PLATE_SET2",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "7"
@@ -14069,6 +14628,21 @@
               "@displaygroup": "7"
             },
             {
+              "@uniquename": "T7_HEAD_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "7"
+            },
+            {
+              "@uniquename": "T7_ARMOR_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "7"
+            },
+            {
+              "@uniquename": "T7_SHOES_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "7"
+            },
+            {
               "@uniquename": "T8_HEAD_PLATE_SET2",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
@@ -14185,6 +14759,21 @@
             },
             {
               "@uniquename": "T8_SHOES_PLATE_AVALON",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T8_HEAD_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T8_ARMOR_PLATE_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T8_SHOES_PLATE_FEY",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
             }
@@ -14871,6 +15460,21 @@
               "@uniquename": "T4_SHOES_LEATHER_AVALON",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "4"
+            },
+            {
+              "@uniquename": "T4_HEAD_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
+              "@uniquename": "T4_ARMOR_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
+              "@uniquename": "T4_SHOES_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
             }
           ]
         },
@@ -15529,6 +16133,21 @@
               "@displaygroup": "4"
             },
             {
+              "@uniquename": "T4_HEAD_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
+              "@uniquename": "T4_ARMOR_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
+              "@uniquename": "T4_SHOES_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
               "@uniquename": "T5_HEAD_LEATHER_SET3",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "5"
@@ -15645,6 +16264,21 @@
             },
             {
               "@uniquename": "T5_SHOES_LEATHER_AVALON",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "T5_HEAD_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "T5_ARMOR_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "T5_SHOES_LEATHER_FEY",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "5"
             }
@@ -16505,6 +17139,21 @@
               "@displaygroup": "4"
             },
             {
+              "@uniquename": "T4_HEAD_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
+              "@uniquename": "T4_ARMOR_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
+              "@uniquename": "T4_SHOES_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
               "@uniquename": "T5_HEAD_LEATHER_SET3",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "5"
@@ -16625,6 +17274,21 @@
               "@displaygroup": "5"
             },
             {
+              "@uniquename": "T5_HEAD_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "T5_ARMOR_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "T5_SHOES_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "5"
+            },
+            {
               "@uniquename": "T6_HEAD_LEATHER_SET3",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "6"
@@ -16741,6 +17405,21 @@
             },
             {
               "@uniquename": "T6_SHOES_LEATHER_AVALON",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "6"
+            },
+            {
+              "@uniquename": "T6_HEAD_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "6"
+            },
+            {
+              "@uniquename": "T6_ARMOR_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "6"
+            },
+            {
+              "@uniquename": "T6_SHOES_LEATHER_FEY",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "6"
             }
@@ -17801,6 +18480,21 @@
               "@displaygroup": "4"
             },
             {
+              "@uniquename": "T4_HEAD_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
+              "@uniquename": "T4_ARMOR_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
+              "@uniquename": "T4_SHOES_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
               "@uniquename": "T5_HEAD_LEATHER_SET3",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "5"
@@ -17917,6 +18611,21 @@
             },
             {
               "@uniquename": "T5_SHOES_LEATHER_AVALON",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "T5_HEAD_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "T5_ARMOR_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "T5_SHOES_LEATHER_FEY",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "5"
             },
@@ -18041,6 +18750,21 @@
               "@displaygroup": "6"
             },
             {
+              "@uniquename": "T6_HEAD_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "6"
+            },
+            {
+              "@uniquename": "T6_ARMOR_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "6"
+            },
+            {
+              "@uniquename": "T6_SHOES_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "6"
+            },
+            {
               "@uniquename": "T7_HEAD_LEATHER_SET3",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "7"
@@ -18157,6 +18881,21 @@
             },
             {
               "@uniquename": "T7_SHOES_LEATHER_AVALON",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "7"
+            },
+            {
+              "@uniquename": "T7_HEAD_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "7"
+            },
+            {
+              "@uniquename": "T7_ARMOR_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "7"
+            },
+            {
+              "@uniquename": "T7_SHOES_LEATHER_FEY",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "7"
             }
@@ -19416,6 +20155,21 @@
               "@displaygroup": "4"
             },
             {
+              "@uniquename": "T4_HEAD_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
+              "@uniquename": "T4_ARMOR_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
+              "@uniquename": "T4_SHOES_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
               "@uniquename": "T5_HEAD_LEATHER_SET3",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "5"
@@ -19532,6 +20286,21 @@
             },
             {
               "@uniquename": "T5_SHOES_LEATHER_AVALON",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "T5_HEAD_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "T5_ARMOR_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "T5_SHOES_LEATHER_FEY",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "5"
             },
@@ -19656,6 +20425,21 @@
               "@displaygroup": "6"
             },
             {
+              "@uniquename": "T6_HEAD_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "6"
+            },
+            {
+              "@uniquename": "T6_ARMOR_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "6"
+            },
+            {
+              "@uniquename": "T6_SHOES_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "6"
+            },
+            {
               "@uniquename": "T7_HEAD_LEATHER_SET3",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "7"
@@ -19776,6 +20560,21 @@
               "@displaygroup": "7"
             },
             {
+              "@uniquename": "T7_HEAD_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "7"
+            },
+            {
+              "@uniquename": "T7_ARMOR_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "7"
+            },
+            {
+              "@uniquename": "T7_SHOES_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "7"
+            },
+            {
               "@uniquename": "T8_HEAD_LEATHER_SET3",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
@@ -19892,6 +20691,21 @@
             },
             {
               "@uniquename": "T8_SHOES_LEATHER_AVALON",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T8_HEAD_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T8_ARMOR_LEATHER_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T8_SHOES_LEATHER_FEY",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
             }
@@ -20551,6 +21365,21 @@
               "@uniquename": "T4_SHOES_CLOTH_AVALON",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "4"
+            },
+            {
+              "@uniquename": "T4_ARMOR_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
+              "@uniquename": "T4_HEAD_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
+              "@uniquename": "T4_SHOES_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
             }
           ]
         },
@@ -21200,6 +22029,21 @@
               "@displaygroup": "4"
             },
             {
+              "@uniquename": "T4_ARMOR_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
+              "@uniquename": "T4_HEAD_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
+              "@uniquename": "T4_SHOES_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
               "@uniquename": "T5_HEAD_CLOTH_SET1",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "5"
@@ -21316,6 +22160,21 @@
             },
             {
               "@uniquename": "T5_SHOES_CLOTH_AVALON",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "T5_ARMOR_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "T5_HEAD_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "T5_SHOES_CLOTH_FEY",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "5"
             }
@@ -22167,6 +23026,21 @@
               "@displaygroup": "4"
             },
             {
+              "@uniquename": "T4_ARMOR_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
+              "@uniquename": "T4_HEAD_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
+              "@uniquename": "T4_SHOES_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
               "@uniquename": "T5_HEAD_CLOTH_SET1",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "5"
@@ -22287,6 +23161,21 @@
               "@displaygroup": "5"
             },
             {
+              "@uniquename": "T5_ARMOR_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "T5_HEAD_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "T5_SHOES_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "5"
+            },
+            {
               "@uniquename": "T6_HEAD_CLOTH_SET1",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "6"
@@ -22403,6 +23292,21 @@
             },
             {
               "@uniquename": "T6_SHOES_CLOTH_AVALON",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "6"
+            },
+            {
+              "@uniquename": "T6_ARMOR_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "6"
+            },
+            {
+              "@uniquename": "T6_HEAD_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "6"
+            },
+            {
+              "@uniquename": "T6_SHOES_CLOTH_FEY",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "6"
             }
@@ -23454,6 +24358,21 @@
               "@displaygroup": "4"
             },
             {
+              "@uniquename": "T4_ARMOR_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
+              "@uniquename": "T4_HEAD_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
+              "@uniquename": "T4_SHOES_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
               "@uniquename": "T5_HEAD_CLOTH_SET1",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "5"
@@ -23570,6 +24489,21 @@
             },
             {
               "@uniquename": "T5_SHOES_CLOTH_AVALON",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "T5_ARMOR_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "T5_HEAD_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "T5_SHOES_CLOTH_FEY",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "5"
             },
@@ -23694,6 +24628,21 @@
               "@displaygroup": "6"
             },
             {
+              "@uniquename": "T6_ARMOR_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "6"
+            },
+            {
+              "@uniquename": "T6_HEAD_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "6"
+            },
+            {
+              "@uniquename": "T6_SHOES_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "6"
+            },
+            {
               "@uniquename": "T7_HEAD_CLOTH_SET1",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "7"
@@ -23810,6 +24759,21 @@
             },
             {
               "@uniquename": "T7_SHOES_CLOTH_AVALON",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "7"
+            },
+            {
+              "@uniquename": "T7_ARMOR_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "7"
+            },
+            {
+              "@uniquename": "T7_HEAD_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "7"
+            },
+            {
+              "@uniquename": "T7_SHOES_CLOTH_FEY",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "7"
             }
@@ -25060,6 +26024,21 @@
               "@displaygroup": "4"
             },
             {
+              "@uniquename": "T4_ARMOR_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
+              "@uniquename": "T4_HEAD_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
+              "@uniquename": "T4_SHOES_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "4"
+            },
+            {
               "@uniquename": "T5_HEAD_CLOTH_SET1",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "5"
@@ -25176,6 +26155,21 @@
             },
             {
               "@uniquename": "T5_SHOES_CLOTH_AVALON",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "T5_ARMOR_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "T5_HEAD_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "T5_SHOES_CLOTH_FEY",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "5"
             },
@@ -25300,6 +26294,21 @@
               "@displaygroup": "6"
             },
             {
+              "@uniquename": "T6_ARMOR_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "6"
+            },
+            {
+              "@uniquename": "T6_HEAD_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "6"
+            },
+            {
+              "@uniquename": "T6_SHOES_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "6"
+            },
+            {
               "@uniquename": "T7_HEAD_CLOTH_SET1",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "7"
@@ -25420,6 +26429,21 @@
               "@displaygroup": "7"
             },
             {
+              "@uniquename": "T7_ARMOR_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "7"
+            },
+            {
+              "@uniquename": "T7_HEAD_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "7"
+            },
+            {
+              "@uniquename": "T7_SHOES_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "7"
+            },
+            {
               "@uniquename": "T8_HEAD_CLOTH_SET1",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
@@ -25536,6 +26560,21 @@
             },
             {
               "@uniquename": "T8_SHOES_CLOTH_AVALON",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T8_ARMOR_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T8_HEAD_CLOTH_FEY",
+              "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
+              "@displaygroup": "8"
+            },
+            {
+              "@uniquename": "T8_SHOES_CLOTH_FEY",
               "@category": "@BUILDING_ITEMS_CATEGORY_ARMOR",
               "@displaygroup": "8"
             }
@@ -25772,6 +26811,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T4_METALBAR_LEVEL4",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T4_ORE_LEVEL1",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -25783,6 +26827,11 @@
             },
             {
               "@uniquename": "T4_ORE_LEVEL3",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T4_ORE_LEVEL4",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             }
@@ -25874,6 +26923,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T4_METALBAR_LEVEL4",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T5_METALBAR",
               "@displaygroup": "5",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
@@ -25894,6 +26948,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T5_METALBAR_LEVEL4",
+              "@displaygroup": "5",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T4_ORE_LEVEL1",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -25905,6 +26964,11 @@
             },
             {
               "@uniquename": "T4_ORE_LEVEL3",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T4_ORE_LEVEL4",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
@@ -25925,6 +26989,11 @@
             },
             {
               "@uniquename": "T5_ORE_LEVEL3",
+              "@displaygroup": "5",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T5_ORE_LEVEL4",
               "@displaygroup": "5",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             }
@@ -26016,6 +27085,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T4_METALBAR_LEVEL4",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T5_METALBAR",
               "@displaygroup": "5",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
@@ -26032,6 +27106,11 @@
             },
             {
               "@uniquename": "T5_METALBAR_LEVEL3",
+              "@displaygroup": "5",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
+              "@uniquename": "T5_METALBAR_LEVEL4",
               "@displaygroup": "5",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
@@ -26056,6 +27135,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T6_METALBAR_LEVEL4",
+              "@displaygroup": "6",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T4_ORE_LEVEL1",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -26067,6 +27151,11 @@
             },
             {
               "@uniquename": "T4_ORE_LEVEL3",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T4_ORE_LEVEL4",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
@@ -26091,6 +27180,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
             {
+              "@uniquename": "T5_ORE_LEVEL4",
+              "@displaygroup": "5",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
               "@uniquename": "T6_ORE",
               "@displaygroup": "6",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -26107,6 +27201,11 @@
             },
             {
               "@uniquename": "T6_ORE_LEVEL3",
+              "@displaygroup": "6",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T6_ORE_LEVEL4",
               "@displaygroup": "6",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             }
@@ -26198,6 +27297,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T4_METALBAR_LEVEL4",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T5_METALBAR",
               "@displaygroup": "5",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
@@ -26214,6 +27318,11 @@
             },
             {
               "@uniquename": "T5_METALBAR_LEVEL3",
+              "@displaygroup": "5",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
+              "@uniquename": "T5_METALBAR_LEVEL4",
               "@displaygroup": "5",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
@@ -26238,6 +27347,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T6_METALBAR_LEVEL4",
+              "@displaygroup": "6",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T7_METALBAR",
               "@displaygroup": "7",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
@@ -26258,6 +27372,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T7_METALBAR_LEVEL4",
+              "@displaygroup": "7",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T4_ORE_LEVEL1",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -26269,6 +27388,11 @@
             },
             {
               "@uniquename": "T4_ORE_LEVEL3",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T4_ORE_LEVEL4",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
@@ -26293,6 +27417,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
             {
+              "@uniquename": "T5_ORE_LEVEL4",
+              "@displaygroup": "5",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
               "@uniquename": "T6_ORE",
               "@displaygroup": "6",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -26313,6 +27442,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
             {
+              "@uniquename": "T6_ORE_LEVEL4",
+              "@displaygroup": "6",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
               "@uniquename": "T7_ORE",
               "@displaygroup": "7",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -26329,6 +27463,11 @@
             },
             {
               "@uniquename": "T7_ORE_LEVEL3",
+              "@displaygroup": "7",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T7_ORE_LEVEL4",
               "@displaygroup": "7",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             }
@@ -26419,6 +27558,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T4_METALBAR_LEVEL4",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T5_METALBAR",
               "@displaygroup": "5",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
@@ -26435,6 +27579,11 @@
             },
             {
               "@uniquename": "T5_METALBAR_LEVEL3",
+              "@displaygroup": "5",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
+              "@uniquename": "T5_METALBAR_LEVEL4",
               "@displaygroup": "5",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
@@ -26459,6 +27608,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T6_METALBAR_LEVEL4",
+              "@displaygroup": "6",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T7_METALBAR",
               "@displaygroup": "7",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
@@ -26475,6 +27629,11 @@
             },
             {
               "@uniquename": "T7_METALBAR_LEVEL3",
+              "@displaygroup": "7",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
+              "@uniquename": "T7_METALBAR_LEVEL4",
               "@displaygroup": "7",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
@@ -26499,6 +27658,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T8_METALBAR_LEVEL4",
+              "@displaygroup": "8",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T4_ORE_LEVEL1",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -26510,6 +27674,11 @@
             },
             {
               "@uniquename": "T4_ORE_LEVEL3",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T4_ORE_LEVEL4",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
@@ -26534,6 +27703,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
             {
+              "@uniquename": "T5_ORE_LEVEL4",
+              "@displaygroup": "5",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
               "@uniquename": "T6_ORE",
               "@displaygroup": "6",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -26550,6 +27724,11 @@
             },
             {
               "@uniquename": "T6_ORE_LEVEL3",
+              "@displaygroup": "6",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T6_ORE_LEVEL4",
               "@displaygroup": "6",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
@@ -26574,6 +27753,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
             {
+              "@uniquename": "T7_ORE_LEVEL4",
+              "@displaygroup": "7",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
               "@uniquename": "T8_ORE",
               "@displaygroup": "8",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -26590,6 +27774,11 @@
             },
             {
               "@uniquename": "T8_ORE_LEVEL3",
+              "@displaygroup": "8",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T8_ORE_LEVEL4",
               "@displaygroup": "8",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             }
@@ -26809,6 +27998,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T4_PLANKS_LEVEL4",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T4_WOOD_LEVEL1",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -26820,6 +28014,11 @@
             },
             {
               "@uniquename": "T4_WOOD_LEVEL3",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T4_WOOD_LEVEL4",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             }
@@ -26911,6 +28110,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T4_PLANKS_LEVEL4",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T5_PLANKS",
               "@displaygroup": "5",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
@@ -26931,6 +28135,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T5_PLANKS_LEVEL4",
+              "@displaygroup": "5",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T4_WOOD_LEVEL1",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -26942,6 +28151,11 @@
             },
             {
               "@uniquename": "T4_WOOD_LEVEL3",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T4_WOOD_LEVEL4",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
@@ -26962,6 +28176,11 @@
             },
             {
               "@uniquename": "T5_WOOD_LEVEL3",
+              "@displaygroup": "5",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T5_WOOD_LEVEL4",
               "@displaygroup": "5",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             }
@@ -27053,6 +28272,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T4_PLANKS_LEVEL4",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T5_PLANKS",
               "@displaygroup": "5",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
@@ -27069,6 +28293,11 @@
             },
             {
               "@uniquename": "T5_PLANKS_LEVEL3",
+              "@displaygroup": "5",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
+              "@uniquename": "T5_PLANKS_LEVEL4",
               "@displaygroup": "5",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
@@ -27093,6 +28322,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T6_PLANKS_LEVEL4",
+              "@displaygroup": "6",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T4_WOOD_LEVEL1",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -27104,6 +28338,11 @@
             },
             {
               "@uniquename": "T4_WOOD_LEVEL3",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T4_WOOD_LEVEL4",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
@@ -27128,6 +28367,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
             {
+              "@uniquename": "T5_WOOD_LEVEL4",
+              "@displaygroup": "5",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
               "@uniquename": "T6_WOOD",
               "@displaygroup": "6",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -27144,6 +28388,11 @@
             },
             {
               "@uniquename": "T6_WOOD_LEVEL3",
+              "@displaygroup": "6",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T6_WOOD_LEVEL4",
               "@displaygroup": "6",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             }
@@ -27235,6 +28484,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T4_PLANKS_LEVEL4",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T5_PLANKS",
               "@displaygroup": "5",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
@@ -27251,6 +28505,11 @@
             },
             {
               "@uniquename": "T5_PLANKS_LEVEL3",
+              "@displaygroup": "5",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
+              "@uniquename": "T5_PLANKS_LEVEL4",
               "@displaygroup": "5",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
@@ -27275,6 +28534,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T6_PLANKS_LEVEL4",
+              "@displaygroup": "6",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T7_PLANKS",
               "@displaygroup": "7",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
@@ -27295,6 +28559,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T7_PLANKS_LEVEL4",
+              "@displaygroup": "7",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T4_WOOD_LEVEL1",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -27306,6 +28575,11 @@
             },
             {
               "@uniquename": "T4_WOOD_LEVEL3",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T4_WOOD_LEVEL4",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
@@ -27330,6 +28604,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
             {
+              "@uniquename": "T5_WOOD_LEVEL4",
+              "@displaygroup": "5",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
               "@uniquename": "T6_WOOD",
               "@displaygroup": "6",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -27350,6 +28629,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
             {
+              "@uniquename": "T6_WOOD_LEVEL4",
+              "@displaygroup": "6",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
               "@uniquename": "T7_WOOD",
               "@displaygroup": "7",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -27366,6 +28650,11 @@
             },
             {
               "@uniquename": "T7_WOOD_LEVEL3",
+              "@displaygroup": "7",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T7_WOOD_LEVEL4",
               "@displaygroup": "7",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             }
@@ -27456,6 +28745,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T4_PLANKS_LEVEL4",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T5_PLANKS",
               "@displaygroup": "5",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
@@ -27472,6 +28766,11 @@
             },
             {
               "@uniquename": "T5_PLANKS_LEVEL3",
+              "@displaygroup": "5",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
+              "@uniquename": "T5_PLANKS_LEVEL4",
               "@displaygroup": "5",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
@@ -27496,6 +28795,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T6_PLANKS_LEVEL4",
+              "@displaygroup": "6",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T7_PLANKS",
               "@displaygroup": "7",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
@@ -27512,6 +28816,11 @@
             },
             {
               "@uniquename": "T7_PLANKS_LEVEL3",
+              "@displaygroup": "7",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
+              "@uniquename": "T7_PLANKS_LEVEL4",
               "@displaygroup": "7",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
@@ -27536,6 +28845,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T8_PLANKS_LEVEL4",
+              "@displaygroup": "8",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T4_WOOD_LEVEL1",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -27547,6 +28861,11 @@
             },
             {
               "@uniquename": "T4_WOOD_LEVEL3",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T4_WOOD_LEVEL4",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
@@ -27571,6 +28890,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
             {
+              "@uniquename": "T5_WOOD_LEVEL4",
+              "@displaygroup": "5",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
               "@uniquename": "T6_WOOD",
               "@displaygroup": "6",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -27587,6 +28911,11 @@
             },
             {
               "@uniquename": "T6_WOOD_LEVEL3",
+              "@displaygroup": "6",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T6_WOOD_LEVEL4",
               "@displaygroup": "6",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
@@ -27611,6 +28940,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
             {
+              "@uniquename": "T7_WOOD_LEVEL4",
+              "@displaygroup": "7",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
               "@uniquename": "T8_WOOD",
               "@displaygroup": "8",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -27627,6 +28961,11 @@
             },
             {
               "@uniquename": "T8_WOOD_LEVEL3",
+              "@displaygroup": "8",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T8_WOOD_LEVEL4",
               "@displaygroup": "8",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             }
@@ -28433,6 +29772,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T4_LEATHER_LEVEL4",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T4_HIDE_LEVEL1",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -28444,6 +29788,11 @@
             },
             {
               "@uniquename": "T4_HIDE_LEVEL3",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T4_HIDE_LEVEL4",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             }
@@ -28535,6 +29884,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T4_LEATHER_LEVEL4",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T5_LEATHER",
               "@displaygroup": "5",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
@@ -28555,6 +29909,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T5_LEATHER_LEVEL4",
+              "@displaygroup": "5",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T4_HIDE_LEVEL1",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -28566,6 +29925,11 @@
             },
             {
               "@uniquename": "T4_HIDE_LEVEL3",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T4_HIDE_LEVEL4",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
@@ -28586,6 +29950,11 @@
             },
             {
               "@uniquename": "T5_HIDE_LEVEL3",
+              "@displaygroup": "5",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T5_HIDE_LEVEL4",
               "@displaygroup": "5",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             }
@@ -28677,6 +30046,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T4_LEATHER_LEVEL4",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T5_LEATHER",
               "@displaygroup": "5",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
@@ -28693,6 +30067,11 @@
             },
             {
               "@uniquename": "T5_LEATHER_LEVEL3",
+              "@displaygroup": "5",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
+              "@uniquename": "T5_LEATHER_LEVEL4",
               "@displaygroup": "5",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
@@ -28717,6 +30096,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T6_LEATHER_LEVEL4",
+              "@displaygroup": "6",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T4_HIDE_LEVEL1",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -28728,6 +30112,11 @@
             },
             {
               "@uniquename": "T4_HIDE_LEVEL3",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T4_HIDE_LEVEL4",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
@@ -28752,6 +30141,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
             {
+              "@uniquename": "T5_HIDE_LEVEL4",
+              "@displaygroup": "5",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
               "@uniquename": "T6_HIDE",
               "@displaygroup": "6",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -28768,6 +30162,11 @@
             },
             {
               "@uniquename": "T6_HIDE_LEVEL3",
+              "@displaygroup": "6",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T6_HIDE_LEVEL4",
               "@displaygroup": "6",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             }
@@ -28859,6 +30258,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T4_LEATHER_LEVEL4",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T5_LEATHER",
               "@displaygroup": "5",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
@@ -28875,6 +30279,11 @@
             },
             {
               "@uniquename": "T5_LEATHER_LEVEL3",
+              "@displaygroup": "5",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
+              "@uniquename": "T5_LEATHER_LEVEL4",
               "@displaygroup": "5",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
@@ -28899,6 +30308,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T6_LEATHER_LEVEL4",
+              "@displaygroup": "6",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T7_LEATHER",
               "@displaygroup": "7",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
@@ -28919,6 +30333,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T7_LEATHER_LEVEL4",
+              "@displaygroup": "7",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T4_HIDE_LEVEL1",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -28930,6 +30349,11 @@
             },
             {
               "@uniquename": "T4_HIDE_LEVEL3",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T4_HIDE_LEVEL4",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
@@ -28954,6 +30378,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
             {
+              "@uniquename": "T5_HIDE_LEVEL4",
+              "@displaygroup": "5",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
               "@uniquename": "T6_HIDE",
               "@displaygroup": "6",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -28974,6 +30403,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
             {
+              "@uniquename": "T6_HIDE_LEVEL4",
+              "@displaygroup": "6",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
               "@uniquename": "T7_HIDE",
               "@displaygroup": "7",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -28990,6 +30424,11 @@
             },
             {
               "@uniquename": "T7_HIDE_LEVEL3",
+              "@displaygroup": "7",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T7_HIDE_LEVEL4",
               "@displaygroup": "7",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             }
@@ -29080,6 +30519,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T4_LEATHER_LEVEL4",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T5_LEATHER",
               "@displaygroup": "5",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
@@ -29096,6 +30540,11 @@
             },
             {
               "@uniquename": "T5_LEATHER_LEVEL3",
+              "@displaygroup": "5",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
+              "@uniquename": "T5_LEATHER_LEVEL4",
               "@displaygroup": "5",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
@@ -29120,6 +30569,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T6_LEATHER_LEVEL4",
+              "@displaygroup": "6",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T7_LEATHER",
               "@displaygroup": "7",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
@@ -29136,6 +30590,11 @@
             },
             {
               "@uniquename": "T7_LEATHER_LEVEL3",
+              "@displaygroup": "7",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
+              "@uniquename": "T7_LEATHER_LEVEL4",
               "@displaygroup": "7",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
@@ -29160,6 +30619,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T8_LEATHER_LEVEL4",
+              "@displaygroup": "8",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T4_HIDE_LEVEL1",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -29171,6 +30635,11 @@
             },
             {
               "@uniquename": "T4_HIDE_LEVEL3",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T4_HIDE_LEVEL4",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
@@ -29195,6 +30664,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
             {
+              "@uniquename": "T5_HIDE_LEVEL4",
+              "@displaygroup": "5",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
               "@uniquename": "T6_HIDE",
               "@displaygroup": "6",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -29211,6 +30685,11 @@
             },
             {
               "@uniquename": "T6_HIDE_LEVEL3",
+              "@displaygroup": "6",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T6_HIDE_LEVEL4",
               "@displaygroup": "6",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
@@ -29235,6 +30714,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
             {
+              "@uniquename": "T7_HIDE_LEVEL4",
+              "@displaygroup": "7",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
               "@uniquename": "T8_HIDE",
               "@displaygroup": "8",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -29251,6 +30735,11 @@
             },
             {
               "@uniquename": "T8_HIDE_LEVEL3",
+              "@displaygroup": "8",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T8_HIDE_LEVEL4",
               "@displaygroup": "8",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             }
@@ -29470,6 +30959,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T4_CLOTH_LEVEL4",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T4_FIBER_LEVEL1",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -29481,6 +30975,11 @@
             },
             {
               "@uniquename": "T4_FIBER_LEVEL3",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T4_FIBER_LEVEL4",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             }
@@ -29572,6 +31071,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T4_CLOTH_LEVEL4",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T5_CLOTH",
               "@displaygroup": "5",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
@@ -29592,6 +31096,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T5_CLOTH_LEVEL4",
+              "@displaygroup": "5",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T4_FIBER_LEVEL1",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -29603,6 +31112,11 @@
             },
             {
               "@uniquename": "T4_FIBER_LEVEL3",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T4_FIBER_LEVEL4",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
@@ -29623,6 +31137,11 @@
             },
             {
               "@uniquename": "T5_FIBER_LEVEL3",
+              "@displaygroup": "5",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T5_FIBER_LEVEL4",
               "@displaygroup": "5",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             }
@@ -29714,6 +31233,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T4_CLOTH_LEVEL4",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T5_CLOTH",
               "@displaygroup": "5",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
@@ -29730,6 +31254,11 @@
             },
             {
               "@uniquename": "T5_CLOTH_LEVEL3",
+              "@displaygroup": "5",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
+              "@uniquename": "T5_CLOTH_LEVEL4",
               "@displaygroup": "5",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
@@ -29754,6 +31283,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T6_CLOTH_LEVEL4",
+              "@displaygroup": "6",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T4_FIBER_LEVEL1",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -29765,6 +31299,11 @@
             },
             {
               "@uniquename": "T4_FIBER_LEVEL3",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T4_FIBER_LEVEL4",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
@@ -29789,6 +31328,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
             {
+              "@uniquename": "T5_FIBER_LEVEL4",
+              "@displaygroup": "5",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
               "@uniquename": "T6_FIBER",
               "@displaygroup": "6",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -29805,6 +31349,11 @@
             },
             {
               "@uniquename": "T6_FIBER_LEVEL3",
+              "@displaygroup": "6",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T6_FIBER_LEVEL4",
               "@displaygroup": "6",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             }
@@ -29896,6 +31445,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T4_CLOTH_LEVEL4",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T5_CLOTH",
               "@displaygroup": "5",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
@@ -29912,6 +31466,11 @@
             },
             {
               "@uniquename": "T5_CLOTH_LEVEL3",
+              "@displaygroup": "5",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
+              "@uniquename": "T5_CLOTH_LEVEL4",
               "@displaygroup": "5",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
@@ -29936,6 +31495,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T6_CLOTH_LEVEL4",
+              "@displaygroup": "6",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T7_CLOTH",
               "@displaygroup": "7",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
@@ -29956,6 +31520,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T7_CLOTH_LEVEL4",
+              "@displaygroup": "7",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T4_FIBER_LEVEL1",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -29967,6 +31536,11 @@
             },
             {
               "@uniquename": "T4_FIBER_LEVEL3",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T4_FIBER_LEVEL4",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
@@ -29991,6 +31565,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
             {
+              "@uniquename": "T5_FIBER_LEVEL4",
+              "@displaygroup": "5",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
               "@uniquename": "T6_FIBER",
               "@displaygroup": "6",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -30011,6 +31590,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
             {
+              "@uniquename": "T6_FIBER_LEVEL4",
+              "@displaygroup": "6",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
               "@uniquename": "T7_FIBER",
               "@displaygroup": "7",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -30027,6 +31611,11 @@
             },
             {
               "@uniquename": "T7_FIBER_LEVEL3",
+              "@displaygroup": "7",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T7_FIBER_LEVEL4",
               "@displaygroup": "7",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             }
@@ -30117,6 +31706,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T4_CLOTH_LEVEL4",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T5_CLOTH",
               "@displaygroup": "5",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
@@ -30133,6 +31727,11 @@
             },
             {
               "@uniquename": "T5_CLOTH_LEVEL3",
+              "@displaygroup": "5",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
+              "@uniquename": "T5_CLOTH_LEVEL4",
               "@displaygroup": "5",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
@@ -30157,6 +31756,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T6_CLOTH_LEVEL4",
+              "@displaygroup": "6",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T7_CLOTH",
               "@displaygroup": "7",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
@@ -30173,6 +31777,11 @@
             },
             {
               "@uniquename": "T7_CLOTH_LEVEL3",
+              "@displaygroup": "7",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
+              "@uniquename": "T7_CLOTH_LEVEL4",
               "@displaygroup": "7",
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
@@ -30197,6 +31806,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
             },
             {
+              "@uniquename": "T8_CLOTH_LEVEL4",
+              "@displaygroup": "8",
+              "@category": "@BUILDING_ITEMS_CATEGORY_RESOURCES"
+            },
+            {
               "@uniquename": "T4_FIBER_LEVEL1",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -30208,6 +31822,11 @@
             },
             {
               "@uniquename": "T4_FIBER_LEVEL3",
+              "@displaygroup": "4",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T4_FIBER_LEVEL4",
               "@displaygroup": "4",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
@@ -30232,6 +31851,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
             {
+              "@uniquename": "T5_FIBER_LEVEL4",
+              "@displaygroup": "5",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
               "@uniquename": "T6_FIBER",
               "@displaygroup": "6",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -30248,6 +31872,11 @@
             },
             {
               "@uniquename": "T6_FIBER_LEVEL3",
+              "@displaygroup": "6",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T6_FIBER_LEVEL4",
               "@displaygroup": "6",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
@@ -30272,6 +31901,11 @@
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             },
             {
+              "@uniquename": "T7_FIBER_LEVEL4",
+              "@displaygroup": "7",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
               "@uniquename": "T8_FIBER",
               "@displaygroup": "8",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
@@ -30288,6 +31922,11 @@
             },
             {
               "@uniquename": "T8_FIBER_LEVEL3",
+              "@displaygroup": "8",
+              "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
+            },
+            {
+              "@uniquename": "T8_FIBER_LEVEL4",
               "@displaygroup": "8",
               "@category": "@BUILDING_ITEMS_CATEGORY_TRANSMUTATION"
             }
