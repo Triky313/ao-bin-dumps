@@ -12765,6 +12765,11 @@
                     {
                       "@type": "UNIQUE_UNLOCK_SKIN_DONKEY_HALLOWEEN",
                       "@chance": "0.004588"
+                    },
+                    {
+                      "@type": "UNIQUE_CONSUMABLE_EVENT_HALLOWEEN_CANDY",
+                      "@amount": "5-10",
+                      "@chance": "1"
                     }
                   ]
                 },
@@ -12787,6 +12792,11 @@
                     {
                       "@type": "UNIQUE_UNLOCK_SKIN_DONKEY_HALLOWEEN",
                       "@chance": "0.006118"
+                    },
+                    {
+                      "@type": "UNIQUE_CONSUMABLE_EVENT_HALLOWEEN_CANDY",
+                      "@amount": "5-10",
+                      "@chance": "1"
                     }
                   ]
                 },
@@ -12809,6 +12819,11 @@
                     {
                       "@type": "UNIQUE_UNLOCK_SKIN_DONKEY_HALLOWEEN",
                       "@chance": "0.007301"
+                    },
+                    {
+                      "@type": "UNIQUE_CONSUMABLE_EVENT_HALLOWEEN_CANDY",
+                      "@amount": "5-10",
+                      "@chance": "1"
                     }
                   ]
                 },
@@ -12831,6 +12846,11 @@
                     {
                       "@type": "UNIQUE_UNLOCK_SKIN_DONKEY_HALLOWEEN",
                       "@chance": "0.011466"
+                    },
+                    {
+                      "@type": "UNIQUE_CONSUMABLE_EVENT_HALLOWEEN_CANDY",
+                      "@amount": "5-10",
+                      "@chance": "1"
                     }
                   ]
                 },
@@ -12853,6 +12873,11 @@
                     {
                       "@type": "UNIQUE_UNLOCK_SKIN_DONKEY_HALLOWEEN",
                       "@chance": "0.016545"
+                    },
+                    {
+                      "@type": "UNIQUE_CONSUMABLE_EVENT_HALLOWEEN_CANDY",
+                      "@amount": "5-10",
+                      "@chance": "1"
                     }
                   ]
                 }
@@ -12899,6 +12924,11 @@
                     {
                       "@type": "UNIQUE_UNLOCK_SKIN_DONKEY_HALLOWEEN",
                       "@chance": "0.009176"
+                    },
+                    {
+                      "@type": "UNIQUE_CONSUMABLE_EVENT_HALLOWEEN_CANDY",
+                      "@amount": "10-15",
+                      "@chance": "1"
                     }
                   ]
                 },
@@ -12921,6 +12951,11 @@
                     {
                       "@type": "UNIQUE_UNLOCK_SKIN_DONKEY_HALLOWEEN",
                       "@chance": "0.012236"
+                    },
+                    {
+                      "@type": "UNIQUE_CONSUMABLE_EVENT_HALLOWEEN_CANDY",
+                      "@amount": "10-15",
+                      "@chance": "1"
                     }
                   ]
                 },
@@ -12943,6 +12978,11 @@
                     {
                       "@type": "UNIQUE_UNLOCK_SKIN_DONKEY_HALLOWEEN",
                       "@chance": "0.014601"
+                    },
+                    {
+                      "@type": "UNIQUE_CONSUMABLE_EVENT_HALLOWEEN_CANDY",
+                      "@amount": "10-15",
+                      "@chance": "1"
                     }
                   ]
                 },
@@ -12965,6 +13005,11 @@
                     {
                       "@type": "UNIQUE_UNLOCK_SKIN_DONKEY_HALLOWEEN",
                       "@chance": "0.022931"
+                    },
+                    {
+                      "@type": "UNIQUE_CONSUMABLE_EVENT_HALLOWEEN_CANDY",
+                      "@amount": "10-15",
+                      "@chance": "1"
                     }
                   ]
                 },
@@ -12987,6 +13032,11 @@
                     {
                       "@type": "UNIQUE_UNLOCK_SKIN_DONKEY_HALLOWEEN",
                       "@chance": "0.03309"
+                    },
+                    {
+                      "@type": "UNIQUE_CONSUMABLE_EVENT_HALLOWEEN_CANDY",
+                      "@amount": "10-15",
+                      "@chance": "1"
                     }
                   ]
                 }
@@ -13033,6 +13083,11 @@
                     {
                       "@type": "UNIQUE_UNLOCK_SKIN_DONKEY_HALLOWEEN",
                       "@chance": "0.04588"
+                    },
+                    {
+                      "@type": "UNIQUE_CONSUMABLE_EVENT_HALLOWEEN_CANDY",
+                      "@amount": "15-25",
+                      "@chance": "1"
                     }
                   ]
                 },
@@ -13055,6 +13110,11 @@
                     {
                       "@type": "UNIQUE_UNLOCK_SKIN_DONKEY_HALLOWEEN",
                       "@chance": "0.06118"
+                    },
+                    {
+                      "@type": "UNIQUE_CONSUMABLE_EVENT_HALLOWEEN_CANDY",
+                      "@amount": "15-25",
+                      "@chance": "1"
                     }
                   ]
                 },
@@ -13077,6 +13137,11 @@
                     {
                       "@type": "UNIQUE_UNLOCK_SKIN_DONKEY_HALLOWEEN",
                       "@chance": "0.073005"
+                    },
+                    {
+                      "@type": "UNIQUE_CONSUMABLE_EVENT_HALLOWEEN_CANDY",
+                      "@amount": "15-25",
+                      "@chance": "1"
                     }
                   ]
                 },
@@ -13099,6 +13164,11 @@
                     {
                       "@type": "UNIQUE_UNLOCK_SKIN_DONKEY_HALLOWEEN",
                       "@chance": "0.114655"
+                    },
+                    {
+                      "@type": "UNIQUE_CONSUMABLE_EVENT_HALLOWEEN_CANDY",
+                      "@amount": "15-25",
+                      "@chance": "1"
                     }
                   ]
                 },
@@ -13121,6 +13191,11 @@
                     {
                       "@type": "UNIQUE_UNLOCK_SKIN_DONKEY_HALLOWEEN",
                       "@chance": "0.16545"
+                    },
+                    {
+                      "@type": "UNIQUE_CONSUMABLE_EVENT_HALLOWEEN_CANDY",
+                      "@amount": "15-25",
+                      "@chance": "1"
                     }
                   ]
                 }
@@ -21274,6 +21349,11 @@
                     {
                       "@type": "UNIQUE_UNLOCK_SKIN_DONKEY_HALLOWEEN",
                       "@chance": "0.000918"
+                    },
+                    {
+                      "@type": "UNIQUE_CONSUMABLE_EVENT_HALLOWEEN_CANDY",
+                      "@amount": "1-2",
+                      "@chance": "1"
                     }
                   ]
                 },
@@ -21291,6 +21371,11 @@
                     {
                       "@type": "UNIQUE_UNLOCK_SKIN_DONKEY_HALLOWEEN",
                       "@chance": "0.001224"
+                    },
+                    {
+                      "@type": "UNIQUE_CONSUMABLE_EVENT_HALLOWEEN_CANDY",
+                      "@amount": "1-2",
+                      "@chance": "1"
                     }
                   ],
                   "LootListReference": [
@@ -21335,6 +21420,11 @@
                     {
                       "@type": "UNIQUE_UNLOCK_SKIN_DONKEY_HALLOWEEN",
                       "@chance": "0.00146"
+                    },
+                    {
+                      "@type": "UNIQUE_CONSUMABLE_EVENT_HALLOWEEN_CANDY",
+                      "@amount": "1-2",
+                      "@chance": "1"
                     }
                   ],
                   "LootListReference": [
@@ -21379,6 +21469,11 @@
                     {
                       "@type": "UNIQUE_UNLOCK_SKIN_DONKEY_HALLOWEEN",
                       "@chance": "0.002293"
+                    },
+                    {
+                      "@type": "UNIQUE_CONSUMABLE_EVENT_HALLOWEEN_CANDY",
+                      "@amount": "1-2",
+                      "@chance": "1"
                     }
                   ],
                   "LootListReference": [
@@ -21423,6 +21518,11 @@
                     {
                       "@type": "UNIQUE_UNLOCK_SKIN_DONKEY_HALLOWEEN",
                       "@chance": "0.003309"
+                    },
+                    {
+                      "@type": "UNIQUE_CONSUMABLE_EVENT_HALLOWEEN_CANDY",
+                      "@amount": "1-2",
+                      "@chance": "1"
                     }
                   ],
                   "LootListReference": [
@@ -21486,6 +21586,11 @@
                     {
                       "@type": "UNIQUE_UNLOCK_SKIN_DONKEY_HALLOWEEN",
                       "@chance": "0.001835"
+                    },
+                    {
+                      "@type": "UNIQUE_CONSUMABLE_EVENT_HALLOWEEN_CANDY",
+                      "@amount": "2-3",
+                      "@chance": "1"
                     }
                   ]
                 },
@@ -21503,6 +21608,11 @@
                     {
                       "@type": "UNIQUE_UNLOCK_SKIN_DONKEY_HALLOWEEN",
                       "@chance": "0.002447"
+                    },
+                    {
+                      "@type": "UNIQUE_CONSUMABLE_EVENT_HALLOWEEN_CANDY",
+                      "@amount": "2-3",
+                      "@chance": "1"
                     }
                   ],
                   "LootListReference": [
@@ -21547,6 +21657,11 @@
                     {
                       "@type": "UNIQUE_UNLOCK_SKIN_DONKEY_HALLOWEEN",
                       "@chance": "0.00292"
+                    },
+                    {
+                      "@type": "UNIQUE_CONSUMABLE_EVENT_HALLOWEEN_CANDY",
+                      "@amount": "2-3",
+                      "@chance": "1"
                     }
                   ],
                   "LootListReference": [
@@ -21591,6 +21706,11 @@
                     {
                       "@type": "UNIQUE_UNLOCK_SKIN_DONKEY_HALLOWEEN",
                       "@chance": "0.004586"
+                    },
+                    {
+                      "@type": "UNIQUE_CONSUMABLE_EVENT_HALLOWEEN_CANDY",
+                      "@amount": "2-3",
+                      "@chance": "1"
                     }
                   ],
                   "LootListReference": [
@@ -21635,6 +21755,11 @@
                     {
                       "@type": "UNIQUE_UNLOCK_SKIN_DONKEY_HALLOWEEN",
                       "@chance": "0.006618"
+                    },
+                    {
+                      "@type": "UNIQUE_CONSUMABLE_EVENT_HALLOWEEN_CANDY",
+                      "@amount": "2-3",
+                      "@chance": "1"
                     }
                   ],
                   "LootListReference": [
@@ -21698,6 +21823,11 @@
                     {
                       "@type": "UNIQUE_UNLOCK_SKIN_DONKEY_HALLOWEEN",
                       "@chance": "0.009176"
+                    },
+                    {
+                      "@type": "UNIQUE_CONSUMABLE_EVENT_HALLOWEEN_CANDY",
+                      "@amount": "3-5",
+                      "@chance": "1"
                     }
                   ]
                 },
@@ -21715,6 +21845,11 @@
                     {
                       "@type": "UNIQUE_UNLOCK_SKIN_DONKEY_HALLOWEEN",
                       "@chance": "0.012236"
+                    },
+                    {
+                      "@type": "UNIQUE_CONSUMABLE_EVENT_HALLOWEEN_CANDY",
+                      "@amount": "3-5",
+                      "@chance": "1"
                     }
                   ],
                   "LootListReference": [
@@ -21759,6 +21894,11 @@
                     {
                       "@type": "UNIQUE_UNLOCK_SKIN_DONKEY_HALLOWEEN",
                       "@chance": "0.014601"
+                    },
+                    {
+                      "@type": "UNIQUE_CONSUMABLE_EVENT_HALLOWEEN_CANDY",
+                      "@amount": "3-5",
+                      "@chance": "1"
                     }
                   ],
                   "LootListReference": [
@@ -21803,6 +21943,11 @@
                     {
                       "@type": "UNIQUE_UNLOCK_SKIN_DONKEY_HALLOWEEN",
                       "@chance": "0.022931"
+                    },
+                    {
+                      "@type": "UNIQUE_CONSUMABLE_EVENT_HALLOWEEN_CANDY",
+                      "@amount": "3-5",
+                      "@chance": "1"
                     }
                   ],
                   "LootListReference": [
@@ -21847,6 +21992,11 @@
                     {
                       "@type": "UNIQUE_UNLOCK_SKIN_DONKEY_HALLOWEEN",
                       "@chance": "0.03309"
+                    },
+                    {
+                      "@type": "UNIQUE_CONSUMABLE_EVENT_HALLOWEEN_CANDY",
+                      "@amount": "3-5",
+                      "@chance": "1"
                     }
                   ],
                   "LootListReference": [

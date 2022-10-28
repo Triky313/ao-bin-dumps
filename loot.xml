@@ -24081,6 +24081,9 @@
       <Item type="UNIQUE_UNLOCK_SKIN_ARMORED_HORSE_T7_GUILD_NON_TRADABLE" amount="1" weight="1"/>
       <Item type="UNIQUE_UNLOCK_SKIN_OX_BISON_AH_NON_TRADABLE" amount="1" weight="1"/>
       <Item type="UNIQUE_UNLOCK_HEAD_VANITY_ENTERTAINER_NON_TRADABLE" amount="1" weight="1"/>
+      <Item type="UNIQUE_UNLOCK_ARMOR_VANITY_ENTERTAINER_NON_TRADABLE" amount="1" weight="1"/>
+      <Item type="UNIQUE_UNLOCK_SHOES_VANITY_ENTERTAINER_NON_TRADABLE" amount="1" weight="1"/>
+      
     </OR>
   </Lootlist>
   <Lootlist name ="COMMUNITY_CHEST_SKIN_T7">
@@ -24096,6 +24099,7 @@
   <Lootlist name="COMMUNITY_CHEST_SKIN_T8">
     <OR>
       <Item type="UNIQUE_UNLOCK_SKIN_COUGAR_AMETHYST" amount="1" weight="1"/>
+      <Item type="UNIQUE_UNLOCK_SKIN_HORSE_UNICORN_AMETHYST" amount="1" weight="1"/>
       <Item type="UNIQUE_UNLOCK_SKIN_GIANTSTAG_ALPACA_BROWN" amount="1" weight="1"/>
     </OR>
   </Lootlist>
@@ -24135,11 +24139,19 @@
       <OR weight="25">
         <Item type="T1_KILL_EMOTE_OVERGROWN_CHARGES_NONTRADABLE" amount="5" weight="1"/>
         <Item type="T1_KILL_EMOTE_FLAG_CHARGES_NONTRADABLE" amount="5" weight="1"/>
+        <OR weight="1">
+          <Item type="T1_KILL_EMOTE_FLAG_MOBILE_CHARGES_NONTRADABLE" amount="5" weight="1"/>
+          <Item type="T1_KILL_EMOTE_FLAG_DESKTOP_CHARGES_NONTRADABLE" amount="5" weight="1"/>
+          <Item type="T1_KILL_EMOTE_FLAG_CONTROLLER_CHARGES_NONTRADABLE" amount="5" weight="1"/>
+        </OR>
       </OR>
       <OR weight="5">
         <Item type="T1_KILL_EMOTE_TOMBSTONE_CHARGES_NONTRADABLE" amount="5" weight="1"/>
         <Item type="T1_KILL_EMOTE_GHOST_CHARGES_NONTRADABLE" amount="5" weight="1"/>
+        <Item type="T1_KILL_EMOTE_SWORD_CHARGES_NONTRADABLE" amount="5" weight="1"/>
+        <Item type="T1_KILL_EMOTE_HAMMER_CHARGES_NONTRADABLE" amount="5" weight="1"/>
       </OR>
+      <Item type="T1_KILL_EMOTE_HELLGATE_CHARGES_NONTRADABLE" amount="5" weight="1"/>
     </OR>
   </Lootlist>
   <Lootlist name="COMMUNITY_CHEST_KILL_EMOTES_PREMIUM">
@@ -24153,7 +24165,20 @@
           <Item type="T1_KILL_EMOTE_FLAG_CHARGES_NONTRADABLE" amount="5"/>
           <Item type="T1_KILL_EMOTE_FLAG_CHARGES_TRADABLE" amount="1"/>
         </AND>
-
+        <OR weight="1">
+          <AND weight="1">
+            <Item type="T1_KILL_EMOTE_FLAG_MOBILE_CHARGES_NONTRADABLE" amount="5"/>
+            <Item type="T1_KILL_EMOTE_FLAG_MOBILE_CHARGES_TRADABLE" amount="1"/>
+          </AND>
+          <AND weight="1">
+            <Item type="T1_KILL_EMOTE_FLAG_DESKTOP_CHARGES_NONTRADABLE" amount="5"/>
+            <Item type="T1_KILL_EMOTE_FLAG_DESKTOP_CHARGES_TRADABLE" amount="1"/>
+          </AND>
+           <AND weight="1">
+            <Item type="T1_KILL_EMOTE_FLAG_CONTROLLER_CHARGES_NONTRADABLE" amount="5"/>
+            <Item type="T1_KILL_EMOTE_FLAG_CONTROLLER_CHARGES_TRADABLE" amount="1"/>
+          </AND>
+        </OR>
       </OR>
       <OR weight="5">
         <AND weight="1">
@@ -24163,8 +24188,22 @@
         <AND weight="1">
           <Item type="T1_KILL_EMOTE_GHOST_CHARGES_NONTRADABLE" amount="5"/>
           <Item type="T1_KILL_EMOTE_GHOST_CHARGES_TRADABLE" amount="1"/>
-        </AND>  
+        </AND>
+        <AND weight="1">
+          <Item type="T1_KILL_EMOTE_SWORD_CHARGES_NONTRADABLE" amount="5"/>
+          <Item type="T1_KILL_EMOTE_SWORD_CHARGES_TRADABLE" amount="1"/>
+        </AND>
+        <AND weight="1">
+          <Item type="T1_KILL_EMOTE_HAMMER_CHARGES_NONTRADABLE" amount="5"/>
+          <Item type="T1_KILL_EMOTE_HAMMER_CHARGES_TRADABLE" amount="1"/>
+        </AND>
       </OR>
+      <AND weight="1">
+        <AND weight="1">
+          <Item type="T1_KILL_EMOTE_HELLGATE_CHARGES_NONTRADABLE" amount="5"/>
+          <Item type="T1_KILL_EMOTE_HELLGATE_CHARGES_TRADABLE" amount="1"/>
+        </AND>
+      </AND>
     </OR>
   </Lootlist>
   

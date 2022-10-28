@@ -5924,9 +5924,6 @@
         </eventtime>
       </day>
       <day number="2">
-        <eventtimecastle>
-          <castlescoringstart/>
-        </eventtimecastle>
         <eventtime utctime="01:00:00Z">
           <clusterfilter>
             <timeregion name="BR_00_00" />
@@ -5947,9 +5944,6 @@
         </eventtime>
       </day>
       <day number="29">
-        <eventtimecastle>
-          <castlescoringend/>
-        </eventtimecastle>
         <eventtime utctime="00:00:01Z" calculateusingclustertimezone="true">
           <territorybattleend/>
           <territoryscoringend/>
@@ -5973,9 +5967,6 @@
         </eventtime>
       </day>
       <day number="30">
-        <eventtimecastle>
-          <castlescoringstart/>
-        </eventtimecastle>
         <eventtime utctime="01:00:00Z">
           <clusterfilter>
             <timeregion name="BR_00_00" />
@@ -5995,9 +5986,6 @@
         </eventtime>
       </day>
       <day number="57">
-        <eventtimecastle>
-          <castlescoringend/>
-        </eventtimecastle>
         <eventtime utctime="00:00:01Z" calculateusingclustertimezone="true">
           <territorybattleend/>
           <territoryscoringend/>
@@ -6022,9 +6010,6 @@
         </eventtime>
       </day>
       <day number="58">
-        <eventtimecastle>
-          <castlescoringstart/>
-        </eventtimecastle>
         <eventtime utctime="01:00:00Z">
           <clusterfilter>
             <timeregion name="BR_00_00" />
@@ -6044,9 +6029,6 @@
         </eventtime>
       </day>
       <day number="78">
-        <eventtimecastle>
-          <castlescoringend/>
-        </eventtimecastle>
         <eventtime utctime="00:00:01Z" calculateusingclustertimezone="true">
           <territorybattleend/>
           <territoryscoringend/>
@@ -6249,9 +6231,6 @@
         </eventtime>
       </day>
       <day number="2">
-        <eventtimecastle>
-          <castlescoringstart/>
-        </eventtimecastle>
         <eventtime utctime="01:00:00Z">
           <clusterfilter>
             <timeregion name="BR_00_00" />
@@ -6272,9 +6251,6 @@
         </eventtime>
       </day>
       <day number="29">
-        <eventtimecastle>
-          <castlescoringend/>
-        </eventtimecastle>
         <eventtime utctime="00:00:01Z" calculateusingclustertimezone="true">
           <territorybattleend/>
           <territoryscoringend/>
@@ -6298,9 +6274,6 @@
         </eventtime>
       </day>
       <day number="30">
-        <eventtimecastle>
-          <castlescoringstart/>
-        </eventtimecastle>
         <eventtime utctime="01:00:00Z">
           <clusterfilter>
             <timeregion name="BR_00_00" />
@@ -6320,9 +6293,6 @@
         </eventtime>
       </day>
       <day number="57">
-        <eventtimecastle>
-          <castlescoringend/>
-        </eventtimecastle>
         <eventtime utctime="00:00:01Z" calculateusingclustertimezone="true">
           <territorybattleend/>
           <territoryscoringend/>
@@ -6347,9 +6317,6 @@
         </eventtime>
       </day>
       <day number="58">
-        <eventtimecastle>
-          <castlescoringstart/>
-        </eventtimecastle>
         <eventtime utctime="01:00:00Z">
           <clusterfilter>
             <timeregion name="BR_00_00" />
@@ -6369,9 +6336,6 @@
         </eventtime>
       </day>
       <day number="85">
-        <eventtimecastle>
-          <castlescoringend/>
-        </eventtimecastle>
         <eventtime utctime="00:00:01Z" calculateusingclustertimezone="true">
           <territorybattleend/>
           <territoryscoringend/>

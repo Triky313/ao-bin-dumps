@@ -1705,19 +1705,9 @@
         "@uniquename": "GUILDFINDERINTRO_07",
         "@title": "@HINT_TITLE_GUILDFINDERINTRO_RECOMMENDATIONS",
         "@infotext": "@HINT_INFO_GUILDFINDERINTRO_07",
-        "@nexthint": "GUILDFINDERINTRO_08",
-        "@blockworldinteraction": "true",
-        "@triggerui": "guildfinderrecommendationsresults",
-        "@mobileposition": "BottomRight",
-        "@requiredgui": "GuildFinder"
-      },
-      {
-        "@uniquename": "GUILDFINDERINTRO_08",
-        "@title": "@HINT_TITLE_GUILDFINDERINTRO_RECOMMENDATIONS",
-        "@infotext": "@HINT_INFO_GUILDFINDERINTRO_08",
         "@nexthint": "GUILDFINDERINTRO_09",
         "@blockworldinteraction": "true",
-        "@triggerui": "guildfinderrecommendationsmoreinfo",
+        "@triggerui": "guildfinderrecommendationsresults",
         "@mobileposition": "BottomRight",
         "@requiredgui": "GuildFinder"
       },

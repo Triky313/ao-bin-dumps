@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <buildings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="buildings.xsd">
   <!-- TUTORIAL -->
 
@@ -2949,6 +2949,7 @@
       <craftitem uniquename="T3_VANITY_CONSUMABLE_FIREWORKS_GREEN" category="@BUILDING_ITEMS_CATEGORY_POTIONS" displaygroup="2" />
       <craftitem uniquename="T3_VANITY_CONSUMABLE_FIREWORKS_YELLOW" category="@BUILDING_ITEMS_CATEGORY_POTIONS" displaygroup="2" />
       <craftitem uniquename="T3_VANITY_CONSUMABLE_FIREWORKS_RED" category="@BUILDING_ITEMS_CATEGORY_POTIONS" displaygroup="2" />
+      <craftitem uniquename="T1_KILL_EMOTE_HELLGATE_CHARGES_NONTRADABLE" category="@BUILDING_ITEMS_CATEGORY_COMMUNITY" displaygroup="5"/>
       <craftitem uniquename="T2_FURNITUREITEM_GUILDBANNER_FABRIC" category="@BUILDING_ITEMS_CATEGORY_FURNITURE" displaygroup="2" />
       <craftitem uniquename="T2_FURNITUREITEM_GUILDBANNER_SHIELD" category="@BUILDING_ITEMS_CATEGORY_FURNITURE" displaygroup="2" />
       <craftitem uniquename="T3_FURNITUREITEM_GUILDBANNER_FABRIC" category="@BUILDING_ITEMS_CATEGORY_FURNITURE" displaygroup="3" />
@@ -2957,6 +2958,7 @@
       <craftitem uniquename="T4_FURNITUREITEM_GUILDBANNER_SHIELD" category="@BUILDING_ITEMS_CATEGORY_FURNITURE" displaygroup="4" />
       <craftitem uniquename="T5_FURNITUREITEM_GUILDBANNER_FABRIC" category="@BUILDING_ITEMS_CATEGORY_FURNITURE" displaygroup="5" />
       <craftitem uniquename="T5_FURNITUREITEM_GUILDBANNER_SHIELD" category="@BUILDING_ITEMS_CATEGORY_FURNITURE" displaygroup="5" />
+      <craftitem uniquename="UNIQUE_UNLOCK_SKIN_HORSE_UNICORN_AMETHYST" category="@BUILDING_ITEMS_CATEGORY_COMMUNITY" displaygroup="5"/>
       <craftitem uniquename="UNIQUE_UNLOCK_SKIN_COUGAR_AMETHYST" category="@BUILDING_ITEMS_CATEGORY_COMMUNITY" displaygroup="5" />
       <craftitem uniquename="UNIQUE_UNLOCK_SKIN_GIANTSTAG_ALPACA_BROWN" category="@BUILDING_ITEMS_CATEGORY_COMMUNITY" displaygroup="5" />
       <craftitem uniquename="UNIQUE_UNLOCK_CAPE_VANITY_HYENA_NON_TRADABLE" category="@BUILDING_ITEMS_CATEGORY_COMMUNITY" displaygroup="5" />
@@ -2964,9 +2966,13 @@
       <craftitem uniquename="UNIQUE_UNLOCK_SKIN_ARMORED_HORSE_T8_GUILD_NON_TRADABLE" category="@BUILDING_ITEMS_CATEGORY_COMMUNITY" displaygroup="5" />
       <craftitem uniquename="UNIQUE_UNLOCK_SKIN_OX_BISON_ROYAL_NON_TRADABLE" category="@BUILDING_ITEMS_CATEGORY_COMMUNITY" displaygroup="5" />
       <craftitem uniquename="UNIQUE_UNLOCK_SKIN_HORSE_UNICORN_NON_TRADABLE" category="@BUILDING_ITEMS_CATEGORY_COMMUNITY" displaygroup="5" />
+      <craftitem uniquename="T1_KILL_EMOTE_SWORD_CHARGES_NONTRADABLE" category="@BUILDING_ITEMS_CATEGORY_COMMUNITY" displaygroup="5"/>
+      <craftitem uniquename="T1_KILL_EMOTE_HAMMER_CHARGES_NONTRADABLE" category="@BUILDING_ITEMS_CATEGORY_COMMUNITY" displaygroup="5"/>
       <craftitem uniquename="T1_KILL_EMOTE_TOMBSTONE_CHARGES_NONTRADABLE" category="@BUILDING_ITEMS_CATEGORY_COMMUNITY" displaygroup="5" />
       <craftitem uniquename="T1_KILL_EMOTE_GHOST_CHARGES_NONTRADABLE" category="@BUILDING_ITEMS_CATEGORY_COMMUNITY" displaygroup="5" />
       <craftitem uniquename="UNIQUE_UNLOCK_HEAD_VANITY_ENTERTAINER_NON_TRADABLE" category="@BUILDING_ITEMS_CATEGORY_COMMUNITY" displaygroup="5" />
+      <craftitem uniquename="UNIQUE_UNLOCK_ARMOR_VANITY_ENTERTAINER_NON_TRADABLE" category="@BUILDING_ITEMS_CATEGORY_COMMUNITY" displaygroup="5"/>
+      <craftitem uniquename="UNIQUE_UNLOCK_SHOES_VANITY_ENTERTAINER_NON_TRADABLE" category="@BUILDING_ITEMS_CATEGORY_COMMUNITY" displaygroup="5"/>
       <craftitem uniquename="UNIQUE_UNLOCK_ARMOR_VANITY_INNKEEPER_NON_TRADABLE" category="@BUILDING_ITEMS_CATEGORY_COMMUNITY" displaygroup="5" />
       <craftitem uniquename="UNIQUE_UNLOCK_ARMOR_VANITY_PIRATE_NON_TRADABLE" category="@BUILDING_ITEMS_CATEGORY_COMMUNITY" displaygroup="5" />
       <craftitem uniquename="UNIQUE_UNLOCK_SKIN_HORSE_KEEPER_NON_TRADABLE" category="@BUILDING_ITEMS_CATEGORY_COMMUNITY" displaygroup="5" />
@@ -2985,6 +2991,9 @@
       <craftitem uniquename="UNIQUE_UNLOCK_ARMOR_VANITY_WEDDING_DRESS_NON_TRADABLE" category="@BUILDING_ITEMS_CATEGORY_COMMUNITY" displaygroup="5" />
       <craftitem uniquename="UNIQUE_UNLOCK_ARMOR_VANITY_WEDDING_TUXEDO_NON_TRADABLE" category="@BUILDING_ITEMS_CATEGORY_COMMUNITY" displaygroup="5" />
       <craftitem uniquename="UNIQUE_UNLOCK_ARMOR_VANITY_BARD_NON_TRADABLE" category="@BUILDING_ITEMS_CATEGORY_COMMUNITY" displaygroup="5" />
+      <craftitem uniquename="T1_KILL_EMOTE_FLAG_MOBILE_CHARGES_NONTRADABLE" category="@BUILDING_ITEMS_CATEGORY_COMMUNITY" displaygroup="5"/>
+      <craftitem uniquename="T1_KILL_EMOTE_FLAG_CONTROLLER_CHARGES_NONTRADABLE" category="@BUILDING_ITEMS_CATEGORY_COMMUNITY" displaygroup="5"/>
+      <craftitem uniquename="T1_KILL_EMOTE_FLAG_DESKTOP_CHARGES_NONTRADABLE" category="@BUILDING_ITEMS_CATEGORY_COMMUNITY" displaygroup="5"/>
       <craftitem uniquename="T1_KILL_EMOTE_FLAG_CHARGES_NONTRADABLE" category="@BUILDING_ITEMS_CATEGORY_COMMUNITY" displaygroup="5" />
       <craftitem uniquename="T1_KILL_EMOTE_OVERGROWN_CHARGES_NONTRADABLE" category="@BUILDING_ITEMS_CATEGORY_COMMUNITY" displaygroup="5" />
       <craftitem uniquename="UNIQUE_UNLOCK_HEAD_VANITY_NIGHTGOWN_NON_TRADABLE" category="@BUILDING_ITEMS_CATEGORY_COMMUNITY" displaygroup="5" />

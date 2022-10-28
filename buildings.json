@@ -7383,6 +7383,11 @@
               "@displaygroup": "2"
             },
             {
+              "@uniquename": "T1_KILL_EMOTE_HELLGATE_CHARGES_NONTRADABLE",
+              "@category": "@BUILDING_ITEMS_CATEGORY_COMMUNITY",
+              "@displaygroup": "5"
+            },
+            {
               "@uniquename": "T2_FURNITUREITEM_GUILDBANNER_FABRIC",
               "@category": "@BUILDING_ITEMS_CATEGORY_FURNITURE",
               "@displaygroup": "2"
@@ -7423,6 +7428,11 @@
               "@displaygroup": "5"
             },
             {
+              "@uniquename": "UNIQUE_UNLOCK_SKIN_HORSE_UNICORN_AMETHYST",
+              "@category": "@BUILDING_ITEMS_CATEGORY_COMMUNITY",
+              "@displaygroup": "5"
+            },
+            {
               "@uniquename": "UNIQUE_UNLOCK_SKIN_COUGAR_AMETHYST",
               "@category": "@BUILDING_ITEMS_CATEGORY_COMMUNITY",
               "@displaygroup": "5"
@@ -7458,6 +7468,16 @@
               "@displaygroup": "5"
             },
             {
+              "@uniquename": "T1_KILL_EMOTE_SWORD_CHARGES_NONTRADABLE",
+              "@category": "@BUILDING_ITEMS_CATEGORY_COMMUNITY",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "T1_KILL_EMOTE_HAMMER_CHARGES_NONTRADABLE",
+              "@category": "@BUILDING_ITEMS_CATEGORY_COMMUNITY",
+              "@displaygroup": "5"
+            },
+            {
               "@uniquename": "T1_KILL_EMOTE_TOMBSTONE_CHARGES_NONTRADABLE",
               "@category": "@BUILDING_ITEMS_CATEGORY_COMMUNITY",
               "@displaygroup": "5"
@@ -7469,6 +7489,16 @@
             },
             {
               "@uniquename": "UNIQUE_UNLOCK_HEAD_VANITY_ENTERTAINER_NON_TRADABLE",
+              "@category": "@BUILDING_ITEMS_CATEGORY_COMMUNITY",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "UNIQUE_UNLOCK_ARMOR_VANITY_ENTERTAINER_NON_TRADABLE",
+              "@category": "@BUILDING_ITEMS_CATEGORY_COMMUNITY",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "UNIQUE_UNLOCK_SHOES_VANITY_ENTERTAINER_NON_TRADABLE",
               "@category": "@BUILDING_ITEMS_CATEGORY_COMMUNITY",
               "@displaygroup": "5"
             },
@@ -7559,6 +7589,21 @@
             },
             {
               "@uniquename": "UNIQUE_UNLOCK_ARMOR_VANITY_BARD_NON_TRADABLE",
+              "@category": "@BUILDING_ITEMS_CATEGORY_COMMUNITY",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "T1_KILL_EMOTE_FLAG_MOBILE_CHARGES_NONTRADABLE",
+              "@category": "@BUILDING_ITEMS_CATEGORY_COMMUNITY",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "T1_KILL_EMOTE_FLAG_CONTROLLER_CHARGES_NONTRADABLE",
+              "@category": "@BUILDING_ITEMS_CATEGORY_COMMUNITY",
+              "@displaygroup": "5"
+            },
+            {
+              "@uniquename": "T1_KILL_EMOTE_FLAG_DESKTOP_CHARGES_NONTRADABLE",
               "@category": "@BUILDING_ITEMS_CATEGORY_COMMUNITY",
               "@displaygroup": "5"
             },
