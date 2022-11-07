@@ -521,11 +521,10 @@
   <!--ROAMING AVALONIAN ROADS Avalonians -->
   <spawnbehavior name="ROAMING_ROAD_AVALONIAN_ALL">
     <clustertype tier="4" respawntimesecondsmin="1800" respawntimesecondsmax="5400" rerolltimesecondsmin="1800" rerolltimesecondsmax="5400" charges="1">
-      <mob name="T4_MOB_ROAMING_AVALON_MINION_VETERAN"         weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T4_MOB_ROAMING_AVALON_MINION_SCOUT_VETERAN"   weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T4_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN" weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T4_MOB_ROAMING_AVALON_MINION_LAMP_VETERAN"    weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T4_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="1723" mobUpgradeLevelIndex="1" />
+      <mob name="T4_MOB_ROAMING_AVALON_MINION_VETERAN"         weight="2154" mobUpgradeLevelIndex="1" />
+      <mob name="T4_MOB_ROAMING_AVALON_MINION_SCOUT_VETERAN"   weight="2154" mobUpgradeLevelIndex="1" />
+      <mob name="T4_MOB_ROAMING_AVALON_MINION_LAMP_VETERAN"    weight="2154" mobUpgradeLevelIndex="1" />
+      <mob name="T4_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="2154" mobUpgradeLevelIndex="1" />
       
       <mob name="T4_MOB_ROAMING_AVALON_PIKEMAN_VETERAN_STANDARD" weight="250" mobUpgradeLevelIndex="2" onlyUpgradeOutsidePlayerInterestArea="false" />
       <mob name="T4_MOB_ROAMING_AVALON_MONK_VETERAN_STANDARD"    weight="250" mobUpgradeLevelIndex="2" onlyUpgradeOutsidePlayerInterestArea="false" />
@@ -545,11 +544,10 @@
       <mob name="T4_MOB_ARCANE_CRYSTALSPIDER_VETERAN_BOSS" weight="10" mobUpgradeLevelIndex="11" onlyUpgradeOutsidePlayerInterestArea="false" allowUpgrade="false" />
     </clustertype>
     <clustertype tier="5" respawntimesecondsmin="1800" respawntimesecondsmax="5400" rerolltimesecondsmin="1800" rerolltimesecondsmax="5400" charges="1">
-      <mob name="T4_MOB_ROAMING_AVALON_MINION_VETERAN"         weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T4_MOB_ROAMING_AVALON_MINION_SCOUT_VETERAN"   weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T4_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN" weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T4_MOB_ROAMING_AVALON_MINION_LAMP_VETERAN"    weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T4_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="1723" mobUpgradeLevelIndex="1" />
+      <mob name="T4_MOB_ROAMING_AVALON_MINION_VETERAN"         weight="2154" mobUpgradeLevelIndex="1" />
+      <mob name="T4_MOB_ROAMING_AVALON_MINION_SCOUT_VETERAN"   weight="2154" mobUpgradeLevelIndex="1" />
+      <mob name="T4_MOB_ROAMING_AVALON_MINION_LAMP_VETERAN"    weight="2154" mobUpgradeLevelIndex="1" />
+      <mob name="T4_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="2154" mobUpgradeLevelIndex="1" />
 
       <mob name="T4_MOB_ROAMING_AVALON_PIKEMAN_VETERAN_STANDARD" weight="250" mobUpgradeLevelIndex="2" onlyUpgradeOutsidePlayerInterestArea="false" />
       <mob name="T4_MOB_ROAMING_AVALON_MONK_VETERAN_STANDARD"    weight="250" mobUpgradeLevelIndex="2" onlyUpgradeOutsidePlayerInterestArea="false" />
@@ -569,11 +567,10 @@
       <mob name="T5_MOB_ARCANE_CRYSTALSPIDER_VETERAN_BOSS" weight="10" mobUpgradeLevelIndex="11" onlyUpgradeOutsidePlayerInterestArea="false" allowUpgrade="false" />
     </clustertype>
     <clustertype tier="6" respawntimesecondsmin="1800" respawntimesecondsmax="5400" rerolltimesecondsmin="1800" rerolltimesecondsmax="5400" charges="1">
-      <mob name="T6_MOB_ROAMING_AVALON_MINION_VETERAN"         weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T6_MOB_ROAMING_AVALON_MINION_SCOUT_VETERAN"   weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T6_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN" weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T6_MOB_ROAMING_AVALON_MINION_LAMP_VETERAN"    weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T6_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="1723" mobUpgradeLevelIndex="1" />
+      <mob name="T6_MOB_ROAMING_AVALON_MINION_VETERAN"         weight="2154" mobUpgradeLevelIndex="1" />
+      <mob name="T6_MOB_ROAMING_AVALON_MINION_SCOUT_VETERAN"   weight="2154" mobUpgradeLevelIndex="1" />
+      <mob name="T6_MOB_ROAMING_AVALON_MINION_LAMP_VETERAN"    weight="2154" mobUpgradeLevelIndex="1" />
+      <mob name="T6_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="2154" mobUpgradeLevelIndex="1" />
 
       <mob name="T6_MOB_ROAMING_AVALON_PIKEMAN_VETERAN_STANDARD" weight="250" mobUpgradeLevelIndex="2" onlyUpgradeOutsidePlayerInterestArea="false" />
       <mob name="T6_MOB_ROAMING_AVALON_MONK_VETERAN_STANDARD"    weight="250" mobUpgradeLevelIndex="2" onlyUpgradeOutsidePlayerInterestArea="false" />
@@ -593,11 +590,10 @@
       <mob name="T6_MOB_ARCANE_CRYSTALSPIDER_VETERAN_BOSS" weight="10" mobUpgradeLevelIndex="11" onlyUpgradeOutsidePlayerInterestArea="false" allowUpgrade="false" />
     </clustertype>
     <clustertype tier="7" respawntimesecondsmin="1800" respawntimesecondsmax="5400" rerolltimesecondsmin="1800" rerolltimesecondsmax="5400" charges="1">
-      <mob name="T6_MOB_ROAMING_AVALON_MINION_VETERAN"         weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T6_MOB_ROAMING_AVALON_MINION_SCOUT_VETERAN"   weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T6_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN" weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T6_MOB_ROAMING_AVALON_MINION_LAMP_VETERAN"    weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T6_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="1723" mobUpgradeLevelIndex="1" />
+      <mob name="T6_MOB_ROAMING_AVALON_MINION_VETERAN"         weight="2154" mobUpgradeLevelIndex="1" />
+      <mob name="T6_MOB_ROAMING_AVALON_MINION_SCOUT_VETERAN"   weight="2154" mobUpgradeLevelIndex="1" />
+      <mob name="T6_MOB_ROAMING_AVALON_MINION_LAMP_VETERAN"    weight="2154" mobUpgradeLevelIndex="1" />
+      <mob name="T6_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="2154" mobUpgradeLevelIndex="1" />
 
       <mob name="T6_MOB_ROAMING_AVALON_PIKEMAN_VETERAN_STANDARD" weight="250" mobUpgradeLevelIndex="2" onlyUpgradeOutsidePlayerInterestArea="false" />
       <mob name="T6_MOB_ROAMING_AVALON_MONK_VETERAN_STANDARD"    weight="250" mobUpgradeLevelIndex="2" onlyUpgradeOutsidePlayerInterestArea="false" />
@@ -617,11 +613,10 @@
       <mob name="T7_MOB_ARCANE_CRYSTALSPIDER_VETERAN_BOSS" weight="10" mobUpgradeLevelIndex="11" onlyUpgradeOutsidePlayerInterestArea="false" allowUpgrade="false" />
     </clustertype>
     <clustertype tier="8" respawntimesecondsmin="1800" respawntimesecondsmax="5400" rerolltimesecondsmin="1800" rerolltimesecondsmax="5400" charges="1">
-      <mob name="T8_MOB_ROAMING_AVALON_MINION_VETERAN"         weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T8_MOB_ROAMING_AVALON_MINION_SCOUT_VETERAN"   weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T8_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN" weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T8_MOB_ROAMING_AVALON_MINION_LAMP_VETERAN"    weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T8_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="1723" mobUpgradeLevelIndex="1" />
+      <mob name="T8_MOB_ROAMING_AVALON_MINION_VETERAN"         weight="2154" mobUpgradeLevelIndex="1" />
+      <mob name="T8_MOB_ROAMING_AVALON_MINION_SCOUT_VETERAN"   weight="2154" mobUpgradeLevelIndex="1" />
+      <mob name="T8_MOB_ROAMING_AVALON_MINION_LAMP_VETERAN"    weight="2154" mobUpgradeLevelIndex="1" />
+      <mob name="T8_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="2154" mobUpgradeLevelIndex="1" />
 
       <mob name="T8_MOB_ROAMING_AVALON_PIKEMAN_VETERAN_STANDARD" weight="250" mobUpgradeLevelIndex="2" onlyUpgradeOutsidePlayerInterestArea="false" />
       <mob name="T8_MOB_ROAMING_AVALON_MONK_VETERAN_STANDARD"    weight="250" mobUpgradeLevelIndex="2" onlyUpgradeOutsidePlayerInterestArea="false" />
@@ -647,8 +642,7 @@
   <!--ROAMING AVALONIAN ROADS Avalonians Melee-->
   <spawnbehavior name="ROAMING_ROAD_AVALONIAN_MELEE">
     <clustertype tier="4" respawntimesecondsmin="1800" respawntimesecondsmax="5400" rerolltimesecondsmin="1800" rerolltimesecondsmax="5400" charges="1">
-      <mob name="T4_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN" weight="4483" mobUpgradeLevelIndex="1" />
-      <mob name="T4_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="4483" mobUpgradeLevelIndex="1" />
+      <mob name="T4_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="8966" mobUpgradeLevelIndex="1" />
       <mob name="T4_MOB_ROAMING_AVALON_PIKEMAN_VETERAN_STANDARD" weight="450" mobUpgradeLevelIndex="2" onlyUpgradeOutsidePlayerInterestArea="false" />
       <mob name="T4_MOB_ROAMING_AVALON_MONK_VETERAN_STANDARD"    weight="450" mobUpgradeLevelIndex="2" onlyUpgradeOutsidePlayerInterestArea="false" />
       <mob name="T4_MOB_ROAMING_AVALON_PIKEMAN_VETERAN_CHAMPION" weight="50" mobUpgradeLevelIndex="4" onlyUpgradeOutsidePlayerInterestArea="false" />
@@ -658,8 +652,7 @@
       <mob name="T4_MOB_ARCANE_CRYSTALSPIDER_VETERAN_BOSS" weight="10" mobUpgradeLevelIndex="11" allowUpgrade="false" />
     </clustertype>
     <clustertype tier="5" respawntimesecondsmin="1800" respawntimesecondsmax="5400" rerolltimesecondsmin="1800" rerolltimesecondsmax="5400" charges="1">
-      <mob name="T4_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN" weight="4483" mobUpgradeLevelIndex="1" />
-      <mob name="T4_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="4483" mobUpgradeLevelIndex="1" />
+      <mob name="T4_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="8966" mobUpgradeLevelIndex="1" />
       <mob name="T4_MOB_ROAMING_AVALON_PIKEMAN_VETERAN_STANDARD" weight="450" mobUpgradeLevelIndex="2" onlyUpgradeOutsidePlayerInterestArea="false" />
       <mob name="T4_MOB_ROAMING_AVALON_MONK_VETERAN_STANDARD"    weight="450" mobUpgradeLevelIndex="2" onlyUpgradeOutsidePlayerInterestArea="false" />
       <mob name="T4_MOB_ROAMING_AVALON_PIKEMAN_VETERAN_CHAMPION" weight="50" mobUpgradeLevelIndex="4" onlyUpgradeOutsidePlayerInterestArea="false" />
@@ -669,8 +662,7 @@
       <mob name="T5_MOB_ARCANE_CRYSTALSPIDER_VETERAN_BOSS" weight="10" mobUpgradeLevelIndex="11" allowUpgrade="false" />
     </clustertype>
     <clustertype tier="6" respawntimesecondsmin="1800" respawntimesecondsmax="5400" rerolltimesecondsmin="1800" rerolltimesecondsmax="5400" charges="1">
-      <mob name="T6_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN" weight="4483" mobUpgradeLevelIndex="1" />
-      <mob name="T6_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="4483" mobUpgradeLevelIndex="1" />
+      <mob name="T6_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="8966" mobUpgradeLevelIndex="1" />
       <mob name="T6_MOB_ROAMING_AVALON_PIKEMAN_VETERAN_STANDARD" weight="450" mobUpgradeLevelIndex="2" onlyUpgradeOutsidePlayerInterestArea="false" />
       <mob name="T6_MOB_ROAMING_AVALON_MONK_VETERAN_STANDARD"    weight="450" mobUpgradeLevelIndex="2" onlyUpgradeOutsidePlayerInterestArea="false" />
       <mob name="T6_MOB_ROAMING_AVALON_PIKEMAN_VETERAN_CHAMPION" weight="50" mobUpgradeLevelIndex="4" onlyUpgradeOutsidePlayerInterestArea="false" />
@@ -680,8 +672,7 @@
       <mob name="T6_MOB_ARCANE_CRYSTALSPIDER_VETERAN_BOSS" weight="10" mobUpgradeLevelIndex="11" allowUpgrade="false" />
     </clustertype>
     <clustertype tier="7" respawntimesecondsmin="1800" respawntimesecondsmax="5400" rerolltimesecondsmin="1800" rerolltimesecondsmax="5400" charges="1">
-      <mob name="T6_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN" weight="4483" mobUpgradeLevelIndex="1" />
-      <mob name="T6_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="4483" mobUpgradeLevelIndex="1" />
+      <mob name="T6_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="8966" mobUpgradeLevelIndex="1" />
       <mob name="T6_MOB_ROAMING_AVALON_PIKEMAN_VETERAN_STANDARD" weight="450" mobUpgradeLevelIndex="2" onlyUpgradeOutsidePlayerInterestArea="false" />
       <mob name="T6_MOB_ROAMING_AVALON_MONK_VETERAN_STANDARD"    weight="450" mobUpgradeLevelIndex="2" onlyUpgradeOutsidePlayerInterestArea="false" />
       <mob name="T6_MOB_ROAMING_AVALON_PIKEMAN_VETERAN_CHAMPION" weight="50" mobUpgradeLevelIndex="4" onlyUpgradeOutsidePlayerInterestArea="false" />
@@ -691,8 +682,7 @@
       <mob name="T7_MOB_ARCANE_CRYSTALSPIDER_VETERAN_BOSS" weight="10" mobUpgradeLevelIndex="11" allowUpgrade="false" />
     </clustertype>
     <clustertype tier="8" respawntimesecondsmin="1800" respawntimesecondsmax="5400" rerolltimesecondsmin="1800" rerolltimesecondsmax="5400" charges="1">
-      <mob name="T8_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN" weight="4483" mobUpgradeLevelIndex="1" />
-      <mob name="T8_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="4483" mobUpgradeLevelIndex="1" />
+      <mob name="T8_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="8966" mobUpgradeLevelIndex="1" />
       <mob name="T8_MOB_ROAMING_AVALON_PIKEMAN_VETERAN_STANDARD" weight="450" mobUpgradeLevelIndex="2" onlyUpgradeOutsidePlayerInterestArea="false" />
       <mob name="T8_MOB_ROAMING_AVALON_MONK_VETERAN_STANDARD"    weight="450" mobUpgradeLevelIndex="2" onlyUpgradeOutsidePlayerInterestArea="false" />
       <mob name="T8_MOB_ROAMING_AVALON_PIKEMAN_VETERAN_CHAMPION" weight="50" mobUpgradeLevelIndex="4" onlyUpgradeOutsidePlayerInterestArea="false" />
@@ -1009,11 +999,10 @@
       <mob name="T7_MOB_ROAMING_AVALON_TREASURE_MINION_LEGENDARY" weight="11" mobUpgradeLevelIndex="9" allowUpgrade="false" />
     </clustertype>
     <clustertype tier="4" continents="Avalon" respawntimesecondsmin="1800" respawntimesecondsmax="5400" charges="1" rerolltimesecondsmin="1800" rerolltimesecondsmax="5400">
-      <mob name="T4_MOB_ROAMING_AVALON_MINION_VETERAN"         weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T4_MOB_ROAMING_AVALON_MINION_SCOUT_VETERAN"   weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T4_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN" weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T4_MOB_ROAMING_AVALON_MINION_LAMP_VETERAN"    weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T4_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="1723" mobUpgradeLevelIndex="1" />
+      <mob name="T4_MOB_ROAMING_AVALON_MINION_VETERAN"         weight="2154" mobUpgradeLevelIndex="1" />
+      <mob name="T4_MOB_ROAMING_AVALON_MINION_SCOUT_VETERAN"   weight="2154" mobUpgradeLevelIndex="1" />
+      <mob name="T4_MOB_ROAMING_AVALON_MINION_LAMP_VETERAN"    weight="2154" mobUpgradeLevelIndex="1" />
+      <mob name="T4_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="2154" mobUpgradeLevelIndex="1" />
 
       <mob name="T4_MOB_ROAMING_AVALON_PIKEMAN_VETERAN_STANDARD" weight="250" mobUpgradeLevelIndex="2" onlyUpgradeOutsidePlayerInterestArea="false" />
       <mob name="T4_MOB_ROAMING_AVALON_MONK_VETERAN_STANDARD"    weight="250" mobUpgradeLevelIndex="2" onlyUpgradeOutsidePlayerInterestArea="false" />
@@ -1030,19 +1019,18 @@
 
       <mob name="T4_MOB_ROAMING_AVALON_KNIGHT_VETERAN_BOSS" weight="2" mobUpgradeLevelIndex="8" onlyUpgradeOutsidePlayerInterestArea="false" allowUpgrade="false" />
       
-      <mob name="T5_MOB_ROAMING_AVALON_TREASURE_MINION_STANDARD" weight="679" mobUpgradeLevelIndex="9" allowUpgrade="false" />
-      <mob name="T5_MOB_ROAMING_AVALON_TREASURE_MINION_UNCOMMON" weight="345" mobUpgradeLevelIndex="9" allowUpgrade="false" />
-      <mob name="T5_MOB_ROAMING_AVALON_TREASURE_MINION_RARE" weight="115" mobUpgradeLevelIndex="9" allowUpgrade="false" />
-      <mob name="T5_MOB_ROAMING_AVALON_TREASURE_MINION_LEGENDARY" weight="11" mobUpgradeLevelIndex="9" allowUpgrade="false" />
+      <mob name="T5_MOB_ROAMING_AVALON_TREASURE_MINION_STANDARD" weight="59" mobUpgradeLevelIndex="9" allowUpgrade="false" />
+      <mob name="T5_MOB_ROAMING_AVALON_TREASURE_MINION_UNCOMMON" weight="30" mobUpgradeLevelIndex="9" allowUpgrade="false" />
+      <mob name="T5_MOB_ROAMING_AVALON_TREASURE_MINION_RARE" weight="10" mobUpgradeLevelIndex="9" allowUpgrade="false" />
+      <mob name="T5_MOB_ROAMING_AVALON_TREASURE_MINION_LEGENDARY" weight="1" mobUpgradeLevelIndex="9" allowUpgrade="false" />
 
       <mob name="T4_MOB_ARCANE_CRYSTALSPIDER_VETERAN_BOSS" weight="10" mobUpgradeLevelIndex="11" allowUpgrade="false" />
     </clustertype>
     <clustertype tier="5" continents="Avalon" respawntimesecondsmin="1800" respawntimesecondsmax="5400" charges="1" rerolltimesecondsmin="1800" rerolltimesecondsmax="5400">
-      <mob name="T4_MOB_ROAMING_AVALON_MINION_VETERAN"         weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T4_MOB_ROAMING_AVALON_MINION_SCOUT_VETERAN"   weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T4_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN" weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T4_MOB_ROAMING_AVALON_MINION_LAMP_VETERAN"    weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T4_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="1723" mobUpgradeLevelIndex="1" />
+      <mob name="T4_MOB_ROAMING_AVALON_MINION_VETERAN"         weight="2154" mobUpgradeLevelIndex="1" />
+      <mob name="T4_MOB_ROAMING_AVALON_MINION_SCOUT_VETERAN"   weight="2154" mobUpgradeLevelIndex="1" />
+      <mob name="T4_MOB_ROAMING_AVALON_MINION_LAMP_VETERAN"    weight="2154" mobUpgradeLevelIndex="1" />
+      <mob name="T4_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="2154" mobUpgradeLevelIndex="1" />
 
       <mob name="T4_MOB_ROAMING_AVALON_PIKEMAN_VETERAN_STANDARD" weight="250" mobUpgradeLevelIndex="2" onlyUpgradeOutsidePlayerInterestArea="false" />
       <mob name="T4_MOB_ROAMING_AVALON_MONK_VETERAN_STANDARD"    weight="250" mobUpgradeLevelIndex="2" onlyUpgradeOutsidePlayerInterestArea="false" />
@@ -1059,19 +1047,18 @@
 
       <mob name="T4_MOB_ROAMING_AVALON_KNIGHT_VETERAN_BOSS" weight="2" mobUpgradeLevelIndex="8" onlyUpgradeOutsidePlayerInterestArea="false" allowUpgrade="false" />
       
-      <mob name="T5_MOB_ROAMING_AVALON_TREASURE_MINION_STANDARD" weight="679" mobUpgradeLevelIndex="9" allowUpgrade="false" />
-      <mob name="T5_MOB_ROAMING_AVALON_TREASURE_MINION_UNCOMMON" weight="345" mobUpgradeLevelIndex="9" allowUpgrade="false" />
-      <mob name="T5_MOB_ROAMING_AVALON_TREASURE_MINION_RARE" weight="115" mobUpgradeLevelIndex="9" allowUpgrade="false" />
-      <mob name="T5_MOB_ROAMING_AVALON_TREASURE_MINION_LEGENDARY" weight="11" mobUpgradeLevelIndex="9" allowUpgrade="false" />
+      <mob name="T5_MOB_ROAMING_AVALON_TREASURE_MINION_STANDARD" weight="59" mobUpgradeLevelIndex="9" allowUpgrade="false" />
+      <mob name="T5_MOB_ROAMING_AVALON_TREASURE_MINION_UNCOMMON" weight="30" mobUpgradeLevelIndex="9" allowUpgrade="false" />
+      <mob name="T5_MOB_ROAMING_AVALON_TREASURE_MINION_RARE" weight="10" mobUpgradeLevelIndex="9" allowUpgrade="false" />
+      <mob name="T5_MOB_ROAMING_AVALON_TREASURE_MINION_LEGENDARY" weight="1" mobUpgradeLevelIndex="9" allowUpgrade="false" />
 
       <mob name="T5_MOB_ARCANE_CRYSTALSPIDER_VETERAN_BOSS" weight="10" mobUpgradeLevelIndex="11" allowUpgrade="false" />
     </clustertype>
     <clustertype tier="6" continents="Avalon" respawntimesecondsmin="1800" respawntimesecondsmax="5400" charges="1" rerolltimesecondsmin="1800" rerolltimesecondsmax="5400">
-      <mob name="T6_MOB_ROAMING_AVALON_MINION_VETERAN"         weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T6_MOB_ROAMING_AVALON_MINION_SCOUT_VETERAN"   weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T6_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN" weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T6_MOB_ROAMING_AVALON_MINION_LAMP_VETERAN"    weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T6_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="1723" mobUpgradeLevelIndex="1" />
+      <mob name="T6_MOB_ROAMING_AVALON_MINION_VETERAN"         weight="2154" mobUpgradeLevelIndex="1" />
+      <mob name="T6_MOB_ROAMING_AVALON_MINION_SCOUT_VETERAN"   weight="2154" mobUpgradeLevelIndex="1" />
+      <mob name="T6_MOB_ROAMING_AVALON_MINION_LAMP_VETERAN"    weight="2154" mobUpgradeLevelIndex="1" />
+      <mob name="T6_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="2154" mobUpgradeLevelIndex="1" />
 
       <mob name="T6_MOB_ROAMING_AVALON_PIKEMAN_VETERAN_STANDARD" weight="250" mobUpgradeLevelIndex="2" onlyUpgradeOutsidePlayerInterestArea="false" />
       <mob name="T6_MOB_ROAMING_AVALON_MONK_VETERAN_STANDARD"    weight="250" mobUpgradeLevelIndex="2" onlyUpgradeOutsidePlayerInterestArea="false" />
@@ -1088,19 +1075,18 @@
 
       <mob name="T6_MOB_ROAMING_AVALON_KNIGHT_VETERAN_BOSS" weight="2" mobUpgradeLevelIndex="8" onlyUpgradeOutsidePlayerInterestArea="false" allowUpgrade="false" />
       
-      <mob name="T6_MOB_ROAMING_AVALON_TREASURE_MINION_STANDARD" weight="679" mobUpgradeLevelIndex="9" allowUpgrade="false" />
-      <mob name="T6_MOB_ROAMING_AVALON_TREASURE_MINION_UNCOMMON" weight="345" mobUpgradeLevelIndex="9" allowUpgrade="false" />
-      <mob name="T6_MOB_ROAMING_AVALON_TREASURE_MINION_RARE" weight="115" mobUpgradeLevelIndex="9" allowUpgrade="false" />
-      <mob name="T6_MOB_ROAMING_AVALON_TREASURE_MINION_LEGENDARY" weight="11" mobUpgradeLevelIndex="9" allowUpgrade="false" />
+      <mob name="T6_MOB_ROAMING_AVALON_TREASURE_MINION_STANDARD" weight="59" mobUpgradeLevelIndex="9" allowUpgrade="false" />
+      <mob name="T6_MOB_ROAMING_AVALON_TREASURE_MINION_UNCOMMON" weight="30" mobUpgradeLevelIndex="9" allowUpgrade="false" />
+      <mob name="T6_MOB_ROAMING_AVALON_TREASURE_MINION_RARE" weight="10" mobUpgradeLevelIndex="9" allowUpgrade="false" />
+      <mob name="T6_MOB_ROAMING_AVALON_TREASURE_MINION_LEGENDARY" weight="1" mobUpgradeLevelIndex="9" allowUpgrade="false" />
 
       <mob name="T6_MOB_ARCANE_CRYSTALSPIDER_VETERAN_BOSS" weight="10" mobUpgradeLevelIndex="11" allowUpgrade="false" />
     </clustertype>
     <clustertype tier="7" continents="Avalon" respawntimesecondsmin="1800" respawntimesecondsmax="5400" charges="1" rerolltimesecondsmin="1800" rerolltimesecondsmax="5400">
-      <mob name="T6_MOB_ROAMING_AVALON_MINION_VETERAN"         weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T6_MOB_ROAMING_AVALON_MINION_SCOUT_VETERAN"   weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T6_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN" weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T6_MOB_ROAMING_AVALON_MINION_LAMP_VETERAN"    weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T6_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="1723" mobUpgradeLevelIndex="1" />
+      <mob name="T6_MOB_ROAMING_AVALON_MINION_VETERAN"         weight="2154" mobUpgradeLevelIndex="1" />
+      <mob name="T6_MOB_ROAMING_AVALON_MINION_SCOUT_VETERAN"   weight="2154" mobUpgradeLevelIndex="1" />
+      <mob name="T6_MOB_ROAMING_AVALON_MINION_LAMP_VETERAN"    weight="2154" mobUpgradeLevelIndex="1" />
+      <mob name="T6_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="2154" mobUpgradeLevelIndex="1" />
 
       <mob name="T6_MOB_ROAMING_AVALON_PIKEMAN_VETERAN_STANDARD" weight="250" mobUpgradeLevelIndex="2" onlyUpgradeOutsidePlayerInterestArea="false" />
       <mob name="T6_MOB_ROAMING_AVALON_MONK_VETERAN_STANDARD"    weight="250" mobUpgradeLevelIndex="2" onlyUpgradeOutsidePlayerInterestArea="false" />
@@ -1117,19 +1103,18 @@
 
       <mob name="T6_MOB_ROAMING_AVALON_KNIGHT_VETERAN_BOSS" weight="2" mobUpgradeLevelIndex="8" onlyUpgradeOutsidePlayerInterestArea="false" allowUpgrade="false" />
       
-      <mob name="T7_MOB_ROAMING_AVALON_TREASURE_MINION_STANDARD" weight="679" mobUpgradeLevelIndex="9" allowUpgrade="false" />
-      <mob name="T7_MOB_ROAMING_AVALON_TREASURE_MINION_UNCOMMON" weight="345" mobUpgradeLevelIndex="9" allowUpgrade="false" />
-      <mob name="T7_MOB_ROAMING_AVALON_TREASURE_MINION_RARE" weight="115" mobUpgradeLevelIndex="9" allowUpgrade="false" />
-      <mob name="T7_MOB_ROAMING_AVALON_TREASURE_MINION_LEGENDARY" weight="11" mobUpgradeLevelIndex="9" allowUpgrade="false" />
+      <mob name="T7_MOB_ROAMING_AVALON_TREASURE_MINION_STANDARD" weight="59" mobUpgradeLevelIndex="9" allowUpgrade="false" />
+      <mob name="T7_MOB_ROAMING_AVALON_TREASURE_MINION_UNCOMMON" weight="30" mobUpgradeLevelIndex="9" allowUpgrade="false" />
+      <mob name="T7_MOB_ROAMING_AVALON_TREASURE_MINION_RARE" weight="10" mobUpgradeLevelIndex="9" allowUpgrade="false" />
+      <mob name="T7_MOB_ROAMING_AVALON_TREASURE_MINION_LEGENDARY" weight="1" mobUpgradeLevelIndex="9" allowUpgrade="false" />
 
       <mob name="T7_MOB_ARCANE_CRYSTALSPIDER_VETERAN_BOSS" weight="10" mobUpgradeLevelIndex="11" allowUpgrade="false" />
     </clustertype>
     <clustertype tier="8" continents="Avalon" respawntimesecondsmin="1800" respawntimesecondsmax="5400" charges="1" rerolltimesecondsmin="1800" rerolltimesecondsmax="5400">
-      <mob name="T8_MOB_ROAMING_AVALON_MINION_VETERAN"         weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T8_MOB_ROAMING_AVALON_MINION_SCOUT_VETERAN"   weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T8_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN" weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T8_MOB_ROAMING_AVALON_MINION_LAMP_VETERAN"    weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T8_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="1723" mobUpgradeLevelIndex="1" />
+      <mob name="T8_MOB_ROAMING_AVALON_MINION_VETERAN"         weight="2154" mobUpgradeLevelIndex="1" />
+      <mob name="T8_MOB_ROAMING_AVALON_MINION_SCOUT_VETERAN"   weight="2154" mobUpgradeLevelIndex="1" />
+      <mob name="T8_MOB_ROAMING_AVALON_MINION_LAMP_VETERAN"    weight="2154" mobUpgradeLevelIndex="1" />
+      <mob name="T8_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="2154" mobUpgradeLevelIndex="1" />
 
       <mob name="T8_MOB_ROAMING_AVALON_PIKEMAN_VETERAN_STANDARD" weight="250" mobUpgradeLevelIndex="2" onlyUpgradeOutsidePlayerInterestArea="false" />
       <mob name="T8_MOB_ROAMING_AVALON_MONK_VETERAN_STANDARD"    weight="250" mobUpgradeLevelIndex="2" onlyUpgradeOutsidePlayerInterestArea="false" />
@@ -1146,10 +1131,10 @@
 
       <mob name="T8_MOB_ROAMING_AVALON_KNIGHT_VETERAN_BOSS" weight="2" mobUpgradeLevelIndex="8" onlyUpgradeOutsidePlayerInterestArea="false" allowUpgrade="false" />
       
-      <mob name="T8_MOB_ROAMING_AVALON_TREASURE_MINION_STANDARD" weight="679" mobUpgradeLevelIndex="9" allowUpgrade="false" />
-      <mob name="T8_MOB_ROAMING_AVALON_TREASURE_MINION_UNCOMMON" weight="345" mobUpgradeLevelIndex="9" allowUpgrade="false" />
-      <mob name="T8_MOB_ROAMING_AVALON_TREASURE_MINION_RARE" weight="115" mobUpgradeLevelIndex="9" allowUpgrade="false" />
-      <mob name="T8_MOB_ROAMING_AVALON_TREASURE_MINION_LEGENDARY" weight="11" mobUpgradeLevelIndex="9" allowUpgrade="false" />
+      <mob name="T8_MOB_ROAMING_AVALON_TREASURE_MINION_STANDARD" weight="59" mobUpgradeLevelIndex="9" allowUpgrade="false" />
+      <mob name="T8_MOB_ROAMING_AVALON_TREASURE_MINION_UNCOMMON" weight="30" mobUpgradeLevelIndex="9" allowUpgrade="false" />
+      <mob name="T8_MOB_ROAMING_AVALON_TREASURE_MINION_RARE" weight="10" mobUpgradeLevelIndex="9" allowUpgrade="false" />
+      <mob name="T8_MOB_ROAMING_AVALON_TREASURE_MINION_LEGENDARY" weight="1" mobUpgradeLevelIndex="9" allowUpgrade="false" />
 
       <mob name="T8_MOB_ARCANE_CRYSTALSPIDER_VETERAN_BOSS" weight="10" mobUpgradeLevelIndex="11" allowUpgrade="false" />
     </clustertype>
@@ -6701,24 +6686,21 @@
   <!--pikeman-->
   <spawnbehavior name="T4_AVALON_VETERAN_PIKEMAN">
     <default respawntimesecondsmin="1800" respawntimesecondsmax="5400" rerolltimesecondsmin="1800" rerolltimesecondsmax="5400" charges="1" faction="ROAD">
-      <mob name="T4_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN" weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T4_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="1723" mobUpgradeLevelIndex="1" />
+      <mob name="T4_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="3446" mobUpgradeLevelIndex="1" />
       <mob name="T4_MOB_ROAMING_AVALON_PIKEMAN_VETERAN_STANDARD" weight="250" mobUpgradeLevelIndex="2" onlyUpgradeOutsidePlayerInterestArea="false" />
       <mob name="T4_MOB_ROAMING_AVALON_PIKEMAN_VETERAN_CHAMPION" weight="27" mobUpgradeLevelIndex="4" onlyUpgradeOutsidePlayerInterestArea="false" />
     </default>
   </spawnbehavior>
   <spawnbehavior name="T6_AVALON_VETERAN_PIKEMAN">
     <default respawntimesecondsmin="1800" respawntimesecondsmax="5400" rerolltimesecondsmin="1800" rerolltimesecondsmax="5400" charges="1" faction="ROAD">
-      <mob name="T6_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN" weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T6_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="1723" mobUpgradeLevelIndex="1" />
+      <mob name="T6_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="3446" mobUpgradeLevelIndex="1" />
       <mob name="T6_MOB_ROAMING_AVALON_PIKEMAN_VETERAN_STANDARD" weight="250" mobUpgradeLevelIndex="2" onlyUpgradeOutsidePlayerInterestArea="false" />
       <mob name="T6_MOB_ROAMING_AVALON_PIKEMAN_VETERAN_CHAMPION" weight="27" mobUpgradeLevelIndex="4" onlyUpgradeOutsidePlayerInterestArea="false" />
     </default>
   </spawnbehavior>
   <spawnbehavior name="T8_AVALON_VETERAN_PIKEMAN">
     <default respawntimesecondsmin="1800" respawntimesecondsmax="5400" rerolltimesecondsmin="1800" rerolltimesecondsmax="5400" charges="1" faction="ROAD">
-      <mob name="T8_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN" weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T8_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="1723" mobUpgradeLevelIndex="1" />
+      <mob name="T8_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="3446" mobUpgradeLevelIndex="1" />
       <mob name="T8_MOB_ROAMING_AVALON_PIKEMAN_VETERAN_STANDARD" weight="250" mobUpgradeLevelIndex="2" onlyUpgradeOutsidePlayerInterestArea="false" />
       <mob name="T8_MOB_ROAMING_AVALON_PIKEMAN_VETERAN_CHAMPION" weight="27" mobUpgradeLevelIndex="4" onlyUpgradeOutsidePlayerInterestArea="false" />
     </default>
@@ -6776,24 +6758,21 @@
   <!--monk-->
   <spawnbehavior name="T4_AVALON_VETERAN_MONK">
     <default respawntimesecondsmin="1800" respawntimesecondsmax="5400" rerolltimesecondsmin="1800" rerolltimesecondsmax="5400" charges="1" faction="ROAD">
-      <mob name="T4_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN" weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T4_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="1723" mobUpgradeLevelIndex="1" />
+      <mob name="T4_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="3446" mobUpgradeLevelIndex="1" />
       <mob name="T4_MOB_ROAMING_AVALON_MONK_VETERAN_STANDARD"    weight="250" mobUpgradeLevelIndex="2" onlyUpgradeOutsidePlayerInterestArea="false" />
       <mob name="T4_MOB_ROAMING_AVALON_MONK_VETERAN_CHAMPION"    weight="27" mobUpgradeLevelIndex="4" onlyUpgradeOutsidePlayerInterestArea="false" />
     </default>
   </spawnbehavior>
   <spawnbehavior name="T6_AVALON_VETERAN_MONK">
     <default respawntimesecondsmin="1800" respawntimesecondsmax="5400" rerolltimesecondsmin="1800" rerolltimesecondsmax="5400" charges="1" faction="ROAD">
-      <mob name="T6_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN" weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T6_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="1723" mobUpgradeLevelIndex="1" />
+      <mob name="T6_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="3446" mobUpgradeLevelIndex="1" />
       <mob name="T6_MOB_ROAMING_AVALON_MONK_VETERAN_STANDARD"    weight="250" mobUpgradeLevelIndex="2" onlyUpgradeOutsidePlayerInterestArea="false" />
       <mob name="T6_MOB_ROAMING_AVALON_MONK_VETERAN_CHAMPION"    weight="27" mobUpgradeLevelIndex="4" onlyUpgradeOutsidePlayerInterestArea="false" />
     </default>
   </spawnbehavior>
   <spawnbehavior name="T8_AVALON_VETERAN_MONK">
     <default respawntimesecondsmin="1800" respawntimesecondsmax="5400" rerolltimesecondsmin="1800" rerolltimesecondsmax="5400" charges="1" faction="ROAD">
-      <mob name="T8_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN" weight="1723" mobUpgradeLevelIndex="1" />
-      <mob name="T8_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="1723" mobUpgradeLevelIndex="1" />
+      <mob name="T8_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN"  weight="3446" mobUpgradeLevelIndex="1" />
       <mob name="T8_MOB_ROAMING_AVALON_MONK_VETERAN_STANDARD"    weight="250" mobUpgradeLevelIndex="2" onlyUpgradeOutsidePlayerInterestArea="false" />
       <mob name="T8_MOB_ROAMING_AVALON_MONK_VETERAN_CHAMPION"    weight="27" mobUpgradeLevelIndex="4" onlyUpgradeOutsidePlayerInterestArea="false" />
     </default>

@@ -1679,27 +1679,22 @@
             "mob": [
               {
                 "@name": "T4_MOB_ROAMING_AVALON_MINION_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
                 "@name": "T4_MOB_ROAMING_AVALON_MINION_SCOUT_VETERAN",
-                "@weight": "1723",
-                "@mobUpgradeLevelIndex": "1"
-              },
-              {
-                "@name": "T4_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
                 "@name": "T4_MOB_ROAMING_AVALON_MINION_LAMP_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
                 "@name": "T4_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
@@ -1788,27 +1783,22 @@
             "mob": [
               {
                 "@name": "T4_MOB_ROAMING_AVALON_MINION_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
                 "@name": "T4_MOB_ROAMING_AVALON_MINION_SCOUT_VETERAN",
-                "@weight": "1723",
-                "@mobUpgradeLevelIndex": "1"
-              },
-              {
-                "@name": "T4_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
                 "@name": "T4_MOB_ROAMING_AVALON_MINION_LAMP_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
                 "@name": "T4_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
@@ -1897,27 +1887,22 @@
             "mob": [
               {
                 "@name": "T6_MOB_ROAMING_AVALON_MINION_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
                 "@name": "T6_MOB_ROAMING_AVALON_MINION_SCOUT_VETERAN",
-                "@weight": "1723",
-                "@mobUpgradeLevelIndex": "1"
-              },
-              {
-                "@name": "T6_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
                 "@name": "T6_MOB_ROAMING_AVALON_MINION_LAMP_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
                 "@name": "T6_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
@@ -2006,27 +1991,22 @@
             "mob": [
               {
                 "@name": "T6_MOB_ROAMING_AVALON_MINION_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
                 "@name": "T6_MOB_ROAMING_AVALON_MINION_SCOUT_VETERAN",
-                "@weight": "1723",
-                "@mobUpgradeLevelIndex": "1"
-              },
-              {
-                "@name": "T6_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
                 "@name": "T6_MOB_ROAMING_AVALON_MINION_LAMP_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
                 "@name": "T6_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
@@ -2115,27 +2095,22 @@
             "mob": [
               {
                 "@name": "T8_MOB_ROAMING_AVALON_MINION_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
                 "@name": "T8_MOB_ROAMING_AVALON_MINION_SCOUT_VETERAN",
-                "@weight": "1723",
-                "@mobUpgradeLevelIndex": "1"
-              },
-              {
-                "@name": "T8_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
                 "@name": "T8_MOB_ROAMING_AVALON_MINION_LAMP_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
                 "@name": "T8_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
@@ -2237,13 +2212,8 @@
             "@charges": "1",
             "mob": [
               {
-                "@name": "T4_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN",
-                "@weight": "4483",
-                "@mobUpgradeLevelIndex": "1"
-              },
-              {
                 "@name": "T4_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN",
-                "@weight": "4483",
+                "@weight": "8966",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
@@ -2300,13 +2270,8 @@
             "@charges": "1",
             "mob": [
               {
-                "@name": "T4_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN",
-                "@weight": "4483",
-                "@mobUpgradeLevelIndex": "1"
-              },
-              {
                 "@name": "T4_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN",
-                "@weight": "4483",
+                "@weight": "8966",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
@@ -2363,13 +2328,8 @@
             "@charges": "1",
             "mob": [
               {
-                "@name": "T6_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN",
-                "@weight": "4483",
-                "@mobUpgradeLevelIndex": "1"
-              },
-              {
                 "@name": "T6_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN",
-                "@weight": "4483",
+                "@weight": "8966",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
@@ -2426,13 +2386,8 @@
             "@charges": "1",
             "mob": [
               {
-                "@name": "T6_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN",
-                "@weight": "4483",
-                "@mobUpgradeLevelIndex": "1"
-              },
-              {
                 "@name": "T6_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN",
-                "@weight": "4483",
+                "@weight": "8966",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
@@ -2489,13 +2444,8 @@
             "@charges": "1",
             "mob": [
               {
-                "@name": "T8_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN",
-                "@weight": "4483",
-                "@mobUpgradeLevelIndex": "1"
-              },
-              {
                 "@name": "T8_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN",
-                "@weight": "4483",
+                "@weight": "8966",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
@@ -4065,27 +4015,22 @@
             "mob": [
               {
                 "@name": "T4_MOB_ROAMING_AVALON_MINION_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
                 "@name": "T4_MOB_ROAMING_AVALON_MINION_SCOUT_VETERAN",
-                "@weight": "1723",
-                "@mobUpgradeLevelIndex": "1"
-              },
-              {
-                "@name": "T4_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
                 "@name": "T4_MOB_ROAMING_AVALON_MINION_LAMP_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
                 "@name": "T4_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
@@ -4157,25 +4102,25 @@
               },
               {
                 "@name": "T5_MOB_ROAMING_AVALON_TREASURE_MINION_STANDARD",
-                "@weight": "679",
+                "@weight": "59",
                 "@mobUpgradeLevelIndex": "9",
                 "@allowUpgrade": "false"
               },
               {
                 "@name": "T5_MOB_ROAMING_AVALON_TREASURE_MINION_UNCOMMON",
-                "@weight": "345",
+                "@weight": "30",
                 "@mobUpgradeLevelIndex": "9",
                 "@allowUpgrade": "false"
               },
               {
                 "@name": "T5_MOB_ROAMING_AVALON_TREASURE_MINION_RARE",
-                "@weight": "115",
+                "@weight": "10",
                 "@mobUpgradeLevelIndex": "9",
                 "@allowUpgrade": "false"
               },
               {
                 "@name": "T5_MOB_ROAMING_AVALON_TREASURE_MINION_LEGENDARY",
-                "@weight": "11",
+                "@weight": "1",
                 "@mobUpgradeLevelIndex": "9",
                 "@allowUpgrade": "false"
               },
@@ -4198,27 +4143,22 @@
             "mob": [
               {
                 "@name": "T4_MOB_ROAMING_AVALON_MINION_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
                 "@name": "T4_MOB_ROAMING_AVALON_MINION_SCOUT_VETERAN",
-                "@weight": "1723",
-                "@mobUpgradeLevelIndex": "1"
-              },
-              {
-                "@name": "T4_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
                 "@name": "T4_MOB_ROAMING_AVALON_MINION_LAMP_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
                 "@name": "T4_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
@@ -4290,25 +4230,25 @@
               },
               {
                 "@name": "T5_MOB_ROAMING_AVALON_TREASURE_MINION_STANDARD",
-                "@weight": "679",
+                "@weight": "59",
                 "@mobUpgradeLevelIndex": "9",
                 "@allowUpgrade": "false"
               },
               {
                 "@name": "T5_MOB_ROAMING_AVALON_TREASURE_MINION_UNCOMMON",
-                "@weight": "345",
+                "@weight": "30",
                 "@mobUpgradeLevelIndex": "9",
                 "@allowUpgrade": "false"
               },
               {
                 "@name": "T5_MOB_ROAMING_AVALON_TREASURE_MINION_RARE",
-                "@weight": "115",
+                "@weight": "10",
                 "@mobUpgradeLevelIndex": "9",
                 "@allowUpgrade": "false"
               },
               {
                 "@name": "T5_MOB_ROAMING_AVALON_TREASURE_MINION_LEGENDARY",
-                "@weight": "11",
+                "@weight": "1",
                 "@mobUpgradeLevelIndex": "9",
                 "@allowUpgrade": "false"
               },
@@ -4331,27 +4271,22 @@
             "mob": [
               {
                 "@name": "T6_MOB_ROAMING_AVALON_MINION_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
                 "@name": "T6_MOB_ROAMING_AVALON_MINION_SCOUT_VETERAN",
-                "@weight": "1723",
-                "@mobUpgradeLevelIndex": "1"
-              },
-              {
-                "@name": "T6_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
                 "@name": "T6_MOB_ROAMING_AVALON_MINION_LAMP_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
                 "@name": "T6_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
@@ -4423,25 +4358,25 @@
               },
               {
                 "@name": "T6_MOB_ROAMING_AVALON_TREASURE_MINION_STANDARD",
-                "@weight": "679",
+                "@weight": "59",
                 "@mobUpgradeLevelIndex": "9",
                 "@allowUpgrade": "false"
               },
               {
                 "@name": "T6_MOB_ROAMING_AVALON_TREASURE_MINION_UNCOMMON",
-                "@weight": "345",
+                "@weight": "30",
                 "@mobUpgradeLevelIndex": "9",
                 "@allowUpgrade": "false"
               },
               {
                 "@name": "T6_MOB_ROAMING_AVALON_TREASURE_MINION_RARE",
-                "@weight": "115",
+                "@weight": "10",
                 "@mobUpgradeLevelIndex": "9",
                 "@allowUpgrade": "false"
               },
               {
                 "@name": "T6_MOB_ROAMING_AVALON_TREASURE_MINION_LEGENDARY",
-                "@weight": "11",
+                "@weight": "1",
                 "@mobUpgradeLevelIndex": "9",
                 "@allowUpgrade": "false"
               },
@@ -4464,27 +4399,22 @@
             "mob": [
               {
                 "@name": "T6_MOB_ROAMING_AVALON_MINION_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
                 "@name": "T6_MOB_ROAMING_AVALON_MINION_SCOUT_VETERAN",
-                "@weight": "1723",
-                "@mobUpgradeLevelIndex": "1"
-              },
-              {
-                "@name": "T6_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
                 "@name": "T6_MOB_ROAMING_AVALON_MINION_LAMP_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
                 "@name": "T6_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
@@ -4556,25 +4486,25 @@
               },
               {
                 "@name": "T7_MOB_ROAMING_AVALON_TREASURE_MINION_STANDARD",
-                "@weight": "679",
+                "@weight": "59",
                 "@mobUpgradeLevelIndex": "9",
                 "@allowUpgrade": "false"
               },
               {
                 "@name": "T7_MOB_ROAMING_AVALON_TREASURE_MINION_UNCOMMON",
-                "@weight": "345",
+                "@weight": "30",
                 "@mobUpgradeLevelIndex": "9",
                 "@allowUpgrade": "false"
               },
               {
                 "@name": "T7_MOB_ROAMING_AVALON_TREASURE_MINION_RARE",
-                "@weight": "115",
+                "@weight": "10",
                 "@mobUpgradeLevelIndex": "9",
                 "@allowUpgrade": "false"
               },
               {
                 "@name": "T7_MOB_ROAMING_AVALON_TREASURE_MINION_LEGENDARY",
-                "@weight": "11",
+                "@weight": "1",
                 "@mobUpgradeLevelIndex": "9",
                 "@allowUpgrade": "false"
               },
@@ -4597,27 +4527,22 @@
             "mob": [
               {
                 "@name": "T8_MOB_ROAMING_AVALON_MINION_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
                 "@name": "T8_MOB_ROAMING_AVALON_MINION_SCOUT_VETERAN",
-                "@weight": "1723",
-                "@mobUpgradeLevelIndex": "1"
-              },
-              {
-                "@name": "T8_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
                 "@name": "T8_MOB_ROAMING_AVALON_MINION_LAMP_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
                 "@name": "T8_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN",
-                "@weight": "1723",
+                "@weight": "2154",
                 "@mobUpgradeLevelIndex": "1"
               },
               {
@@ -4689,25 +4614,25 @@
               },
               {
                 "@name": "T8_MOB_ROAMING_AVALON_TREASURE_MINION_STANDARD",
-                "@weight": "679",
+                "@weight": "59",
                 "@mobUpgradeLevelIndex": "9",
                 "@allowUpgrade": "false"
               },
               {
                 "@name": "T8_MOB_ROAMING_AVALON_TREASURE_MINION_UNCOMMON",
-                "@weight": "345",
+                "@weight": "30",
                 "@mobUpgradeLevelIndex": "9",
                 "@allowUpgrade": "false"
               },
               {
                 "@name": "T8_MOB_ROAMING_AVALON_TREASURE_MINION_RARE",
-                "@weight": "115",
+                "@weight": "10",
                 "@mobUpgradeLevelIndex": "9",
                 "@allowUpgrade": "false"
               },
               {
                 "@name": "T8_MOB_ROAMING_AVALON_TREASURE_MINION_LEGENDARY",
-                "@weight": "11",
+                "@weight": "1",
                 "@mobUpgradeLevelIndex": "9",
                 "@allowUpgrade": "false"
               },
@@ -27362,13 +27287,8 @@
           "@faction": "ROAD",
           "mob": [
             {
-              "@name": "T4_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN",
-              "@weight": "1723",
-              "@mobUpgradeLevelIndex": "1"
-            },
-            {
               "@name": "T4_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN",
-              "@weight": "1723",
+              "@weight": "3446",
               "@mobUpgradeLevelIndex": "1"
             },
             {
@@ -27397,13 +27317,8 @@
           "@faction": "ROAD",
           "mob": [
             {
-              "@name": "T6_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN",
-              "@weight": "1723",
-              "@mobUpgradeLevelIndex": "1"
-            },
-            {
               "@name": "T6_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN",
-              "@weight": "1723",
+              "@weight": "3446",
               "@mobUpgradeLevelIndex": "1"
             },
             {
@@ -27432,13 +27347,8 @@
           "@faction": "ROAD",
           "mob": [
             {
-              "@name": "T8_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN",
-              "@weight": "1723",
-              "@mobUpgradeLevelIndex": "1"
-            },
-            {
               "@name": "T8_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN",
-              "@weight": "1723",
+              "@weight": "3446",
               "@mobUpgradeLevelIndex": "1"
             },
             {
@@ -27665,13 +27575,8 @@
           "@faction": "ROAD",
           "mob": [
             {
-              "@name": "T4_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN",
-              "@weight": "1723",
-              "@mobUpgradeLevelIndex": "1"
-            },
-            {
               "@name": "T4_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN",
-              "@weight": "1723",
+              "@weight": "3446",
               "@mobUpgradeLevelIndex": "1"
             },
             {
@@ -27700,13 +27605,8 @@
           "@faction": "ROAD",
           "mob": [
             {
-              "@name": "T6_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN",
-              "@weight": "1723",
-              "@mobUpgradeLevelIndex": "1"
-            },
-            {
               "@name": "T6_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN",
-              "@weight": "1723",
+              "@weight": "3446",
               "@mobUpgradeLevelIndex": "1"
             },
             {
@@ -27735,13 +27635,8 @@
           "@faction": "ROAD",
           "mob": [
             {
-              "@name": "T8_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN",
-              "@weight": "1723",
-              "@mobUpgradeLevelIndex": "1"
-            },
-            {
               "@name": "T8_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN",
-              "@weight": "1723",
+              "@weight": "3446",
               "@mobUpgradeLevelIndex": "1"
             },
             {

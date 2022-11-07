@@ -38,34 +38,33 @@
     <roamingmob tier="4">
       <prefabs>
         <!--Roaming Mobs-->
-        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_ALL" weight="80"/>
-        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_MAGIC" weight="160"/>
-        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_MELEE" weight="160"/>
-        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_RANGED" weight="160"/>
+        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_ALL" weight="10"/>
+        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_MAGIC" weight="10"/>
+        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_MELEE" weight="10"/>
+        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_RANGED" weight="10"/>
 
         <!--Resources-->
-        <prefab name="_ROADS_ROAD_ROAMING_DRYAD_SINGLE" weight="30" />
-        <prefab name="_ROADS_ROAD_ROAMING_MISTSPIRIT_SINGLE" weight="30" />
-        <prefab name="_ROADS_ROAD_ROAMING_OREELEMENTAL_SINGLE" weight="30" />
-        <prefab name="_ROADS_ROAD_ROAMING_ROCKELEMENTAL_SINGLE" weight="30" />
-        <prefab name="_ROADS_ROAD_ROAMING_MISTCOUGAR_SINGLE" weight="30" />
+        <prefab name="_ROADS_ROAD_ROAMING_DRYAD_SINGLE" weight="9" />
+        <prefab name="_ROADS_ROAD_ROAMING_MISTSPIRIT_SINGLE" weight="9" />
+        <prefab name="_ROADS_ROAD_ROAMING_OREELEMENTAL_SINGLE" weight="9" />
+        <prefab name="_ROADS_ROAD_ROAMING_ROCKELEMENTAL_SINGLE" weight="9" />
+        <prefab name="_ROADS_ROAD_ROAMING_MISTCOUGAR_SINGLE" weight="9" />
 
-        <prefab name="_ROADS_ROAD_ROAMING_DRYAD_DOUBLE" weight="10" />
-        <prefab name="_ROADS_ROAD_ROAMING_MISTSPIRIT_DOUBLE" weight="10" />
-        <prefab name="_ROADS_ROAD_ROAMING_OREELEMENTAL_DOUBLE" weight="10" />
-        <prefab name="_ROADS_ROAD_ROAMING_ROCKELEMENTAL_DOUBLE" weight="10" />
-        <prefab name="_ROADS_ROAD_ROAMING_MISTCOUGAR_DOUBLE" weight="10" />
-        
+        <prefab name="_ROADS_ROAD_ROAMING_DRYAD_DOUBLE" weight="3" />
+        <prefab name="_ROADS_ROAD_ROAMING_MISTSPIRIT_DOUBLE" weight="3" />
+        <prefab name="_ROADS_ROAD_ROAMING_OREELEMENTAL_DOUBLE" weight="3" />
+        <prefab name="_ROADS_ROAD_ROAMING_ROCKELEMENTAL_DOUBLE" weight="3" />
+        <prefab name="_ROADS_ROAD_ROAMING_MISTCOUGAR_DOUBLE" weight="3" />
+
         <!--Treasures-->
-        <prefab name="SpawnPoint_RANDOM_ROAMING_AVALON_TREASURE_MINION" weight="10" />
-        <prefab name="TreasureSpawnpointLootchest" weight="40" />
-        <prefab name="TreasureSpawnpointHarvestableT4" weight="40" />
-        <prefab name="TreasureSpawnpointPowercore" weight="20"  />
-        <prefab name="TreasureSpawnpointWisps" weight="30" />
-        
+        <prefab name="SpawnPoint_RANDOM_ROAMING_AVALON_TREASURE_MINION" weight="1" />
+        <prefab name="TreasureSpawnpointLootchest" weight="4" />
+        <prefab name="TreasureSpawnpointHarvestableT4" weight="4" />
+        <prefab name="TreasureSpawnpointPowercore" weight="2"  />
+        <prefab name="TreasureSpawnpointWisps" weight="3" />
+
         <!--Portals-->
-        <prefab name="RandomExitPositionMarker_SOLO_EXIT_RND-DNG" weight="80" />
-        <prefab name="RandomExitPositionMarker_10x10_EXIT_RND-DNG" weight="20" />
+        <prefab name="RandomExitPositionMarker_10x10_EXIT_RND-DNG" weight="6" />
       </prefabs>
     </roamingmob>
   </mapping>
@@ -79,34 +78,33 @@
     <roamingmob tier="5">
       <prefabs>
         <!--Roaming Mobs-->
-        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_ALL" weight="80"/>
-        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_MAGIC" weight="160"/>
-        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_MELEE" weight="160"/>
-        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_RANGED" weight="160"/>
+        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_ALL" weight="10"/>
+        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_MAGIC" weight="10"/>
+        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_MELEE" weight="10"/>
+        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_RANGED" weight="10"/>
 
         <!--Resources-->
-        <prefab name="_ROADS_ROAD_ROAMING_DRYAD_SINGLE" weight="30" />
-        <prefab name="_ROADS_ROAD_ROAMING_MISTSPIRIT_SINGLE" weight="30" />
-        <prefab name="_ROADS_ROAD_ROAMING_OREELEMENTAL_SINGLE" weight="30" />
-        <prefab name="_ROADS_ROAD_ROAMING_ROCKELEMENTAL_SINGLE" weight="30" />
-        <prefab name="_ROADS_ROAD_ROAMING_MISTCOUGAR_SINGLE" weight="30" />
+        <prefab name="_ROADS_ROAD_ROAMING_DRYAD_SINGLE" weight="9" />
+        <prefab name="_ROADS_ROAD_ROAMING_MISTSPIRIT_SINGLE" weight="9" />
+        <prefab name="_ROADS_ROAD_ROAMING_OREELEMENTAL_SINGLE" weight="9" />
+        <prefab name="_ROADS_ROAD_ROAMING_ROCKELEMENTAL_SINGLE" weight="9" />
+        <prefab name="_ROADS_ROAD_ROAMING_MISTCOUGAR_SINGLE" weight="9" />
 
-        <prefab name="_ROADS_ROAD_ROAMING_DRYAD_DOUBLE" weight="10" />
-        <prefab name="_ROADS_ROAD_ROAMING_MISTSPIRIT_DOUBLE" weight="10" />
-        <prefab name="_ROADS_ROAD_ROAMING_OREELEMENTAL_DOUBLE" weight="10" />
-        <prefab name="_ROADS_ROAD_ROAMING_ROCKELEMENTAL_DOUBLE" weight="10" />
-        <prefab name="_ROADS_ROAD_ROAMING_MISTCOUGAR_DOUBLE" weight="10" />
+        <prefab name="_ROADS_ROAD_ROAMING_DRYAD_DOUBLE" weight="3" />
+        <prefab name="_ROADS_ROAD_ROAMING_MISTSPIRIT_DOUBLE" weight="3" />
+        <prefab name="_ROADS_ROAD_ROAMING_OREELEMENTAL_DOUBLE" weight="3" />
+        <prefab name="_ROADS_ROAD_ROAMING_ROCKELEMENTAL_DOUBLE" weight="3" />
+        <prefab name="_ROADS_ROAD_ROAMING_MISTCOUGAR_DOUBLE" weight="3" />
 
         <!--Treasures-->
-        <prefab name="SpawnPoint_RANDOM_ROAMING_AVALON_TREASURE_MINION" weight="10" />
-        <prefab name="TreasureSpawnpointLootchest" weight="40" />
-        <prefab name="TreasureSpawnpointHarvestableT5" weight="40" />
-        <prefab name="TreasureSpawnpointPowercore" weight="20"  />
-        <prefab name="TreasureSpawnpointWisps" weight="30" />
+        <prefab name="SpawnPoint_RANDOM_ROAMING_AVALON_TREASURE_MINION" weight="1" />
+        <prefab name="TreasureSpawnpointLootchest" weight="4" />
+        <prefab name="TreasureSpawnpointHarvestableT5" weight="4" />
+        <prefab name="TreasureSpawnpointPowercore" weight="2"  />
+        <prefab name="TreasureSpawnpointWisps" weight="3" />
 
         <!--Portals-->
-        <prefab name="RandomExitPositionMarker_SOLO_EXIT_RND-DNG" weight="80" />
-        <prefab name="RandomExitPositionMarker_10x10_EXIT_RND-DNG" weight="20" />
+        <prefab name="RandomExitPositionMarker_10x10_EXIT_RND-DNG" weight="6" />
       </prefabs>
     </roamingmob>
   </mapping>
@@ -120,34 +118,33 @@
     <roamingmob tier="6">
       <prefabs>
         <!--Roaming Mobs-->
-        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_ALL" weight="80"/>
-        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_MAGIC" weight="160"/>
-        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_MELEE" weight="160"/>
-        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_RANGED" weight="160"/>
+        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_ALL" weight="10"/>
+        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_MAGIC" weight="10"/>
+        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_MELEE" weight="10"/>
+        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_RANGED" weight="10"/>
 
         <!--Resources-->
-        <prefab name="_ROADS_ROAD_ROAMING_DRYAD_SINGLE" weight="30" />
-        <prefab name="_ROADS_ROAD_ROAMING_MISTSPIRIT_SINGLE" weight="30" />
-        <prefab name="_ROADS_ROAD_ROAMING_OREELEMENTAL_SINGLE" weight="30" />
-        <prefab name="_ROADS_ROAD_ROAMING_ROCKELEMENTAL_SINGLE" weight="30" />
-        <prefab name="_ROADS_ROAD_ROAMING_MISTCOUGAR_SINGLE" weight="30" />
+        <prefab name="_ROADS_ROAD_ROAMING_DRYAD_SINGLE" weight="9" />
+        <prefab name="_ROADS_ROAD_ROAMING_MISTSPIRIT_SINGLE" weight="9" />
+        <prefab name="_ROADS_ROAD_ROAMING_OREELEMENTAL_SINGLE" weight="9" />
+        <prefab name="_ROADS_ROAD_ROAMING_ROCKELEMENTAL_SINGLE" weight="9" />
+        <prefab name="_ROADS_ROAD_ROAMING_MISTCOUGAR_SINGLE" weight="9" />
 
-        <prefab name="_ROADS_ROAD_ROAMING_DRYAD_DOUBLE" weight="10" />
-        <prefab name="_ROADS_ROAD_ROAMING_MISTSPIRIT_DOUBLE" weight="10" />
-        <prefab name="_ROADS_ROAD_ROAMING_OREELEMENTAL_DOUBLE" weight="10" />
-        <prefab name="_ROADS_ROAD_ROAMING_ROCKELEMENTAL_DOUBLE" weight="10" />
-        <prefab name="_ROADS_ROAD_ROAMING_MISTCOUGAR_DOUBLE" weight="10" />
+        <prefab name="_ROADS_ROAD_ROAMING_DRYAD_DOUBLE" weight="3" />
+        <prefab name="_ROADS_ROAD_ROAMING_MISTSPIRIT_DOUBLE" weight="3" />
+        <prefab name="_ROADS_ROAD_ROAMING_OREELEMENTAL_DOUBLE" weight="3" />
+        <prefab name="_ROADS_ROAD_ROAMING_ROCKELEMENTAL_DOUBLE" weight="3" />
+        <prefab name="_ROADS_ROAD_ROAMING_MISTCOUGAR_DOUBLE" weight="3" />
 
         <!--Treasures-->
-        <prefab name="SpawnPoint_RANDOM_ROAMING_AVALON_TREASURE_MINION" weight="10" />
-        <prefab name="TreasureSpawnpointLootchest" weight="40" />
-        <prefab name="TreasureSpawnpointHarvestableT6" weight="40" />
-        <prefab name="TreasureSpawnpointPowercore" weight="20"  />
-        <prefab name="TreasureSpawnpointWisps" weight="30" />
+        <prefab name="SpawnPoint_RANDOM_ROAMING_AVALON_TREASURE_MINION" weight="1" />
+        <prefab name="TreasureSpawnpointLootchest" weight="4" />
+        <prefab name="TreasureSpawnpointHarvestableT6" weight="4" />
+        <prefab name="TreasureSpawnpointPowercore" weight="2"  />
+        <prefab name="TreasureSpawnpointWisps" weight="3" />
 
         <!--Portals-->
-        <prefab name="RandomExitPositionMarker_SOLO_EXIT_RND-DNG" weight="80" />
-        <prefab name="RandomExitPositionMarker_10x10_EXIT_RND-DNG" weight="20" />
+        <prefab name="RandomExitPositionMarker_10x10_EXIT_RND-DNG" weight="6" />
       </prefabs>
     </roamingmob>
   </mapping>
@@ -161,34 +158,33 @@
     <roamingmob tier="7">
       <prefabs>
         <!--Roaming Mobs-->
-        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_ALL" weight="80"/>
-        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_MAGIC" weight="160"/>
-        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_MELEE" weight="160"/>
-        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_RANGED" weight="160"/>
+        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_ALL" weight="10"/>
+        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_MAGIC" weight="10"/>
+        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_MELEE" weight="10"/>
+        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_RANGED" weight="10"/>
 
         <!--Resources-->
-        <prefab name="_ROADS_ROAD_ROAMING_DRYAD_SINGLE" weight="30" />
-        <prefab name="_ROADS_ROAD_ROAMING_MISTSPIRIT_SINGLE" weight="30" />
-        <prefab name="_ROADS_ROAD_ROAMING_OREELEMENTAL_SINGLE" weight="30" />
-        <prefab name="_ROADS_ROAD_ROAMING_ROCKELEMENTAL_SINGLE" weight="30" />
-        <prefab name="_ROADS_ROAD_ROAMING_MISTCOUGAR_SINGLE" weight="30" />
+        <prefab name="_ROADS_ROAD_ROAMING_DRYAD_SINGLE" weight="9" />
+        <prefab name="_ROADS_ROAD_ROAMING_MISTSPIRIT_SINGLE" weight="9" />
+        <prefab name="_ROADS_ROAD_ROAMING_OREELEMENTAL_SINGLE" weight="9" />
+        <prefab name="_ROADS_ROAD_ROAMING_ROCKELEMENTAL_SINGLE" weight="9" />
+        <prefab name="_ROADS_ROAD_ROAMING_MISTCOUGAR_SINGLE" weight="9" />
 
-        <prefab name="_ROADS_ROAD_ROAMING_DRYAD_DOUBLE" weight="10" />
-        <prefab name="_ROADS_ROAD_ROAMING_MISTSPIRIT_DOUBLE" weight="10" />
-        <prefab name="_ROADS_ROAD_ROAMING_OREELEMENTAL_DOUBLE" weight="10" />
-        <prefab name="_ROADS_ROAD_ROAMING_ROCKELEMENTAL_DOUBLE" weight="10" />
-        <prefab name="_ROADS_ROAD_ROAMING_MISTCOUGAR_DOUBLE" weight="10" />
+        <prefab name="_ROADS_ROAD_ROAMING_DRYAD_DOUBLE" weight="3" />
+        <prefab name="_ROADS_ROAD_ROAMING_MISTSPIRIT_DOUBLE" weight="3" />
+        <prefab name="_ROADS_ROAD_ROAMING_OREELEMENTAL_DOUBLE" weight="3" />
+        <prefab name="_ROADS_ROAD_ROAMING_ROCKELEMENTAL_DOUBLE" weight="3" />
+        <prefab name="_ROADS_ROAD_ROAMING_MISTCOUGAR_DOUBLE" weight="3" />
 
         <!--Treasures-->
-        <prefab name="SpawnPoint_RANDOM_ROAMING_AVALON_TREASURE_MINION" weight="10" />
-        <prefab name="TreasureSpawnpointLootchest" weight="40" />
-        <prefab name="TreasureSpawnpointHarvestableT7" weight="40" />
-        <prefab name="TreasureSpawnpointPowercore" weight="20"  />
-        <prefab name="TreasureSpawnpointWisps" weight="30" />
+        <prefab name="SpawnPoint_RANDOM_ROAMING_AVALON_TREASURE_MINION" weight="1" />
+        <prefab name="TreasureSpawnpointLootchest" weight="4" />
+        <prefab name="TreasureSpawnpointHarvestableT7" weight="4" />
+        <prefab name="TreasureSpawnpointPowercore" weight="2"  />
+        <prefab name="TreasureSpawnpointWisps" weight="3" />
 
         <!--Portals-->
-        <prefab name="RandomExitPositionMarker_SOLO_EXIT_RND-DNG" weight="80" />
-        <prefab name="RandomExitPositionMarker_10x10_EXIT_RND-DNG" weight="20" />
+        <prefab name="RandomExitPositionMarker_10x10_EXIT_RND-DNG" weight="6" />
       </prefabs>
     </roamingmob>
   </mapping>
@@ -202,33 +198,33 @@
     <roamingmob tier="8">
       <prefabs>
         <!--Roaming Mobs-->
-        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_ALL" weight="80"/>
-        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_MAGIC" weight="160"/>
-        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_MELEE" weight="160"/>
-        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_RANGED" weight="160"/>
+        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_ALL" weight="10"/>
+        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_MAGIC" weight="10"/>
+        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_MELEE" weight="10"/>
+        <prefab name="SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_RANGED" weight="10"/>
 
         <!--Resources-->
-        <prefab name="_ROADS_ROAD_ROAMING_DRYAD_SINGLE" weight="30" />
-        <prefab name="_ROADS_ROAD_ROAMING_MISTSPIRIT_SINGLE" weight="30" />
-        <prefab name="_ROADS_ROAD_ROAMING_OREELEMENTAL_SINGLE" weight="30" />
-        <prefab name="_ROADS_ROAD_ROAMING_ROCKELEMENTAL_SINGLE" weight="30" />
-        <prefab name="_ROADS_ROAD_ROAMING_MISTCOUGAR_SINGLE" weight="30" />
+        <prefab name="_ROADS_ROAD_ROAMING_DRYAD_SINGLE" weight="9" />
+        <prefab name="_ROADS_ROAD_ROAMING_MISTSPIRIT_SINGLE" weight="9" />
+        <prefab name="_ROADS_ROAD_ROAMING_OREELEMENTAL_SINGLE" weight="9" />
+        <prefab name="_ROADS_ROAD_ROAMING_ROCKELEMENTAL_SINGLE" weight="9" />
+        <prefab name="_ROADS_ROAD_ROAMING_MISTCOUGAR_SINGLE" weight="9" />
 
-        <prefab name="_ROADS_ROAD_ROAMING_DRYAD_DOUBLE" weight="10" />
-        <prefab name="_ROADS_ROAD_ROAMING_MISTSPIRIT_DOUBLE" weight="10" />
-        <prefab name="_ROADS_ROAD_ROAMING_OREELEMENTAL_DOUBLE" weight="10" />
-        <prefab name="_ROADS_ROAD_ROAMING_ROCKELEMENTAL_DOUBLE" weight="10" />
-        <prefab name="_ROADS_ROAD_ROAMING_MISTCOUGAR_DOUBLE" weight="10" />
+        <prefab name="_ROADS_ROAD_ROAMING_DRYAD_DOUBLE" weight="3" />
+        <prefab name="_ROADS_ROAD_ROAMING_MISTSPIRIT_DOUBLE" weight="3" />
+        <prefab name="_ROADS_ROAD_ROAMING_OREELEMENTAL_DOUBLE" weight="3" />
+        <prefab name="_ROADS_ROAD_ROAMING_ROCKELEMENTAL_DOUBLE" weight="3" />
+        <prefab name="_ROADS_ROAD_ROAMING_MISTCOUGAR_DOUBLE" weight="3" />
 
         <!--Treasures-->
-        <prefab name="SpawnPoint_RANDOM_ROAMING_AVALON_TREASURE_MINION" weight="10" />
-        <prefab name="TreasureSpawnpointLootchest" weight="40" />
-        <prefab name="TreasureSpawnpointHarvestableT8" weight="40" />
-        <prefab name="TreasureSpawnpointPowercore" weight="20"  />
-        <prefab name="TreasureSpawnpointWisps" weight="30" />
+        <prefab name="SpawnPoint_RANDOM_ROAMING_AVALON_TREASURE_MINION" weight="1" />
+        <prefab name="TreasureSpawnpointLootchest" weight="4" />
+        <prefab name="TreasureSpawnpointHarvestableT8" weight="4" />
+        <prefab name="TreasureSpawnpointPowercore" weight="2"  />
+        <prefab name="TreasureSpawnpointWisps" weight="3" />
+
         <!--Portals-->
-        <prefab name="RandomExitPositionMarker_SOLO_EXIT_RND-DNG" weight="80" />
-        <prefab name="RandomExitPositionMarker_10x10_EXIT_RND-DNG" weight="20" />
+        <prefab name="RandomExitPositionMarker_10x10_EXIT_RND-DNG" weight="6" />
       </prefabs>
     </roamingmob>
   </mapping>
@@ -716,8 +712,6 @@
       <prefabs>
         <prefab weight="629" name="MISTS_GREEN_T4_ROCK" />
         <prefab weight="287" name="SpawnPoint_T4_MOB_CRITTER_MISTS_GREEN_ROCKELEMENTAL"  />
-        <!--<prefab weight="42"  name="SpawnPoint_T4_MOB_ROAMING_FOREST_CHEST"  />-->
-        <prefab weight="42"  name="TreasureSpawnpointHarvestableT4"  />
       </prefabs>
       <fillerprefabs>
         <prefab name="MISTS_GREEN_T1_ROCK" weight="10" />
@@ -774,8 +768,6 @@
       <prefabs>
         <prefab weight="629" name="_MISTS_GREEN_T4_TREE_FOREST_A_COMP_01"  />
         <prefab weight="287" name="SpawnPoint_T4_MOB_CRITTER_MISTS_GREEN_MISTSPIRIT"  />
-        <!--<prefab weight="42"  name="SpawnPoint_T4_MOB_ROAMING_FOREST_CHEST"  />-->
-        <prefab weight="42"  name="TreasureSpawnpointHarvestableT4"  />
       </prefabs>
       <fillerprefabs>
       </fillerprefabs>
@@ -834,8 +826,6 @@
       <prefabs>
         <prefab weight="629" name="SpawnPoint_T4_MOB_HIDE_MISTS_GIANTSTAG"  />
         <prefab weight="287" name="SpawnPoint_T4_MOB_CRITTER_MISTS_GREEN_MISTCOUGAR"  />
-        <!--<prefab weight="42"  name="SpawnPoint_T4_MOB_ROAMING_FOREST_CHEST"  />-->
-        <prefab weight="42"  name="TreasureSpawnpointHarvestableT4"  />
       </prefabs>
       <fillerprefabs>
       </fillerprefabs>
@@ -886,8 +876,6 @@
       <prefabs>
         <prefab weight="629" name="MISTS_GREEN_T4_FIBER"  />
         <prefab weight="287" name="SpawnPoint_T4_MOB_CRITTER_MISTS_GREEN_DRYAD"  />
-        <!--<prefab weight="42"  name="SpawnPoint_T4_MOB_ROAMING_FOREST_CHEST"  />-->
-        <prefab weight="42"  name="TreasureSpawnpointHarvestableT4"  />
       </prefabs>
       <fillerprefabs>
       </fillerprefabs>
@@ -938,8 +926,6 @@
       <prefabs>
         <prefab weight="629" name="MISTS_GREEN_T4_ORE"  />
         <prefab weight="287" name="SpawnPoint_T4_MOB_CRITTER_MISTS_GREEN_OREELEMENTAL"  />
-        <!--<prefab weight="42"  name="SpawnPoint_T4_MOB_ROAMING_FOREST_CHEST"  />-->
-        <prefab weight="42"  name="TreasureSpawnpointHarvestableT4"  />
       </prefabs>
       <fillerprefabs>
       </fillerprefabs>
@@ -4088,8 +4074,8 @@
         <prefab name="_SWAMP_RED_KEEPER_ROAMING_BERSERK" weight="157" />
         <prefab name="_SWAMP_RED_KEEPER_ROAMING_AXETHROWER" weight="157" />
         <!-- Two Mobs -->
-        <prefab name="_SWAMP_RED_KEEPER_ROAMING_AXEUN" weight="168" />
-        <prefab name="_SWAMP_RED_KEEPER_ROAMING_BERUN" weight="168" />
+        <prefab name="_SWAMP_RED_KEEPER_ROAMING_AXEUN" weight="84" />
+        <prefab name="_SWAMP_RED_KEEPER_ROAMING_BERUN" weight="84" />
         <!-- Three Mobs -->
         <prefab name="_SWAMP_RED_KEEPER_ROAMING_AXEUNUN" weight="9" />
         <prefab name="_SWAMP_RED_KEEPER_ROAMING_AXEBERUN" weight="9" />
@@ -6045,8 +6031,8 @@
         <prefab name="_FOREST_RED_KEEPER_ROAMING_BERSERK" weight="157" />
         <prefab name="_FOREST_RED_KEEPER_ROAMING_AXETHROWER" weight="157" />
         <!-- Two Mobs -->
-        <prefab name="_FOREST_RED_KEEPER_ROAMING_AXEUN" weight="168" />
-        <prefab name="_FOREST_RED_KEEPER_ROAMING_BERUN" weight="168" />
+        <prefab name="_FOREST_RED_KEEPER_ROAMING_AXEUN" weight="84" />
+        <prefab name="_FOREST_RED_KEEPER_ROAMING_BERUN" weight="84" />
         <!-- Three Mobs -->
         <prefab name="_FOREST_RED_KEEPER_ROAMING_AXEUNUN" weight="9" />
         <prefab name="_FOREST_RED_KEEPER_ROAMING_AXEBERUN" weight="9" />
@@ -7918,8 +7904,8 @@
         <prefab name="_STEPPE_RED_KEEPER_ROAMING_BERSERK" weight="157" />
         <prefab name="_STEPPE_RED_KEEPER_ROAMING_AXETHROWER" weight="157" />
         <!-- Two Mobs -->
-        <prefab name="_STEPPE_RED_KEEPER_ROAMING_AXEUN" weight="168" />
-        <prefab name="_STEPPE_RED_KEEPER_ROAMING_BERUN" weight="168" />
+        <prefab name="_STEPPE_RED_KEEPER_ROAMING_AXEUN" weight="84" />
+        <prefab name="_STEPPE_RED_KEEPER_ROAMING_BERUN" weight="84" />
         <!-- Three Mobs -->
         <prefab name="_STEPPE_RED_KEEPER_ROAMING_AXEUNUN" weight="9" />
         <prefab name="_STEPPE_RED_KEEPER_ROAMING_AXEBERUN" weight="9" />

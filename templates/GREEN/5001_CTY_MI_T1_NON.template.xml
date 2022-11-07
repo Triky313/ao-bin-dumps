@@ -50,6 +50,11 @@
         </exit>
       </tile>
     </criticalscenemember>
+    <criticalscenemember id="respawnpoint_01" type="respawnpoint" layerId="">
+      <tile name="RespawnPoint" pos="7 0 106">
+        <respawnpoint type="RespawnAfterDeath" />
+      </tile>
+    </criticalscenemember>
     <criticalscenemember id="actionbuilding_02" type="actionbuilding" layerId="">
       <tile name="MISTS_GREEN_SEASONS_STORE" pos="-28 0 -49">
         <actionbuilding />
@@ -69,8 +74,8 @@
   <tiles>
     <tile name="INVISIBLE_COLLISON_BlockGround_VIS_1x10" pos="31.5 -83.3 56" roty="270" />
     <tile name="INVISIBLE_COLLISON_BlockGround_VIS_1x10" pos="31.5 -78.3 66" roty="270" />
-    <tile name="INVISIBLE_COLLISON_BlockGround_VIS_1x10" pos="31.5 -81 -66" roty="270" />
-    <tile name="INVISIBLE_COLLISON_BlockGround_VIS_1x10" pos="31.5 -81 -76" roty="270" />
+    <tile name="INVISIBLE_COLLISON_BlockGround_VIS_1x10" pos="30.5 -81 -66" roty="270" />
+    <tile name="INVISIBLE_COLLISON_BlockGround_VIS_1x10" pos="30.5 -81 -76" roty="270" />
     <criticaltile name="MISTS_CITY_ROADS_ENTRANCE" pos="5 4 -165" id="mistscityroadsentrance_01" type="mistscityroadsentrance">
       <mistscityroadsentrance />
     </criticaltile>
@@ -109,14 +114,19 @@
         </guards>
       </exit>
     </criticaltile>
-    <tile name="INVISIBLE_COLLISON_BlockGround_VIS_1x10" pos="-50.5 -161 -29" roty="270" />
-    <tile name="INVISIBLE_COLLISON_BlockGround_VIS_1x10" pos="-50.5 -161 -39" roty="270" />
+    <tile name="INVISIBLE_COLLISON_BlockGround_VIS_1x10" pos="-48.5 -161 -28" roty="270" />
+    <tile name="INVISIBLE_COLLISON_BlockGround_VIS_1x10" pos="-48.5 -161 -38" roty="270" />
     <tile name="INVISIBLE_COLLISON_BlockGround_VIS_1x10" pos="-50.5 -161 28" roty="270" />
     <tile name="INVISIBLE_COLLISON_BlockGround_VIS_1x10" pos="-50.5 -161 18" roty="270" />
+    <tile name="INVISIBLE_COLLISON_BlockGround_VIS_1x10" pos="-46 -161 28.5" roty="180" />
+    <tile name="INVISIBLE_COLLISON_BlockGround_VIS_1x10" pos="-44 -161 -37.5" roty="180" />
     <tile name="Atmosphere_WRL_NONE_MI_GREEN_City" pos="-59.4 -44 0" />
     <tile name="AtmosphereBubbleOutdoorsMistsCityUpperTree" pos="5.7 -10 -4.4" roty="90">
       <atmospherebubble layer="3" radius="45" blend="0.7777778" />
     </tile>
+    <criticaltile name="RespawnPoint" pos="7 0 106" id="respawnpoint_01" type="respawnpoint">
+      <respawnpoint type="RespawnAfterDeath" />
+    </criticaltile>
     <tile name="MISTS_GREEN_AVA_FX_GODRAY_ROOF_A" pos="-5 -8 -90" />
     <tile name="MISTS_GREEN_AVA_GROUND_STONE_DEBRIS_A" pos="13 0 -126" roty="90" />
     <tile name="MISTS_GREEN_AVA_GROUND_STONE_CRACKS_B_DARK" pos="-2 0 -127" />
@@ -632,7 +642,7 @@
     <tile name="MISTS_GREEN_AVA_GROUND_STONE_DEBRIS_A" pos="-25 0 -56" roty="90" />
     <tile name="MISTS_GREEN_AVA_GROUND_PATCH_BROKEN_A" pos="-43 0 8" roty="40" />
     <tile name="MISTS_GREEN_AVA_GROUND_PATCH_BROKEN_A" pos="-49 0 -2" roty="165" />
-    <tile name="MISTS_GREEN_AVA_GROUND_PATCH_BROKEN_A" pos="-43 0 -16" roty="240.37" />
+    <tile name="MISTS_GREEN_AVA_GROUND_PATCH_BROKEN_A" pos="-43 0 -16" roty="240" />
     <tile name="MISTS_GREEN_AVA_GROUND_STONE_DEBRIS_A" pos="-55 0 -11" />
     <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_A" pos="35 0 41" roty="30" scale="4.081521 1 2.21996" />
     <tile name="MISTS_GREEN_AVA_GROUND_STONE_DEBRIS_A" pos="38 0 -54" roty="180" />
@@ -749,7 +759,7 @@
     <tile name="MISTS_GREEN_VEG_LEAFS_C" pos="22.5 0 -54.5" roty="180" />
     <tile name="MISTS_GREEN_VEG_FERN_SMALL_A_MIST" pos="16.5 0 -30.5" rot="25 154 7" />
     <tile name="MISTS_GREEN_VEG_BLEND_SMALL_A" pos="16.5 0 -30.5" roty="90" />
-    <tile name="MISTS_GREEN_VEG_FERN_SMALL_A_MIST" pos="-3.5 0 -55.5" rot="1.34 172.21 27.49" />
+    <tile name="MISTS_GREEN_VEG_FERN_SMALL_A_MIST" pos="-3.5 0 -55.5" rot="1 172 27" />
     <tile name="MISTS_GREEN_AVA_GROUND_STONE_DEBRIS_A" pos="42 0 -50" roty="90" />
     <tile name="MISTS_GREEN_VEG_BLEND_HIGH_SMALL_A" pos="43.5 -2 -50.5" roty="90" />
     <tile name="MISTS_GREEN_AVA_GROUND_PATCH_BROKEN_A" pos="14 0 40" roty="130" />
@@ -1086,7 +1096,7 @@
     <tile name="MISTS_GREEN_VEG_LEAFS_C" pos="16.5 0 112.5" roty="346" />
     <tile name="MISTS_GREEN_VEG_GRASS_SMALL_C" pos="17.5 2 122.5" rot="353 0 0" />
     <tile name="MISTS_GREEN_VEG_MUSHROOMS_TREE_A" pos="19.5 2 114.5" roty="159" scale="1.3651 1.3651 1.3651" />
-    <tile name="MISTS_GREEN_VEG_BLEND_SMALL_A" pos="-11.5 -5 138.5" rot="340.6 164.05 274.06" />
+    <tile name="MISTS_GREEN_VEG_BLEND_SMALL_A" pos="-11.5 -5 138.5" rot="341 164 274" />
     <tile name="MISTS_GREEN_VEG_BLEND_SMALL_A" pos="-3.5 0 107.5" roty="90" />
     <tile name="MISTS_GREEN_VEG_BLEND_SMALL_A" pos="-10.5 0 138.5" rot="3 152 302" />
     <tile name="MISTS_GREEN_VEG_BLEND_SMALL_A" pos="-11.5 1 139.5" rot="30 177 304" />

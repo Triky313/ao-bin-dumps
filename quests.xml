@@ -5203,7 +5203,7 @@ Light-->
     </missions>
     <rewards>
       <famepoints points="2768" scalewithclusterquestfactor="true"/>
-      <mistsfactionstanding points="408" scalewithclusterquestfactor="true"/>
+      <mistsfactionstanding points="387" scalewithclusterquestfactor="true"/>
     </rewards>
   </localquest>
   <localquest uniquename="LOCAL_QUEST_MISTS_MEDIUM_UNDEAD" name="@LOCAL_QUEST_CAMP_MEDIUM_UNDEAD" type="mobcampquestbig" visibleonminimapbeforevisit="true">
@@ -5212,7 +5212,7 @@ Light-->
     </missions>
     <rewards>
       <famepoints points="2768" scalewithclusterquestfactor="true"/>
-      <mistsfactionstanding points="408" scalewithclusterquestfactor="true"/>
+      <mistsfactionstanding points="387" scalewithclusterquestfactor="true"/>
     </rewards>
   </localquest>
   <localquest uniquename="LOCAL_QUEST_MISTS_MEDIUM_MORGANA" name="@LOCAL_QUEST_CAMP_MEDIUM_MORGANA" type="mobcampquestbig" visibleonminimapbeforevisit="true">
@@ -5221,7 +5221,7 @@ Light-->
     </missions>
     <rewards>
       <famepoints points="2768" scalewithclusterquestfactor="true"/>
-      <mistsfactionstanding points="408" scalewithclusterquestfactor="true"/>
+      <mistsfactionstanding points="387" scalewithclusterquestfactor="true"/>
     </rewards>
   </localquest>
   <localquest uniquename="LOCAL_QUEST_MISTS_SMALL_HERETIC" name="@LOCAL_QUEST_CAMP_SMALL_HERETIC" type="mobcampquestsmall" visibleonminimapbeforevisit="false">
@@ -5230,7 +5230,7 @@ Light-->
     </missions>
     <rewards>
       <famepoints points="1265" scalewithclusterquestfactor="true"/>
-      <mistsfactionstanding points="186" scalewithclusterquestfactor="true"/>
+      <mistsfactionstanding points="177" scalewithclusterquestfactor="true"/>
     </rewards>
   </localquest>
   <localquest uniquename="LOCAL_QUEST_MISTS_SMALL_UNDEAD" name="@LOCAL_QUEST_CAMP_SMALL_UNDEAD" type="mobcampquestsmall" visibleonminimapbeforevisit="false">
@@ -5239,7 +5239,7 @@ Light-->
     </missions>
     <rewards>
       <famepoints points="1265" scalewithclusterquestfactor="true"/>
-      <mistsfactionstanding points="186" scalewithclusterquestfactor="true"/>
+      <mistsfactionstanding points="177" scalewithclusterquestfactor="true"/>
     </rewards>
   </localquest>
   <localquest uniquename="LOCAL_QUEST_MISTS_SMALL_MORGANA" name="@LOCAL_QUEST_CAMP_SMALL_MORGANA" type="mobcampquestsmall" visibleonminimapbeforevisit="false">
@@ -5248,7 +5248,7 @@ Light-->
     </missions>
     <rewards>
       <famepoints points="1265" scalewithclusterquestfactor="true"/>
-      <mistsfactionstanding points="186" scalewithclusterquestfactor="true"/>
+      <mistsfactionstanding points="177" scalewithclusterquestfactor="true"/>
     </rewards>
   </localquest>
 </quests>

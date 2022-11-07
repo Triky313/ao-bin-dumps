@@ -3944,6 +3944,11 @@
     <OnCastInterrupted name="Stop_bolt_cone_cast" />
     <OnCastCanceled name="Stop_bolt_cone_cast" />
   </WwiseEventInfo>
+  <WwiseEventInfo name="SPELL_BOLT_MULTISHOT_CAST">
+	<OnCastStart name="Play_bolt_multishot_cast" />
+	<OnCastInterrupted name="Stop_bolt_multishot_cast" />
+	<OnCastCanceled name="Stop_bolt_multishot_cast" />
+  </WwiseEventInfo>
   <WwiseEventInfo name="SPELL_ARROW_CAST_BIG">
     <OnCastStart name="Play_arrow_cast_big" />
   </WwiseEventInfo>

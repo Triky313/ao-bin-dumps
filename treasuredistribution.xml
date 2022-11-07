@@ -675,15 +675,6 @@
           <TreasureHarvestable name="MISTS_YELLOW_HARVESTABLE_FIBER_T4" biome="Mists" weight="1" />
         </Mists>
       </ClusterTier>
-      <ClusterTier tier="7">
-        <Mists maxslotsused="3" activationtimemin="0" activationtimemax="0" positioncooldown="300" >
-          <TreasureMob         name="MISTS_YELLOW_HIDEMOB_MISTS_T4"    biome="Mists" weight="1" />
-          <TreasureHarvestable name="MISTS_YELLOW_HARVESTABLE_WOOD_T4"  biome="Mists" weight="1" />
-          <TreasureHarvestable name="MISTS_YELLOW_HARVESTABLE_ROCK_T4"  biome="Mists" weight="1" />
-          <TreasureHarvestable name="MISTS_YELLOW_HARVESTABLE_ORE_T4"   biome="Mists" weight="1" />
-          <TreasureHarvestable name="MISTS_YELLOW_HARVESTABLE_FIBER_T4" biome="Mists" weight="1" />
-        </Mists>
-      </ClusterTier>
     </Continent>    
 
     <Continent name="Mists" subtype="RESOURCE_MISTS_T5">
@@ -750,18 +741,6 @@
     </Continent>    
     
     <!--Treasure Resources in Mists Black-->
-    <Continent name="Mists" subtype="RESOURCE_T4">
-      <ClusterTier tier="6">
-        <Mists maxslotsused="3" activationtimemin="0" activationtimemax="0" positioncooldown="300" >
-          <TreasureMob         name="MISTS_BLACK_HIDEMOB_MISTS_T4"    biome="Mists" weight="1" />
-          <TreasureHarvestable name="MISTS_BLACK_HARVESTABLE_WOOD_T4"  biome="Mists" weight="1" />
-          <TreasureHarvestable name="MISTS_BLACK_HARVESTABLE_ROCK_T4"  biome="Mists" weight="1" />
-          <TreasureHarvestable name="MISTS_BLACK_HARVESTABLE_ORE_T4"   biome="Mists" weight="1" />
-          <TreasureHarvestable name="MISTS_BLACK_HARVESTABLE_FIBER_T4" biome="Mists" weight="1" />
-        </Mists>
-      </ClusterTier>
-    </Continent>
-
     <Continent name="Mists" subtype="RESOURCE_T5">
       <ClusterTier tier="6" >
         <Mists maxslotsused="3" activationtimemin="0" activationtimemax="0" positioncooldown="300" >

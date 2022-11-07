@@ -1417,10 +1417,10 @@
     <WhisperCooldownInMs value="500"/>
   </ChatSettings>
   <PremiumPackages>
-   <PremiumPackage name="PREMIUMPACKAGEDAY30" days="30" goldcost="3000"/>
-   <PremiumPackage name="PREMIUMPACKAGEDAY90" days="90" goldcost="7350"/>
-   <PremiumPackage name="PREMIUMPACKAGEDAY180" days="180" goldcost="13750"/>
-   <PremiumPackage name="PREMIUMPACKAGEDAY360" days="360" goldcost="24500"/>
+   <PremiumPackage name="PREMIUMPACKAGEDAY30" days="30" goldcost="3000" goldcostswitch="3750"/>
+   <PremiumPackage name="PREMIUMPACKAGEDAY90" days="90" goldcost="7350" goldcostswitch="10500"/>
+   <PremiumPackage name="PREMIUMPACKAGEDAY180" days="180" goldcost="13750" goldcostswitch="19500"/>
+   <PremiumPackage name="PREMIUMPACKAGEDAY360" days="360" goldcost="24500" goldcostswitch="36000"/>
   </PremiumPackages>
   <PremiumLifeTimeRewards>
     <Reward days="7" title="@PREMIUM_STORE_BENEFIT_CONDITIONAL_FIRST_PURCHASE">
@@ -1428,13 +1428,6 @@
       <StatBonus attribute="learningpoints" change="500"/>
     </Reward>
   </PremiumLifeTimeRewards>
-  <GoldPurchasePackages>
-   <GoldPurchasePackage name="GOLDPACKAGE1" gold="750" price="4.95"/>
-   <GoldPurchasePackage name="GOLDPACKAGE2" gold="1750" price="9.95"/>
-   <GoldPurchasePackage name="GOLDPACKAGE3" gold="3750" price="19.95"/>
-   <GoldPurchasePackage name="GOLDPACKAGE4" gold="10000" price="49.95"/>
-   <GoldPurchasePackage name="GOLDPACKAGE5" gold="21000" price="99.95"/>
-  </GoldPurchasePackages>
   <ClusterDangerBonusTypes globalmoblootfactor="0.9" globalmobsilverlootfactor="0.9">
     <ClusterDangerBonus type="safe"                   icon="safe"                  famefactor="2.15" moblootfactor="1.25" mobsilverlootfactor="1.45" questscalingfactor="2.15"/>
     <ClusterDangerBonus type="yellow"                 icon="yellow"                famefactor="2.4"  moblootfactor="1.33" mobsilverlootfactor="1.53" questscalingfactor="2.4"/>

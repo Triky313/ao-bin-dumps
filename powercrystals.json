@@ -16,6 +16,7 @@
       {
         "@uniquename": "TERRITORY",
         "@target": "territory",
+        "@reward": "guild",
         "@displayname": "@POWER_CRYSTAL_NAME_TERRITORY",
         "@raritydesc": "@TREASURE_TOOLTIP_RARITY",
         "rarity": [
@@ -84,6 +85,7 @@
       {
         "@uniquename": "HIDEOUT_OPENWORLD",
         "@target": "hideout",
+        "@reward": "guild",
         "@displayname": "@POWER_CRYSTAL_NAME_CRYSTAL",
         "@raritydesc": "@TREASURE_TOOLTIP_RARITY",
         "rarity": [
@@ -152,6 +154,7 @@
       {
         "@uniquename": "HIDEOUT_TUNNEL",
         "@target": "hideout",
+        "@reward": "guild",
         "@displayname": "@POWER_CRYSTAL_NAME_CRYSTAL",
         "@raritydesc": "@TREASURE_TOOLTIP_RARITY",
         "rarity": [
@@ -220,6 +223,7 @@
       {
         "@uniquename": "TREASURE_WISP_YELLOW",
         "@target": "treasuredestination",
+        "@reward": "party",
         "@subtype": "wisp",
         "@displayname": "@POWER_CRYSTAL_NAME_WISP",
         "@raritydesc": "@TREASURE_TOOLTIP_STRENGTH",
@@ -285,6 +289,7 @@
       {
         "@uniquename": "TREASURE_WISP_BLACK",
         "@target": "treasuredestination",
+        "@reward": "party",
         "@subtype": "wisp",
         "@displayname": "@POWER_CRYSTAL_NAME_WISP",
         "@raritydesc": "@TREASURE_TOOLTIP_STRENGTH",

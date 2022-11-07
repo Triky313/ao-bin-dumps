@@ -768,6 +768,7 @@
                 knockdownbuffaftergetup="SPAWN_KNOCKDOWN_INVULNERABILITY"
                 requiredreputationtoenter="-20000"
                 allowfactionflagging="false"
+                ignoreguilds="true"
                 vanityvisibility="Allowed"
                 zergdebuffenabled="false"
                 ignoredestructionmultiplier="true"
@@ -795,6 +796,7 @@
                 clusterdangerbonustype="mistsblack"
                 requiredreputationtoenter="-50000"
                 allowfactionflagging="false"
+                ignoreguilds="true"
                 vanityvisibility="Allowed"
                 zergdebuffenabled="false"
                 ignoredestructionmultiplier="false"
@@ -821,6 +823,7 @@
                 clusterdangerbonustype="mistsblack"
                 requiredreputationtoenter="-50000"
                 allowfactionflagging="false"
+                ignoreguilds="true"
                 vanityvisibility="Allowed"
                 zergdebuffenabled="false"
                 ignoredestructionmultiplier="false"
@@ -3660,7 +3663,8 @@
                    allowpowercrystals="TREASURE_WISP_YELLOW"
                    townportalspell="TOWN_PORTAL_SHORT"
                    townportalzonemodifier="0.55"
-                   disablespellsbytag="gvgmountcombatspell">
+                   disablespellsbytag="gvgmountcombatspell"
+                   playeranonymity="true">
 
         <spawnbuff>
           <!-- The first buff makes you immune to invul shields for respawning in the open world -->
@@ -3794,7 +3798,8 @@
                    allowpowercrystals="TREASURE_WISP_BLACK"
                    townportalspell="TOWN_PORTAL_LONG"
                    townportalzonemodifier="7.15"
-                   disablespellsbytag="gvgmountcombatspell">
+                   disablespellsbytag="gvgmountcombatspell"
+                   playeranonymity="true">
 
         <spawnbuff>
           <!-- The first buff makes you immune to invul shields for respawning in the open world -->
@@ -3934,7 +3939,8 @@
                    allowpowercrystals="TREASURE_WISP_BLACK"
                    townportalspell="TOWN_PORTAL_LONG"
                    townportalzonemodifier="7.15"
-                   disablespellsbytag="gvgmountcombatspell">
+                   disablespellsbytag="gvgmountcombatspell"
+                   playeranonymity="true">
 
         <spawnbuff>
           <!-- The first buff makes you immune to invul shields for respawning in the open world -->

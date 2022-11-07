@@ -27321,7 +27321,7 @@
         <marker type="Harbor" pos="177 30" />
       </minimapmarkers>
       <travelpoints>
-        <travelpoint id="753010ce-8632-4707-931b-5258ef16957f" pos="178 31">
+        <travelpoint id="5fb78fb7-8fae-4fab-8338-46ea1e191a50" pos="178 31">
           <connections />
         </travelpoint>
       </travelpoints>
@@ -27419,7 +27419,7 @@
         <marker type="Harbor" pos="177 30" />
       </minimapmarkers>
       <travelpoints>
-        <travelpoint id="ec2f2eda-6c75-46ec-ae8a-ca0a024d4859" pos="178 31">
+        <travelpoint id="5fb78fb7-8fae-4fab-8338-46ea1e191a50" pos="178 31">
           <connections />
         </travelpoint>
       </travelpoints>
@@ -27440,7 +27440,7 @@
         <marker type="Harbor" pos="177 30" />
       </minimapmarkers>
       <travelpoints>
-        <travelpoint id="c1d588b5-c7bd-47b5-8965-f6d8cc6134d1" pos="178 31">
+        <travelpoint id="5fb78fb7-8fae-4fab-8338-46ea1e191a50" pos="178 31">
           <connections />
         </travelpoint>
       </travelpoints>
@@ -27461,7 +27461,7 @@
         <marker type="Harbor" pos="177 30" />
       </minimapmarkers>
       <travelpoints>
-        <travelpoint id="1476237b-1cc2-449e-b837-1b6af4f37b2a" pos="178 31">
+        <travelpoint id="5fb78fb7-8fae-4fab-8338-46ea1e191a50" pos="178 31">
           <connections />
         </travelpoint>
       </travelpoints>
@@ -27482,7 +27482,7 @@
         <marker type="Harbor" pos="177 30" />
       </minimapmarkers>
       <travelpoints>
-        <travelpoint id="b4ab79ce-c0c5-4d7e-b852-b6e2124ef1c0" pos="178 31">
+        <travelpoint id="5fb78fb7-8fae-4fab-8338-46ea1e191a50" pos="178 31">
           <connections />
         </travelpoint>
       </travelpoints>
@@ -36375,6 +36375,7 @@
       <fasttravelpoint path="instanceslot_00/fasttravelpoint_01" guid="c5cdc6e3-dc94-4577-a660-bad45673ff2b" unused="true" />
       <mistscityroadsentrance path="instanceslot_00/mistscityroadsentrance_01" guid="bb4ef671-8b9f-4458-8019-236a7bef5685" />
       <mistsstaticentrance path="instanceslot_00/mistsstaticentrance_01" guid="a737ea3a-bf8a-421c-9e0e-042d0e53edce" />
+      <respawnpoint path="instanceslot_00/respawnpoint_01" guid="646d0570-b02f-4c62-86d0-9ec9212ca9af" />
       <tunnelexit path="instanceslot_00/tunnelexit_01" guid="688f7a81-a799-443f-b1d2-53dba7a832da" unused="true" />
     </cluster>
     <cluster id="5002">
@@ -37912,23 +37913,23 @@
     </cluster>
     <cluster id="ISLAND-PLAYER-MISTS-0001b">
       <actionbuilding path="instanceslot_00/actionbuilding_01" guid="6e5c7007-9bf5-440f-ac04-d73ceba908ca" />
-      <fasttravelpoint path="instanceslot_00/fasttravelpoint_01" guid="ec2f2eda-6c75-46ec-ae8a-ca0a024d4859" />
+      <fasttravelpoint path="instanceslot_00/fasttravelpoint_01" guid="5fb78fb7-8fae-4fab-8338-46ea1e191a50" />
     </cluster>
     <cluster id="ISLAND-PLAYER-MISTS-0001c">
-      <actionbuilding path="instanceslot_00/actionbuilding_01" guid="d8ae29ed-3d25-4b66-9418-d409de35b4c1" />
-      <fasttravelpoint path="instanceslot_00/fasttravelpoint_01" guid="c1d588b5-c7bd-47b5-8965-f6d8cc6134d1" />
+      <actionbuilding path="instanceslot_00/actionbuilding_01" guid="6e5c7007-9bf5-440f-ac04-d73ceba908ca" />
+      <fasttravelpoint path="instanceslot_00/fasttravelpoint_01" guid="5fb78fb7-8fae-4fab-8338-46ea1e191a50" />
     </cluster>
     <cluster id="ISLAND-PLAYER-MISTS-0001d">
-      <actionbuilding path="instanceslot_00/actionbuilding_01" guid="adf89772-e409-4666-8b22-ebb75c051a4b" />
-      <fasttravelpoint path="instanceslot_00/fasttravelpoint_01" guid="1476237b-1cc2-449e-b837-1b6af4f37b2a" />
+      <actionbuilding path="instanceslot_00/actionbuilding_01" guid="6e5c7007-9bf5-440f-ac04-d73ceba908ca" />
+      <fasttravelpoint path="instanceslot_00/fasttravelpoint_01" guid="5fb78fb7-8fae-4fab-8338-46ea1e191a50" />
     </cluster>
     <cluster id="ISLAND-PLAYER-MISTS-0001e">
-      <actionbuilding path="instanceslot_00/actionbuilding_01" guid="c306528b-b646-461e-a8ce-c07635bcadc0" />
-      <fasttravelpoint path="instanceslot_00/fasttravelpoint_01" guid="b4ab79ce-c0c5-4d7e-b852-b6e2124ef1c0" />
+      <actionbuilding path="instanceslot_00/actionbuilding_01" guid="6e5c7007-9bf5-440f-ac04-d73ceba908ca" />
+      <fasttravelpoint path="instanceslot_00/fasttravelpoint_01" guid="5fb78fb7-8fae-4fab-8338-46ea1e191a50" />
     </cluster>
     <cluster id="ISLAND-PLAYER-MISTS-0001f">
-      <actionbuilding path="instanceslot_00/actionbuilding_01" guid="b08339e6-e40f-4d1c-a410-fe5bfea6a08f" />
-      <fasttravelpoint path="instanceslot_00/fasttravelpoint_01" guid="753010ce-8632-4707-931b-5258ef16957f" />
+      <actionbuilding path="instanceslot_00/actionbuilding_01" guid="6e5c7007-9bf5-440f-ac04-d73ceba908ca" />
+      <fasttravelpoint path="instanceslot_00/fasttravelpoint_01" guid="5fb78fb7-8fae-4fab-8338-46ea1e191a50" />
     </cluster>
     <cluster id="LEGACY-KEEPER-01">
       <exit path="instanceslot_00/exit_01" guid="12150631-893c-485f-b6f1-ab35f803941a" />

@@ -1491,11 +1491,11 @@
 1491: T6_ARTEFACT_SHOES_LEATHER_AVALON                                 : Master's Augured Fasteners
 1492: T7_ARTEFACT_SHOES_LEATHER_AVALON                                 : Grandmaster's Augured Fasteners
 1493: T8_ARTEFACT_SHOES_LEATHER_AVALON                                 : Elder's Augured Fasteners
-1494: T4_ARTEFACT_ARMOR_LEATHER_FEY                                    : Adept's Pristine Griffin Feathers
-1495: T5_ARTEFACT_ARMOR_LEATHER_FEY                                    : Expert's Pristine Griffin Feathers
-1496: T6_ARTEFACT_ARMOR_LEATHER_FEY                                    : Master's Pristine Griffin Feathers
-1497: T7_ARTEFACT_ARMOR_LEATHER_FEY                                    : Grandmaster's Pristine Griffin Feathers
-1498: T8_ARTEFACT_ARMOR_LEATHER_FEY                                    : Elder's Pristine Griffin Feathers
+1494: T4_ARTEFACT_ARMOR_LEATHER_FEY                                    : Adept's Untarnished Griffin Feathers
+1495: T5_ARTEFACT_ARMOR_LEATHER_FEY                                    : Expert's Untarnished Griffin Feathers
+1496: T6_ARTEFACT_ARMOR_LEATHER_FEY                                    : Master's Untarnished Griffin Feathers
+1497: T7_ARTEFACT_ARMOR_LEATHER_FEY                                    : Grandmaster's Untarnished Griffin Feathers
+1498: T8_ARTEFACT_ARMOR_LEATHER_FEY                                    : Elder's Untarnished Griffin Feathers
 1499: T4_ARTEFACT_HEAD_LEATHER_FEY                                     : Adept's Flawless Griffin Beak
 1500: T5_ARTEFACT_HEAD_LEATHER_FEY                                     : Expert's Flawless Griffin Beak
 1501: T6_ARTEFACT_HEAD_LEATHER_FEY                                     : Master's Flawless Griffin Beak

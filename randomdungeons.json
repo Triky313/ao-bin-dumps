@@ -256,82 +256,82 @@
         },
         {
           "@name": "MISTS_OPEN_WORLD_MODE_YELLOW_SOLO",
-          "@rerolltimesecondsmin": "300",
-          "@rerolltimesecondsmax": "900",
+          "@rerolltimesecondsmin": "3600",
+          "@rerolltimesecondsmax": "10800",
           "level": [
             {
               "@level": "0",
-              "@weight": "9400"
+              "@weight": "9590"
             },
             {
               "@level": "1",
-              "@weight": "405"
+              "@weight": "195"
             },
             {
               "@level": "2",
-              "@weight": "135"
+              "@weight": "110"
             },
             {
               "@level": "3",
-              "@weight": "45"
+              "@weight": "65"
             },
             {
               "@level": "4",
-              "@weight": "15"
+              "@weight": "40"
             }
           ]
         },
         {
           "@name": "MISTS_OPEN_WORLD_MODE_BLACK_SOLO",
-          "@rerolltimesecondsmin": "300",
-          "@rerolltimesecondsmax": "900",
+          "@rerolltimesecondsmin": "3600",
+          "@rerolltimesecondsmax": "10800",
           "level": [
             {
               "@level": "0",
-              "@weight": "9400"
+              "@weight": "9590"
             },
             {
               "@level": "1",
-              "@weight": "405"
+              "@weight": "195"
             },
             {
               "@level": "2",
-              "@weight": "135"
+              "@weight": "110"
             },
             {
               "@level": "3",
-              "@weight": "45"
+              "@weight": "65"
             },
             {
               "@level": "4",
-              "@weight": "15"
+              "@weight": "40"
             }
           ]
         },
         {
           "@name": "MISTS_OPEN_WORLD_MODE_BLACK_DUO",
-          "@rerolltimesecondsmin": "300",
-          "@rerolltimesecondsmax": "900",
+          "@rerolltimesecondsmin": "3600",
+          "@rerolltimesecondsmax": "10800",
           "level": [
             {
               "@level": "0",
-              "@weight": "9400"
+              "@weight": "9590"
             },
             {
               "@level": "1",
-              "@weight": "405"
+              "@weight": "195"
             },
             {
               "@level": "2",
-              "@weight": "135"
+              "@weight": "110"
             },
             {
               "@level": "3",
-              "@weight": "45"
+              "@weight": "65"
             },
             {
               "@level": "4",
-              "@weight": "15"
+              "@weight": "40"
             }
           ]
         },
@@ -341,23 +341,23 @@
           "level": [
             {
               "@level": "0",
-              "@weight": "1000"
+              "@weight": "5900"
             },
             {
               "@level": "1",
-              "@weight": "250"
+              "@weight": "1700"
             },
             {
               "@level": "2",
-              "@weight": "100"
+              "@weight": "1150"
             },
             {
               "@level": "3",
-              "@weight": "50"
+              "@weight": "750"
             },
             {
               "@level": "4",
-              "@weight": "25"
+              "@weight": "500"
             }
           ]
         },
@@ -367,23 +367,23 @@
           "level": [
             {
               "@level": "0",
-              "@weight": "1000"
+              "@weight": "5900"
             },
             {
               "@level": "1",
-              "@weight": "250"
+              "@weight": "1700"
             },
             {
               "@level": "2",
-              "@weight": "100"
+              "@weight": "1150"
             },
             {
               "@level": "3",
-              "@weight": "50"
+              "@weight": "750"
             },
             {
               "@level": "4",
-              "@weight": "25"
+              "@weight": "500"
             }
           ]
         },
@@ -393,23 +393,23 @@
           "level": [
             {
               "@level": "0",
-              "@weight": "1000"
+              "@weight": "5900"
             },
             {
               "@level": "1",
-              "@weight": "250"
+              "@weight": "1700"
             },
             {
               "@level": "2",
-              "@weight": "100"
+              "@weight": "1150"
             },
             {
               "@level": "3",
-              "@weight": "50"
+              "@weight": "750"
             },
             {
               "@level": "4",
-              "@weight": "25"
+              "@weight": "500"
             }
           ]
         },
@@ -1565,29 +1565,38 @@
                   "RandomExit": [
                     {
                       "@name": "MISTS_SOLO_BLACK",
-                      "@weight": "3",
+                      "@weight": "1",
                       "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_SOLO"
                     },
                     {
                       "@name": "MISTS_DUO_BLACK",
-                      "@weight": "3",
+                      "@weight": "1",
                       "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_DUO"
                     },
                     {
                       "@name": "CORRUPTED_SOLO",
-                      "@weight": "10"
+                      "@weight": "5"
                     },
                     {
                       "@name": "T4_PORTAL_SOLO",
-                      "@weight": "40"
+                      "@weight": "5",
+                      "@randomlevelrerollref": "SOLO_ROYAL"
                     },
                     {
                       "@name": "T4_PORTAL_CONSUMABLE_SOLO",
                       "@weight": "0"
                     },
                     {
+                      "@name": "T4_PORTAL_CONSUMABLE",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "T5_PORTAL_CONSUMABLE",
+                      "@weight": "0"
+                    },
+                    {
                       "@name": "HELLGATE_2V2_LETHAL",
-                      "@weight": "5"
+                      "@weight": "0"
                     },
                     {
                       "@name": "HELLGATE_5V5_LETHAL",
@@ -1617,29 +1626,42 @@
                   "RandomExit": [
                     {
                       "@name": "MISTS_SOLO_BLACK",
-                      "@weight": "3",
+                      "@weight": "1",
                       "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_SOLO"
                     },
                     {
                       "@name": "MISTS_DUO_BLACK",
-                      "@weight": "3",
+                      "@weight": "1",
                       "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_DUO"
                     },
                     {
                       "@name": "CORRUPTED_SOLO",
-                      "@weight": "10"
+                      "@weight": "5"
                     },
                     {
                       "@name": "T5_PORTAL_SOLO",
-                      "@weight": "40"
+                      "@weight": "5",
+                      "@randomlevelrerollref": "SOLO_ROYAL"
                     },
                     {
                       "@name": "T5_PORTAL_CONSUMABLE_SOLO",
                       "@weight": "0"
                     },
                     {
+                      "@name": "T4_PORTAL_CONSUMABLE",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "T5_PORTAL_CONSUMABLE",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "T6_PORTAL_CONSUMABLE",
+                      "@weight": "0"
+                    },
+                    {
                       "@name": "HELLGATE_2V2_LETHAL",
-                      "@weight": "5"
+                      "@weight": "0"
                     },
                     {
                       "@name": "HELLGATE_5V5_LETHAL",
@@ -1669,29 +1691,42 @@
                   "RandomExit": [
                     {
                       "@name": "MISTS_SOLO_BLACK",
-                      "@weight": "3",
+                      "@weight": "1",
                       "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_SOLO"
                     },
                     {
                       "@name": "MISTS_DUO_BLACK",
-                      "@weight": "3",
+                      "@weight": "1",
                       "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_DUO"
                     },
                     {
                       "@name": "CORRUPTED_SOLO",
-                      "@weight": "10"
+                      "@weight": "5"
                     },
                     {
                       "@name": "T6_PORTAL_SOLO",
-                      "@weight": "40"
+                      "@weight": "5",
+                      "@randomlevelrerollref": "SOLO_ROYAL"
                     },
                     {
                       "@name": "T6_PORTAL_CONSUMABLE_SOLO",
                       "@weight": "0"
                     },
                     {
+                      "@name": "T5_PORTAL_CONSUMABLE",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "T6_PORTAL_CONSUMABLE",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "T7_PORTAL_CONSUMABLE",
+                      "@weight": "0"
+                    },
+                    {
                       "@name": "HELLGATE_2V2_LETHAL",
-                      "@weight": "5"
+                      "@weight": "0"
                     },
                     {
                       "@name": "HELLGATE_5V5_LETHAL",
@@ -1721,29 +1756,42 @@
                   "RandomExit": [
                     {
                       "@name": "MISTS_SOLO_BLACK",
-                      "@weight": "3",
+                      "@weight": "1",
                       "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_SOLO"
                     },
                     {
                       "@name": "MISTS_DUO_BLACK",
-                      "@weight": "3",
+                      "@weight": "1",
                       "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_DUO"
                     },
                     {
                       "@name": "CORRUPTED_SOLO",
-                      "@weight": "10"
+                      "@weight": "5"
                     },
                     {
                       "@name": "T7_PORTAL_SOLO",
-                      "@weight": "40"
+                      "@weight": "5",
+                      "@randomlevelrerollref": "SOLO_ROYAL"
                     },
                     {
                       "@name": "T7_PORTAL_CONSUMABLE_SOLO",
                       "@weight": "0"
                     },
                     {
+                      "@name": "T6_PORTAL_CONSUMABLE",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "T7_PORTAL_CONSUMABLE",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "T8_PORTAL_CONSUMABLE",
+                      "@weight": "0"
+                    },
+                    {
                       "@name": "HELLGATE_2V2_LETHAL",
-                      "@weight": "5"
+                      "@weight": "0"
                     },
                     {
                       "@name": "HELLGATE_5V5_LETHAL",
@@ -1773,29 +1821,38 @@
                   "RandomExit": [
                     {
                       "@name": "MISTS_SOLO_BLACK",
-                      "@weight": "3",
+                      "@weight": "1",
                       "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_SOLO"
                     },
                     {
                       "@name": "MISTS_DUO_BLACK",
-                      "@weight": "3",
+                      "@weight": "1",
                       "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_DUO"
                     },
                     {
                       "@name": "CORRUPTED_SOLO",
-                      "@weight": "10"
+                      "@weight": "5"
                     },
                     {
                       "@name": "T8_PORTAL_SOLO",
-                      "@weight": "40"
+                      "@weight": "5",
+                      "@randomlevelrerollref": "SOLO_ROYAL"
                     },
                     {
                       "@name": "T8_PORTAL_CONSUMABLE_SOLO",
                       "@weight": "0"
                     },
                     {
+                      "@name": "T7_PORTAL_CONSUMABLE",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "T8_PORTAL_CONSUMABLE",
+                      "@weight": "0"
+                    },
+                    {
                       "@name": "HELLGATE_2V2_LETHAL",
-                      "@weight": "5"
+                      "@weight": "0"
                     },
                     {
                       "@name": "HELLGATE_5V5_LETHAL",
@@ -1826,22 +1883,74 @@
               "ClusterTier": [
                 {
                   "@tier": "4",
-                  "@maxfillratio": "0",
+                  "@maxfillratio": "0.67",
                   "RandomExit": [
+                    {
+                      "@name": "MISTS_SOLO_BLACK",
+                      "@weight": "1",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_SOLO"
+                    },
+                    {
+                      "@name": "MISTS_DUO_BLACK",
+                      "@weight": "1",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_DUO"
+                    },
+                    {
+                      "@name": "T4_PORTAL_CONSUMABLE_SOLO",
+                      "@weight": "0"
+                    },
                     {
                       "@name": "T4_PORTAL_CONSUMABLE",
                       "@weight": "0"
                     },
                     {
                       "@name": "T5_PORTAL_CONSUMABLE",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_2V2_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_5V5_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_10V10_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_2V2_NON_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_5V5_NON_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_10V10_NON_LETHAL",
                       "@weight": "0"
                     }
                   ]
                 },
                 {
                   "@tier": "5",
-                  "@maxfillratio": "0",
+                  "@maxfillratio": "0.67",
                   "RandomExit": [
+                    {
+                      "@name": "MISTS_SOLO_BLACK",
+                      "@weight": "1",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_SOLO"
+                    },
+                    {
+                      "@name": "MISTS_DUO_BLACK",
+                      "@weight": "1",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_DUO"
+                    },
+                    {
+                      "@name": "T5_PORTAL_CONSUMABLE_SOLO",
+                      "@weight": "0"
+                    },
                     {
                       "@name": "T4_PORTAL_CONSUMABLE",
                       "@weight": "0"
@@ -1853,13 +1962,51 @@
                     {
                       "@name": "T6_PORTAL_CONSUMABLE",
                       "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_2V2_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_5V5_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_10V10_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_2V2_NON_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_5V5_NON_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_10V10_NON_LETHAL",
+                      "@weight": "0"
                     }
                   ]
                 },
                 {
                   "@tier": "6",
-                  "@maxfillratio": "0",
+                  "@maxfillratio": "0.67",
                   "RandomExit": [
+                    {
+                      "@name": "MISTS_SOLO_BLACK",
+                      "@weight": "1",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_SOLO"
+                    },
+                    {
+                      "@name": "MISTS_DUO_BLACK",
+                      "@weight": "1",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_DUO"
+                    },
+                    {
+                      "@name": "T6_PORTAL_CONSUMABLE_SOLO",
+                      "@weight": "0"
+                    },
                     {
                       "@name": "T5_PORTAL_CONSUMABLE",
                       "@weight": "0"
@@ -1871,13 +2018,51 @@
                     {
                       "@name": "T7_PORTAL_CONSUMABLE",
                       "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_2V2_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_5V5_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_10V10_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_2V2_NON_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_5V5_NON_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_10V10_NON_LETHAL",
+                      "@weight": "0"
                     }
                   ]
                 },
                 {
                   "@tier": "7",
-                  "@maxfillratio": "0",
+                  "@maxfillratio": "0.67",
                   "RandomExit": [
+                    {
+                      "@name": "MISTS_SOLO_BLACK",
+                      "@weight": "1",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_SOLO"
+                    },
+                    {
+                      "@name": "MISTS_DUO_BLACK",
+                      "@weight": "1",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_DUO"
+                    },
+                    {
+                      "@name": "T7_PORTAL_CONSUMABLE_SOLO",
+                      "@weight": "0"
+                    },
                     {
                       "@name": "T6_PORTAL_CONSUMABLE",
                       "@weight": "0"
@@ -1889,19 +2074,81 @@
                     {
                       "@name": "T8_PORTAL_CONSUMABLE",
                       "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_2V2_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_5V5_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_10V10_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_2V2_NON_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_5V5_NON_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_10V10_NON_LETHAL",
+                      "@weight": "0"
                     }
                   ]
                 },
                 {
                   "@tier": "8",
-                  "@maxfillratio": "0",
+                  "@maxfillratio": "0.67",
                   "RandomExit": [
+                    {
+                      "@name": "MISTS_SOLO_BLACK",
+                      "@weight": "1",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_SOLO"
+                    },
+                    {
+                      "@name": "MISTS_DUO_BLACK",
+                      "@weight": "1",
+                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_DUO"
+                    },
+                    {
+                      "@name": "T8_PORTAL_CONSUMABLE_SOLO",
+                      "@weight": "0"
+                    },
                     {
                       "@name": "T7_PORTAL_CONSUMABLE",
                       "@weight": "0"
                     },
                     {
                       "@name": "T8_PORTAL_CONSUMABLE",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_2V2_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_5V5_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_10V10_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_2V2_NON_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_5V5_NON_LETHAL",
+                      "@weight": "0"
+                    },
+                    {
+                      "@name": "HELLGATE_10V10_NON_LETHAL",
                       "@weight": "0"
                     }
                   ]
@@ -1922,16 +2169,16 @@
                   "RandomExit": [
                     {
                       "@name": "MISTS_SOLO_YELLOW",
-                      "@weight": "20",
+                      "@weight": "48",
                       "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_YELLOW_SOLO"
                     },
                     {
                       "@name": "CORRUPTED_SOLO",
-                      "@weight": "40"
+                      "@weight": "26"
                     },
                     {
                       "@name": "T5_PORTAL_ROYAL_SOLO",
-                      "@weight": "40",
+                      "@weight": "26",
                       "@randomlevelrerollref": "SOLO_ROYAL"
                     },
                     {
@@ -1962,21 +2209,21 @@
                   "RandomExit": [
                     {
                       "@name": "MISTS_SOLO_BLACK",
-                      "@weight": "20",
+                      "@weight": "34",
                       "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_SOLO"
                     },
                     {
                       "@name": "MISTS_DUO_BLACK",
-                      "@weight": "9",
+                      "@weight": "17",
                       "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_DUO"
                     },
                     {
                       "@name": "CORRUPTED_SOLO",
-                      "@weight": "40"
+                      "@weight": "28"
                     },
                     {
                       "@name": "T6_PORTAL_SOLO",
-                      "@weight": "40",
+                      "@weight": "28",
                       "@randomlevelrerollref": "SOLO_ROYAL"
                     },
                     {
@@ -2046,7 +2293,7 @@
               "ClusterTier": [
                 {
                   "@tier": "3",
-                  "@maxfillratio": "0.7",
+                  "@maxfillratio": "0.5",
                   "RandomExit": [
                     {
                       "@name": "T2_PORTAL_ROYAL_SOLO",
@@ -2070,7 +2317,7 @@
                 },
                 {
                   "@tier": "4",
-                  "@maxfillratio": "0.84",
+                  "@maxfillratio": "0.5",
                   "RandomExit": [
                     {
                       "@name": "CORRUPTED_SOLO",
@@ -2101,16 +2348,16 @@
                   "RandomExit": [
                     {
                       "@name": "MISTS_SOLO_YELLOW",
-                      "@weight": "20",
+                      "@weight": "52",
                       "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_YELLOW_SOLO"
                     },
                     {
                       "@name": "CORRUPTED_SOLO",
-                      "@weight": "40"
+                      "@weight": "22"
                     },
                     {
                       "@name": "T5_PORTAL_ROYAL_SOLO",
-                      "@weight": "40",
+                      "@weight": "22",
                       "@randomlevelrerollref": "SOLO_ROYAL"
                     },
                     {
@@ -2123,7 +2370,7 @@
                     },
                     {
                       "@name": "HELLGATE_2V2_NON_LETHAL",
-                      "@weight": "7"
+                      "@weight": "4"
                     },
                     {
                       "@name": "HELLGATE_5V5_NON_LETHAL",
@@ -2141,21 +2388,21 @@
                   "RandomExit": [
                     {
                       "@name": "MISTS_SOLO_BLACK",
-                      "@weight": "20",
+                      "@weight": "35",
                       "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_SOLO"
                     },
                     {
                       "@name": "MISTS_DUO_BLACK",
-                      "@weight": "9",
+                      "@weight": "11",
                       "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_DUO"
                     },
                     {
                       "@name": "CORRUPTED_SOLO",
-                      "@weight": "40"
+                      "@weight": "25"
                     },
                     {
                       "@name": "T6_PORTAL_SOLO",
-                      "@weight": "40",
+                      "@weight": "25",
                       "@randomlevelrerollref": "SOLO_ROYAL"
                     },
                     {
@@ -2168,7 +2415,7 @@
                     },
                     {
                       "@name": "HELLGATE_2V2_LETHAL",
-                      "@weight": "8"
+                      "@weight": "4"
                     },
                     {
                       "@name": "HELLGATE_5V5_LETHAL",
@@ -2186,21 +2433,21 @@
                   "RandomExit": [
                     {
                       "@name": "MISTS_SOLO_BLACK",
-                      "@weight": "20",
+                      "@weight": "38",
                       "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_SOLO"
                     },
                     {
                       "@name": "MISTS_DUO_BLACK",
-                      "@weight": "9",
+                      "@weight": "12",
                       "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_DUO"
                     },
                     {
                       "@name": "CORRUPTED_SOLO",
-                      "@weight": "40"
+                      "@weight": "23"
                     },
                     {
                       "@name": "T7_PORTAL_SOLO",
-                      "@weight": "40",
+                      "@weight": "23",
                       "@randomlevelrerollref": "SOLO_ROYAL"
                     },
                     {
@@ -2209,48 +2456,7 @@
                     },
                     {
                       "@name": "HELLGATE_2V2_LETHAL",
-                      "@weight": "9"
-                    },
-                    {
-                      "@name": "HELLGATE_5V5_LETHAL",
-                      "@weight": "0"
-                    },
-                    {
-                      "@name": "HELLGATE_10V10_LETHAL",
-                      "@weight": "0"
-                    }
-                  ]
-                },
-                {
-                  "@tier": "8",
-                  "@maxfillratio": "0.33",
-                  "RandomExit": [
-                    {
-                      "@name": "MISTS_SOLO_BLACK",
-                      "@weight": "20",
-                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_SOLO"
-                    },
-                    {
-                      "@name": "MISTS_DUO_BLACK",
-                      "@weight": "9",
-                      "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_DUO"
-                    },
-                    {
-                      "@name": "CORRUPTED_SOLO",
-                      "@weight": "40"
-                    },
-                    {
-                      "@name": "T8_PORTAL_SOLO",
-                      "@weight": "40",
-                      "@randomlevelrerollref": "SOLO_ROYAL"
-                    },
-                    {
-                      "@name": "T8_PORTAL_CONSUMABLE_SOLO",
-                      "@weight": "0"
-                    },
-                    {
-                      "@name": "HELLGATE_2V2_LETHAL",
-                      "@weight": "8"
+                      "@weight": "4"
                     },
                     {
                       "@name": "HELLGATE_5V5_LETHAL",
@@ -2558,25 +2764,25 @@
               "ClusterTier": [
                 {
                   "@tier": "5",
-                  "@maxfillratio": "0.84",
+                  "@maxfillratio": "0.75",
                   "RandomExit": [
                     {
                       "@name": "MISTS_SOLO_BLACK",
-                      "@weight": "20",
+                      "@weight": "38",
                       "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_SOLO"
                     },
                     {
                       "@name": "MISTS_DUO_BLACK",
-                      "@weight": "9",
+                      "@weight": "12",
                       "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_DUO"
                     },
                     {
                       "@name": "CORRUPTED_SOLO",
-                      "@weight": "40"
+                      "@weight": "23"
                     },
                     {
                       "@name": "T5_PORTAL_SOLO",
-                      "@weight": "40",
+                      "@weight": "23",
                       "@randomlevelrerollref": "SOLO_OUTLANDS"
                     },
                     {
@@ -2597,7 +2803,7 @@
                     },
                     {
                       "@name": "HELLGATE_2V2_LETHAL",
-                      "@weight": "7"
+                      "@weight": "4"
                     },
                     {
                       "@name": "HELLGATE_5V5_LETHAL",
@@ -2623,25 +2829,25 @@
                 },
                 {
                   "@tier": "6",
-                  "@maxfillratio": "0.78",
+                  "@maxfillratio": "0.75",
                   "RandomExit": [
                     {
                       "@name": "MISTS_SOLO_BLACK",
-                      "@weight": "20",
+                      "@weight": "38",
                       "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_SOLO"
                     },
                     {
                       "@name": "MISTS_DUO_BLACK",
-                      "@weight": "9",
+                      "@weight": "12",
                       "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_DUO"
                     },
                     {
                       "@name": "CORRUPTED_SOLO",
-                      "@weight": "40"
+                      "@weight": "23"
                     },
                     {
                       "@name": "T6_PORTAL_SOLO",
-                      "@weight": "40",
+                      "@weight": "23",
                       "@randomlevelrerollref": "SOLO_OUTLANDS"
                     },
                     {
@@ -2658,7 +2864,7 @@
                     },
                     {
                       "@name": "HELLGATE_2V2_LETHAL",
-                      "@weight": "8"
+                      "@weight": "4"
                     },
                     {
                       "@name": "HELLGATE_5V5_LETHAL",
@@ -2684,25 +2890,25 @@
                 },
                 {
                   "@tier": "7",
-                  "@maxfillratio": "0.72",
+                  "@maxfillratio": "0.75",
                   "RandomExit": [
                     {
                       "@name": "MISTS_SOLO_BLACK",
-                      "@weight": "20",
+                      "@weight": "38",
                       "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_SOLO"
                     },
                     {
                       "@name": "MISTS_DUO_BLACK",
-                      "@weight": "9",
+                      "@weight": "12",
                       "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_DUO"
                     },
                     {
                       "@name": "CORRUPTED_SOLO",
-                      "@weight": "40"
+                      "@weight": "23"
                     },
                     {
                       "@name": "T7_PORTAL_SOLO",
-                      "@weight": "40",
+                      "@weight": "23",
                       "@randomlevelrerollref": "SOLO_OUTLANDS"
                     },
                     {
@@ -2715,7 +2921,7 @@
                     },
                     {
                       "@name": "HELLGATE_2V2_LETHAL",
-                      "@weight": "9"
+                      "@weight": "4"
                     },
                     {
                       "@name": "HELLGATE_5V5_LETHAL",
@@ -2741,25 +2947,25 @@
                 },
                 {
                   "@tier": "8",
-                  "@maxfillratio": "0.66",
+                  "@maxfillratio": "0.75",
                   "RandomExit": [
                     {
                       "@name": "MISTS_SOLO_BLACK",
-                      "@weight": "20",
+                      "@weight": "38",
                       "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_SOLO"
                     },
                     {
                       "@name": "MISTS_DUO_BLACK",
-                      "@weight": "9",
+                      "@weight": "12",
                       "@randomlevelrerollref": "MISTS_OPEN_WORLD_MODE_BLACK_DUO"
                     },
                     {
                       "@name": "CORRUPTED_SOLO",
-                      "@weight": "40"
+                      "@weight": "23"
                     },
                     {
                       "@name": "T8_PORTAL_SOLO",
-                      "@weight": "40",
+                      "@weight": "23",
                       "@randomlevelrerollref": "SOLO_OUTLANDS"
                     },
                     {
@@ -2768,7 +2974,7 @@
                     },
                     {
                       "@name": "HELLGATE_2V2_LETHAL",
-                      "@weight": "8"
+                      "@weight": "4"
                     },
                     {
                       "@name": "HELLGATE_5V5_LETHAL",
@@ -5610,9 +5816,9 @@
         },
         {
           "@name": "T2_PORTAL_ROYAL_CONSUMABLE_SOLO",
-          "@activationtime": "60",
-          "@cooldown": "60",
-          "@lifetimeafterlastuse": "60",
+          "@activationtime": "0",
+          "@cooldown": "30",
+          "@lifetimeafterlastuse": "30",
           "RandomDungeonGenerators": {
             "GeneratedRandomDungeon": {
               "@generatorName": "HERETIC_RANDOM_DUNGEON_PORTAL_SOLO_T3",
@@ -5627,8 +5833,8 @@
         {
           "@name": "T3_PORTAL_ROYAL_CONSUMABLE_SOLO",
           "@activationtime": "60",
-          "@cooldown": "120",
-          "@lifetimeafterlastuse": "60",
+          "@cooldown": "30",
+          "@lifetimeafterlastuse": "30",
           "RandomDungeonGenerators": {
             "GeneratedRandomDungeon": {
               "@generatorName": "HERETIC_RANDOM_DUNGEON_PORTAL_SOLO_T3",
@@ -5643,8 +5849,8 @@
         {
           "@name": "T4_PORTAL_ROYAL_CONSUMABLE_SOLO",
           "@activationtime": "60",
-          "@cooldown": "120",
-          "@lifetimeafterlastuse": "60",
+          "@cooldown": "30",
+          "@lifetimeafterlastuse": "30",
           "RandomDungeonGenerators": {
             "GeneratedRandomDungeon": [
               {
@@ -5676,8 +5882,8 @@
         {
           "@name": "T5_PORTAL_ROYAL_CONSUMABLE_SOLO",
           "@activationtime": "60",
-          "@cooldown": "120",
-          "@lifetimeafterlastuse": "60",
+          "@cooldown": "30",
+          "@lifetimeafterlastuse": "30",
           "RandomDungeonGenerators": {
             "GeneratedRandomDungeon": [
               {
@@ -5709,7 +5915,7 @@
         {
           "@name": "T3_PORTAL_CONSUMABLE_SOLO",
           "@activationtime": "60",
-          "@cooldown": "120",
+          "@cooldown": "30",
           "@lifetimeafterlastuse": "90",
           "RandomDungeonGenerators": {
             "GeneratedRandomDungeon": {
@@ -5725,7 +5931,7 @@
         {
           "@name": "T4_PORTAL_CONSUMABLE_SOLO",
           "@activationtime": "60",
-          "@cooldown": "120",
+          "@cooldown": "30",
           "@lifetimeafterlastuse": "90",
           "RandomDungeonGenerators": {
             "GeneratedRandomDungeon": [
@@ -5758,7 +5964,7 @@
         {
           "@name": "T5_PORTAL_CONSUMABLE_SOLO",
           "@activationtime": "60",
-          "@cooldown": "120",
+          "@cooldown": "30",
           "@lifetimeafterlastuse": "90",
           "RandomDungeonGenerators": {
             "GeneratedRandomDungeon": [
@@ -5791,7 +5997,7 @@
         {
           "@name": "T6_PORTAL_CONSUMABLE_SOLO",
           "@activationtime": "60",
-          "@cooldown": "120",
+          "@cooldown": "30",
           "@lifetimeafterlastuse": "90",
           "RandomDungeonGenerators": {
             "GeneratedRandomDungeon": [
@@ -5824,7 +6030,7 @@
         {
           "@name": "T7_PORTAL_CONSUMABLE_SOLO",
           "@activationtime": "60",
-          "@cooldown": "120",
+          "@cooldown": "30",
           "@lifetimeafterlastuse": "90",
           "RandomDungeonGenerators": {
             "GeneratedRandomDungeon": [
@@ -5857,7 +6063,7 @@
         {
           "@name": "T8_PORTAL_CONSUMABLE_SOLO",
           "@activationtime": "60",
-          "@cooldown": "120",
+          "@cooldown": "30",
           "@lifetimeafterlastuse": "90",
           "RandomDungeonGenerators": {
             "GeneratedRandomDungeon": [
@@ -5890,7 +6096,7 @@
         {
           "@name": "T3_PORTAL_SOLO",
           "@activationtime": "60",
-          "@cooldown": "120",
+          "@cooldown": "30",
           "@lifetimeafterlastuse": "90",
           "RandomDungeonGenerators": {
             "GeneratedRandomDungeon": {
@@ -5906,7 +6112,7 @@
         {
           "@name": "T4_PORTAL_SOLO",
           "@activationtime": "60",
-          "@cooldown": "120",
+          "@cooldown": "30",
           "@lifetimeafterlastuse": "90",
           "RandomDungeonGenerators": {
             "GeneratedRandomDungeon": [
@@ -5939,7 +6145,7 @@
         {
           "@name": "T5_PORTAL_SOLO",
           "@activationtime": "60",
-          "@cooldown": "120",
+          "@cooldown": "30",
           "@lifetimeafterlastuse": "90",
           "RandomDungeonGenerators": {
             "GeneratedRandomDungeon": [
@@ -5972,7 +6178,7 @@
         {
           "@name": "T6_PORTAL_SOLO",
           "@activationtime": "60",
-          "@cooldown": "120",
+          "@cooldown": "30",
           "@lifetimeafterlastuse": "90",
           "RandomDungeonGenerators": {
             "GeneratedRandomDungeon": [
@@ -6005,7 +6211,7 @@
         {
           "@name": "T7_PORTAL_SOLO",
           "@activationtime": "60",
-          "@cooldown": "120",
+          "@cooldown": "30",
           "@lifetimeafterlastuse": "90",
           "RandomDungeonGenerators": {
             "GeneratedRandomDungeon": [
@@ -6038,7 +6244,7 @@
         {
           "@name": "T8_PORTAL_SOLO",
           "@activationtime": "60",
-          "@cooldown": "120",
+          "@cooldown": "30",
           "@lifetimeafterlastuse": "90",
           "RandomDungeonGenerators": {
             "GeneratedRandomDungeon": [
@@ -6070,9 +6276,9 @@
         },
         {
           "@name": "T2_PORTAL_ROYAL_SOLO",
-          "@activationtime": "60",
-          "@cooldown": "60",
-          "@lifetimeafterlastuse": "60",
+          "@activationtime": "0",
+          "@cooldown": "30",
+          "@lifetimeafterlastuse": "30",
           "RandomDungeonGenerators": {
             "GeneratedRandomDungeon": {
               "@generatorName": "HERETIC_RANDOM_DUNGEON_PORTAL_SOLO_T3",
@@ -6087,8 +6293,8 @@
         {
           "@name": "T3_PORTAL_ROYAL_SOLO",
           "@activationtime": "60",
-          "@cooldown": "120",
-          "@lifetimeafterlastuse": "60",
+          "@cooldown": "30",
+          "@lifetimeafterlastuse": "30",
           "RandomDungeonGenerators": {
             "GeneratedRandomDungeon": {
               "@generatorName": "HERETIC_RANDOM_DUNGEON_PORTAL_SOLO_T3",
@@ -6103,8 +6309,8 @@
         {
           "@name": "T4_PORTAL_ROYAL_SOLO",
           "@activationtime": "60",
-          "@cooldown": "120",
-          "@lifetimeafterlastuse": "60",
+          "@cooldown": "30",
+          "@lifetimeafterlastuse": "30",
           "RandomDungeonGenerators": {
             "GeneratedRandomDungeon": [
               {
@@ -6136,8 +6342,8 @@
         {
           "@name": "T5_PORTAL_ROYAL_SOLO",
           "@activationtime": "60",
-          "@cooldown": "120",
-          "@lifetimeafterlastuse": "60",
+          "@cooldown": "30",
+          "@lifetimeafterlastuse": "30",
           "RandomDungeonGenerators": {
             "GeneratedRandomDungeon": [
               {

@@ -772,6 +772,7 @@
     <compoundtile name="_MISTS_GREEN_10x10_A" pos="120 0 390" roty="270" />
     <compoundtile name="_MISTS_GREEN_10x10_A" pos="100 0 390" roty="270" />
     <compoundtile name="_MISTS_GREEN_10x20_B" pos="-180 0 -285" activelayers="4" />
+    <compoundtile name="_MISTS_GREEN_10x20_A" pos="290 8 25" />
     <compoundtile name="_MISTS_GREEN_10x30_A" pos="-110 0 250" />
     <compoundtile name="_MISTS_GREEN_10x30_B" pos="-150 0 260" roty="90" />
     <compoundtile name="_MISTS_GREEN_10x10_B" pos="-110 0 180" />

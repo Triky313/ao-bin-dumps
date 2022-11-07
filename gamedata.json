@@ -3888,22 +3888,26 @@
         {
           "@name": "PREMIUMPACKAGEDAY30",
           "@days": "30",
-          "@goldcost": "3000"
+          "@goldcost": "3000",
+          "@goldcostswitch": "3750"
         },
         {
           "@name": "PREMIUMPACKAGEDAY90",
           "@days": "90",
-          "@goldcost": "7350"
+          "@goldcost": "7350",
+          "@goldcostswitch": "10500"
         },
         {
           "@name": "PREMIUMPACKAGEDAY180",
           "@days": "180",
-          "@goldcost": "13750"
+          "@goldcost": "13750",
+          "@goldcostswitch": "19500"
         },
         {
           "@name": "PREMIUMPACKAGEDAY360",
           "@days": "360",
-          "@goldcost": "24500"
+          "@goldcost": "24500",
+          "@goldcostswitch": "36000"
         }
       ]
     },
@@ -3922,35 +3926,6 @@
           }
         ]
       }
-    },
-    "GoldPurchasePackages": {
-      "GoldPurchasePackage": [
-        {
-          "@name": "GOLDPACKAGE1",
-          "@gold": "750",
-          "@price": "4.95"
-        },
-        {
-          "@name": "GOLDPACKAGE2",
-          "@gold": "1750",
-          "@price": "9.95"
-        },
-        {
-          "@name": "GOLDPACKAGE3",
-          "@gold": "3750",
-          "@price": "19.95"
-        },
-        {
-          "@name": "GOLDPACKAGE4",
-          "@gold": "10000",
-          "@price": "49.95"
-        },
-        {
-          "@name": "GOLDPACKAGE5",
-          "@gold": "21000",
-          "@price": "99.95"
-        }
-      ]
     },
     "ClusterDangerBonusTypes": {
       "@globalmoblootfactor": "0.9",

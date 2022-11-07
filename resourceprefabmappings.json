@@ -60,87 +60,83 @@
               "prefab": [
                 {
                   "@name": "SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_ALL",
-                  "@weight": "80"
+                  "@weight": "10"
                 },
                 {
                   "@name": "SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_MAGIC",
-                  "@weight": "160"
+                  "@weight": "10"
                 },
                 {
                   "@name": "SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_MELEE",
-                  "@weight": "160"
+                  "@weight": "10"
                 },
                 {
                   "@name": "SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_RANGED",
-                  "@weight": "160"
+                  "@weight": "10"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_DRYAD_SINGLE",
-                  "@weight": "30"
+                  "@weight": "9"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_MISTSPIRIT_SINGLE",
-                  "@weight": "30"
+                  "@weight": "9"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_OREELEMENTAL_SINGLE",
-                  "@weight": "30"
+                  "@weight": "9"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_ROCKELEMENTAL_SINGLE",
-                  "@weight": "30"
+                  "@weight": "9"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_MISTCOUGAR_SINGLE",
-                  "@weight": "30"
+                  "@weight": "9"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_DRYAD_DOUBLE",
-                  "@weight": "10"
+                  "@weight": "3"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_MISTSPIRIT_DOUBLE",
-                  "@weight": "10"
+                  "@weight": "3"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_OREELEMENTAL_DOUBLE",
-                  "@weight": "10"
+                  "@weight": "3"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_ROCKELEMENTAL_DOUBLE",
-                  "@weight": "10"
+                  "@weight": "3"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_MISTCOUGAR_DOUBLE",
-                  "@weight": "10"
+                  "@weight": "3"
                 },
                 {
                   "@name": "SpawnPoint_RANDOM_ROAMING_AVALON_TREASURE_MINION",
-                  "@weight": "10"
+                  "@weight": "1"
                 },
                 {
                   "@name": "TreasureSpawnpointLootchest",
-                  "@weight": "40"
+                  "@weight": "4"
                 },
                 {
                   "@name": "TreasureSpawnpointHarvestableT4",
-                  "@weight": "40"
+                  "@weight": "4"
                 },
                 {
                   "@name": "TreasureSpawnpointPowercore",
-                  "@weight": "20"
+                  "@weight": "2"
                 },
                 {
                   "@name": "TreasureSpawnpointWisps",
-                  "@weight": "30"
-                },
-                {
-                  "@name": "RandomExitPositionMarker_SOLO_EXIT_RND-DNG",
-                  "@weight": "80"
+                  "@weight": "3"
                 },
                 {
                   "@name": "RandomExitPositionMarker_10x10_EXIT_RND-DNG",
-                  "@weight": "20"
+                  "@weight": "6"
                 }
               ]
             }
@@ -175,87 +171,83 @@
               "prefab": [
                 {
                   "@name": "SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_ALL",
-                  "@weight": "80"
+                  "@weight": "10"
                 },
                 {
                   "@name": "SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_MAGIC",
-                  "@weight": "160"
+                  "@weight": "10"
                 },
                 {
                   "@name": "SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_MELEE",
-                  "@weight": "160"
+                  "@weight": "10"
                 },
                 {
                   "@name": "SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_RANGED",
-                  "@weight": "160"
+                  "@weight": "10"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_DRYAD_SINGLE",
-                  "@weight": "30"
+                  "@weight": "9"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_MISTSPIRIT_SINGLE",
-                  "@weight": "30"
+                  "@weight": "9"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_OREELEMENTAL_SINGLE",
-                  "@weight": "30"
+                  "@weight": "9"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_ROCKELEMENTAL_SINGLE",
-                  "@weight": "30"
+                  "@weight": "9"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_MISTCOUGAR_SINGLE",
-                  "@weight": "30"
+                  "@weight": "9"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_DRYAD_DOUBLE",
-                  "@weight": "10"
+                  "@weight": "3"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_MISTSPIRIT_DOUBLE",
-                  "@weight": "10"
+                  "@weight": "3"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_OREELEMENTAL_DOUBLE",
-                  "@weight": "10"
+                  "@weight": "3"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_ROCKELEMENTAL_DOUBLE",
-                  "@weight": "10"
+                  "@weight": "3"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_MISTCOUGAR_DOUBLE",
-                  "@weight": "10"
+                  "@weight": "3"
                 },
                 {
                   "@name": "SpawnPoint_RANDOM_ROAMING_AVALON_TREASURE_MINION",
-                  "@weight": "10"
+                  "@weight": "1"
                 },
                 {
                   "@name": "TreasureSpawnpointLootchest",
-                  "@weight": "40"
+                  "@weight": "4"
                 },
                 {
                   "@name": "TreasureSpawnpointHarvestableT5",
-                  "@weight": "40"
+                  "@weight": "4"
                 },
                 {
                   "@name": "TreasureSpawnpointPowercore",
-                  "@weight": "20"
+                  "@weight": "2"
                 },
                 {
                   "@name": "TreasureSpawnpointWisps",
-                  "@weight": "30"
-                },
-                {
-                  "@name": "RandomExitPositionMarker_SOLO_EXIT_RND-DNG",
-                  "@weight": "80"
+                  "@weight": "3"
                 },
                 {
                   "@name": "RandomExitPositionMarker_10x10_EXIT_RND-DNG",
-                  "@weight": "20"
+                  "@weight": "6"
                 }
               ]
             }
@@ -290,87 +282,83 @@
               "prefab": [
                 {
                   "@name": "SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_ALL",
-                  "@weight": "80"
+                  "@weight": "10"
                 },
                 {
                   "@name": "SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_MAGIC",
-                  "@weight": "160"
+                  "@weight": "10"
                 },
                 {
                   "@name": "SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_MELEE",
-                  "@weight": "160"
+                  "@weight": "10"
                 },
                 {
                   "@name": "SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_RANGED",
-                  "@weight": "160"
+                  "@weight": "10"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_DRYAD_SINGLE",
-                  "@weight": "30"
+                  "@weight": "9"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_MISTSPIRIT_SINGLE",
-                  "@weight": "30"
+                  "@weight": "9"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_OREELEMENTAL_SINGLE",
-                  "@weight": "30"
+                  "@weight": "9"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_ROCKELEMENTAL_SINGLE",
-                  "@weight": "30"
+                  "@weight": "9"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_MISTCOUGAR_SINGLE",
-                  "@weight": "30"
+                  "@weight": "9"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_DRYAD_DOUBLE",
-                  "@weight": "10"
+                  "@weight": "3"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_MISTSPIRIT_DOUBLE",
-                  "@weight": "10"
+                  "@weight": "3"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_OREELEMENTAL_DOUBLE",
-                  "@weight": "10"
+                  "@weight": "3"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_ROCKELEMENTAL_DOUBLE",
-                  "@weight": "10"
+                  "@weight": "3"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_MISTCOUGAR_DOUBLE",
-                  "@weight": "10"
+                  "@weight": "3"
                 },
                 {
                   "@name": "SpawnPoint_RANDOM_ROAMING_AVALON_TREASURE_MINION",
-                  "@weight": "10"
+                  "@weight": "1"
                 },
                 {
                   "@name": "TreasureSpawnpointLootchest",
-                  "@weight": "40"
+                  "@weight": "4"
                 },
                 {
                   "@name": "TreasureSpawnpointHarvestableT6",
-                  "@weight": "40"
+                  "@weight": "4"
                 },
                 {
                   "@name": "TreasureSpawnpointPowercore",
-                  "@weight": "20"
+                  "@weight": "2"
                 },
                 {
                   "@name": "TreasureSpawnpointWisps",
-                  "@weight": "30"
-                },
-                {
-                  "@name": "RandomExitPositionMarker_SOLO_EXIT_RND-DNG",
-                  "@weight": "80"
+                  "@weight": "3"
                 },
                 {
                   "@name": "RandomExitPositionMarker_10x10_EXIT_RND-DNG",
-                  "@weight": "20"
+                  "@weight": "6"
                 }
               ]
             }
@@ -405,87 +393,83 @@
               "prefab": [
                 {
                   "@name": "SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_ALL",
-                  "@weight": "80"
+                  "@weight": "10"
                 },
                 {
                   "@name": "SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_MAGIC",
-                  "@weight": "160"
+                  "@weight": "10"
                 },
                 {
                   "@name": "SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_MELEE",
-                  "@weight": "160"
+                  "@weight": "10"
                 },
                 {
                   "@name": "SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_RANGED",
-                  "@weight": "160"
+                  "@weight": "10"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_DRYAD_SINGLE",
-                  "@weight": "30"
+                  "@weight": "9"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_MISTSPIRIT_SINGLE",
-                  "@weight": "30"
+                  "@weight": "9"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_OREELEMENTAL_SINGLE",
-                  "@weight": "30"
+                  "@weight": "9"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_ROCKELEMENTAL_SINGLE",
-                  "@weight": "30"
+                  "@weight": "9"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_MISTCOUGAR_SINGLE",
-                  "@weight": "30"
+                  "@weight": "9"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_DRYAD_DOUBLE",
-                  "@weight": "10"
+                  "@weight": "3"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_MISTSPIRIT_DOUBLE",
-                  "@weight": "10"
+                  "@weight": "3"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_OREELEMENTAL_DOUBLE",
-                  "@weight": "10"
+                  "@weight": "3"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_ROCKELEMENTAL_DOUBLE",
-                  "@weight": "10"
+                  "@weight": "3"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_MISTCOUGAR_DOUBLE",
-                  "@weight": "10"
+                  "@weight": "3"
                 },
                 {
                   "@name": "SpawnPoint_RANDOM_ROAMING_AVALON_TREASURE_MINION",
-                  "@weight": "10"
+                  "@weight": "1"
                 },
                 {
                   "@name": "TreasureSpawnpointLootchest",
-                  "@weight": "40"
+                  "@weight": "4"
                 },
                 {
                   "@name": "TreasureSpawnpointHarvestableT7",
-                  "@weight": "40"
+                  "@weight": "4"
                 },
                 {
                   "@name": "TreasureSpawnpointPowercore",
-                  "@weight": "20"
+                  "@weight": "2"
                 },
                 {
                   "@name": "TreasureSpawnpointWisps",
-                  "@weight": "30"
-                },
-                {
-                  "@name": "RandomExitPositionMarker_SOLO_EXIT_RND-DNG",
-                  "@weight": "80"
+                  "@weight": "3"
                 },
                 {
                   "@name": "RandomExitPositionMarker_10x10_EXIT_RND-DNG",
-                  "@weight": "20"
+                  "@weight": "6"
                 }
               ]
             }
@@ -520,87 +504,83 @@
               "prefab": [
                 {
                   "@name": "SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_ALL",
-                  "@weight": "80"
+                  "@weight": "10"
                 },
                 {
                   "@name": "SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_MAGIC",
-                  "@weight": "160"
+                  "@weight": "10"
                 },
                 {
                   "@name": "SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_MELEE",
-                  "@weight": "160"
+                  "@weight": "10"
                 },
                 {
                   "@name": "SpawnPoint_RANDOM_ROAMING_ROAD_AVALONIAN_RANGED",
-                  "@weight": "160"
+                  "@weight": "10"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_DRYAD_SINGLE",
-                  "@weight": "30"
+                  "@weight": "9"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_MISTSPIRIT_SINGLE",
-                  "@weight": "30"
+                  "@weight": "9"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_OREELEMENTAL_SINGLE",
-                  "@weight": "30"
+                  "@weight": "9"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_ROCKELEMENTAL_SINGLE",
-                  "@weight": "30"
+                  "@weight": "9"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_MISTCOUGAR_SINGLE",
-                  "@weight": "30"
+                  "@weight": "9"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_DRYAD_DOUBLE",
-                  "@weight": "10"
+                  "@weight": "3"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_MISTSPIRIT_DOUBLE",
-                  "@weight": "10"
+                  "@weight": "3"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_OREELEMENTAL_DOUBLE",
-                  "@weight": "10"
+                  "@weight": "3"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_ROCKELEMENTAL_DOUBLE",
-                  "@weight": "10"
+                  "@weight": "3"
                 },
                 {
                   "@name": "_ROADS_ROAD_ROAMING_MISTCOUGAR_DOUBLE",
-                  "@weight": "10"
+                  "@weight": "3"
                 },
                 {
                   "@name": "SpawnPoint_RANDOM_ROAMING_AVALON_TREASURE_MINION",
-                  "@weight": "10"
+                  "@weight": "1"
                 },
                 {
                   "@name": "TreasureSpawnpointLootchest",
-                  "@weight": "40"
+                  "@weight": "4"
                 },
                 {
                   "@name": "TreasureSpawnpointHarvestableT8",
-                  "@weight": "40"
+                  "@weight": "4"
                 },
                 {
                   "@name": "TreasureSpawnpointPowercore",
-                  "@weight": "20"
+                  "@weight": "2"
                 },
                 {
                   "@name": "TreasureSpawnpointWisps",
-                  "@weight": "30"
-                },
-                {
-                  "@name": "RandomExitPositionMarker_SOLO_EXIT_RND-DNG",
-                  "@weight": "80"
+                  "@weight": "3"
                 },
                 {
                   "@name": "RandomExitPositionMarker_10x10_EXIT_RND-DNG",
-                  "@weight": "20"
+                  "@weight": "6"
                 }
               ]
             }
@@ -1690,10 +1670,6 @@
                 {
                   "@weight": "287",
                   "@name": "SpawnPoint_T4_MOB_CRITTER_MISTS_GREEN_ROCKELEMENTAL"
-                },
-                {
-                  "@weight": "42",
-                  "@name": "TreasureSpawnpointHarvestableT4"
                 }
               ]
             },
@@ -1811,10 +1787,6 @@
                 {
                   "@weight": "287",
                   "@name": "SpawnPoint_T4_MOB_CRITTER_MISTS_GREEN_MISTSPIRIT"
-                },
-                {
-                  "@weight": "42",
-                  "@name": "TreasureSpawnpointHarvestableT4"
                 }
               ]
             },
@@ -1909,10 +1881,6 @@
                 {
                   "@weight": "287",
                   "@name": "SpawnPoint_T4_MOB_CRITTER_MISTS_GREEN_MISTCOUGAR"
-                },
-                {
-                  "@weight": "42",
-                  "@name": "TreasureSpawnpointHarvestableT4"
                 }
               ]
             },
@@ -1997,10 +1965,6 @@
                 {
                   "@weight": "287",
                   "@name": "SpawnPoint_T4_MOB_CRITTER_MISTS_GREEN_DRYAD"
-                },
-                {
-                  "@weight": "42",
-                  "@name": "TreasureSpawnpointHarvestableT4"
                 }
               ]
             },
@@ -2085,10 +2049,6 @@
                 {
                   "@weight": "287",
                   "@name": "SpawnPoint_T4_MOB_CRITTER_MISTS_GREEN_OREELEMENTAL"
-                },
-                {
-                  "@weight": "42",
-                  "@name": "TreasureSpawnpointHarvestableT4"
                 }
               ]
             },
@@ -8389,11 +8349,11 @@
               },
               {
                 "@name": "_SWAMP_RED_KEEPER_ROAMING_AXEUN",
-                "@weight": "168"
+                "@weight": "84"
               },
               {
                 "@name": "_SWAMP_RED_KEEPER_ROAMING_BERUN",
-                "@weight": "168"
+                "@weight": "84"
               },
               {
                 "@name": "_SWAMP_RED_KEEPER_ROAMING_AXEUNUN",
@@ -12442,11 +12402,11 @@
               },
               {
                 "@name": "_FOREST_RED_KEEPER_ROAMING_AXEUN",
-                "@weight": "168"
+                "@weight": "84"
               },
               {
                 "@name": "_FOREST_RED_KEEPER_ROAMING_BERUN",
-                "@weight": "168"
+                "@weight": "84"
               },
               {
                 "@name": "_FOREST_RED_KEEPER_ROAMING_AXEUNUN",
@@ -16314,11 +16274,11 @@
               },
               {
                 "@name": "_STEPPE_RED_KEEPER_ROAMING_AXEUN",
-                "@weight": "168"
+                "@weight": "84"
               },
               {
                 "@name": "_STEPPE_RED_KEEPER_ROAMING_BERUN",
-                "@weight": "168"
+                "@weight": "84"
               },
               {
                 "@name": "_STEPPE_RED_KEEPER_ROAMING_AXEUNUN",
