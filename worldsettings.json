@@ -390,6 +390,30 @@
           "@showpvpplayeronminimapthreshold": "6"
         },
         {
+          "@name": "TUNNEL_HIDEOUT",
+          "@uipvptype": "Black",
+          "@pvpwarningtype": "black",
+          "@pvprule": "PvpForced",
+          "@playersarelethal": "true",
+          "@mobsarelethal": "false",
+          "@showpvpplayeronminimap": "true",
+          "@showfriendlycount": "false",
+          "@showhostilecount": "false",
+          "@buildingcraftcapacityregenfactor": "1",
+          "@itempowersoftcap": "0",
+          "@itempowerscalingfactor": "0",
+          "@animalgrowthfactor": "0.5",
+          "@cropyieldfactor": "2",
+          "@clusterdangerbonustype": "black",
+          "@requiredreputationtoenter": "-50000",
+          "@allowfactionflagging": "false",
+          "@vanityvisibility": "Allowed",
+          "@zergdebuffenabled": "true",
+          "@ignoredestructionmultiplier": "false",
+          "@mightrewards": "true",
+          "@showpvpplayeronminimapthreshold": "6"
+        },
+        {
           "@name": "TUNNEL_RAID",
           "@uipvptype": "Black",
           "@pvpwarningtype": "black",
@@ -6679,7 +6703,7 @@
         },
         {
           "@name": "TUNNEL_HIDEOUT",
-          "@archetype": "TUNNEL",
+          "@archetype": "TUNNEL_HIDEOUT",
           "@logoutseconds": "900",
           "@logouttimer_override_message": "@OVERHEADMESSAGE_ROADS_LOGOUT_NOT_POSSIBLE",
           "@spellcooldownsonenteringseconds": "15",
@@ -6761,7 +6785,7 @@
         },
         {
           "@name": "TUNNEL_HIDEOUT_DEEP",
-          "@archetype": "TUNNEL",
+          "@archetype": "TUNNEL_HIDEOUT",
           "@logoutseconds": "900",
           "@logouttimer_override_message": "@OVERHEADMESSAGE_ROADS_LOGOUT_NOT_POSSIBLE",
           "@spellcooldownsonenteringseconds": "15",

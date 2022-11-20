@@ -15702,6 +15702,21 @@
         }
       },
       {
+        "@name": "SPELL_AVALON_PIKEMAN_BLOCK_CHANNEL",
+        "OnChannelingStart": {
+          "@name": "Play_mob_avalon_shadow_bond_loop"
+        },
+        "OnChannelingEnd": {
+          "@name": "Stop_mob_avalon_shadow_bond_loop"
+        },
+        "OnChannelingCancelled": {
+          "@name": "Stop_mob_avalon_shadow_bond_loop"
+        },
+        "OnChannelingInterrupted": {
+          "@name": "Stop_mob_avalon_shadow_bond_loop"
+        }
+      },
+      {
         "@name": "SPELL_AVALON_CLERIC_CAST_SMOKE",
         "OnCastStart": {
           "@name": "Play_mob_avalon_cleric_debuff_castandvo"
@@ -15994,6 +16009,12 @@
         "@name": "SPELL_AVALON_ONCASTFINISHED_LOAD_SHORT",
         "OnCastFinished": {
           "@name": "Play_grail_cast_load_short"
+        }
+      },
+      {
+        "@name": "SPELL_AVALON_SELFBUFF_CASTFINISHED",
+        "OnCastFinished": {
+          "@name": "Play_grail_buff_impact"
         }
       },
       {

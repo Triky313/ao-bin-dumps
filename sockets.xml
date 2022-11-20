@@ -165,14 +165,14 @@
   <!--Enchantment Level 4 Treasures-->
   <SocketInfo name="MOB_RESOURCE_TREASURE_LEVEL4">
 	<Socket socketname="floor"   bonename="Skeleton_Root"/>                               
-	<Socket socketname="ore"     bonename="Skeleton_Root" positionOffset="0 0 0.7"/>   
-	<Socket socketname="fiber"   bonename="Skeleton_Root" positionOffset="-0.6 0 0"/>   
-	<Socket socketname="boar"    bonename="Skeleton_Root" positionOffset="0.6 0 -0.2"/>   
-	<Socket socketname="wolf"    bonename="Skeleton_Root" positionOffset="0.5 0 -0.5"/>   
-	<Socket socketname="bear"    bonename="Skeleton_Root" positionOffset="-1 0 0"/>     
-	<Socket socketname="stag"    bonename="Skeleton_Root" positionOffset="1.2 0 0.3"/>    
-	<Socket socketname="rhino"   bonename="Skeleton_Root" positionOffset="-0.75 0 0"/>    
-	<Socket socketname="mammoth" bonename="Skeleton_Root" positionOffset="-0.3 0 1.03"/>
+	<Socket socketname="ore"     bonename="Skeleton_Root" positionOffset="0 0 0"/>
+	<Socket socketname="fiber"   bonename="Skeleton_Root" positionOffset="0 0 0"/>
+	<Socket socketname="boar"    bonename="Skeleton_Root" positionOffset="0 0 0"/>
+	<Socket socketname="wolf"    bonename="Skeleton_Root" positionOffset="0 0 0"/>
+	<Socket socketname="bear"    bonename="Skeleton_Root" positionOffset="0 0 0"/>
+	<Socket socketname="stag"    bonename="Skeleton_Root" positionOffset="0 0 0"/>
+	<Socket socketname="rhino"   bonename="Skeleton_Root" positionOffset="0 0 0"/>
+	<Socket socketname="mammoth" bonename="Skeleton_Root" positionOffset="0 0 0"/>
   </SocketInfo>
   <!-- BEASTS -->
   <!--with chest-->

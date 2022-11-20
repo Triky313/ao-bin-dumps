@@ -12253,7 +12253,7 @@
         "@uniquename": "LOCAL_QUEST_MISTS_MEDIUM_HERETIC",
         "@name": "@LOCAL_QUEST_CAMP_MEDIUM_HERETIC",
         "@type": "mobcampquestbig",
-        "@visibleonminimapbeforevisit": "true",
+        "@visibleonminimapbeforevisit": "false",
         "missions": {
           "killmobfame": {
             "@value": "2275",
@@ -12268,7 +12268,7 @@
             "@scalewithclusterquestfactor": "true"
           },
           "mistsfactionstanding": {
-            "@points": "387",
+            "@points": "233",
             "@scalewithclusterquestfactor": "true"
           }
         }
@@ -12277,7 +12277,7 @@
         "@uniquename": "LOCAL_QUEST_MISTS_MEDIUM_UNDEAD",
         "@name": "@LOCAL_QUEST_CAMP_MEDIUM_UNDEAD",
         "@type": "mobcampquestbig",
-        "@visibleonminimapbeforevisit": "true",
+        "@visibleonminimapbeforevisit": "false",
         "missions": {
           "killmobfame": {
             "@value": "2275",
@@ -12292,7 +12292,7 @@
             "@scalewithclusterquestfactor": "true"
           },
           "mistsfactionstanding": {
-            "@points": "387",
+            "@points": "233",
             "@scalewithclusterquestfactor": "true"
           }
         }
@@ -12301,7 +12301,7 @@
         "@uniquename": "LOCAL_QUEST_MISTS_MEDIUM_MORGANA",
         "@name": "@LOCAL_QUEST_CAMP_MEDIUM_MORGANA",
         "@type": "mobcampquestbig",
-        "@visibleonminimapbeforevisit": "true",
+        "@visibleonminimapbeforevisit": "false",
         "missions": {
           "killmobfame": {
             "@value": "2275",
@@ -12316,7 +12316,7 @@
             "@scalewithclusterquestfactor": "true"
           },
           "mistsfactionstanding": {
-            "@points": "387",
+            "@points": "233",
             "@scalewithclusterquestfactor": "true"
           }
         }
@@ -12340,7 +12340,7 @@
             "@scalewithclusterquestfactor": "true"
           },
           "mistsfactionstanding": {
-            "@points": "177",
+            "@points": "106",
             "@scalewithclusterquestfactor": "true"
           }
         }
@@ -12364,7 +12364,7 @@
             "@scalewithclusterquestfactor": "true"
           },
           "mistsfactionstanding": {
-            "@points": "177",
+            "@points": "106",
             "@scalewithclusterquestfactor": "true"
           }
         }
@@ -12388,7 +12388,7 @@
             "@scalewithclusterquestfactor": "true"
           },
           "mistsfactionstanding": {
-            "@points": "177",
+            "@points": "106",
             "@scalewithclusterquestfactor": "true"
           }
         }

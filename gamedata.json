@@ -257,7 +257,7 @@
         "@diminishingreturnmax": "0.8",
         "@typefactorstun": "0.3",
         "@typefactorroot": "0.3",
-        "@typefactorknockback": "0.15",
+        "@typefactorknockback": "0.08",
         "@typefactorsilence": "0.3",
         "@typefactorslow": "0.3",
         "@typefactorforcedmovement": "0.3",
@@ -4054,18 +4054,18 @@
         {
           "@type": "mistsyellow",
           "@icon": "yellow",
-          "@famefactor": "1.8",
+          "@famefactor": "1.62",
           "@moblootfactor": "1",
-          "@mobsilverlootfactor": "1.15",
-          "@questscalingfactor": "1.8"
+          "@mobsilverlootfactor": "1.035",
+          "@questscalingfactor": "1.62"
         },
         {
           "@type": "mistsblack",
           "@icon": "black",
-          "@famefactor": "3.16",
+          "@famefactor": "2.844",
           "@moblootfactor": "1.95",
-          "@mobsilverlootfactor": "2.26",
-          "@questscalingfactor": "3.16"
+          "@mobsilverlootfactor": "2.034",
+          "@questscalingfactor": "2.844"
         }
       ]
     },

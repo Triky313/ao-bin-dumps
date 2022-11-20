@@ -128,15 +128,11 @@
                 },
                 {
                   "@name": "TreasureSpawnpointPowercore",
-                  "@weight": "2"
-                },
-                {
-                  "@name": "TreasureSpawnpointWisps",
-                  "@weight": "3"
+                  "@weight": "4"
                 },
                 {
                   "@name": "RandomExitPositionMarker_10x10_EXIT_RND-DNG",
-                  "@weight": "6"
+                  "@weight": "7"
                 }
               ]
             }
@@ -234,20 +230,16 @@
                   "@weight": "4"
                 },
                 {
-                  "@name": "TreasureSpawnpointHarvestableT5",
+                  "@name": "TreasureSpawnpointHarvestableT4",
                   "@weight": "4"
                 },
                 {
                   "@name": "TreasureSpawnpointPowercore",
-                  "@weight": "2"
-                },
-                {
-                  "@name": "TreasureSpawnpointWisps",
-                  "@weight": "3"
+                  "@weight": "4"
                 },
                 {
                   "@name": "RandomExitPositionMarker_10x10_EXIT_RND-DNG",
-                  "@weight": "6"
+                  "@weight": "7"
                 }
               ]
             }
@@ -345,20 +337,16 @@
                   "@weight": "4"
                 },
                 {
-                  "@name": "TreasureSpawnpointHarvestableT6",
+                  "@name": "TreasureSpawnpointHarvestableT4",
                   "@weight": "4"
                 },
                 {
                   "@name": "TreasureSpawnpointPowercore",
-                  "@weight": "2"
-                },
-                {
-                  "@name": "TreasureSpawnpointWisps",
-                  "@weight": "3"
+                  "@weight": "4"
                 },
                 {
                   "@name": "RandomExitPositionMarker_10x10_EXIT_RND-DNG",
-                  "@weight": "6"
+                  "@weight": "7"
                 }
               ]
             }
@@ -456,20 +444,16 @@
                   "@weight": "4"
                 },
                 {
-                  "@name": "TreasureSpawnpointHarvestableT7",
+                  "@name": "TreasureSpawnpointHarvestableT4",
                   "@weight": "4"
                 },
                 {
                   "@name": "TreasureSpawnpointPowercore",
-                  "@weight": "2"
-                },
-                {
-                  "@name": "TreasureSpawnpointWisps",
-                  "@weight": "3"
+                  "@weight": "4"
                 },
                 {
                   "@name": "RandomExitPositionMarker_10x10_EXIT_RND-DNG",
-                  "@weight": "6"
+                  "@weight": "7"
                 }
               ]
             }
@@ -567,20 +551,16 @@
                   "@weight": "4"
                 },
                 {
-                  "@name": "TreasureSpawnpointHarvestableT8",
+                  "@name": "TreasureSpawnpointHarvestableT4",
                   "@weight": "4"
                 },
                 {
                   "@name": "TreasureSpawnpointPowercore",
-                  "@weight": "2"
-                },
-                {
-                  "@name": "TreasureSpawnpointWisps",
-                  "@weight": "3"
+                  "@weight": "4"
                 },
                 {
                   "@name": "RandomExitPositionMarker_10x10_EXIT_RND-DNG",
-                  "@weight": "6"
+                  "@weight": "7"
                 }
               ]
             }

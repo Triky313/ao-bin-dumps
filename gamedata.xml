@@ -131,7 +131,7 @@
       diminishingreturnmax="0.8"
       typefactorstun="0.3"
       typefactorroot="0.3"
-      typefactorknockback="0.15"
+      typefactorknockback="0.08"
       typefactorsilence="0.3"
       typefactorslow="0.3"
       typefactorforcedmovement="0.3"
@@ -1444,8 +1444,8 @@
     <ClusterDangerBonus type="corrupted_pro"          icon="corruptedpro"          famefactor="3.5"  moblootfactor="2.6"  mobsilverlootfactor="3"    questscalingfactor="3.5"/>
     <ClusterDangerBonus type="expedition"             icon="safe"                  famefactor="1"    moblootfactor="0.5"  mobsilverlootfactor="0.5"  questscalingfactor="1"  />
     <ClusterDangerBonus type="tunnel"                 icon="black"                 famefactor="4.2"  moblootfactor="2.6"  mobsilverlootfactor="3"    questscalingfactor="4.2"/>
-    <ClusterDangerBonus type="mistsyellow"            icon="yellow"                famefactor="1.8"  moblootfactor="1"    mobsilverlootfactor="1.15" questscalingfactor="1.8"/>
-    <ClusterDangerBonus type="mistsblack"             icon="black"                 famefactor="3.16" moblootfactor="1.95" mobsilverlootfactor="2.26" questscalingfactor="3.16"/>    
+    <ClusterDangerBonus type="mistsyellow"            icon="yellow"                famefactor="1.62"  moblootfactor="1"    mobsilverlootfactor="1.035" questscalingfactor="1.62"/>
+    <ClusterDangerBonus type="mistsblack"             icon="black"                 famefactor="2.844" moblootfactor="1.95" mobsilverlootfactor="2.034" questscalingfactor="2.844"/>    
   </ClusterDangerBonusTypes>
   <QuestScalingByClusterTier>
     <Tier tier="1" scalingfactor="1"/>

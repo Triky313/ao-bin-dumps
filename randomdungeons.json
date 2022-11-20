@@ -65,34 +65,34 @@
             {
               "@level": "1",
               "@mobmodifier": "MOB_MISTS_BUFF_01",
-              "@silverfactor": "1.4268",
-              "@lootfactor": "1.4268",
-              "@mobfamefactor": "1.276",
-              "@questscalingfactor": "1.276"
+              "@silverfactor": "1.16",
+              "@lootfactor": "1.16",
+              "@mobfamefactor": "1.16",
+              "@questscalingfactor": "1.16"
             },
             {
               "@level": "2",
               "@mobmodifier": "MOB_MISTS_BUFF_02",
-              "@silverfactor": "1.8768",
-              "@lootfactor": "1.8768",
-              "@mobfamefactor": "1.6592",
-              "@questscalingfactor": "1.6592"
+              "@silverfactor": "1.3456",
+              "@lootfactor": "1.3456",
+              "@mobfamefactor": "1.3456",
+              "@questscalingfactor": "1.3456"
             },
             {
               "@level": "3",
               "@mobmodifier": "MOB_MISTS_BUFF_03",
-              "@silverfactor": "2.4332",
-              "@lootfactor": "2.4332",
-              "@mobfamefactor": "2.133",
-              "@questscalingfactor": "2.133"
+              "@silverfactor": "1.5609",
+              "@lootfactor": "1.5609",
+              "@mobfamefactor": "1.5609",
+              "@questscalingfactor": "1.5609"
             },
             {
               "@level": "4",
               "@mobmodifier": "MOB_MISTS_BUFF_04",
-              "@silverfactor": "3.1832",
-              "@lootfactor": "3.1832",
-              "@mobfamefactor": "2.7416",
-              "@questscalingfactor": "2.7416"
+              "@silverfactor": "1.8106",
+              "@lootfactor": "1.8106",
+              "@mobfamefactor": "1.8106",
+              "@questscalingfactor": "1.8106"
             }
           ]
         }

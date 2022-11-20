@@ -60,11 +60,10 @@
         <prefab name="SpawnPoint_RANDOM_ROAMING_AVALON_TREASURE_MINION" weight="1" />
         <prefab name="TreasureSpawnpointLootchest" weight="4" />
         <prefab name="TreasureSpawnpointHarvestableT4" weight="4" />
-        <prefab name="TreasureSpawnpointPowercore" weight="2"  />
-        <prefab name="TreasureSpawnpointWisps" weight="3" />
+        <prefab name="TreasureSpawnpointPowercore" weight="4"  />
 
         <!--Portals-->
-        <prefab name="RandomExitPositionMarker_10x10_EXIT_RND-DNG" weight="6" />
+        <prefab name="RandomExitPositionMarker_10x10_EXIT_RND-DNG" weight="7" />
       </prefabs>
     </roamingmob>
   </mapping>
@@ -99,12 +98,11 @@
         <!--Treasures-->
         <prefab name="SpawnPoint_RANDOM_ROAMING_AVALON_TREASURE_MINION" weight="1" />
         <prefab name="TreasureSpawnpointLootchest" weight="4" />
-        <prefab name="TreasureSpawnpointHarvestableT5" weight="4" />
-        <prefab name="TreasureSpawnpointPowercore" weight="2"  />
-        <prefab name="TreasureSpawnpointWisps" weight="3" />
+        <prefab name="TreasureSpawnpointHarvestableT4" weight="4" />
+        <prefab name="TreasureSpawnpointPowercore" weight="4"  />
 
         <!--Portals-->
-        <prefab name="RandomExitPositionMarker_10x10_EXIT_RND-DNG" weight="6" />
+        <prefab name="RandomExitPositionMarker_10x10_EXIT_RND-DNG" weight="7" />
       </prefabs>
     </roamingmob>
   </mapping>
@@ -139,12 +137,11 @@
         <!--Treasures-->
         <prefab name="SpawnPoint_RANDOM_ROAMING_AVALON_TREASURE_MINION" weight="1" />
         <prefab name="TreasureSpawnpointLootchest" weight="4" />
-        <prefab name="TreasureSpawnpointHarvestableT6" weight="4" />
-        <prefab name="TreasureSpawnpointPowercore" weight="2"  />
-        <prefab name="TreasureSpawnpointWisps" weight="3" />
+        <prefab name="TreasureSpawnpointHarvestableT4" weight="4" />
+        <prefab name="TreasureSpawnpointPowercore" weight="4"  />
 
         <!--Portals-->
-        <prefab name="RandomExitPositionMarker_10x10_EXIT_RND-DNG" weight="6" />
+        <prefab name="RandomExitPositionMarker_10x10_EXIT_RND-DNG" weight="7" />
       </prefabs>
     </roamingmob>
   </mapping>
@@ -179,12 +176,11 @@
         <!--Treasures-->
         <prefab name="SpawnPoint_RANDOM_ROAMING_AVALON_TREASURE_MINION" weight="1" />
         <prefab name="TreasureSpawnpointLootchest" weight="4" />
-        <prefab name="TreasureSpawnpointHarvestableT7" weight="4" />
-        <prefab name="TreasureSpawnpointPowercore" weight="2"  />
-        <prefab name="TreasureSpawnpointWisps" weight="3" />
+        <prefab name="TreasureSpawnpointHarvestableT4" weight="4" />
+        <prefab name="TreasureSpawnpointPowercore" weight="4"  />
 
         <!--Portals-->
-        <prefab name="RandomExitPositionMarker_10x10_EXIT_RND-DNG" weight="6" />
+        <prefab name="RandomExitPositionMarker_10x10_EXIT_RND-DNG" weight="7" />
       </prefabs>
     </roamingmob>
   </mapping>
@@ -219,12 +215,11 @@
         <!--Treasures-->
         <prefab name="SpawnPoint_RANDOM_ROAMING_AVALON_TREASURE_MINION" weight="1" />
         <prefab name="TreasureSpawnpointLootchest" weight="4" />
-        <prefab name="TreasureSpawnpointHarvestableT8" weight="4" />
-        <prefab name="TreasureSpawnpointPowercore" weight="2"  />
-        <prefab name="TreasureSpawnpointWisps" weight="3" />
+        <prefab name="TreasureSpawnpointHarvestableT4" weight="4" />
+        <prefab name="TreasureSpawnpointPowercore" weight="4"  />
 
         <!--Portals-->
-        <prefab name="RandomExitPositionMarker_10x10_EXIT_RND-DNG" weight="6" />
+        <prefab name="RandomExitPositionMarker_10x10_EXIT_RND-DNG" weight="7" />
       </prefabs>
     </roamingmob>
   </mapping>

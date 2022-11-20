@@ -336,24 +336,24 @@
     <tile name="MISTS_GREEN_CITY_STAIRS_TOP_B_RIGHT_RAILINGS" pos="-55 0 15" roty="270" />
     <tile name="MISTS_GREEN_AVA_GATE_RIDGE_A" pos="5 0 -63" roty="90" />
     <tile name="MISTS_GREEN_VEG_BLEND_HIGH_LARGE_A" pos="-15 -3 -24" roty="230" />
-    <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_A" pos="-3 0 -69" roty="317" scale="0.8056318 1 1.221778" />
+    <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_A" pos="-5 0 -71" roty="341" scale="0.3366332 1 0.7229629" />
     <tile name="MISTS_GREEN_VEG_FLOWERS_COLOR_SMALL_A" pos="-15.5 0 -24.5" scale="1.2306 1.713364 1.2306" />
     <tile name="MISTS_GREEN_VEG_FLOWERS_COLOR_SMALL_A" pos="12.5 0 -55.5" scale="1 1.3923 1" />
     <tile name="MISTS_GREEN_VEG_BLEND_A" pos="13.5 0 -57.5" roty="143" />
     <tile name="MISTS_GREEN_FILL_CITY_TORCH_A" pos="-23.5 0 -48.5" roty="154" />
-    <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_A" pos="-16 0 -24" roty="53" scale="1.485197 1 0.7800623" />
+    <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_A" pos="-15 0 -24" roty="133.52" scale="0.3276901 1 1.503438" />
     <tile name="MISTS_GREEN_VEG_GRASS_B" pos="35.5 0 -50.5" />
     <tile name="MISTS_GREEN_FILL_MOP_A" pos="15 0 -56" />
-    <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_A" pos="12 0 -68" roty="47" scale="0.929461 1 1.221778" />
+    <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_A" pos="15 0 -68" roty="74" scale="0.6626592 1 0.9635554" />
     <tile name="MISTS_GREEN_CITY_RAILING_NPC_SPOT_A" pos="25 0 15" roty="180" />
-    <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_HALF_A" pos="7 0 -30" roty="356.24" scale="2.951301 1 2.712359" />
+    <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_HALF_A" pos="7 0 -30" roty="356" scale="2.951301 1 1.330185" />
     <tile name="ARENA_ENTRANCE_VANITY_BANNERS_A" pos="-55 0 -2" roty="270" />
     <tile name="MISTS_GREEN_CITY_RAILING_NPC_SPOT_A" pos="25 0 -25" roty="270" />
     <tile name="MISTS_GREEN_VEG_GRASS_B_SMALL" pos="-34 0 38" />
     <tile name="MISTS_GREEN_VEG_GRASS_B_SMALL" pos="-20 0 48" />
     <tile name="MISTS_GREEN_FILL_PILE_SIMPLE_E" pos="-40 0 33" roty="73" />
     <tile name="MISTS_GREEN_FILL_STORAGE_PILE_A" pos="-15.49 0 50.1" roty="180" />
-    <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_HALF_A" pos="-18 0 52" roty="339" scale="3.634213 2.514678 4.679062" />
+    <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_HALF_A" pos="-18 0 52" roty="339" scale="3.500728 2.514678 4.679062" />
     <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_A" pos="-35 0 -44" roty="316" scale="1.3505 1.3505 2.025466" />
     <tile name="MISTS_GREEN_VEG_GRASS_D" pos="-36.25 0 -40.52" />
     <tile name="MISTS_GREEN_VEG_GRASS_B_SMALL" pos="-40 0 -43" />
@@ -392,7 +392,7 @@
     <tile name="MISTS_GREEN_VEG_FERN_SMALL_A_MIST" pos="-54.5 0 0.5" rot="4 182 36" />
     <tile name="MISTS_GREEN_VEG_FERN_SMALL_A_MIST" pos="-54.5 0 -8.5" rot="13.73 77.54 23.76" />
     <tile name="MISTS_GREEN_VEG_FERN_SMALL_A_MIST" pos="-25.5 0 -55.5" rot="14 78 24" />
-    <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_A" pos="-7 0 -57" roty="316" scale="1.150123 1 2.298211" />
+    <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_A" pos="-8 0 -54" roty="8" scale="0.7148476 1 1.321793" />
     <tile name="MISTS_GREEN_VEG_GRASS_B_SMALL" pos="-14 0 47" />
     <tile name="MISTS_GREEN_VEG_GRASS_B_SMALL" pos="-36 0 34" />
     <tile name="MISTS_GREEN_VEG_FERN_SMALL_A_MIST" pos="-36.5 0 37.5" rot="4 182 36" />
@@ -400,7 +400,7 @@
     <tile name="MISTS_GREEN_AVA_GATE_STONE_A" pos="5 0 53" roty="270" />
     <tile name="MISTS_GREEN_AVA_GATE_STONE_A" pos="5 0 -63" roty="270" />
     <tile name="MISTS_GREEN_FILL_STORAGE_BARREL_WEAPONS_A" pos="-25.5 0 47.5" />
-    <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_A" pos="-22 0 6" roty="289" scale="1.485197 1 0.7800623" />
+    <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_A" pos="-20 0 6" roty="295" scale="1.485197 1 0.502108" />
     <tile name="MISTS_GREEN_CITY_BACKDROP_STAIRS_LEFT" pos="29 -1 -55" roty="270" scale="0.8 1 0.8" />
     <tile name="MISTS_GREEN_CITY_BACKDROP_ARCH_LEFT" pos="-25 -1 -54" roty="7" scale="0.8 1 0.8" />
     <tile name="MISTS_GREEN_AVA_RAILING_PILLAR_A" pos="105 -80 -14" />
@@ -415,17 +415,16 @@
     <tile name="MISTS_GREEN_AVA_GROUND_STONEPATH_ROUND_MEDIUM_A_HALF" pos="84 0 -5" roty="270" />
     <tile name="MISTS_GREEN_AVA_GROUND_STONE_DEBRIS_A" pos="57 0 -46" />
     <tile name="MISTS_GREEN_AVA_GROUND_STONE_DEBRIS_A" pos="61 0 31" roty="90" />
-    <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_A" pos="61 0 -45" roty="165" scale="1.595053 1 2.803587" />
-    <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_HALF_A" pos="80 0 -27" roty="106" scale="4.61407 1 3.890879" />
+    <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_A" pos="61 0 -45" roty="165" scale="1.595053 1 2.307044" />
+    <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_HALF_A" pos="80 0 -28" roty="106" scale="2.549612 1 3.080589" />
     <tile name="MISTS_GREEN_FILL_FURNITURE_STOOL_A" pos="78.5 0 -12.5" roty="90" />
     <tile name="MISTS_GREEN_AVA_GROUND_STONEPATH_BORDER_STRAIGHT_A" pos="56.5 0 -35.5" roty="62" scale="1 1 2.217921" />
     <tile name="MISTS_GREEN_AVA_GROUND_STONE_DEBRIS_A" pos="80 0 -11" roty="90" />
     <tile name="MISTS_GREEN_FILL_FURNITURE_STOOL_A" pos="69.5 0 22.5" roty="180" />
-    <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_B" pos="40 0 -29" roty="306" scale="2.0892 1 2.4316" />
     <tile name="MISTS_GREEN_VEG_GRASS_A" pos="76.5 0 -30.5" />
     <tile name="MISTS_GREEN_FILL_FURNITURE_STOOL_A" pos="66.5 0 22.5" roty="90" />
     <tile name="MISTS_GREEN_VEG_FERN_SMALL_A_MIST" pos="-36.5 0 29.5" rot="4 88 36" />
-    <tile name="MISTS_GREEN_AVA_GROUND_STONEPATH_BORDER_STRAIGHT_A" pos="63.5 0 20.5" roty="315.66" scale="1 1 1.58975" />
+    <tile name="MISTS_GREEN_AVA_GROUND_STONEPATH_BORDER_STRAIGHT_A" pos="63.5 0 20.5" roty="316" scale="1 1 1.58975" />
     <tile name="MISTS_GREEN_FILL_STORAGE_BARRELS_A" pos="59 0 27" roty="90" />
     <tile name="MISTS_GREEN_VEG_FERN_SMALL_A_MIST" pos="-12.5 0 46.5" rot="4 271 36" />
     <tile name="MISTS_GREEN_AVA_GROUND_STONE_DEBRIS_A" pos="42 0 -41" roty="90" />
@@ -440,7 +439,7 @@
     <tile name="MISTS_GREEN_AVA_COLUMN_FALLEN_A" pos="58 0 35" roty="187" />
     <tile name="MISTS_GREEN_AVA_GROUND_STONE_DEBRIS_A" pos="63 0 42" roty="90" />
     <tile name="MISTS_GREEN_AVA_COLUMN_FALLEN_A" pos="61 0 -50" roty="97" />
-    <tile name="MISTS_GREEN_AVA_GROUND_STONEPATH_BORDER_STRAIGHT_A" pos="56.5 0 27.5" roty="312.34" scale="1 1 2.027257" />
+    <tile name="MISTS_GREEN_AVA_GROUND_STONEPATH_BORDER_STRAIGHT_A" pos="58.5 0 25.5" roty="312" scale="1 1 0.9885099" />
     <tile name="MISTS_GREEN_FILL_PILE_F" pos="67 0 -38" roty="90" />
     <tile name="MISTS_GREEN_FILL_AWNING_D" pos="61.5 0 -41.5" roty="111" />
     <tile name="MISTS_GREEN_CITY_FIREBOWL_A" pos="85 2 -5" roty="180" scale="0.87 0.87 0.87" />
@@ -448,12 +447,11 @@
     <tile name="MISTS_GREEN_FILL_CITY_DRINKING_B" pos="79.5 0 -18" roty="90" />
     <tile name="MISTS_GREEN_AVA_COLUMN_BROKEN_COMPOUND_A_BLEND" pos="49 0 36" roty="45" />
     <tile name="MISTS_GREEN_CITY_COLUMN_BROKEN_COMPOUND_A_BLEND" pos="49 0 -46" roty="45" />
-    <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_A" pos="67 0 27" roty="57" scale="4.081522 1 2.21996" />
+    <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_A" pos="68 0 28" roty="55" scale="3.763367 1 1.66408" />
     <tile name="MISTS_GREEN_FILL_CITY_DRINKING_A" pos="67.5 0 23.5" roty="90" />
-    <tile name="MISTS_GREEN_VEG_GRASS_A" pos="75.5 0 -20.5" />
     <tile name="MISTS_GREEN_FILL_CITY_DRINKING_C" pos="59 0 -40" roty="256" />
     <tile name="MISTS_GREEN_AVA_GROUND_STONEPATH_BORDER_STRAIGHT_A" pos="68.5 0 14.5" roty="325" scale="1 1 1.58975" />
-    <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_HALF_A" pos="30 0 -5" roty="271" scale="2.9513 1 1.91254" />
+    <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_HALF_A" pos="30 0 -3" roty="267.53" scale="2.9513 1 1.290066" />
     <tile name="MISTS_GREEN_AVA_GROUND_STONEPATH_BORDER_STRAIGHT_A" pos="72.5 0 6.5" roty="341" scale="1 1 1.58975" />
     <tile name="FILL_NPC_TOWNSFOLK_MAN_SLEEPING_01" pos="62 0 26" roty="180" />
     <tile name="MISTS_GREEN_CITY_STONEPATH_C" pos="-35 0 -5" roty="90" />
@@ -644,7 +642,7 @@
     <tile name="MISTS_GREEN_AVA_GROUND_PATCH_BROKEN_A" pos="-49 0 -2" roty="165" />
     <tile name="MISTS_GREEN_AVA_GROUND_PATCH_BROKEN_A" pos="-43 0 -16" roty="240" />
     <tile name="MISTS_GREEN_AVA_GROUND_STONE_DEBRIS_A" pos="-55 0 -11" />
-    <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_A" pos="35 0 41" roty="30" scale="4.081521 1 2.21996" />
+    <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_A" pos="35 0 41" roty="30" scale="4.081521 1 2.054928" />
     <tile name="MISTS_GREEN_AVA_GROUND_STONE_DEBRIS_A" pos="38 0 -54" roty="180" />
     <tile name="MISTS_GREEN_VEG_BLEND_HIGH_SMALL_A" pos="37.5 -1 -52.5" roty="180" />
     <tile name="MISTS_GREEN_VEG_BLEND_HIGH_A" pos="37.5 -1 -54.5" />
@@ -735,7 +733,6 @@
     <tile name="MISTS_GREEN_VEG_BLEND_SMALL_A" pos="15.5 0 -29.5" roty="180" />
     <tile name="MISTS_GREEN_VEG_BLEND_HIGH_SMALL_A" pos="16.5 0 -27.5" />
     <tile name="MISTS_GREEN_VEG_BLEND_SMALL_A" pos="3.5 0 -32.5" roty="90" />
-    <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_A" pos="-15 0 -43" roty="205" scale="1.3081 1 1.2507" />
     <tile name="MISTS_GREEN_VEG_FLOWERS_COLOR_SMALL_A" pos="-9.5 0 -54.5" scale="1.3483 1.877238 1.3483" />
     <tile name="MISTS_GREEN_VEG_FLOWERS_COLOR_SMALL_A" pos="-23.5 0 -56.5" roty="270" scale="1.3483 1.877238 1.3483" />
     <tile name="MISTS_GREEN_VEG_FLOWERS_COLOR_SMALL_A" pos="-38.5 0 -43.5" roty="180" scale="1.3483 1.877238 1.3483" />
@@ -768,8 +765,8 @@
     <tile name="MISTS_GREEN_VEG_BLEND_SMALL_A" pos="-3.5 0 -56.5" roty="90" />
     <tile name="MISTS_GREEN_VEG_BLEND_SMALL_A" pos="81.5 0 -12.5" />
     <tile name="MISTS_GREEN_VEG_BLEND_SMALL_A" pos="65.5 0 23.5" />
-    <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_A" pos="14 0 60" roty="25.93" />
-    <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_A" pos="14 0 71" roty="353" />
+    <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_A" pos="16 0 60" roty="352" scale="0.6404971 1 0.92256" />
+    <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_A" pos="16 0 71" roty="353" scale="0.62487 1 0.87523" />
     <tile name="MISTS_GREEN_VEG_PLANTS_SMALL_A_MIST" pos="12.5 0 75.5" roty="33" scale="0.77391 1 1" />
     <tile name="MISTS_GREEN_VEG_PLANTS_SMALL_A_MIST" pos="13.5 0 110.5" roty="303" scale="0.77391 1 1" />
     <tile name="MISTS_GREEN_VEG_BLEND_HIGH_SMALL_A" pos="-5.5 0 75.5" roty="234" />
@@ -1190,13 +1187,13 @@
     <tile name="MISTS_GREEN_AVA_RAILING_STRAIGHT_BROKEN_C_GOLD" pos="-6 -3 83" roty="180" />
     <tile name="MISTS_GREEN_AVA_RAILING_STRAIGHT_BROKEN_C_GOLD" pos="16 -3 90" />
     <tile name="MISTS_GREEN_AVA_RAILING_STRAIGHT_BROKEN_C_GOLD" pos="16 -3 100" roty="180" />
-    <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_HALF_A" pos="15 0 -89" roty="90" scale="1.413205 1.336 1.666287" />
-    <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_HALF_A" pos="-5 0 -89" roty="270" scale="1.413205 1.336 1.666287" />
+    <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_HALF_A" pos="15 0 -89" roty="90" scale="1.413205 1.336 0.7805024" />
     <tile name="MISTS_GREEN_FILL_ROOTS_PATCH_BIG_A_BACKDROP" pos="14 -1 127" roty="30" scale="0.6869426 0.94 1.131572" />
     <tile name="MISTS_GREEN_FILL_ROOTS_PATCH_BIG_A_BACKDROP" pos="-3 0 122" roty="110" scale="0.6727952 0.8980899 0.8980899" />
     <tile name="MISTS_GREEN_FILL_ROOTS_PATCH_BIG_A_BACKDROP" pos="8 -3 121" roty="117" scale="0.73079 1 1.2038" />
     <tile name="MISTS_GREEN_FILL_ROOTS_PATCH_BIG_A_BACKDROP" pos="6 -5 122" roty="142" scale="0.73079 1 1.965685" />
     <tile name="MISTS_GREEN_FILL_ROOTS_PATCH_BIG_A_BACKDROP" pos="9 -7 96" rot="47.18 107.7 2.02" scale="0.86 0.86 0.86" />
+    <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_HALF_A" pos="-5 0 -89" roty="270" scale="2.003838 1.336 0.7136239" />
     <tile name="MISTS_GREEN_AVA_GROUND_EMBLEM_SPEEDBUFF_MIST_A" pos="5 0 -97" roty="270">
       <spellzone spell="SPELLZONE_ROADS_SPEEDBUFF" />
     </tile>

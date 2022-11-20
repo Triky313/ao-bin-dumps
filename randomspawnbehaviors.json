@@ -1671,8 +1671,8 @@
         "clustertype": [
           {
             "@tier": "4",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
             "@charges": "1",
@@ -1775,8 +1775,8 @@
           },
           {
             "@tier": "5",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
             "@charges": "1",
@@ -1879,8 +1879,8 @@
           },
           {
             "@tier": "6",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
             "@charges": "1",
@@ -1983,8 +1983,8 @@
           },
           {
             "@tier": "7",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
             "@charges": "1",
@@ -2087,8 +2087,8 @@
           },
           {
             "@tier": "8",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
             "@charges": "1",
@@ -2205,8 +2205,8 @@
         "clustertype": [
           {
             "@tier": "4",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
             "@charges": "1",
@@ -2255,7 +2255,7 @@
               },
               {
                 "@name": "T4_MOB_ARCANE_CRYSTALSPIDER_VETERAN_BOSS",
-                "@weight": "10",
+                "@weight": "5",
                 "@mobUpgradeLevelIndex": "11",
                 "@allowUpgrade": "false"
               }
@@ -2263,8 +2263,8 @@
           },
           {
             "@tier": "5",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
             "@charges": "1",
@@ -2313,7 +2313,7 @@
               },
               {
                 "@name": "T5_MOB_ARCANE_CRYSTALSPIDER_VETERAN_BOSS",
-                "@weight": "10",
+                "@weight": "5",
                 "@mobUpgradeLevelIndex": "11",
                 "@allowUpgrade": "false"
               }
@@ -2321,8 +2321,8 @@
           },
           {
             "@tier": "6",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
             "@charges": "1",
@@ -2371,7 +2371,7 @@
               },
               {
                 "@name": "T6_MOB_ARCANE_CRYSTALSPIDER_VETERAN_BOSS",
-                "@weight": "10",
+                "@weight": "5",
                 "@mobUpgradeLevelIndex": "11",
                 "@allowUpgrade": "false"
               }
@@ -2379,8 +2379,8 @@
           },
           {
             "@tier": "7",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
             "@charges": "1",
@@ -2429,7 +2429,7 @@
               },
               {
                 "@name": "T7_MOB_ARCANE_CRYSTALSPIDER_VETERAN_BOSS",
-                "@weight": "10",
+                "@weight": "5",
                 "@mobUpgradeLevelIndex": "11",
                 "@allowUpgrade": "false"
               }
@@ -2437,8 +2437,8 @@
           },
           {
             "@tier": "8",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
             "@charges": "1",
@@ -2487,7 +2487,7 @@
               },
               {
                 "@name": "T8_MOB_ARCANE_CRYSTALSPIDER_VETERAN_BOSS",
-                "@weight": "10",
+                "@weight": "5",
                 "@mobUpgradeLevelIndex": "11",
                 "@allowUpgrade": "false"
               }
@@ -2509,8 +2509,8 @@
         "clustertype": [
           {
             "@tier": "4",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
             "@charges": "1",
@@ -2547,8 +2547,8 @@
           },
           {
             "@tier": "5",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
             "@charges": "1",
@@ -2585,8 +2585,8 @@
           },
           {
             "@tier": "6",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
             "@charges": "1",
@@ -2623,8 +2623,8 @@
           },
           {
             "@tier": "7",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
             "@charges": "1",
@@ -2661,8 +2661,8 @@
           },
           {
             "@tier": "8",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
             "@charges": "1",
@@ -2713,8 +2713,8 @@
         "clustertype": [
           {
             "@tier": "4",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
             "@charges": "1",
@@ -2750,7 +2750,7 @@
               },
               {
                 "@name": "T4_MOB_ARCANE_CRYSTALSPIDER_VETERAN_BOSS",
-                "@weight": "10",
+                "@weight": "5",
                 "@mobUpgradeLevelIndex": "11",
                 "@allowUpgrade": "false"
               }
@@ -2758,8 +2758,8 @@
           },
           {
             "@tier": "5",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
             "@charges": "1",
@@ -2795,7 +2795,7 @@
               },
               {
                 "@name": "T5_MOB_ARCANE_CRYSTALSPIDER_VETERAN_BOSS",
-                "@weight": "10",
+                "@weight": "5",
                 "@mobUpgradeLevelIndex": "11",
                 "@allowUpgrade": "false"
               }
@@ -2803,8 +2803,8 @@
           },
           {
             "@tier": "6",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
             "@charges": "1",
@@ -2840,7 +2840,7 @@
               },
               {
                 "@name": "T6_MOB_ARCANE_CRYSTALSPIDER_VETERAN_BOSS",
-                "@weight": "10",
+                "@weight": "5",
                 "@mobUpgradeLevelIndex": "11",
                 "@allowUpgrade": "false"
               }
@@ -2848,8 +2848,8 @@
           },
           {
             "@tier": "7",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
             "@charges": "1",
@@ -2885,7 +2885,7 @@
               },
               {
                 "@name": "T7_MOB_ARCANE_CRYSTALSPIDER_VETERAN_BOSS",
-                "@weight": "10",
+                "@weight": "5",
                 "@mobUpgradeLevelIndex": "11",
                 "@allowUpgrade": "false"
               }
@@ -2893,8 +2893,8 @@
           },
           {
             "@tier": "8",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
             "@charges": "1",
@@ -2930,7 +2930,7 @@
               },
               {
                 "@name": "T8_MOB_ARCANE_CRYSTALSPIDER_VETERAN_BOSS",
-                "@weight": "10",
+                "@weight": "5",
                 "@mobUpgradeLevelIndex": "11",
                 "@allowUpgrade": "false"
               }
@@ -2952,8 +2952,8 @@
         "clustertype": [
           {
             "@tier": "4",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
             "@charges": "1",
@@ -2983,8 +2983,8 @@
           },
           {
             "@tier": "5",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
             "@charges": "1",
@@ -3014,8 +3014,8 @@
           },
           {
             "@tier": "6",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
             "@charges": "1",
@@ -3045,8 +3045,8 @@
           },
           {
             "@tier": "7",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
             "@charges": "1",
@@ -3076,8 +3076,8 @@
           },
           {
             "@tier": "8",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
             "@charges": "1",
@@ -3121,8 +3121,8 @@
         "clustertype": [
           {
             "@tier": "4",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
             "@charges": "1",
@@ -3163,7 +3163,7 @@
               },
               {
                 "@name": "T4_MOB_ARCANE_CRYSTALSPIDER_VETERAN_BOSS",
-                "@weight": "10",
+                "@weight": "5",
                 "@mobUpgradeLevelIndex": "11",
                 "@allowUpgrade": "false"
               }
@@ -3171,8 +3171,8 @@
           },
           {
             "@tier": "5",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
             "@charges": "1",
@@ -3213,7 +3213,7 @@
               },
               {
                 "@name": "T5_MOB_ARCANE_CRYSTALSPIDER_VETERAN_BOSS",
-                "@weight": "10",
+                "@weight": "5",
                 "@mobUpgradeLevelIndex": "11",
                 "@allowUpgrade": "false"
               }
@@ -3221,8 +3221,8 @@
           },
           {
             "@tier": "6",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
             "@charges": "1",
@@ -3263,7 +3263,7 @@
               },
               {
                 "@name": "T6_MOB_ARCANE_CRYSTALSPIDER_VETERAN_BOSS",
-                "@weight": "10",
+                "@weight": "5",
                 "@mobUpgradeLevelIndex": "11",
                 "@allowUpgrade": "false"
               }
@@ -3271,8 +3271,8 @@
           },
           {
             "@tier": "7",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
             "@charges": "1",
@@ -3313,7 +3313,7 @@
               },
               {
                 "@name": "T7_MOB_ARCANE_CRYSTALSPIDER_VETERAN_BOSS",
-                "@weight": "10",
+                "@weight": "5",
                 "@mobUpgradeLevelIndex": "11",
                 "@allowUpgrade": "false"
               }
@@ -3321,8 +3321,8 @@
           },
           {
             "@tier": "8",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
             "@charges": "1",
@@ -3363,7 +3363,7 @@
               },
               {
                 "@name": "T8_MOB_ARCANE_CRYSTALSPIDER_VETERAN_BOSS",
-                "@weight": "10",
+                "@weight": "5",
                 "@mobUpgradeLevelIndex": "11",
                 "@allowUpgrade": "false"
               }
@@ -3385,8 +3385,8 @@
         "clustertype": [
           {
             "@tier": "4",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
             "@charges": "1",
@@ -3416,8 +3416,8 @@
           },
           {
             "@tier": "5",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
             "@charges": "1",
@@ -3449,8 +3449,8 @@
           },
           {
             "@tier": "6",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
             "@charges": "1",
@@ -3482,8 +3482,8 @@
           },
           {
             "@tier": "7",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
             "@charges": "1",
@@ -3515,8 +3515,8 @@
           },
           {
             "@tier": "8",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
             "@charges": "1",
@@ -4007,8 +4007,8 @@
           {
             "@tier": "4",
             "@continents": "Avalon",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@charges": "1",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
@@ -4102,19 +4102,19 @@
               },
               {
                 "@name": "T5_MOB_ROAMING_AVALON_TREASURE_MINION_STANDARD",
-                "@weight": "59",
+                "@weight": "49",
                 "@mobUpgradeLevelIndex": "9",
                 "@allowUpgrade": "false"
               },
               {
                 "@name": "T5_MOB_ROAMING_AVALON_TREASURE_MINION_UNCOMMON",
-                "@weight": "30",
+                "@weight": "15",
                 "@mobUpgradeLevelIndex": "9",
                 "@allowUpgrade": "false"
               },
               {
                 "@name": "T5_MOB_ROAMING_AVALON_TREASURE_MINION_RARE",
-                "@weight": "10",
+                "@weight": "5",
                 "@mobUpgradeLevelIndex": "9",
                 "@allowUpgrade": "false"
               },
@@ -4126,7 +4126,7 @@
               },
               {
                 "@name": "T4_MOB_ARCANE_CRYSTALSPIDER_VETERAN_BOSS",
-                "@weight": "10",
+                "@weight": "5",
                 "@mobUpgradeLevelIndex": "11",
                 "@allowUpgrade": "false"
               }
@@ -4135,8 +4135,8 @@
           {
             "@tier": "5",
             "@continents": "Avalon",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@charges": "1",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
@@ -4230,19 +4230,19 @@
               },
               {
                 "@name": "T5_MOB_ROAMING_AVALON_TREASURE_MINION_STANDARD",
-                "@weight": "59",
+                "@weight": "49",
                 "@mobUpgradeLevelIndex": "9",
                 "@allowUpgrade": "false"
               },
               {
                 "@name": "T5_MOB_ROAMING_AVALON_TREASURE_MINION_UNCOMMON",
-                "@weight": "30",
+                "@weight": "15",
                 "@mobUpgradeLevelIndex": "9",
                 "@allowUpgrade": "false"
               },
               {
                 "@name": "T5_MOB_ROAMING_AVALON_TREASURE_MINION_RARE",
-                "@weight": "10",
+                "@weight": "5",
                 "@mobUpgradeLevelIndex": "9",
                 "@allowUpgrade": "false"
               },
@@ -4254,7 +4254,7 @@
               },
               {
                 "@name": "T5_MOB_ARCANE_CRYSTALSPIDER_VETERAN_BOSS",
-                "@weight": "10",
+                "@weight": "5",
                 "@mobUpgradeLevelIndex": "11",
                 "@allowUpgrade": "false"
               }
@@ -4263,8 +4263,8 @@
           {
             "@tier": "6",
             "@continents": "Avalon",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@charges": "1",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
@@ -4358,19 +4358,19 @@
               },
               {
                 "@name": "T6_MOB_ROAMING_AVALON_TREASURE_MINION_STANDARD",
-                "@weight": "59",
+                "@weight": "49",
                 "@mobUpgradeLevelIndex": "9",
                 "@allowUpgrade": "false"
               },
               {
                 "@name": "T6_MOB_ROAMING_AVALON_TREASURE_MINION_UNCOMMON",
-                "@weight": "30",
+                "@weight": "15",
                 "@mobUpgradeLevelIndex": "9",
                 "@allowUpgrade": "false"
               },
               {
                 "@name": "T6_MOB_ROAMING_AVALON_TREASURE_MINION_RARE",
-                "@weight": "10",
+                "@weight": "5",
                 "@mobUpgradeLevelIndex": "9",
                 "@allowUpgrade": "false"
               },
@@ -4382,7 +4382,7 @@
               },
               {
                 "@name": "T6_MOB_ARCANE_CRYSTALSPIDER_VETERAN_BOSS",
-                "@weight": "10",
+                "@weight": "5",
                 "@mobUpgradeLevelIndex": "11",
                 "@allowUpgrade": "false"
               }
@@ -4391,8 +4391,8 @@
           {
             "@tier": "7",
             "@continents": "Avalon",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@charges": "1",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
@@ -4486,19 +4486,19 @@
               },
               {
                 "@name": "T7_MOB_ROAMING_AVALON_TREASURE_MINION_STANDARD",
-                "@weight": "59",
+                "@weight": "49",
                 "@mobUpgradeLevelIndex": "9",
                 "@allowUpgrade": "false"
               },
               {
                 "@name": "T7_MOB_ROAMING_AVALON_TREASURE_MINION_UNCOMMON",
-                "@weight": "30",
+                "@weight": "15",
                 "@mobUpgradeLevelIndex": "9",
                 "@allowUpgrade": "false"
               },
               {
                 "@name": "T7_MOB_ROAMING_AVALON_TREASURE_MINION_RARE",
-                "@weight": "10",
+                "@weight": "5",
                 "@mobUpgradeLevelIndex": "9",
                 "@allowUpgrade": "false"
               },
@@ -4510,7 +4510,7 @@
               },
               {
                 "@name": "T7_MOB_ARCANE_CRYSTALSPIDER_VETERAN_BOSS",
-                "@weight": "10",
+                "@weight": "5",
                 "@mobUpgradeLevelIndex": "11",
                 "@allowUpgrade": "false"
               }
@@ -4519,8 +4519,8 @@
           {
             "@tier": "8",
             "@continents": "Avalon",
-            "@respawntimesecondsmin": "1800",
-            "@respawntimesecondsmax": "5400",
+            "@respawntimesecondsmin": "3600",
+            "@respawntimesecondsmax": "10800",
             "@charges": "1",
             "@rerolltimesecondsmin": "1800",
             "@rerolltimesecondsmax": "5400",
@@ -4614,19 +4614,19 @@
               },
               {
                 "@name": "T8_MOB_ROAMING_AVALON_TREASURE_MINION_STANDARD",
-                "@weight": "59",
+                "@weight": "49",
                 "@mobUpgradeLevelIndex": "9",
                 "@allowUpgrade": "false"
               },
               {
                 "@name": "T8_MOB_ROAMING_AVALON_TREASURE_MINION_UNCOMMON",
-                "@weight": "30",
+                "@weight": "15",
                 "@mobUpgradeLevelIndex": "9",
                 "@allowUpgrade": "false"
               },
               {
                 "@name": "T8_MOB_ROAMING_AVALON_TREASURE_MINION_RARE",
-                "@weight": "10",
+                "@weight": "5",
                 "@mobUpgradeLevelIndex": "9",
                 "@allowUpgrade": "false"
               },
@@ -4638,7 +4638,7 @@
               },
               {
                 "@name": "T8_MOB_ARCANE_CRYSTALSPIDER_VETERAN_BOSS",
-                "@weight": "10",
+                "@weight": "5",
                 "@mobUpgradeLevelIndex": "11",
                 "@allowUpgrade": "false"
               }
@@ -27130,7 +27130,7 @@
           "@charges": "1",
           "@faction": "ROAD",
           "mob": {
-            "@name": "T4_MOB_ROAMING_AVALON_MINION_SCOUT_VETERAN",
+            "@name": "T6_MOB_ROAMING_AVALON_MINION_SCOUT_VETERAN",
             "@weight": "1723",
             "@mobUpgradeLevelIndex": "1"
           }
@@ -27144,7 +27144,7 @@
           "@charges": "1",
           "@faction": "ROAD",
           "mob": {
-            "@name": "T4_MOB_ROAMING_AVALON_MINION_SCOUT_VETERAN",
+            "@name": "T8_MOB_ROAMING_AVALON_MINION_SCOUT_VETERAN",
             "@weight": "1723",
             "@mobUpgradeLevelIndex": "1"
           }
@@ -27172,7 +27172,7 @@
           "@charges": "1",
           "@faction": "ROAD",
           "mob": {
-            "@name": "T4_MOB_ROAMING_AVALON_MINION_LAMP_VETERAN",
+            "@name": "T6_MOB_ROAMING_AVALON_MINION_LAMP_VETERAN",
             "@weight": "1723",
             "@mobUpgradeLevelIndex": "1"
           }
@@ -27186,7 +27186,7 @@
           "@charges": "1",
           "@faction": "ROAD",
           "mob": {
-            "@name": "T4_MOB_ROAMING_AVALON_MINION_LAMP_VETERAN",
+            "@name": "T8_MOB_ROAMING_AVALON_MINION_LAMP_VETERAN",
             "@weight": "1723",
             "@mobUpgradeLevelIndex": "1"
           }
@@ -27214,7 +27214,7 @@
           "@charges": "1",
           "@faction": "ROAD",
           "mob": {
-            "@name": "T4_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN",
+            "@name": "T6_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN",
             "@weight": "1723",
             "@mobUpgradeLevelIndex": "1"
           }
@@ -27228,7 +27228,7 @@
           "@charges": "1",
           "@faction": "ROAD",
           "mob": {
-            "@name": "T4_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN",
+            "@name": "T8_MOB_ROAMING_AVALON_MINION_BUILDER_VETERAN",
             "@weight": "1723",
             "@mobUpgradeLevelIndex": "1"
           }
@@ -27256,7 +27256,7 @@
           "@charges": "1",
           "@faction": "ROAD",
           "mob": {
-            "@name": "T4_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN",
+            "@name": "T6_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN",
             "@weight": "1723",
             "@mobUpgradeLevelIndex": "1"
           }
@@ -27270,7 +27270,7 @@
           "@charges": "1",
           "@faction": "ROAD",
           "mob": {
-            "@name": "T4_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN",
+            "@name": "T8_MOB_ROAMING_AVALON_MINION_WORKER_VETERAN",
             "@weight": "1723",
             "@mobUpgradeLevelIndex": "1"
           }
@@ -27439,19 +27439,19 @@
           "@faction": "ROAD",
           "mob": [
             {
-              "@name": "T6_MOB_ROAMING_AVALON_PIKEMAN_VETERAN_STANDARD",
+              "@name": "T8_MOB_ROAMING_AVALON_PIKEMAN_VETERAN_STANDARD",
               "@weight": "88",
               "@mobUpgradeLevelIndex": "2",
               "@onlyUpgradeOutsidePlayerInterestArea": "false"
             },
             {
-              "@name": "T6_MOB_ROADS_AVALON_PIKEMAN_VETERAN_CHAMPION",
+              "@name": "T8_MOB_ROADS_AVALON_PIKEMAN_VETERAN_CHAMPION",
               "@weight": "10",
               "@mobUpgradeLevelIndex": "4",
               "@onlyUpgradeOutsidePlayerInterestArea": "false"
             },
             {
-              "@name": "T6_MOB_ROADS_AVALON_BERSERK_VETERAN_MINIBOSS",
+              "@name": "T8_MOB_ROADS_AVALON_BERSERK_VETERAN_MINIBOSS",
               "@weight": "2",
               "@mobUpgradeLevelIndex": "6",
               "@onlyUpgradeOutsidePlayerInterestArea": "false"
@@ -27667,13 +27667,13 @@
           "mob": [
             {
               "@name": "T4_MOB_ROADS_AVALON_PIKEMAN_VETERAN_CHAMPION",
-              "@weight": "88",
+              "@weight": "44",
               "@mobUpgradeLevelIndex": "4",
               "@onlyUpgradeOutsidePlayerInterestArea": "false"
             },
             {
               "@name": "T4_MOB_ROADS_AVALON_MONK_VETERAN_CHAMPION",
-              "@weight": "88",
+              "@weight": "44",
               "@mobUpgradeLevelIndex": "4",
               "@onlyUpgradeOutsidePlayerInterestArea": "false"
             },
@@ -27706,13 +27706,13 @@
           "mob": [
             {
               "@name": "T6_MOB_ROADS_AVALON_PIKEMAN_VETERAN_CHAMPION",
-              "@weight": "88",
+              "@weight": "44",
               "@mobUpgradeLevelIndex": "4",
               "@onlyUpgradeOutsidePlayerInterestArea": "false"
             },
             {
               "@name": "T6_MOB_ROADS_AVALON_MONK_VETERAN_CHAMPION",
-              "@weight": "88",
+              "@weight": "44",
               "@mobUpgradeLevelIndex": "4",
               "@onlyUpgradeOutsidePlayerInterestArea": "false"
             },
@@ -27745,13 +27745,13 @@
           "mob": [
             {
               "@name": "T8_MOB_ROADS_AVALON_PIKEMAN_VETERAN_CHAMPION",
-              "@weight": "88",
+              "@weight": "44",
               "@mobUpgradeLevelIndex": "4",
               "@onlyUpgradeOutsidePlayerInterestArea": "false"
             },
             {
               "@name": "T8_MOB_ROADS_AVALON_MONK_VETERAN_CHAMPION",
-              "@weight": "88",
+              "@weight": "44",
               "@mobUpgradeLevelIndex": "4",
               "@onlyUpgradeOutsidePlayerInterestArea": "false"
             },
@@ -27883,13 +27883,13 @@
           "mob": [
             {
               "@name": "T4_MOB_ROADS_AVALON_PIKEMAN_VETERAN_CHAMPION",
-              "@weight": "88",
+              "@weight": "44",
               "@mobUpgradeLevelIndex": "4",
               "@onlyUpgradeOutsidePlayerInterestArea": "false"
             },
             {
               "@name": "T4_MOB_ROADS_AVALON_MONK_VETERAN_CHAMPION",
-              "@weight": "88",
+              "@weight": "44",
               "@mobUpgradeLevelIndex": "4",
               "@onlyUpgradeOutsidePlayerInterestArea": "false"
             },
@@ -27922,13 +27922,13 @@
           "mob": [
             {
               "@name": "T6_MOB_ROADS_AVALON_PIKEMAN_VETERAN_CHAMPION",
-              "@weight": "88",
+              "@weight": "44",
               "@mobUpgradeLevelIndex": "4",
               "@onlyUpgradeOutsidePlayerInterestArea": "false"
             },
             {
               "@name": "T6_MOB_ROADS_AVALON_MONK_VETERAN_CHAMPION",
-              "@weight": "88",
+              "@weight": "44",
               "@mobUpgradeLevelIndex": "4",
               "@onlyUpgradeOutsidePlayerInterestArea": "false"
             },
@@ -27961,13 +27961,13 @@
           "mob": [
             {
               "@name": "T8_MOB_ROADS_AVALON_PIKEMAN_VETERAN_CHAMPION",
-              "@weight": "88",
+              "@weight": "44",
               "@mobUpgradeLevelIndex": "4",
               "@onlyUpgradeOutsidePlayerInterestArea": "false"
             },
             {
               "@name": "T8_MOB_ROADS_AVALON_MONK_VETERAN_CHAMPION",
-              "@weight": "88",
+              "@weight": "44",
               "@mobUpgradeLevelIndex": "4",
               "@onlyUpgradeOutsidePlayerInterestArea": "false"
             },
@@ -28000,31 +28000,31 @@
           "mob": [
             {
               "@name": "T4_MOB_ROADS_AVALON_CLERIC_VETERAN_CHAMPION",
-              "@weight": "88",
+              "@weight": "30",
               "@mobUpgradeLevelIndex": "4",
               "@onlyUpgradeOutsidePlayerInterestArea": "false"
             },
             {
               "@name": "T4_MOB_ROADS_AVALON_PIKEMAN_VETERAN_CHAMPION",
-              "@weight": "88",
+              "@weight": "30",
               "@mobUpgradeLevelIndex": "4",
               "@onlyUpgradeOutsidePlayerInterestArea": "false"
             },
             {
               "@name": "T4_MOB_ROADS_AVALON_MONK_VETERAN_CHAMPION",
-              "@weight": "88",
+              "@weight": "30",
               "@mobUpgradeLevelIndex": "4",
               "@onlyUpgradeOutsidePlayerInterestArea": "false"
             },
             {
               "@name": "T4_MOB_ROADS_AVALON_BERSERK_VETERAN_MINIBOSS",
-              "@weight": "10",
+              "@weight": "5",
               "@mobUpgradeLevelIndex": "6",
               "@onlyUpgradeOutsidePlayerInterestArea": "false"
             },
             {
               "@name": "T4_MOB_ROADS_AVALON_MAGE_VETERAN_MINIBOSS",
-              "@weight": "10",
+              "@weight": "5",
               "@mobUpgradeLevelIndex": "6",
               "@onlyUpgradeOutsidePlayerInterestArea": "false"
             },
@@ -28050,37 +28050,37 @@
           "@triggersmobupgradespawnpointrespawn": "true",
           "mob": [
             {
-              "@name": "T4_MOB_ROADS_AVALON_CLERIC_VETERAN_CHAMPION",
-              "@weight": "88",
+              "@name": "T6_MOB_ROADS_AVALON_CLERIC_VETERAN_CHAMPION",
+              "@weight": "30",
               "@mobUpgradeLevelIndex": "4",
               "@onlyUpgradeOutsidePlayerInterestArea": "false"
             },
             {
-              "@name": "T4_MOB_ROADS_AVALON_PIKEMAN_VETERAN_CHAMPION",
-              "@weight": "88",
+              "@name": "T6_MOB_ROADS_AVALON_PIKEMAN_VETERAN_CHAMPION",
+              "@weight": "30",
               "@mobUpgradeLevelIndex": "4",
               "@onlyUpgradeOutsidePlayerInterestArea": "false"
             },
             {
-              "@name": "T4_MOB_ROADS_AVALON_MONK_VETERAN_CHAMPION",
-              "@weight": "88",
+              "@name": "T6_MOB_ROADS_AVALON_MONK_VETERAN_CHAMPION",
+              "@weight": "30",
               "@mobUpgradeLevelIndex": "4",
               "@onlyUpgradeOutsidePlayerInterestArea": "false"
             },
             {
-              "@name": "T4_MOB_ROADS_AVALON_BERSERK_VETERAN_MINIBOSS",
-              "@weight": "10",
+              "@name": "T6_MOB_ROADS_AVALON_BERSERK_VETERAN_MINIBOSS",
+              "@weight": "5",
               "@mobUpgradeLevelIndex": "6",
               "@onlyUpgradeOutsidePlayerInterestArea": "false"
             },
             {
-              "@name": "T4_MOB_ROADS_AVALON_MAGE_VETERAN_MINIBOSS",
-              "@weight": "10",
+              "@name": "T6_MOB_ROADS_AVALON_MAGE_VETERAN_MINIBOSS",
+              "@weight": "5",
               "@mobUpgradeLevelIndex": "6",
               "@onlyUpgradeOutsidePlayerInterestArea": "false"
             },
             {
-              "@name": "T4_MOB_ROADS_AVALON_KNIGHT_VETERAN_BOSS",
+              "@name": "T6_MOB_ROADS_AVALON_KNIGHT_VETERAN_BOSS",
               "@weight": "2",
               "@mobUpgradeLevelIndex": "8",
               "@onlyUpgradeOutsidePlayerInterestArea": "false",
@@ -28101,37 +28101,37 @@
           "@triggersmobupgradespawnpointrespawn": "true",
           "mob": [
             {
-              "@name": "T4_MOB_ROADS_AVALON_CLERIC_VETERAN_CHAMPION",
-              "@weight": "88",
+              "@name": "T8_MOB_ROADS_AVALON_CLERIC_VETERAN_CHAMPION",
+              "@weight": "30",
               "@mobUpgradeLevelIndex": "4",
               "@onlyUpgradeOutsidePlayerInterestArea": "false"
             },
             {
-              "@name": "T4_MOB_ROADS_AVALON_PIKEMAN_VETERAN_CHAMPION",
-              "@weight": "88",
+              "@name": "T8_MOB_ROADS_AVALON_PIKEMAN_VETERAN_CHAMPION",
+              "@weight": "30",
               "@mobUpgradeLevelIndex": "4",
               "@onlyUpgradeOutsidePlayerInterestArea": "false"
             },
             {
-              "@name": "T4_MOB_ROADS_AVALON_MONK_VETERAN_CHAMPION",
-              "@weight": "88",
+              "@name": "T8_MOB_ROADS_AVALON_MONK_VETERAN_CHAMPION",
+              "@weight": "30",
               "@mobUpgradeLevelIndex": "4",
               "@onlyUpgradeOutsidePlayerInterestArea": "false"
             },
             {
-              "@name": "T4_MOB_ROADS_AVALON_BERSERK_VETERAN_MINIBOSS",
-              "@weight": "10",
+              "@name": "T8_MOB_ROADS_AVALON_BERSERK_VETERAN_MINIBOSS",
+              "@weight": "5",
               "@mobUpgradeLevelIndex": "6",
               "@onlyUpgradeOutsidePlayerInterestArea": "false"
             },
             {
-              "@name": "T4_MOB_ROADS_AVALON_MAGE_VETERAN_MINIBOSS",
-              "@weight": "10",
+              "@name": "T8_MOB_ROADS_AVALON_MAGE_VETERAN_MINIBOSS",
+              "@weight": "5",
               "@mobUpgradeLevelIndex": "6",
               "@onlyUpgradeOutsidePlayerInterestArea": "false"
             },
             {
-              "@name": "T4_MOB_ROADS_AVALON_KNIGHT_VETERAN_BOSS",
+              "@name": "T8_MOB_ROADS_AVALON_KNIGHT_VETERAN_BOSS",
               "@weight": "2",
               "@mobUpgradeLevelIndex": "8",
               "@onlyUpgradeOutsidePlayerInterestArea": "false",

@@ -16,7 +16,7 @@
       "@cityduoentrancetimer": "60",
       "@cityentrancecooldown": "300",
       "@cityentrancevisibleradius": "15",
-      "@opengatedistance": "10",
+      "@opengatedistance": "8",
       "@secondstoenter": "3",
       "@openworldexitautodestroyafterusageinsec": "5",
       "@openworldexitportalalivetimer": "30",
@@ -83,7 +83,7 @@
           "difficultylevel": [
             {
               "@level": "0",
-              "@minimuminstancepool": "16",
+              "@minimuminstancepool": "24",
               "@flexibleinstancepool": "0.3",
               "@wispmob": "MOB_UNIQUE_MISTS_PORTAL_WISP",
               "@wispmobexitvisualizationref": "MISTS_SOLO_YELLOW",
@@ -107,7 +107,7 @@
             },
             {
               "@level": "2",
-              "@minimuminstancepool": "3",
+              "@minimuminstancepool": "4",
               "@flexibleinstancepool": "0.3",
               "@wispmob": "MOB_UNIQUE_MISTS_PORTAL_WISP_UNCOMMON",
               "@wispmobexitvisualizationref": "MISTS_SOLO_YELLOW",
@@ -119,7 +119,7 @@
             },
             {
               "@level": "3",
-              "@minimuminstancepool": "2",
+              "@minimuminstancepool": "3",
               "@flexibleinstancepool": "0.3",
               "@wispmob": "MOB_UNIQUE_MISTS_PORTAL_WISP_RARE",
               "@wispmobexitvisualizationref": "MISTS_SOLO_YELLOW",
@@ -147,56 +147,56 @@
               {
                 "@name": "CHEST",
                 "@rolls": "2",
-                "@chance": "0.143",
+                "@chance": "0.26132404",
                 "@initialblocktimeseconds": "60",
                 "@finalblocktimeseconds": "360"
               },
               {
                 "@name": "WISPS",
                 "@rolls": "1",
-                "@chance": "1",
+                "@chance": "0.35",
                 "@initialblocktimeseconds": "60",
                 "@finalblocktimeseconds": "420"
               },
               {
                 "@name": "SPECIALMOBS",
                 "@rolls": "1",
-                "@chance": "0.5",
+                "@chance": "0.25",
                 "@initialblocktimeseconds": "60",
                 "@finalblocktimeseconds": "420"
               },
               {
                 "@name": "MYTHICALMOBS",
                 "@rolls": "2",
-                "@chance": "0.806233",
+                "@chance": "0.110695",
                 "@initialblocktimeseconds": "60",
                 "@finalblocktimeseconds": "420"
               },
               {
                 "@name": "RESOURCE_MISTS_T4",
                 "@rolls": "1",
-                "@chance": "0.147423076",
+                "@chance": "0.29952306",
                 "@initialblocktimeseconds": "60",
                 "@finalblocktimeseconds": "300"
               },
               {
                 "@name": "RESOURCE_MISTS_T5",
                 "@rolls": "1",
-                "@chance": "0.082559688",
+                "@chance": "0.16879382",
                 "@initialblocktimeseconds": "60",
                 "@finalblocktimeseconds": "300"
               },
               {
                 "@name": "RESOURCE_MISTS_T6",
                 "@rolls": "1",
-                "@chance": "0.023502897",
+                "@chance": "0.06359801",
                 "@initialblocktimeseconds": "60",
                 "@finalblocktimeseconds": "300"
               },
               {
                 "@name": "RESOURCE_MISTS_T7",
                 "@rolls": "1",
-                "@chance": "0.016129439",
+                "@chance": "0.04475415",
                 "@initialblocktimeseconds": "60",
                 "@finalblocktimeseconds": "300"
               }
@@ -215,8 +215,8 @@
           "difficultylevel": [
             {
               "@level": "0",
-              "@minimuminstancepool": "0",
-              "@flexibleinstancepool": "0",
+              "@minimuminstancepool": "30",
+              "@flexibleinstancepool": "0.3",
               "@wispmob": "MOB_UNIQUE_MISTS_PORTAL_WISP",
               "@wispmobexitvisualizationref": "MISTS_SOLO_BLACK",
               "@wispinstacefillratio": "0.7",
@@ -279,56 +279,56 @@
               {
                 "@name": "CHEST",
                 "@rolls": "2",
-                "@chance": "0.127",
+                "@chance": "0.26595745",
                 "@initialblocktimeseconds": "60",
                 "@finalblocktimeseconds": "360"
               },
               {
                 "@name": "WISPS",
                 "@rolls": "1",
-                "@chance": "1",
+                "@chance": "0.35",
                 "@initialblocktimeseconds": "60",
                 "@finalblocktimeseconds": "420"
               },
               {
                 "@name": "SPECIALMOBS",
                 "@rolls": "1",
-                "@chance": "0.5",
+                "@chance": "0.25",
                 "@initialblocktimeseconds": "60",
                 "@finalblocktimeseconds": "420"
               },
               {
                 "@name": "MYTHICALMOBS",
                 "@rolls": "1",
-                "@chance": "0.712436",
+                "@chance": "0.068022",
                 "@initialblocktimeseconds": "60",
                 "@finalblocktimeseconds": "420"
               },
               {
                 "@name": "RESOURCE_T5",
                 "@rolls": "1",
-                "@chance": "0.06616298",
+                "@chance": "0.12538322",
                 "@initialblocktimeseconds": "60",
                 "@finalblocktimeseconds": "300"
               },
               {
                 "@name": "RESOURCE_T6",
                 "@rolls": "1",
-                "@chance": "0.10737805",
+                "@chance": "0.20475133",
                 "@initialblocktimeseconds": "60",
                 "@finalblocktimeseconds": "300"
               },
               {
                 "@name": "RESOURCE_T7",
                 "@rolls": "1",
-                "@chance": "0.07994462",
+                "@chance": "0.20178034",
                 "@initialblocktimeseconds": "60",
                 "@finalblocktimeseconds": "300"
               },
               {
                 "@name": "RESOURCE_T8",
                 "@rolls": "1",
-                "@chance": "0.05471848",
+                "@chance": "0.13970768",
                 "@initialblocktimeseconds": "60",
                 "@finalblocktimeseconds": "480"
               }
@@ -347,8 +347,8 @@
           "difficultylevel": [
             {
               "@level": "0",
-              "@minimuminstancepool": "0",
-              "@flexibleinstancepool": "0",
+              "@minimuminstancepool": "6",
+              "@flexibleinstancepool": "0.3",
               "@wispmob": "MOB_UNIQUE_MISTS_PORTAL_WISP_DUO",
               "@wispmobexitvisualizationref": "MISTS_DUO_BLACK",
               "@wispinstacefillratio": "0.7",
@@ -411,56 +411,56 @@
               {
                 "@name": "CHEST",
                 "@rolls": "2",
-                "@chance": "0.127",
+                "@chance": "0.26595745",
                 "@initialblocktimeseconds": "60",
                 "@finalblocktimeseconds": "360"
               },
               {
                 "@name": "WISPS",
                 "@rolls": "1",
-                "@chance": "1",
+                "@chance": "0.35",
                 "@initialblocktimeseconds": "60",
                 "@finalblocktimeseconds": "420"
               },
               {
                 "@name": "SPECIALMOBS",
                 "@rolls": "1",
-                "@chance": "0.5",
+                "@chance": "0.25",
                 "@initialblocktimeseconds": "60",
                 "@finalblocktimeseconds": "420"
               },
               {
                 "@name": "MYTHICALMOBS",
                 "@rolls": "1",
-                "@chance": "0.712436",
+                "@chance": "0.068022",
                 "@initialblocktimeseconds": "60",
                 "@finalblocktimeseconds": "420"
               },
               {
                 "@name": "RESOURCE_T5",
                 "@rolls": "1",
-                "@chance": "0.06616298",
+                "@chance": "0.12538322",
                 "@initialblocktimeseconds": "60",
                 "@finalblocktimeseconds": "300"
               },
               {
                 "@name": "RESOURCE_T6",
                 "@rolls": "1",
-                "@chance": "0.10737805",
+                "@chance": "0.20475133",
                 "@initialblocktimeseconds": "60",
                 "@finalblocktimeseconds": "300"
               },
               {
                 "@name": "RESOURCE_T7",
                 "@rolls": "1",
-                "@chance": "0.07994462",
+                "@chance": "0.20178034",
                 "@initialblocktimeseconds": "60",
                 "@finalblocktimeseconds": "300"
               },
               {
                 "@name": "RESOURCE_T8",
                 "@rolls": "1",
-                "@chance": "0.05471848",
+                "@chance": "0.13970768",
                 "@initialblocktimeseconds": "60",
                 "@finalblocktimeseconds": "480"
               }
@@ -509,9 +509,9 @@
               "@templatepool": "YELLOW_NORMAL",
               "@clustertier": "5",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -522,9 +522,9 @@
               "@templatepool": "YELLOW_NORMAL",
               "@clustertier": "5",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -535,9 +535,9 @@
               "@templatepool": "YELLOW_NORMAL",
               "@clustertier": "5",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -548,9 +548,9 @@
               "@templatepool": "YELLOW_NORMAL",
               "@clustertier": "5",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -561,9 +561,9 @@
               "@templatepool": "YELLOW_NORMAL",
               "@clustertier": "5",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -574,9 +574,9 @@
               "@templatepool": "YELLOW_NORMAL",
               "@clustertier": "5",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -587,9 +587,9 @@
               "@templatepool": "YELLOW_NORMAL",
               "@clustertier": "5",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -600,9 +600,9 @@
               "@templatepool": "YELLOW_NORMAL",
               "@clustertier": "5",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -613,9 +613,9 @@
               "@templatepool": "YELLOW_NORMAL",
               "@clustertier": "5",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -626,9 +626,9 @@
               "@templatepool": "YELLOW_NORMAL",
               "@clustertier": "5",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -639,9 +639,9 @@
               "@templatepool": "YELLOW_NORMAL",
               "@clustertier": "5",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -652,9 +652,9 @@
               "@templatepool": "YELLOW_NORMAL",
               "@clustertier": "5",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -665,9 +665,9 @@
               "@templatepool": "YELLOW_NORMAL",
               "@clustertier": "5",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -678,9 +678,9 @@
               "@templatepool": "YELLOW_NORMAL",
               "@clustertier": "5",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -691,9 +691,9 @@
               "@templatepool": "YELLOW_NORMAL",
               "@clustertier": "5",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -704,9 +704,9 @@
               "@templatepool": "YELLOW_UNCOMMON",
               "@clustertier": "6",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -719,9 +719,9 @@
               "@templatepool": "YELLOW_UNCOMMON",
               "@clustertier": "6",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -734,9 +734,9 @@
               "@templatepool": "YELLOW_UNCOMMON",
               "@clustertier": "6",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -749,9 +749,9 @@
               "@templatepool": "YELLOW_UNCOMMON",
               "@clustertier": "6",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -764,9 +764,9 @@
               "@templatepool": "YELLOW_UNCOMMON",
               "@clustertier": "6",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -779,9 +779,9 @@
               "@templatepool": "YELLOW_UNCOMMON",
               "@clustertier": "6",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -794,9 +794,9 @@
               "@templatepool": "YELLOW_UNCOMMON",
               "@clustertier": "6",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -809,9 +809,9 @@
               "@templatepool": "YELLOW_UNCOMMON",
               "@clustertier": "6",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -824,9 +824,9 @@
               "@templatepool": "YELLOW_UNCOMMON",
               "@clustertier": "6",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -839,9 +839,9 @@
               "@templatepool": "YELLOW_UNCOMMON",
               "@clustertier": "6",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -854,9 +854,9 @@
               "@templatepool": "YELLOW_UNCOMMON",
               "@clustertier": "6",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -869,9 +869,9 @@
               "@templatepool": "YELLOW_UNCOMMON",
               "@clustertier": "6",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -884,9 +884,9 @@
               "@templatepool": "YELLOW_UNCOMMON",
               "@clustertier": "6",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -899,9 +899,9 @@
               "@templatepool": "YELLOW_UNCOMMON",
               "@clustertier": "6",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -914,9 +914,9 @@
               "@templatepool": "YELLOW_UNCOMMON",
               "@clustertier": "6",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -929,9 +929,9 @@
               "@templatepool": "YELLOW_RARE",
               "@clustertier": "7",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -944,9 +944,9 @@
               "@templatepool": "YELLOW_RARE",
               "@clustertier": "7",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -959,9 +959,9 @@
               "@templatepool": "YELLOW_RARE",
               "@clustertier": "7",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -974,9 +974,9 @@
               "@templatepool": "YELLOW_RARE",
               "@clustertier": "7",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -989,9 +989,9 @@
               "@templatepool": "YELLOW_RARE",
               "@clustertier": "7",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1004,9 +1004,9 @@
               "@templatepool": "YELLOW_RARE",
               "@clustertier": "7",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1019,9 +1019,9 @@
               "@templatepool": "YELLOW_RARE",
               "@clustertier": "7",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1034,9 +1034,9 @@
               "@templatepool": "YELLOW_RARE",
               "@clustertier": "7",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1049,9 +1049,9 @@
               "@templatepool": "YELLOW_RARE",
               "@clustertier": "7",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1064,9 +1064,9 @@
               "@templatepool": "YELLOW_RARE",
               "@clustertier": "7",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1079,9 +1079,9 @@
               "@templatepool": "YELLOW_RARE",
               "@clustertier": "7",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1094,9 +1094,9 @@
               "@templatepool": "YELLOW_RARE",
               "@clustertier": "7",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1109,9 +1109,9 @@
               "@templatepool": "YELLOW_RARE",
               "@clustertier": "7",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1124,9 +1124,9 @@
               "@templatepool": "YELLOW_RARE",
               "@clustertier": "7",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1139,9 +1139,9 @@
               "@templatepool": "YELLOW_RARE",
               "@clustertier": "7",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1159,9 +1159,9 @@
               "@templatepool": "BLACK_NORMAL",
               "@clustertier": "6",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -1172,9 +1172,9 @@
               "@templatepool": "BLACK_NORMAL",
               "@clustertier": "6",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -1185,9 +1185,9 @@
               "@templatepool": "BLACK_NORMAL",
               "@clustertier": "6",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -1198,9 +1198,9 @@
               "@templatepool": "BLACK_NORMAL",
               "@clustertier": "6",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -1211,9 +1211,9 @@
               "@templatepool": "BLACK_NORMAL",
               "@clustertier": "6",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -1224,9 +1224,9 @@
               "@templatepool": "BLACK_NORMAL",
               "@clustertier": "6",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -1237,9 +1237,9 @@
               "@templatepool": "BLACK_NORMAL",
               "@clustertier": "6",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -1250,9 +1250,9 @@
               "@templatepool": "BLACK_NORMAL",
               "@clustertier": "6",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -1263,9 +1263,9 @@
               "@templatepool": "BLACK_NORMAL",
               "@clustertier": "6",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -1276,9 +1276,9 @@
               "@templatepool": "BLACK_NORMAL",
               "@clustertier": "6",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -1289,9 +1289,9 @@
               "@templatepool": "BLACK_NORMAL",
               "@clustertier": "6",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -1302,9 +1302,9 @@
               "@templatepool": "BLACK_NORMAL",
               "@clustertier": "6",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -1315,9 +1315,9 @@
               "@templatepool": "BLACK_NORMAL",
               "@clustertier": "6",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -1328,9 +1328,9 @@
               "@templatepool": "BLACK_NORMAL",
               "@clustertier": "6",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -1341,9 +1341,9 @@
               "@templatepool": "BLACK_NORMAL",
               "@clustertier": "6",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -1354,9 +1354,9 @@
               "@templatepool": "BLACK_UNCOMMON",
               "@clustertier": "7",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1369,9 +1369,9 @@
               "@templatepool": "BLACK_UNCOMMON",
               "@clustertier": "7",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1384,9 +1384,9 @@
               "@templatepool": "BLACK_UNCOMMON",
               "@clustertier": "7",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1399,9 +1399,9 @@
               "@templatepool": "BLACK_UNCOMMON",
               "@clustertier": "7",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1414,9 +1414,9 @@
               "@templatepool": "BLACK_UNCOMMON",
               "@clustertier": "7",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1429,9 +1429,9 @@
               "@templatepool": "BLACK_UNCOMMON",
               "@clustertier": "7",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1444,9 +1444,9 @@
               "@templatepool": "BLACK_UNCOMMON",
               "@clustertier": "7",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1459,9 +1459,9 @@
               "@templatepool": "BLACK_UNCOMMON",
               "@clustertier": "7",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1474,9 +1474,9 @@
               "@templatepool": "BLACK_UNCOMMON",
               "@clustertier": "7",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1489,9 +1489,9 @@
               "@templatepool": "BLACK_UNCOMMON",
               "@clustertier": "7",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1504,9 +1504,9 @@
               "@templatepool": "BLACK_UNCOMMON",
               "@clustertier": "7",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1519,9 +1519,9 @@
               "@templatepool": "BLACK_UNCOMMON",
               "@clustertier": "7",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1534,9 +1534,9 @@
               "@templatepool": "BLACK_UNCOMMON",
               "@clustertier": "7",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1549,9 +1549,9 @@
               "@templatepool": "BLACK_UNCOMMON",
               "@clustertier": "7",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1564,9 +1564,9 @@
               "@templatepool": "BLACK_UNCOMMON",
               "@clustertier": "7",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1579,9 +1579,9 @@
               "@templatepool": "BLACK_RARE",
               "@clustertier": "8",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1594,9 +1594,9 @@
               "@templatepool": "BLACK_RARE",
               "@clustertier": "8",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1609,9 +1609,9 @@
               "@templatepool": "BLACK_RARE",
               "@clustertier": "8",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1624,9 +1624,9 @@
               "@templatepool": "BLACK_RARE",
               "@clustertier": "8",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1639,9 +1639,9 @@
               "@templatepool": "BLACK_RARE",
               "@clustertier": "8",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1654,9 +1654,9 @@
               "@templatepool": "BLACK_RARE",
               "@clustertier": "8",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1669,9 +1669,9 @@
               "@templatepool": "BLACK_RARE",
               "@clustertier": "8",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1684,9 +1684,9 @@
               "@templatepool": "BLACK_RARE",
               "@clustertier": "8",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1699,9 +1699,9 @@
               "@templatepool": "BLACK_RARE",
               "@clustertier": "8",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1714,9 +1714,9 @@
               "@templatepool": "BLACK_RARE",
               "@clustertier": "8",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1729,9 +1729,9 @@
               "@templatepool": "BLACK_RARE",
               "@clustertier": "8",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1744,9 +1744,9 @@
               "@templatepool": "BLACK_RARE",
               "@clustertier": "8",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1759,9 +1759,9 @@
               "@templatepool": "BLACK_RARE",
               "@clustertier": "8",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1774,9 +1774,9 @@
               "@templatepool": "BLACK_RARE",
               "@clustertier": "8",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1789,9 +1789,9 @@
               "@templatepool": "BLACK_RARE",
               "@clustertier": "8",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -1809,9 +1809,9 @@
               "@templatepool": "BLACK_NORMAL",
               "@clustertier": "6",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -1822,9 +1822,9 @@
               "@templatepool": "BLACK_NORMAL",
               "@clustertier": "6",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -1835,9 +1835,9 @@
               "@templatepool": "BLACK_NORMAL",
               "@clustertier": "6",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -1848,9 +1848,9 @@
               "@templatepool": "BLACK_NORMAL",
               "@clustertier": "6",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -1861,9 +1861,9 @@
               "@templatepool": "BLACK_NORMAL",
               "@clustertier": "6",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -1874,9 +1874,9 @@
               "@templatepool": "BLACK_NORMAL",
               "@clustertier": "6",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -1887,9 +1887,9 @@
               "@templatepool": "BLACK_NORMAL",
               "@clustertier": "6",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -1900,9 +1900,9 @@
               "@templatepool": "BLACK_NORMAL",
               "@clustertier": "6",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -1913,9 +1913,9 @@
               "@templatepool": "BLACK_NORMAL",
               "@clustertier": "6",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -1926,9 +1926,9 @@
               "@templatepool": "BLACK_NORMAL",
               "@clustertier": "6",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -1939,9 +1939,9 @@
               "@templatepool": "BLACK_NORMAL",
               "@clustertier": "6",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -1952,9 +1952,9 @@
               "@templatepool": "BLACK_NORMAL",
               "@clustertier": "6",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -1965,9 +1965,9 @@
               "@templatepool": "BLACK_NORMAL",
               "@clustertier": "6",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -1978,9 +1978,9 @@
               "@templatepool": "BLACK_NORMAL",
               "@clustertier": "6",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -1991,9 +1991,9 @@
               "@templatepool": "BLACK_NORMAL",
               "@clustertier": "6",
               "@subbiome": "green",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "6",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200"
@@ -2004,9 +2004,9 @@
               "@templatepool": "BLACK_UNCOMMON",
               "@clustertier": "7",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -2019,9 +2019,9 @@
               "@templatepool": "BLACK_UNCOMMON",
               "@clustertier": "7",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -2034,9 +2034,9 @@
               "@templatepool": "BLACK_UNCOMMON",
               "@clustertier": "7",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -2049,9 +2049,9 @@
               "@templatepool": "BLACK_UNCOMMON",
               "@clustertier": "7",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -2064,9 +2064,9 @@
               "@templatepool": "BLACK_UNCOMMON",
               "@clustertier": "7",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -2079,9 +2079,9 @@
               "@templatepool": "BLACK_UNCOMMON",
               "@clustertier": "7",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -2094,9 +2094,9 @@
               "@templatepool": "BLACK_UNCOMMON",
               "@clustertier": "7",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -2109,9 +2109,9 @@
               "@templatepool": "BLACK_UNCOMMON",
               "@clustertier": "7",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -2124,9 +2124,9 @@
               "@templatepool": "BLACK_UNCOMMON",
               "@clustertier": "7",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -2139,9 +2139,9 @@
               "@templatepool": "BLACK_UNCOMMON",
               "@clustertier": "7",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -2154,9 +2154,9 @@
               "@templatepool": "BLACK_UNCOMMON",
               "@clustertier": "7",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -2169,9 +2169,9 @@
               "@templatepool": "BLACK_UNCOMMON",
               "@clustertier": "7",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -2184,9 +2184,9 @@
               "@templatepool": "BLACK_UNCOMMON",
               "@clustertier": "7",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -2199,9 +2199,9 @@
               "@templatepool": "BLACK_UNCOMMON",
               "@clustertier": "7",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -2214,9 +2214,9 @@
               "@templatepool": "BLACK_UNCOMMON",
               "@clustertier": "7",
               "@subbiome": "red",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "3",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -2229,9 +2229,9 @@
               "@templatepool": "BLACK_RARE",
               "@clustertier": "8",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -2244,9 +2244,9 @@
               "@templatepool": "BLACK_RARE",
               "@clustertier": "8",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -2259,9 +2259,9 @@
               "@templatepool": "BLACK_RARE",
               "@clustertier": "8",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -2274,9 +2274,9 @@
               "@templatepool": "BLACK_RARE",
               "@clustertier": "8",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -2289,9 +2289,9 @@
               "@templatepool": "BLACK_RARE",
               "@clustertier": "8",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -2304,9 +2304,9 @@
               "@templatepool": "BLACK_RARE",
               "@clustertier": "8",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -2319,9 +2319,9 @@
               "@templatepool": "BLACK_RARE",
               "@clustertier": "8",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -2334,9 +2334,9 @@
               "@templatepool": "BLACK_RARE",
               "@clustertier": "8",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -2349,9 +2349,9 @@
               "@templatepool": "BLACK_RARE",
               "@clustertier": "8",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -2364,9 +2364,9 @@
               "@templatepool": "BLACK_RARE",
               "@clustertier": "8",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -2379,9 +2379,9 @@
               "@templatepool": "BLACK_RARE",
               "@clustertier": "8",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -2394,9 +2394,9 @@
               "@templatepool": "BLACK_RARE",
               "@clustertier": "8",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -2409,9 +2409,9 @@
               "@templatepool": "BLACK_RARE",
               "@clustertier": "8",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -2424,9 +2424,9 @@
               "@templatepool": "BLACK_RARE",
               "@clustertier": "8",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -2439,9 +2439,9 @@
               "@templatepool": "BLACK_RARE",
               "@clustertier": "8",
               "@subbiome": "dead",
-              "@softplayerlimitmin": "10",
+              "@softplayerlimitmin": "6",
               "@softplayerlimitmax": "10",
-              "@hardplayercapspace": "5",
+              "@hardplayercapspace": "3",
               "@weight": "1",
               "@clusterclosetime": "600",
               "@clustershutdowntime": "1200",
@@ -4198,7 +4198,7 @@
                       },
                       {
                         "@name": "t7",
-                        "@weight": "278"
+                        "@weight": "538"
                       }
                     ]
                   },
@@ -4392,7 +4392,7 @@
                       },
                       {
                         "@name": "t7",
-                        "@weight": "278"
+                        "@weight": "538"
                       }
                     ]
                   },
@@ -4627,7 +4627,7 @@
                       },
                       {
                         "@name": "t8",
-                        "@weight": "13"
+                        "@weight": "19"
                       }
                     ]
                   },
@@ -4825,7 +4825,7 @@
                       },
                       {
                         "@name": "t8",
-                        "@weight": "13"
+                        "@weight": "19"
                       }
                     ]
                   },
@@ -4994,8 +4994,8 @@
       "resourcepool": [
         {
           "@name": "YELLOW",
-          "@mininitialfill": "0.4",
-          "@maxinitialfill": "0.6",
+          "@mininitialfill": "0.2",
+          "@maxinitialfill": "0.4",
           "resourcepooltier": [
             {
               "@tier": "4",
@@ -5005,28 +5005,28 @@
                   "resource": [
                     {
                       "@type": "rock",
-                      "@amount": "243765",
-                      "@resourcespersecond": "0.94045272"
+                      "@amount": "493370",
+                      "@resourcespersecond": "1.90343380"
                     },
                     {
                       "@type": "fiber",
-                      "@amount": "243765",
-                      "@resourcespersecond": "0.94045272"
+                      "@amount": "493370",
+                      "@resourcespersecond": "1.90343380"
                     },
                     {
                       "@type": "ore",
-                      "@amount": "243765",
-                      "@resourcespersecond": "0.94045272"
+                      "@amount": "493370",
+                      "@resourcespersecond": "1.90343380"
                     },
                     {
                       "@type": "wood",
-                      "@amount": "243765",
-                      "@resourcespersecond": "0.94045272"
+                      "@amount": "493370",
+                      "@resourcespersecond": "1.90343380"
                     },
                     {
                       "@type": "hide",
-                      "@amount": "243765",
-                      "@resourcespersecond": "0.94045272"
+                      "@amount": "493370",
+                      "@resourcespersecond": "1.90343380"
                     }
                   ]
                 },
@@ -5035,28 +5035,28 @@
                   "resource": [
                     {
                       "@type": "rock",
-                      "@amount": "21612",
-                      "@resourcespersecond": "0.08338024"
+                      "@amount": "19258",
+                      "@resourcespersecond": "0.07429622"
                     },
                     {
                       "@type": "fiber",
-                      "@amount": "21612",
-                      "@resourcespersecond": "0.08338024"
+                      "@amount": "19258",
+                      "@resourcespersecond": "0.07429622"
                     },
                     {
                       "@type": "ore",
-                      "@amount": "21612",
-                      "@resourcespersecond": "0.08338024"
+                      "@amount": "19258",
+                      "@resourcespersecond": "0.07429622"
                     },
                     {
                       "@type": "wood",
-                      "@amount": "21612",
-                      "@resourcespersecond": "0.08338024"
+                      "@amount": "19258",
+                      "@resourcespersecond": "0.07429622"
                     },
                     {
                       "@type": "hide",
-                      "@amount": "21612",
-                      "@resourcespersecond": "0.08338024"
+                      "@amount": "19258",
+                      "@resourcespersecond": "0.07429622"
                     }
                   ]
                 },
@@ -5065,28 +5065,28 @@
                   "resource": [
                     {
                       "@type": "rock",
-                      "@amount": "4322",
-                      "@resourcespersecond": "0.01667605"
+                      "@amount": "3852",
+                      "@resourcespersecond": "0.01485924"
                     },
                     {
                       "@type": "fiber",
-                      "@amount": "4322",
-                      "@resourcespersecond": "0.01667605"
+                      "@amount": "3852",
+                      "@resourcespersecond": "0.01485924"
                     },
                     {
                       "@type": "ore",
-                      "@amount": "4322",
-                      "@resourcespersecond": "0.01667605"
+                      "@amount": "3852",
+                      "@resourcespersecond": "0.01485924"
                     },
                     {
                       "@type": "wood",
-                      "@amount": "4322",
-                      "@resourcespersecond": "0.01667605"
+                      "@amount": "3852",
+                      "@resourcespersecond": "0.01485924"
                     },
                     {
                       "@type": "hide",
-                      "@amount": "4322",
-                      "@resourcespersecond": "0.01667605"
+                      "@amount": "3852",
+                      "@resourcespersecond": "0.01485924"
                     }
                   ]
                 },
@@ -5096,27 +5096,27 @@
                     {
                       "@type": "rock",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00333521"
+                      "@resourcespersecond": "0.00297185"
                     },
                     {
                       "@type": "fiber",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00333521"
+                      "@resourcespersecond": "0.00297185"
                     },
                     {
                       "@type": "ore",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00333521"
+                      "@resourcespersecond": "0.00297185"
                     },
                     {
                       "@type": "wood",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00333521"
+                      "@resourcespersecond": "0.00297185"
                     },
                     {
                       "@type": "hide",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00333521"
+                      "@resourcespersecond": "0.00297185"
                     }
                   ]
                 }
@@ -5130,28 +5130,28 @@
                   "resource": [
                     {
                       "@type": "rock",
-                      "@amount": "140308",
-                      "@resourcespersecond": "0.54131167"
+                      "@amount": "212908",
+                      "@resourcespersecond": "0.82140592"
                     },
                     {
                       "@type": "fiber",
-                      "@amount": "140308",
-                      "@resourcespersecond": "0.54131167"
+                      "@amount": "212908",
+                      "@resourcespersecond": "0.82140592"
                     },
                     {
                       "@type": "ore",
-                      "@amount": "140308",
-                      "@resourcespersecond": "0.54131167"
+                      "@amount": "212908",
+                      "@resourcespersecond": "0.82140592"
                     },
                     {
                       "@type": "wood",
-                      "@amount": "140308",
-                      "@resourcespersecond": "0.54131167"
+                      "@amount": "212908",
+                      "@resourcespersecond": "0.82140592"
                     },
                     {
                       "@type": "hide",
-                      "@amount": "140308",
-                      "@resourcespersecond": "0.54131167"
+                      "@amount": "212908",
+                      "@resourcespersecond": "0.82140592"
                     }
                   ]
                 },
@@ -5160,28 +5160,28 @@
                   "resource": [
                     {
                       "@type": "rock",
-                      "@amount": "12440",
-                      "@resourcespersecond": "0.04799252"
+                      "@amount": "11081",
+                      "@resourcespersecond": "0.04274896"
                     },
                     {
                       "@type": "fiber",
-                      "@amount": "12440",
-                      "@resourcespersecond": "0.04799252"
+                      "@amount": "11081",
+                      "@resourcespersecond": "0.04274896"
                     },
                     {
                       "@type": "ore",
-                      "@amount": "12440",
-                      "@resourcespersecond": "0.04799252"
+                      "@amount": "11081",
+                      "@resourcespersecond": "0.04274896"
                     },
                     {
                       "@type": "wood",
-                      "@amount": "12440",
-                      "@resourcespersecond": "0.04799252"
+                      "@amount": "11081",
+                      "@resourcespersecond": "0.04274896"
                     },
                     {
                       "@type": "hide",
-                      "@amount": "12440",
-                      "@resourcespersecond": "0.04799252"
+                      "@amount": "11081",
+                      "@resourcespersecond": "0.04274896"
                     }
                   ]
                 },
@@ -5190,28 +5190,28 @@
                   "resource": [
                     {
                       "@type": "rock",
-                      "@amount": "2488",
-                      "@resourcespersecond": "0.00959850"
+                      "@amount": "2216",
+                      "@resourcespersecond": "0.00854979"
                     },
                     {
                       "@type": "fiber",
-                      "@amount": "2488",
-                      "@resourcespersecond": "0.00959850"
+                      "@amount": "2216",
+                      "@resourcespersecond": "0.00854979"
                     },
                     {
                       "@type": "ore",
-                      "@amount": "2488",
-                      "@resourcespersecond": "0.00959850"
+                      "@amount": "2216",
+                      "@resourcespersecond": "0.00854979"
                     },
                     {
                       "@type": "wood",
-                      "@amount": "2488",
-                      "@resourcespersecond": "0.00959850"
+                      "@amount": "2216",
+                      "@resourcespersecond": "0.00854979"
                     },
                     {
                       "@type": "hide",
-                      "@amount": "2488",
-                      "@resourcespersecond": "0.00959850"
+                      "@amount": "2216",
+                      "@resourcespersecond": "0.00854979"
                     }
                   ]
                 },
@@ -5255,28 +5255,28 @@
                   "resource": [
                     {
                       "@type": "rock",
-                      "@amount": "6223",
-                      "@resourcespersecond": "0.02400810"
+                      "@amount": "6284",
+                      "@resourcespersecond": "0.02424403"
                     },
                     {
                       "@type": "fiber",
-                      "@amount": "6223",
-                      "@resourcespersecond": "0.02400810"
+                      "@amount": "6284",
+                      "@resourcespersecond": "0.02424403"
                     },
                     {
                       "@type": "ore",
-                      "@amount": "6223",
-                      "@resourcespersecond": "0.02400810"
+                      "@amount": "6284",
+                      "@resourcespersecond": "0.02424403"
                     },
                     {
                       "@type": "wood",
-                      "@amount": "6223",
-                      "@resourcespersecond": "0.02400810"
+                      "@amount": "6284",
+                      "@resourcespersecond": "0.02424403"
                     },
                     {
                       "@type": "hide",
-                      "@amount": "6223",
-                      "@resourcespersecond": "0.02400810"
+                      "@amount": "6284",
+                      "@resourcespersecond": "0.02424403"
                     }
                   ]
                 },
@@ -5286,27 +5286,27 @@
                     {
                       "@type": "rock",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00212855"
+                      "@resourcespersecond": "0.00189262"
                     },
                     {
                       "@type": "fiber",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00212855"
+                      "@resourcespersecond": "0.00189262"
                     },
                     {
                       "@type": "ore",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00212855"
+                      "@resourcespersecond": "0.00189262"
                     },
                     {
                       "@type": "wood",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00212855"
+                      "@resourcespersecond": "0.00189262"
                     },
                     {
                       "@type": "hide",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00212855"
+                      "@resourcespersecond": "0.00189262"
                     }
                   ]
                 },
@@ -5626,8 +5626,8 @@
         },
         {
           "@name": "BLACK",
-          "@mininitialfill": "0.4",
-          "@maxinitialfill": "0.6",
+          "@mininitialfill": "0.2",
+          "@maxinitialfill": "0.4",
           "resourcepooltier": [
             {
               "@tier": "4",
@@ -5637,28 +5637,28 @@
                   "resource": [
                     {
                       "@type": "rock",
-                      "@amount": "162510",
-                      "@resourcespersecond": "0.62696848"
+                      "@amount": "328913",
+                      "@resourcespersecond": "1.26895586"
                     },
                     {
                       "@type": "fiber",
-                      "@amount": "162510",
-                      "@resourcespersecond": "0.62696848"
+                      "@amount": "328913",
+                      "@resourcespersecond": "1.26895586"
                     },
                     {
                       "@type": "ore",
-                      "@amount": "162510",
-                      "@resourcespersecond": "0.62696848"
+                      "@amount": "328913",
+                      "@resourcespersecond": "1.26895586"
                     },
                     {
                       "@type": "wood",
-                      "@amount": "162510",
-                      "@resourcespersecond": "0.62696848"
+                      "@amount": "328913",
+                      "@resourcespersecond": "1.26895586"
                     },
                     {
                       "@type": "hide",
-                      "@amount": "162510",
-                      "@resourcespersecond": "0.62696848"
+                      "@amount": "328913",
+                      "@resourcespersecond": "1.26895586"
                     }
                   ]
                 },
@@ -5667,28 +5667,28 @@
                   "resource": [
                     {
                       "@type": "rock",
-                      "@amount": "14408",
-                      "@resourcespersecond": "0.05558683"
+                      "@amount": "12838",
+                      "@resourcespersecond": "0.04953081"
                     },
                     {
                       "@type": "fiber",
-                      "@amount": "14408",
-                      "@resourcespersecond": "0.05558683"
+                      "@amount": "12838",
+                      "@resourcespersecond": "0.04953081"
                     },
                     {
                       "@type": "ore",
-                      "@amount": "14408",
-                      "@resourcespersecond": "0.05558683"
+                      "@amount": "12838",
+                      "@resourcespersecond": "0.04953081"
                     },
                     {
                       "@type": "wood",
-                      "@amount": "14408",
-                      "@resourcespersecond": "0.05558683"
+                      "@amount": "12838",
+                      "@resourcespersecond": "0.04953081"
                     },
                     {
                       "@type": "hide",
-                      "@amount": "14408",
-                      "@resourcespersecond": "0.05558683"
+                      "@amount": "12838",
+                      "@resourcespersecond": "0.04953081"
                     }
                   ]
                 },
@@ -5697,28 +5697,28 @@
                   "resource": [
                     {
                       "@type": "rock",
-                      "@amount": "2882",
-                      "@resourcespersecond": "0.01111737"
+                      "@amount": "2568",
+                      "@resourcespersecond": "0.00990616"
                     },
                     {
                       "@type": "fiber",
-                      "@amount": "2882",
-                      "@resourcespersecond": "0.01111737"
+                      "@amount": "2568",
+                      "@resourcespersecond": "0.00990616"
                     },
                     {
                       "@type": "ore",
-                      "@amount": "2882",
-                      "@resourcespersecond": "0.01111737"
+                      "@amount": "2568",
+                      "@resourcespersecond": "0.00990616"
                     },
                     {
                       "@type": "wood",
-                      "@amount": "2882",
-                      "@resourcespersecond": "0.01111737"
+                      "@amount": "2568",
+                      "@resourcespersecond": "0.00990616"
                     },
                     {
                       "@type": "hide",
-                      "@amount": "2882",
-                      "@resourcespersecond": "0.01111737"
+                      "@amount": "2568",
+                      "@resourcespersecond": "0.00990616"
                     }
                   ]
                 },
@@ -5728,27 +5728,27 @@
                     {
                       "@type": "rock",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00222347"
+                      "@resourcespersecond": "0.00198123"
                     },
                     {
                       "@type": "fiber",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00222347"
+                      "@resourcespersecond": "0.00198123"
                     },
                     {
                       "@type": "ore",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00222347"
+                      "@resourcespersecond": "0.00198123"
                     },
                     {
                       "@type": "wood",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00222347"
+                      "@resourcespersecond": "0.00198123"
                     },
                     {
                       "@type": "hide",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00222347"
+                      "@resourcespersecond": "0.00198123"
                     }
                   ]
                 }
@@ -5762,28 +5762,28 @@
                   "resource": [
                     {
                       "@type": "rock",
-                      "@amount": "209790",
-                      "@resourcespersecond": "0.80937317"
+                      "@amount": "318453",
+                      "@resourcespersecond": "1.22860104"
                     },
                     {
                       "@type": "fiber",
-                      "@amount": "209790",
-                      "@resourcespersecond": "0.80937317"
+                      "@amount": "318453",
+                      "@resourcespersecond": "1.22860104"
                     },
                     {
                       "@type": "ore",
-                      "@amount": "209790",
-                      "@resourcespersecond": "0.80937317"
+                      "@amount": "318453",
+                      "@resourcespersecond": "1.22860104"
                     },
                     {
                       "@type": "wood",
-                      "@amount": "209790",
-                      "@resourcespersecond": "0.80937317"
+                      "@amount": "318453",
+                      "@resourcespersecond": "1.22860104"
                     },
                     {
                       "@type": "hide",
-                      "@amount": "209790",
-                      "@resourcespersecond": "0.80937317"
+                      "@amount": "318453",
+                      "@resourcespersecond": "1.22860104"
                     }
                   ]
                 },
@@ -5792,28 +5792,28 @@
                   "resource": [
                     {
                       "@type": "rock",
-                      "@amount": "18600",
-                      "@resourcespersecond": "0.07175877"
+                      "@amount": "16573",
+                      "@resourcespersecond": "0.06394087"
                     },
                     {
                       "@type": "fiber",
-                      "@amount": "18600",
-                      "@resourcespersecond": "0.07175877"
+                      "@amount": "16573",
+                      "@resourcespersecond": "0.06394087"
                     },
                     {
                       "@type": "ore",
-                      "@amount": "18600",
-                      "@resourcespersecond": "0.07175877"
+                      "@amount": "16573",
+                      "@resourcespersecond": "0.06394087"
                     },
                     {
                       "@type": "wood",
-                      "@amount": "18600",
-                      "@resourcespersecond": "0.07175877"
+                      "@amount": "16573",
+                      "@resourcespersecond": "0.06394087"
                     },
                     {
                       "@type": "hide",
-                      "@amount": "18600",
-                      "@resourcespersecond": "0.07175877"
+                      "@amount": "16573",
+                      "@resourcespersecond": "0.06394087"
                     }
                   ]
                 },
@@ -5822,28 +5822,28 @@
                   "resource": [
                     {
                       "@type": "rock",
-                      "@amount": "3720",
-                      "@resourcespersecond": "0.01435175"
+                      "@amount": "3315",
+                      "@resourcespersecond": "0.01278817"
                     },
                     {
                       "@type": "fiber",
-                      "@amount": "3720",
-                      "@resourcespersecond": "0.01435175"
+                      "@amount": "3315",
+                      "@resourcespersecond": "0.01278817"
                     },
                     {
                       "@type": "ore",
-                      "@amount": "3720",
-                      "@resourcespersecond": "0.01435175"
+                      "@amount": "3315",
+                      "@resourcespersecond": "0.01278817"
                     },
                     {
                       "@type": "wood",
-                      "@amount": "3720",
-                      "@resourcespersecond": "0.01435175"
+                      "@amount": "3315",
+                      "@resourcespersecond": "0.01278817"
                     },
                     {
                       "@type": "hide",
-                      "@amount": "3720",
-                      "@resourcespersecond": "0.01435175"
+                      "@amount": "3315",
+                      "@resourcespersecond": "0.01278817"
                     }
                   ]
                 },
@@ -5853,27 +5853,27 @@
                     {
                       "@type": "rock",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00287035"
+                      "@resourcespersecond": "0.00255763"
                     },
                     {
                       "@type": "fiber",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00287035"
+                      "@resourcespersecond": "0.00255763"
                     },
                     {
                       "@type": "ore",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00287035"
+                      "@resourcespersecond": "0.00255763"
                     },
                     {
                       "@type": "wood",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00287035"
+                      "@resourcespersecond": "0.00255763"
                     },
                     {
                       "@type": "hide",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00287035"
+                      "@resourcespersecond": "0.00255763"
                     }
                   ]
                 }
@@ -5887,28 +5887,28 @@
                   "resource": [
                     {
                       "@type": "rock",
-                      "@amount": "95623",
-                      "@resourcespersecond": "0.36891623"
+                      "@amount": "96768",
+                      "@resourcespersecond": "0.37333488"
                     },
                     {
                       "@type": "fiber",
-                      "@amount": "95623",
-                      "@resourcespersecond": "0.36891623"
+                      "@amount": "96768",
+                      "@resourcespersecond": "0.37333488"
                     },
                     {
                       "@type": "ore",
-                      "@amount": "95623",
-                      "@resourcespersecond": "0.36891623"
+                      "@amount": "96768",
+                      "@resourcespersecond": "0.37333488"
                     },
                     {
                       "@type": "wood",
-                      "@amount": "95623",
-                      "@resourcespersecond": "0.36891623"
+                      "@amount": "96768",
+                      "@resourcespersecond": "0.37333488"
                     },
                     {
                       "@type": "hide",
-                      "@amount": "95623",
-                      "@resourcespersecond": "0.36891623"
+                      "@amount": "96768",
+                      "@resourcespersecond": "0.37333488"
                     }
                   ]
                 },
@@ -5917,28 +5917,28 @@
                   "resource": [
                     {
                       "@type": "rock",
-                      "@amount": "8478",
-                      "@resourcespersecond": "0.03270800"
+                      "@amount": "7554",
+                      "@resourcespersecond": "0.02914456"
                     },
                     {
                       "@type": "fiber",
-                      "@amount": "8478",
-                      "@resourcespersecond": "0.03270800"
+                      "@amount": "7554",
+                      "@resourcespersecond": "0.02914456"
                     },
                     {
                       "@type": "ore",
-                      "@amount": "8478",
-                      "@resourcespersecond": "0.03270800"
+                      "@amount": "7554",
+                      "@resourcespersecond": "0.02914456"
                     },
                     {
                       "@type": "wood",
-                      "@amount": "8478",
-                      "@resourcespersecond": "0.03270800"
+                      "@amount": "7554",
+                      "@resourcespersecond": "0.02914456"
                     },
                     {
                       "@type": "hide",
-                      "@amount": "8478",
-                      "@resourcespersecond": "0.03270800"
+                      "@amount": "7554",
+                      "@resourcespersecond": "0.02914456"
                     }
                   ]
                 },
@@ -5947,28 +5947,28 @@
                   "resource": [
                     {
                       "@type": "rock",
-                      "@amount": "1696",
-                      "@resourcespersecond": "0.00654160"
+                      "@amount": "1511",
+                      "@resourcespersecond": "0.00582891"
                     },
                     {
                       "@type": "fiber",
-                      "@amount": "1696",
-                      "@resourcespersecond": "0.00654160"
+                      "@amount": "1511",
+                      "@resourcespersecond": "0.00582891"
                     },
                     {
                       "@type": "ore",
-                      "@amount": "1696",
-                      "@resourcespersecond": "0.00654160"
+                      "@amount": "1511",
+                      "@resourcespersecond": "0.00582891"
                     },
                     {
                       "@type": "wood",
-                      "@amount": "1696",
-                      "@resourcespersecond": "0.00654160"
+                      "@amount": "1511",
+                      "@resourcespersecond": "0.00582891"
                     },
                     {
                       "@type": "hide",
-                      "@amount": "1696",
-                      "@resourcespersecond": "0.00654160"
+                      "@amount": "1511",
+                      "@resourcespersecond": "0.00582891"
                     }
                   ]
                 },
@@ -5978,27 +5978,27 @@
                     {
                       "@type": "rock",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00130832"
+                      "@resourcespersecond": "0.00116578"
                     },
                     {
                       "@type": "fiber",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00130832"
+                      "@resourcespersecond": "0.00116578"
                     },
                     {
                       "@type": "ore",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00130832"
+                      "@resourcespersecond": "0.00116578"
                     },
                     {
                       "@type": "wood",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00130832"
+                      "@resourcespersecond": "0.00116578"
                     },
                     {
                       "@type": "hide",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00130832"
+                      "@resourcespersecond": "0.00116578"
                     }
                   ]
                 }
@@ -6012,28 +6012,28 @@
                   "resource": [
                     {
                       "@type": "rock",
-                      "@amount": "31480",
-                      "@resourcespersecond": "0.12145087"
+                      "@amount": "31576",
+                      "@resourcespersecond": "0.12181929"
                     },
                     {
                       "@type": "fiber",
-                      "@amount": "31480",
-                      "@resourcespersecond": "0.12145087"
+                      "@amount": "31576",
+                      "@resourcespersecond": "0.12181929"
                     },
                     {
                       "@type": "ore",
-                      "@amount": "31480",
-                      "@resourcespersecond": "0.12145087"
+                      "@amount": "31576",
+                      "@resourcespersecond": "0.12181929"
                     },
                     {
                       "@type": "wood",
-                      "@amount": "31480",
-                      "@resourcespersecond": "0.12145087"
+                      "@amount": "31576",
+                      "@resourcespersecond": "0.12181929"
                     },
                     {
                       "@type": "hide",
-                      "@amount": "31480",
-                      "@resourcespersecond": "0.12145087"
+                      "@amount": "31576",
+                      "@resourcespersecond": "0.12181929"
                     }
                   ]
                 },
@@ -6042,28 +6042,28 @@
                   "resource": [
                     {
                       "@type": "rock",
-                      "@amount": "3527",
-                      "@resourcespersecond": "0.01360858"
+                      "@amount": "3450",
+                      "@resourcespersecond": "0.01331146"
                     },
                     {
                       "@type": "fiber",
-                      "@amount": "3527",
-                      "@resourcespersecond": "0.01360858"
+                      "@amount": "3450",
+                      "@resourcespersecond": "0.01331146"
                     },
                     {
                       "@type": "ore",
-                      "@amount": "3527",
-                      "@resourcespersecond": "0.01360858"
+                      "@amount": "3450",
+                      "@resourcespersecond": "0.01331146"
                     },
                     {
                       "@type": "wood",
-                      "@amount": "3527",
-                      "@resourcespersecond": "0.01360858"
+                      "@amount": "3450",
+                      "@resourcespersecond": "0.01331146"
                     },
                     {
                       "@type": "hide",
-                      "@amount": "3527",
-                      "@resourcespersecond": "0.01360858"
+                      "@amount": "3450",
+                      "@resourcespersecond": "0.01331146"
                     }
                   ]
                 },
@@ -6073,27 +6073,27 @@
                     {
                       "@type": "rock",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00272172"
+                      "@resourcespersecond": "0.00266229"
                     },
                     {
                       "@type": "fiber",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00272172"
+                      "@resourcespersecond": "0.00266229"
                     },
                     {
                       "@type": "ore",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00272172"
+                      "@resourcespersecond": "0.00266229"
                     },
                     {
                       "@type": "wood",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00272172"
+                      "@resourcespersecond": "0.00266229"
                     },
                     {
                       "@type": "hide",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00272172"
+                      "@resourcespersecond": "0.00266229"
                     }
                   ]
                 },
@@ -6103,27 +6103,27 @@
                     {
                       "@type": "rock",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00054434"
+                      "@resourcespersecond": "0.00053246"
                     },
                     {
                       "@type": "fiber",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00054434"
+                      "@resourcespersecond": "0.00053246"
                     },
                     {
                       "@type": "ore",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00054434"
+                      "@resourcespersecond": "0.00053246"
                     },
                     {
                       "@type": "wood",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00054434"
+                      "@resourcespersecond": "0.00053246"
                     },
                     {
                       "@type": "hide",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00054434"
+                      "@resourcespersecond": "0.00053246"
                     }
                   ]
                 }
@@ -6137,28 +6137,28 @@
                   "resource": [
                     {
                       "@type": "rock",
-                      "@amount": "8063",
-                      "@resourcespersecond": "0.03110628"
+                      "@amount": "8098",
+                      "@resourcespersecond": "0.03124129"
                     },
                     {
                       "@type": "fiber",
-                      "@amount": "8063",
-                      "@resourcespersecond": "0.03110628"
+                      "@amount": "8098",
+                      "@resourcespersecond": "0.03124129"
                     },
                     {
                       "@type": "ore",
-                      "@amount": "8063",
-                      "@resourcespersecond": "0.03110628"
+                      "@amount": "8098",
+                      "@resourcespersecond": "0.03124129"
                     },
                     {
                       "@type": "wood",
-                      "@amount": "8063",
-                      "@resourcespersecond": "0.03110628"
+                      "@amount": "8098",
+                      "@resourcespersecond": "0.03124129"
                     },
                     {
                       "@type": "hide",
-                      "@amount": "8063",
-                      "@resourcespersecond": "0.03110628"
+                      "@amount": "8098",
+                      "@resourcespersecond": "0.03124129"
                     }
                   ]
                 },
@@ -6168,27 +6168,27 @@
                     {
                       "@type": "rock",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00301235"
+                      "@resourcespersecond": "0.00290347"
                     },
                     {
                       "@type": "fiber",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00301235"
+                      "@resourcespersecond": "0.00290347"
                     },
                     {
                       "@type": "ore",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00301235"
+                      "@resourcespersecond": "0.00290347"
                     },
                     {
                       "@type": "wood",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00301235"
+                      "@resourcespersecond": "0.00290347"
                     },
                     {
                       "@type": "hide",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00301235"
+                      "@resourcespersecond": "0.00290347"
                     }
                   ]
                 },
@@ -6198,27 +6198,27 @@
                     {
                       "@type": "rock",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00060247"
+                      "@resourcespersecond": "0.00058069"
                     },
                     {
                       "@type": "fiber",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00060247"
+                      "@resourcespersecond": "0.00058069"
                     },
                     {
                       "@type": "ore",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00060247"
+                      "@resourcespersecond": "0.00058069"
                     },
                     {
                       "@type": "wood",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00060247"
+                      "@resourcespersecond": "0.00058069"
                     },
                     {
                       "@type": "hide",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00060247"
+                      "@resourcespersecond": "0.00058069"
                     }
                   ]
                 },
@@ -6228,27 +6228,27 @@
                     {
                       "@type": "rock",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00012049"
+                      "@resourcespersecond": "0.00011614"
                     },
                     {
                       "@type": "fiber",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00012049"
+                      "@resourcespersecond": "0.00011614"
                     },
                     {
                       "@type": "ore",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00012049"
+                      "@resourcespersecond": "0.00011614"
                     },
                     {
                       "@type": "wood",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00012049"
+                      "@resourcespersecond": "0.00011614"
                     },
                     {
                       "@type": "hide",
                       "@amount": "1000",
-                      "@resourcespersecond": "0.00012049"
+                      "@resourcespersecond": "0.00011614"
                     }
                   ]
                 }
@@ -6269,7 +6269,7 @@
               "@scalewithclusterquestfactor": "true"
             },
             "mistsfactionstanding": {
-              "@points": "132",
+              "@points": "80",
               "@scalewithclusterquestfactor": "true"
             }
           }
@@ -6283,7 +6283,7 @@
               "@scalewithclusterquestfactor": "true"
             },
             "mistsfactionstanding": {
-              "@points": "132",
+              "@points": "80",
               "@scalewithclusterquestfactor": "true"
             }
           }
@@ -6297,7 +6297,7 @@
               "@scalewithclusterquestfactor": "true"
             },
             "mistsfactionstanding": {
-              "@points": "132",
+              "@points": "80",
               "@scalewithclusterquestfactor": "true"
             }
           }

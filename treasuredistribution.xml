@@ -181,31 +181,31 @@
     <Continent name="Avalon" subtype="CHEST">
       <ClusterTier tier="4" >
         <Random maxslotsused="1" activationtimemax="10000" activationtimemin="20000" positioncooldown="300">
-          <TreasureLootchest biome="Roads" weight="3" name="ROADS_CHEST_SOLO" />
+          <TreasureLootchest biome="Roads" weight="4" name="ROADS_CHEST_SOLO" />
           <TreasureLootchest biome="Roads" weight="1" name="ROADS_CHEST_VETERAN" />
         </Random>        
       </ClusterTier>
       <ClusterTier tier="5" >
         <Random maxslotsused="1" activationtimemax="10000" activationtimemin="20000" positioncooldown="300">
-          <TreasureLootchest biome="Roads" weight="3" name="ROADS_CHEST_SOLO" />
+          <TreasureLootchest biome="Roads" weight="4" name="ROADS_CHEST_SOLO" />
           <TreasureLootchest biome="Roads" weight="1" name="ROADS_CHEST_VETERAN" />
         </Random>        
       </ClusterTier>
       <ClusterTier tier="6" >
         <Random maxslotsused="1" activationtimemax="10000" activationtimemin="20000" positioncooldown="300">
-          <TreasureLootchest biome="Roads" weight="3" name="ROADS_CHEST_SOLO" />
+          <TreasureLootchest biome="Roads" weight="4" name="ROADS_CHEST_SOLO" />
           <TreasureLootchest biome="Roads" weight="1" name="ROADS_CHEST_VETERAN" />
         </Random>        
       </ClusterTier>
       <ClusterTier tier="7" >
         <Random maxslotsused="1" activationtimemax="10000" activationtimemin="20000" positioncooldown="300">
-          <TreasureLootchest biome="Roads" weight="3" name="ROADS_CHEST_SOLO" />
+          <TreasureLootchest biome="Roads" weight="4" name="ROADS_CHEST_SOLO" />
           <TreasureLootchest biome="Roads" weight="1" name="ROADS_CHEST_VETERAN" />          
         </Random>        
       </ClusterTier>
       <ClusterTier tier="8" >
         <Random maxslotsused="1" activationtimemax="10000" activationtimemin="20000" positioncooldown="300">
-          <TreasureLootchest biome="Roads" weight="3" name="ROADS_CHEST_SOLO" />
+          <TreasureLootchest biome="Roads" weight="4" name="ROADS_CHEST_SOLO" />
           <TreasureLootchest biome="Roads" weight="1" name="ROADS_CHEST_VETERAN" />
         </Random>        
       </ClusterTier>
@@ -260,7 +260,6 @@
 	      </Random>
 	    </ClusterTier>
 	  </Continent>
-
 	  <Continent name="Royal" subtype="RESOURCE_T5">
 	    <ClusterTier tier="5" >
 	      <Random maxslotsused="1" activationtimemin="5400" activationtimemax="16200" positioncooldown="8100" >
@@ -310,8 +309,7 @@
 	       <TreasureMob         name="OPEN_WORLD_HIDEMOB_SWAMP_T5"     biome="Swamp"    weight="33" />
 	      </Random>
 	    </ClusterTier>
-	  </Continent>
-	  
+	  </Continent>	  
 	  <Continent name="Royal" subtype="RESOURCE_T6">
 	    <ClusterTier tier="6" >
 	      <Random maxslotsused="2" activationtimemin="5400" activationtimemax="16200" positioncooldown="8100" >
@@ -361,8 +359,7 @@
 	       <TreasureMob         name="OPEN_WORLD_HIDEMOB_SWAMP_T6"     biome="Swamp"    weight="33" />
 	      </Random>
 	    </ClusterTier>
-	  </Continent>
-	  
+	  </Continent>	  
 	  <Continent name="Royal" subtype="RESOURCE_T7">
 	    <ClusterTier tier="7" >
 	      <Random maxslotsused="2" activationtimemin="5400" activationtimemax="16200" positioncooldown="8100" >
@@ -388,8 +385,7 @@
 	       <TreasureMob         name="OPEN_WORLD_HIDEMOB_SWAMP_T7"     biome="Swamp"    weight="33" />
 	      </Random>
 	    </ClusterTier>
-	  </Continent>
-    
+	  </Continent>    
 
 	  <Continent name="Outlands" subtype="RESOURCE_T4">
 	    <ClusterTier tier="5" >
@@ -417,7 +413,6 @@
 	      </Random>
 	    </ClusterTier>
 	  </Continent>
-
 	  <Continent name="Outlands" subtype="RESOURCE_T5">
 	    <ClusterTier tier="5" >
 	      <Random maxslotsused="2" activationtimemin="5400" activationtimemax="16200" positioncooldown="8100" >
@@ -467,8 +462,7 @@
 	       <TreasureMob         name="OPEN_WORLD_HIDEMOB_SWAMP_T5"     biome="Swamp"    weight="33" />
 	      </Random>
 	    </ClusterTier>
-	  </Continent>
-	  
+	  </Continent>	  
 	  <Continent name="Outlands" subtype="RESOURCE_T6">
 	    <ClusterTier tier="6" >
 	      <Random maxslotsused="2" activationtimemin="5400" activationtimemax="16200" positioncooldown="8100" >
@@ -518,8 +512,7 @@
 	       <TreasureMob         name="OPEN_WORLD_HIDEMOB_SWAMP_T6"     biome="Swamp"    weight="33" />
 	      </Random>
 	    </ClusterTier>
-	  </Continent>
-	  
+	  </Continent>	  
 	  <Continent name="Outlands" subtype="RESOURCE_T7">
 	    <ClusterTier tier="7" >
 	      <Random maxslotsused="2" activationtimemin="5400" activationtimemax="16200" positioncooldown="8100" >
@@ -569,8 +562,7 @@
 	       <TreasureMob         name="OPEN_WORLD_HIDEMOB_SWAMP_T7"     biome="Swamp"    weight="33" />
 	      </Random>
 	    </ClusterTier>
-	  </Continent>
-	  
+	  </Continent>	  
 	  <Continent name="Outlands" subtype="RESOURCE_T8">
 	    <ClusterTier tier="8" >
 	      <Random maxslotsused="2" activationtimemin="5400" activationtimemax="16200" positioncooldown="8100" >
@@ -597,7 +589,6 @@
 	      </Random>
 	    </ClusterTier>
 	  </Continent>
-
 
     <Continent name="Avalon" subtype="RESOURCE_T4">
       <ClusterTier tier="4" >
@@ -675,8 +666,7 @@
           <TreasureHarvestable name="MISTS_YELLOW_HARVESTABLE_FIBER_T4" biome="Mists" weight="1" />
         </Mists>
       </ClusterTier>
-    </Continent>    
-
+    </Continent>
     <Continent name="Mists" subtype="RESOURCE_MISTS_T5">
       <ClusterTier tier="5" >
         <Mists maxslotsused="3" activationtimemin="0" activationtimemax="0" positioncooldown="300" >
@@ -706,7 +696,6 @@
         </Mists>
       </ClusterTier>      
     </Continent>
-
     <Continent name="Mists" subtype="RESOURCE_MISTS_T6">      
       <ClusterTier tier="6" >
         <Mists maxslotsused="5" activationtimemin="0" activationtimemax="0" positioncooldown="300" >
@@ -727,7 +716,6 @@
         </Mists>
       </ClusterTier>
     </Continent>
-
     <Continent name="Mists" subtype="RESOURCE_MISTS_T7">
       <ClusterTier tier="7" >
         <Mists maxslotsused="3" activationtimemin="0" activationtimemax="0" positioncooldown="300" >
@@ -761,7 +749,6 @@
         </Mists>
       </ClusterTier>
     </Continent>
-
     <Continent name="Mists" subtype="RESOURCE_T6">
       <ClusterTier tier="6" >
         <Mists maxslotsused="5" activationtimemin="0" activationtimemax="0" positioncooldown="300" >
@@ -791,7 +778,6 @@
         </Mists>
       </ClusterTier>
     </Continent>
-
     <Continent name="Mists" subtype="RESOURCE_T7">
       <ClusterTier tier="7" >
         <Mists maxslotsused="3" activationtimemin="0" activationtimemax="0" positioncooldown="300" >
@@ -812,7 +798,6 @@
         </Mists>
       </ClusterTier>
     </Continent>
-
     <Continent name="Mists" subtype="RESOURCE_T8">
       <ClusterTier tier="8" >
         <Mists maxslotsused="3" activationtimemin="0" activationtimemax="0" positioncooldown="300" >
@@ -851,8 +836,7 @@
 	        <TreasureMob         name="OPEN_WORLD_HARVESTABLE_HIDE_T4_LEVEL4_SWAMP"         biome="Swamp"    weight="33" />
 	      </Random>
 	    </ClusterTier>
-      </Continent>
-	  
+      </Continent>	  
 	  <Continent name="Outlands" subtype="RESOURCE_T5_LEVEL4">
 	    <ClusterTier tier="5" >
 	      <Random maxslotsused="2" activationtimemin="152730" activationtimemax="458190" positioncooldown="8100" >
@@ -902,8 +886,7 @@
 	        <TreasureMob         name="OPEN_WORLD_HARVESTABLE_HIDE_T5_LEVEL4_SWAMP"         biome="Swamp"    weight="33" />
 	      </Random>
 	    </ClusterTier>
-	  </Continent>
-	  
+	  </Continent>	  
 	  <Continent name="Outlands" subtype="RESOURCE_T6_LEVEL4">
 	    <ClusterTier tier="6" >
 	      <Random maxslotsused="2" activationtimemin="268380" activationtimemax="805140" positioncooldown="8100" >
@@ -953,8 +936,7 @@
 	        <TreasureMob         name="OPEN_WORLD_HARVESTABLE_HIDE_T6_LEVEL4_SWAMP"          biome="Swamp"    weight="33" />
 	      </Random>
 	    </ClusterTier>
-	  </Continent>
-	  
+	  </Continent>	  
 	  <Continent name="Outlands" subtype="RESOURCE_T7_LEVEL4">
 	    <ClusterTier tier="7" >
 	      <Random maxslotsused="2" activationtimemin="412200" activationtimemax="1236600" positioncooldown="8100" >
@@ -1004,8 +986,7 @@
 	        <TreasureMob         name="OPEN_WORLD_HARVESTABLE_HIDE_T7_LEVEL4_SWAMP"          biome="Swamp"    weight="33" />
 	      </Random>
 	    </ClusterTier>
-	  </Continent>
-	  
+	  </Continent>	  
 	  <Continent name="Outlands" subtype="RESOURCE_T8_LEVEL4">
 	    <ClusterTier tier="8" >
 	      <Random maxslotsused="2" activationtimemin="259200" activationtimemax="777600" positioncooldown="8100" >
@@ -1234,7 +1215,7 @@
     </Continent>
     <Continent name="Avalon" subtype="POWERCORE">
       <ClusterTier tier="4">
-        <Random maxslotsused="1" activationtimemin="7200" activationtimemax="50400" positioncooldown="10">
+        <Random maxslotsused="1" activationtimemin="8640" activationtimemax="60480" positioncooldown="10">
           <TreasureMob name="POWER_CRYSTAL_ROADS_MOB_HIDEOUT_R0" biome="Roads" weight="59"/>
           <TreasureMob name="POWER_CRYSTAL_ROADS_MOB_HIDEOUT_R1" biome="Roads" weight="30"/>
           <TreasureMob name="POWER_CRYSTAL_ROADS_MOB_HIDEOUT_R2" biome="Roads" weight="10"/>
@@ -1242,7 +1223,7 @@
         </Random>
       </ClusterTier>
       <ClusterTier tier="5">
-        <Random maxslotsused="1" activationtimemin="7200" activationtimemax="50400" positioncooldown="10">
+        <Random maxslotsused="1" activationtimemin="8640" activationtimemax="60480" positioncooldown="10">
           <TreasureMob name="POWER_CRYSTAL_ROADS_MOB_HIDEOUT_R0" biome="Roads" weight="59"/>
           <TreasureMob name="POWER_CRYSTAL_ROADS_MOB_HIDEOUT_R1" biome="Roads" weight="30"/>
           <TreasureMob name="POWER_CRYSTAL_ROADS_MOB_HIDEOUT_R2" biome="Roads" weight="10"/>
@@ -1250,7 +1231,7 @@
         </Random>
       </ClusterTier>
       <ClusterTier tier="6">
-        <Random maxslotsused="1" activationtimemin="7200" activationtimemax="50400" positioncooldown="10">
+        <Random maxslotsused="1" activationtimemin="8640" activationtimemax="60480" positioncooldown="10">
           <TreasureMob name="POWER_CRYSTAL_ROADS_MOB_HIDEOUT_R0" biome="Roads" weight="59"/>
           <TreasureMob name="POWER_CRYSTAL_ROADS_MOB_HIDEOUT_R1" biome="Roads" weight="30"/>
           <TreasureMob name="POWER_CRYSTAL_ROADS_MOB_HIDEOUT_R2" biome="Roads" weight="10"/>
@@ -1258,7 +1239,7 @@
         </Random>
       </ClusterTier>
       <ClusterTier tier="7">
-        <Random maxslotsused="1" activationtimemin="7200" activationtimemax="50400" positioncooldown="10">
+        <Random maxslotsused="1" activationtimemin="8640" activationtimemax="60480" positioncooldown="10">
           <TreasureMob name="POWER_CRYSTAL_ROADS_MOB_HIDEOUT_R0" biome="Roads" weight="59"/>
           <TreasureMob name="POWER_CRYSTAL_ROADS_MOB_HIDEOUT_R1" biome="Roads" weight="30"/>
           <TreasureMob name="POWER_CRYSTAL_ROADS_MOB_HIDEOUT_R2" biome="Roads" weight="10"/>
@@ -1266,7 +1247,7 @@
         </Random>
       </ClusterTier>
       <ClusterTier tier="8">
-        <Random maxslotsused="1" activationtimemin="7200" activationtimemax="50400" positioncooldown="10">
+        <Random maxslotsused="1" activationtimemin="8640" activationtimemax="60480" positioncooldown="10">
           <TreasureMob name="POWER_CRYSTAL_ROADS_MOB_HIDEOUT_R0" biome="Roads" weight="59"/>
           <TreasureMob name="POWER_CRYSTAL_ROADS_MOB_HIDEOUT_R1" biome="Roads" weight="30"/>
           <TreasureMob name="POWER_CRYSTAL_ROADS_MOB_HIDEOUT_R2" biome="Roads" weight="10"/>
@@ -1274,52 +1255,10 @@
         </Random>
       </ClusterTier>
     </Continent>
-    <!--Wisps Power Crystals-->
-    <Continent name="Avalon" subtype="WISPS">
-      <ClusterTier tier="4">
-        <Random maxslotsused="1" activationtimemin="1700" activationtimemax="12700" positioncooldown="10">
-          <TreasureMob name="POWER_CRYSTAL_MOB_WISP_BLACK_R0" biome="Roads" weight="59"/>
-          <TreasureMob name="POWER_CRYSTAL_MOB_WISP_BLACK_R1" biome="Roads" weight="30"/>
-          <TreasureMob name="POWER_CRYSTAL_MOB_WISP_BLACK_R2" biome="Roads" weight="10"/>
-          <TreasureMob name="POWER_CRYSTAL_MOB_WISP_BLACK_R3" biome="Roads" weight="1"/>
-        </Random>
-      </ClusterTier>
-      <ClusterTier tier="5">
-        <Random maxslotsused="1" activationtimemin="1700" activationtimemax="12700" positioncooldown="10">
-          <TreasureMob name="POWER_CRYSTAL_MOB_WISP_BLACK_R0" biome="Roads" weight="59"/>
-          <TreasureMob name="POWER_CRYSTAL_MOB_WISP_BLACK_R1" biome="Roads" weight="30"/>
-          <TreasureMob name="POWER_CRYSTAL_MOB_WISP_BLACK_R2" biome="Roads" weight="10"/>
-          <TreasureMob name="POWER_CRYSTAL_MOB_WISP_BLACK_R3" biome="Roads" weight="1"/>
-        </Random>
-      </ClusterTier>
-      <ClusterTier tier="6">
-        <Random maxslotsused="1" activationtimemin="1700" activationtimemax="12700" positioncooldown="10">
-          <TreasureMob name="POWER_CRYSTAL_MOB_WISP_BLACK_R0" biome="Roads" weight="59"/>
-          <TreasureMob name="POWER_CRYSTAL_MOB_WISP_BLACK_R1" biome="Roads" weight="30"/>
-          <TreasureMob name="POWER_CRYSTAL_MOB_WISP_BLACK_R2" biome="Roads" weight="10"/>
-          <TreasureMob name="POWER_CRYSTAL_MOB_WISP_BLACK_R3" biome="Roads" weight="1"/>
-        </Random>
-      </ClusterTier>
-      <ClusterTier tier="7">
-        <Random maxslotsused="1" activationtimemin="1700" activationtimemax="12700" positioncooldown="10">
-          <TreasureMob name="POWER_CRYSTAL_MOB_WISP_BLACK_R0" biome="Roads" weight="59"/>
-          <TreasureMob name="POWER_CRYSTAL_MOB_WISP_BLACK_R1" biome="Roads" weight="30"/>
-          <TreasureMob name="POWER_CRYSTAL_MOB_WISP_BLACK_R2" biome="Roads" weight="10"/>
-          <TreasureMob name="POWER_CRYSTAL_MOB_WISP_BLACK_R3" biome="Roads" weight="1"/>
-        </Random>
-      </ClusterTier>
-      <ClusterTier tier="8">
-        <Random maxslotsused="1" activationtimemin="1700" activationtimemax="12700" positioncooldown="10">
-          <TreasureMob name="POWER_CRYSTAL_MOB_WISP_BLACK_R0" biome="Roads" weight="59"/>
-          <TreasureMob name="POWER_CRYSTAL_MOB_WISP_BLACK_R1" biome="Roads" weight="30"/>
-          <TreasureMob name="POWER_CRYSTAL_MOB_WISP_BLACK_R2" biome="Roads" weight="10"/>
-          <TreasureMob name="POWER_CRYSTAL_MOB_WISP_BLACK_R3" biome="Roads" weight="1"/>
-        </Random>
-      </ClusterTier>
-    </Continent>
+    <!--Wisps Power Crystals-->    
     <Continent name="Mists" subtype="WISPS">
       <ClusterTier tier="5">
-        <Mists maxslotsused="1" activationtimemin="0" activationtimemax="0" positioncooldown="300">
+        <Mists maxslotsused="1" activationtimemin="0" activationtimemax="0" positioncooldown="1">
           <TreasureMob name="POWER_CRYSTAL_MOB_WISP_YELLOW_R0" biome="Mists" pvprule="PvpAllowed" weight="59"/>
           <TreasureMob name="POWER_CRYSTAL_MOB_WISP_YELLOW_R1" biome="Mists" pvprule="PvpAllowed" weight="30"/>
           <TreasureMob name="POWER_CRYSTAL_MOB_WISP_YELLOW_R2" biome="Mists" pvprule="PvpAllowed" weight="10"/>
@@ -1332,7 +1271,7 @@
         </Mists>
       </ClusterTier>
       <ClusterTier tier="6">
-        <Mists maxslotsused="1" activationtimemin="0" activationtimemax="0" positioncooldown="300">
+        <Mists maxslotsused="1" activationtimemin="0" activationtimemax="0" positioncooldown="1">
           <TreasureMob name="POWER_CRYSTAL_MOB_WISP_YELLOW_R0" biome="Mists" pvprule="PvpAllowed" weight="59"/>
           <TreasureMob name="POWER_CRYSTAL_MOB_WISP_YELLOW_R1" biome="Mists" pvprule="PvpAllowed" weight="30"/>
           <TreasureMob name="POWER_CRYSTAL_MOB_WISP_YELLOW_R2" biome="Mists" pvprule="PvpAllowed" weight="10"/>
@@ -1345,7 +1284,7 @@
         </Mists>
       </ClusterTier>
       <ClusterTier tier="7">
-        <Mists maxslotsused="1" activationtimemin="0" activationtimemax="0" positioncooldown="300">
+        <Mists maxslotsused="1" activationtimemin="0" activationtimemax="0" positioncooldown="1">
           <TreasureMob name="POWER_CRYSTAL_MOB_WISP_YELLOW_R0" biome="Mists" pvprule="PvpAllowed" weight="59"/>
           <TreasureMob name="POWER_CRYSTAL_MOB_WISP_YELLOW_R1" biome="Mists" pvprule="PvpAllowed" weight="30"/>
           <TreasureMob name="POWER_CRYSTAL_MOB_WISP_YELLOW_R2" biome="Mists" pvprule="PvpAllowed" weight="10"/>
@@ -1358,7 +1297,7 @@
         </Mists>
       </ClusterTier>
       <ClusterTier tier="8">
-        <Mists maxslotsused="1" activationtimemin="0" activationtimemax="0" positioncooldown="300">
+        <Mists maxslotsused="1" activationtimemin="0" activationtimemax="0" positioncooldown="1">
           <TreasureMob name="POWER_CRYSTAL_MOB_WISP_YELLOW_R0" biome="Mists" pvprule="PvpAllowed" weight="59"/>
           <TreasureMob name="POWER_CRYSTAL_MOB_WISP_YELLOW_R1" biome="Mists" pvprule="PvpAllowed" weight="30"/>
           <TreasureMob name="POWER_CRYSTAL_MOB_WISP_YELLOW_R2" biome="Mists" pvprule="PvpAllowed" weight="10"/>
@@ -3396,25 +3335,21 @@
     <Continent name="Mists" subtype="SPECIALMOBS">
       <ClusterTier tier="5">
         <Mists maxslotsused="5" activationtimemin="0" activationtimemax="0" positioncooldown="300">
-          <TreasureMob name="MISTS_MOB_CRYSTALSPIDER_SMALL_T5" biome="Mists" weight="1" pvprule="PvpForced" />
           <TreasureMob name="MISTS_MOB_TREASUREDRONE_T5" biome="Mists" weight="1"/>
         </Mists>
       </ClusterTier>
       <ClusterTier tier="6">
         <Mists maxslotsused="5" activationtimemin="0" activationtimemax="0" positioncooldown="300">
-          <TreasureMob name="MISTS_MOB_CRYSTALSPIDER_SMALL_T6" biome="Mists" weight="1" pvprule="PvpForced" />
           <TreasureMob name="MISTS_MOB_TREASUREDRONE_T6" biome="Mists" weight="1"/>
         </Mists>
       </ClusterTier>
       <ClusterTier tier="7">
         <Mists maxslotsused="5" activationtimemin="0" activationtimemax="0" positioncooldown="300">
-          <TreasureMob name="MISTS_MOB_CRYSTALSPIDER_SMALL_T7" biome="Mists" weight="1" pvprule="PvpForced" />
           <TreasureMob name="MISTS_MOB_TREASUREDRONE_T7" biome="Mists" weight="1"/>
         </Mists>
       </ClusterTier>
       <ClusterTier tier="8">
         <Mists maxslotsused="5" activationtimemin="0" activationtimemax="0" positioncooldown="300">
-          <TreasureMob name="MISTS_MOB_CRYSTALSPIDER_SMALL_T8" biome="Mists" weight="1" pvprule="PvpForced" />
           <TreasureMob name="MISTS_MOB_TREASUREDRONE_T8" biome="Mists" weight="1"/>
         </Mists>
       </ClusterTier>
@@ -3422,59 +3357,59 @@
     <Continent name="Mists" subtype="MYTHICALMOBS">      
       <ClusterTier tier="6">
         <Mists maxslotsused="5" activationtimemin="0" activationtimemax="0" positioncooldown="300">
-          <TreasureMob name="MISTS_MOB_MYTHICAL_GRIFFIN_T4"     biome="Mists" weight="2550" pvprule="PvpAllowed"/>
-          <TreasureMob name="MISTS_MOB_MYTHICAL_SPIDER_T4"      biome="Mists" weight="2550" pvprule="PvpAllowed"/>
-          <TreasureMob name="MISTS_MOB_MYTHICAL_FAIRYDRAGON_T4" biome="Mists" weight="2550" pvprule="PvpAllowed"/>
+          <TreasureMob name="MISTS_MOB_MYTHICAL_GRIFFIN_T4"     biome="Mists" weight="551" pvprule="PvpAllowed"/>
+          <TreasureMob name="MISTS_MOB_MYTHICAL_SPIDER_T4"      biome="Mists" weight="551" pvprule="PvpAllowed"/>
+          <TreasureMob name="MISTS_MOB_MYTHICAL_FAIRYDRAGON_T4" biome="Mists" weight="551" pvprule="PvpAllowed"/>
 
-          <TreasureMob name="MISTS_MOB_MYTHICAL_GRIFFIN_T5"     biome="Mists" weight="1020" pvprule="PvpAllowed"/>
-          <TreasureMob name="MISTS_MOB_MYTHICAL_SPIDER_T5"      biome="Mists" weight="1020" pvprule="PvpAllowed"/>
-          <TreasureMob name="MISTS_MOB_MYTHICAL_FAIRYDRAGON_T5" biome="Mists" weight="1020" pvprule="PvpAllowed"/>
+          <TreasureMob name="MISTS_MOB_MYTHICAL_GRIFFIN_T5"     biome="Mists" weight="449" pvprule="PvpAllowed"/>
+          <TreasureMob name="MISTS_MOB_MYTHICAL_SPIDER_T5"      biome="Mists" weight="449" pvprule="PvpAllowed"/>
+          <TreasureMob name="MISTS_MOB_MYTHICAL_FAIRYDRAGON_T5" biome="Mists" weight="449" pvprule="PvpAllowed"/>
         </Mists>
       </ClusterTier>
       <ClusterTier tier="7">
         <Mists maxslotsused="5" activationtimemin="0" activationtimemax="0" positioncooldown="300">
-          <TreasureMob name="MISTS_MOB_MYTHICAL_GRIFFIN_T4"     biome="Mists" weight="2550" pvprule="PvpAllowed"/>
-          <TreasureMob name="MISTS_MOB_MYTHICAL_SPIDER_T4"      biome="Mists" weight="2550" pvprule="PvpAllowed"/>
-          <TreasureMob name="MISTS_MOB_MYTHICAL_FAIRYDRAGON_T4" biome="Mists" weight="2550" pvprule="PvpAllowed"/>
+          <TreasureMob name="MISTS_MOB_MYTHICAL_GRIFFIN_T4"     biome="Mists" weight="551" pvprule="PvpAllowed"/>
+          <TreasureMob name="MISTS_MOB_MYTHICAL_SPIDER_T4"      biome="Mists" weight="551" pvprule="PvpAllowed"/>
+          <TreasureMob name="MISTS_MOB_MYTHICAL_FAIRYDRAGON_T4" biome="Mists" weight="551" pvprule="PvpAllowed"/>
 
-          <TreasureMob name="MISTS_MOB_MYTHICAL_GRIFFIN_T5"     biome="Mists" weight="1020" pvprule="PvpAllowed"/>
-          <TreasureMob name="MISTS_MOB_MYTHICAL_SPIDER_T5"      biome="Mists" weight="1020" pvprule="PvpAllowed"/>
-          <TreasureMob name="MISTS_MOB_MYTHICAL_FAIRYDRAGON_T5" biome="Mists" weight="1020" pvprule="PvpAllowed"/>
+          <TreasureMob name="MISTS_MOB_MYTHICAL_GRIFFIN_T5"     biome="Mists" weight="449" pvprule="PvpAllowed"/>
+          <TreasureMob name="MISTS_MOB_MYTHICAL_SPIDER_T5"      biome="Mists" weight="449" pvprule="PvpAllowed"/>
+          <TreasureMob name="MISTS_MOB_MYTHICAL_FAIRYDRAGON_T5" biome="Mists" weight="449" pvprule="PvpAllowed"/>
 
-          <TreasureMob name="MISTS_MOB_MYTHICAL_GRIFFIN_T5"     biome="Mists"  weight="785" pvprule="PvpForced"/>
-          <TreasureMob name="MISTS_MOB_MYTHICAL_SPIDER_T5"      biome="Mists"  weight="785" pvprule="PvpForced"/>
-          <TreasureMob name="MISTS_MOB_MYTHICAL_FAIRYDRAGON_T5" biome="Mists"  weight="785" pvprule="PvpForced"/>
+          <TreasureMob name="MISTS_MOB_MYTHICAL_GRIFFIN_T5"     biome="Mists"  weight="384" pvprule="PvpForced"/>
+          <TreasureMob name="MISTS_MOB_MYTHICAL_SPIDER_T5"      biome="Mists"  weight="384" pvprule="PvpForced"/>
+          <TreasureMob name="MISTS_MOB_MYTHICAL_FAIRYDRAGON_T5" biome="Mists"  weight="384" pvprule="PvpForced"/>
 
-          <TreasureMob name="MISTS_MOB_MYTHICAL_GRIFFIN_T6"     biome="Mists" weight="1275" pvprule="PvpForced"/>
-          <TreasureMob name="MISTS_MOB_MYTHICAL_SPIDER_T6"      biome="Mists" weight="1275" pvprule="PvpForced"/>
-          <TreasureMob name="MISTS_MOB_MYTHICAL_FAIRYDRAGON_T6" biome="Mists" weight="1275" pvprule="PvpForced"/>
+          <TreasureMob name="MISTS_MOB_MYTHICAL_GRIFFIN_T6"     biome="Mists" weight="503" pvprule="PvpForced"/>
+          <TreasureMob name="MISTS_MOB_MYTHICAL_SPIDER_T6"      biome="Mists" weight="503" pvprule="PvpForced"/>
+          <TreasureMob name="MISTS_MOB_MYTHICAL_FAIRYDRAGON_T6" biome="Mists" weight="503" pvprule="PvpForced"/>
 
-          <TreasureMob name="MISTS_MOB_MYTHICAL_GRIFFIN_T7"     biome="Mists"  weight="255" pvprule="PvpForced"/>
-          <TreasureMob name="MISTS_MOB_MYTHICAL_SPIDER_T7"      biome="Mists"  weight="255" pvprule="PvpForced"/>
-          <TreasureMob name="MISTS_MOB_MYTHICAL_FAIRYDRAGON_T7" biome="Mists"  weight="255" pvprule="PvpForced"/>
+          <TreasureMob name="MISTS_MOB_MYTHICAL_GRIFFIN_T7"     biome="Mists"  weight="76" pvprule="PvpForced"/>
+          <TreasureMob name="MISTS_MOB_MYTHICAL_SPIDER_T7"      biome="Mists"  weight="76" pvprule="PvpForced"/>
+          <TreasureMob name="MISTS_MOB_MYTHICAL_FAIRYDRAGON_T7" biome="Mists"  weight="76" pvprule="PvpForced"/>
 
-          <TreasureMob name="MISTS_MOB_MYTHICAL_GRIFFIN_T8"     biome="Mists"   weight="51" pvprule="PvpForced"/>
-          <TreasureMob name="MISTS_MOB_MYTHICAL_SPIDER_T8"      biome="Mists"   weight="51" pvprule="PvpForced"/>
-          <TreasureMob name="MISTS_MOB_MYTHICAL_FAIRYDRAGON_T8" biome="Mists"   weight="51" pvprule="PvpForced"/>
+          <TreasureMob name="MISTS_MOB_MYTHICAL_GRIFFIN_T8"     biome="Mists"   weight="37" pvprule="PvpForced"/>
+          <TreasureMob name="MISTS_MOB_MYTHICAL_SPIDER_T8"      biome="Mists"   weight="37" pvprule="PvpForced"/>
+          <TreasureMob name="MISTS_MOB_MYTHICAL_FAIRYDRAGON_T8" biome="Mists"   weight="37" pvprule="PvpForced"/>
         </Mists>
       </ClusterTier>
       <ClusterTier tier="8">
         <Mists maxslotsused="5" activationtimemin="0" activationtimemax="0" positioncooldown="300">
-          <TreasureMob name="MISTS_MOB_MYTHICAL_GRIFFIN_T5"     biome="Mists"  weight="785" pvprule="PvpForced"/>
-          <TreasureMob name="MISTS_MOB_MYTHICAL_SPIDER_T5"      biome="Mists"  weight="785" pvprule="PvpForced"/>
-          <TreasureMob name="MISTS_MOB_MYTHICAL_FAIRYDRAGON_T5" biome="Mists"  weight="785" pvprule="PvpForced"/>
+          <TreasureMob name="MISTS_MOB_MYTHICAL_GRIFFIN_T5"     biome="Mists"  weight="384" pvprule="PvpForced"/>
+          <TreasureMob name="MISTS_MOB_MYTHICAL_SPIDER_T5"      biome="Mists"  weight="384" pvprule="PvpForced"/>
+          <TreasureMob name="MISTS_MOB_MYTHICAL_FAIRYDRAGON_T5" biome="Mists"  weight="384" pvprule="PvpForced"/>
 
-          <TreasureMob name="MISTS_MOB_MYTHICAL_GRIFFIN_T6"     biome="Mists" weight="1275" pvprule="PvpForced"/>
-          <TreasureMob name="MISTS_MOB_MYTHICAL_SPIDER_T6"      biome="Mists" weight="1275" pvprule="PvpForced"/>
-          <TreasureMob name="MISTS_MOB_MYTHICAL_FAIRYDRAGON_T6" biome="Mists" weight="1275" pvprule="PvpForced"/>
+          <TreasureMob name="MISTS_MOB_MYTHICAL_GRIFFIN_T6"     biome="Mists" weight="503" pvprule="PvpForced"/>
+          <TreasureMob name="MISTS_MOB_MYTHICAL_SPIDER_T6"      biome="Mists" weight="503" pvprule="PvpForced"/>
+          <TreasureMob name="MISTS_MOB_MYTHICAL_FAIRYDRAGON_T6" biome="Mists" weight="503" pvprule="PvpForced"/>
 
-          <TreasureMob name="MISTS_MOB_MYTHICAL_GRIFFIN_T7"     biome="Mists"  weight="255" pvprule="PvpForced"/>
-          <TreasureMob name="MISTS_MOB_MYTHICAL_SPIDER_T7"      biome="Mists"  weight="255" pvprule="PvpForced"/>
-          <TreasureMob name="MISTS_MOB_MYTHICAL_FAIRYDRAGON_T7" biome="Mists"  weight="255" pvprule="PvpForced"/>
+          <TreasureMob name="MISTS_MOB_MYTHICAL_GRIFFIN_T7"     biome="Mists"  weight="76" pvprule="PvpForced"/>
+          <TreasureMob name="MISTS_MOB_MYTHICAL_SPIDER_T7"      biome="Mists"  weight="76" pvprule="PvpForced"/>
+          <TreasureMob name="MISTS_MOB_MYTHICAL_FAIRYDRAGON_T7" biome="Mists"  weight="76" pvprule="PvpForced"/>
 
-          <TreasureMob name="MISTS_MOB_MYTHICAL_GRIFFIN_T8"     biome="Mists"   weight="51" pvprule="PvpForced"/>
-          <TreasureMob name="MISTS_MOB_MYTHICAL_SPIDER_T8"      biome="Mists"   weight="51" pvprule="PvpForced"/>
-          <TreasureMob name="MISTS_MOB_MYTHICAL_FAIRYDRAGON_T8" biome="Mists"   weight="51" pvprule="PvpForced"/>
+          <TreasureMob name="MISTS_MOB_MYTHICAL_GRIFFIN_T8"     biome="Mists"   weight="37" pvprule="PvpForced"/>
+          <TreasureMob name="MISTS_MOB_MYTHICAL_SPIDER_T8"      biome="Mists"   weight="37" pvprule="PvpForced"/>
+          <TreasureMob name="MISTS_MOB_MYTHICAL_FAIRYDRAGON_T8" biome="Mists"   weight="37" pvprule="PvpForced"/>
         </Mists>
       </ClusterTier>
     </Continent>

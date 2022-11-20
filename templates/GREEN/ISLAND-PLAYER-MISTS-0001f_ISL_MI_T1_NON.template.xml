@@ -13,7 +13,6 @@
   </criticalscenemembers>
   <tiles>
     <tile name="Atmosphere_WRL_NONE_MI_GREEN_PlayerIsland" pos="191.8 0 117.3" />
-    <tile name="CAM_fx_env_leafs_mist" pos="185.96 4 46.21" />
     <tile name="SpawnPoint_MOB_TUTORIAL_DUMMY_FRIENDLY" pos="122.7 11.99 43.64" rot="1 101 1">
       <mobspawnpoint behavior="GUARD" />
     </tile>
@@ -63,7 +62,6 @@
     <tile name="MISTS_GREEN_FILL_FARM_GROUND_STRAW_A" pos="123.5 12 34.5" roty="270" />
     <tile name="MISTS_GREEN_FILL_FOOTPRINTS_LONG_A_BEACH" pos="141 12 48" roty="251" />
     <tile name="MISTS_GREEN_FILL_FOOTPRINTS_SHORT_A_BEACH" pos="148 12 54" roty="90" />
-    <tile name="MISTS_GREEN_PLATEAU_WALL_STRAIGHT_A_NOCOL" pos="110 12 50" roty="180" />
     <tile name="MISTS_GREEN_FILL_FOOTPRINTS_SHORT_A_BEACH" pos="143 12 53" roty="180" />
     <tile name="MISTS_GREEN_GROUND" pos="140 12 60" />
     <tile name="MISTS_GREEN_FILL_FARM_GROUND_STRAW_B" pos="122.5 12 34.5" roty="90" />
@@ -73,6 +71,8 @@
     <tile name="MISTS_GREEN_GROUND" pos="140 12 30" />
     <tile name="MISTS_GREEN_GROUND_PATCH_TO_BEACH_LARGE_A" pos="139 12 46" roty="147" scale="1.202738 1.1652 1.486942" />
     <tile name="MISTS_GREEN_FILL_FARM_GROUND_STRAW_B" pos="137.5 12 56.5" roty="270" />
+    <tile name="MISTS_GREEN_PLATEAU_WALL_STRAIGHT_A" pos="110 12 50" roty="180" />
+    <tile name="FX_ENV_MISTS_CITY_LEAFS_A" pos="184.25 15 50.42" />
     <tile name="MISTS_GREEN_RIVER_WATERFALL_LARGE_8M_MIDDLE_A_OBJ_NOCOL" pos="245 -8 75" roty="270" />
     <tile name="MISTS_GREEN_RIVER_WATERFALL_LARGE_8M_MIDDLE_A_OBJ_NOCOL" pos="105 -24 85" roty="270" />
     <tile name="MISTS_GREEN_RIVER_WATERFALL_LARGE_8M_MIDDLE_A_OBJ_NOCOL" pos="106 -32 125" roty="270" />
@@ -1186,8 +1186,6 @@
     <tile name="MISTS_GREEN_PLATEAU_ROCK_DEBRIS_SMALL_A" pos="181 4 46" />
     <tile name="MISTS_GREEN_PLATEAU_ROCK_DEBRIS_SMALL_D" pos="178 3 48" roty="90" />
     <tile name="MISTS_GREEN_PLATEAU_ROCK_DEBRIS_SMALL_D" pos="178 4 51" roty="90" />
-    <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_HALF_A" pos="175 4 33" roty="270" scale="2.1677 1 2.111596" />
-    <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_HALF_A" pos="193 4 40" roty="18" scale="1.118728 1 2.111597" />
     <tile name="MISTS_GREEN_HER_SHANTY_PLANK_A" pos="190 4 32" rot="14 23 351" />
     <tile name="MISTS_GREEN_FILL_STORAGE_CRATE_LARGE_A" pos="193 4 35" roty="84" />
     <tile name="MISTS_GREEN_FILL_STORAGE_CRATE_MEDIUM_A" pos="194.5 4 34.5" rot="17 105 1" />
@@ -1217,6 +1215,7 @@
     <tile name="MISTS_GREEN_PLATEAU_PLUG_ROCK_4M_B" pos="151 4 163" roty="180" />
     <tile name="MISTS_GREEN_PLATEAU_WALL_CORNER_8MTRANSITION_LEFT_A_NOCOL" pos="150 4 160" roty="90" />
     <tile name="MISTS_GREEN_T1_BUSH_C" pos="145.5 4 159.5" />
+    <tile name="MISTS_GREEN_GROUND_PATCH_TO_SAND_HALF_A" pos="175 4 32" roty="270" scale="1.91108 1 2.1116" />
     <tile name="MISTS_GREEN_PLATEAU_ROCK_DEBRIS_SMALL_C" pos="150 4 156" roty="265" />
     <compoundtile name="_MISTS_GREEN_ROAD_CORNER_A_COMP_01" pos="210 12 90" roty="180" />
     <compoundtile name="_MISTS_GREEN_ROAD_CORNER_A_COMP_01" pos="160 12 90" roty="270" />
@@ -1277,12 +1276,12 @@
     <tile name="FishingZone_FRESHWATER_SPOT_SWARM" pos="99.9 6 29.7" roty="180" />
     <tile name="FishingZone_FRESHWATER_SPOT_SWARM" pos="91.5 -22 108.4" roty="180" />
     <tile name="FishingZone_FRESHWATER_SPOT_SWARM" pos="313.98 14 76.49" />
-    <tile name="FishingZone_FRESHWATER_BASE_SQUARE" pos="324.5 8 62.3" />
+    <tile name="FishingZone_FRESHWATER_BASE_SQUARE" pos="317.3 8 63" />
     <tile name="FishingZone_FRESHWATER_BASE_SQUARE" pos="275.3 8 53.5" />
     <tile name="FishingZone_FRESHWATER_BASE_SQUARE" pos="226.1 8 41.6" />
     <tile name="FishingZone_FRESHWATER_BASE_SQUARE" pos="176.8 8 29.7" />
-    <tile name="FishingZone_FRESHWATER_BASE_SQUARE" pos="127.5 8 0.9" />
-    <tile name="FishingZone_FRESHWATER_BASE_SQUARE" pos="78.3 8 1" />
+    <tile name="FishingZone_FRESHWATER_BASE_SQUARE" pos="127.5 8 13.7" />
+    <tile name="FishingZone_FRESHWATER_BASE_SQUARE" pos="78.3 8 13.8" />
     <tile name="FishingZone_FRESHWATER_BASE_SQUARE" pos="90.1 8 50.2" />
     <tile name="FishingZone_FRESHWATER_BASE_SQUARE" pos="99.9 8 98.7" />
     <tile name="FishingZone_FRESHWATER_BASE_SQUARE" pos="90.8 8 147.6" />
@@ -1292,8 +1291,8 @@
     <tile name="FishingZone_FRESHWATER_BASE_SQUARE" pos="254.1 8 141" />
     <tile name="FishingZone_FRESHWATER_BASE_SQUARE" pos="228.5 8 190.6" />
     <tile name="FishingZone_FRESHWATER_BASE_SQUARE" pos="278 8 209" />
-    <tile name="FishingZone_FRESHWATER_BASE_SQUARE" pos="327.8 8 208.9" />
-    <tile name="FishingZone_FRESHWATER_BASE_SQUARE" pos="320.6 8 159" />
+    <tile name="FishingZone_FRESHWATER_BASE_SQUARE" pos="316.9 8 207.6" />
+    <tile name="FishingZone_FRESHWATER_BASE_SQUARE" pos="316 8 158.7" />
     <tile name="SpawnPoint_T1_MOB_HIDE_MISTS_WOLPERTINGER" pos="258.48 20 175.37" />
     <tile name="SpawnPoint_T1_MOB_HIDE_MISTS_WOLPERTINGER" pos="203.7 12 102.76" roty="270" />
     <tile name="SpawnPoint_T1_MOB_HIDE_MISTS_WOLPERTINGER" pos="267.34 20 144.03" roty="270" />

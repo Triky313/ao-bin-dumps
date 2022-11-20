@@ -482,7 +482,7 @@
                 "TreasureLootchest": [
                   {
                     "@biome": "Roads",
-                    "@weight": "3",
+                    "@weight": "4",
                     "@name": "ROADS_CHEST_SOLO"
                   },
                   {
@@ -503,7 +503,7 @@
                 "TreasureLootchest": [
                   {
                     "@biome": "Roads",
-                    "@weight": "3",
+                    "@weight": "4",
                     "@name": "ROADS_CHEST_SOLO"
                   },
                   {
@@ -524,7 +524,7 @@
                 "TreasureLootchest": [
                   {
                     "@biome": "Roads",
-                    "@weight": "3",
+                    "@weight": "4",
                     "@name": "ROADS_CHEST_SOLO"
                   },
                   {
@@ -545,7 +545,7 @@
                 "TreasureLootchest": [
                   {
                     "@biome": "Roads",
-                    "@weight": "3",
+                    "@weight": "4",
                     "@name": "ROADS_CHEST_SOLO"
                   },
                   {
@@ -566,7 +566,7 @@
                 "TreasureLootchest": [
                   {
                     "@biome": "Roads",
-                    "@weight": "3",
+                    "@weight": "4",
                     "@name": "ROADS_CHEST_SOLO"
                   },
                   {
@@ -4131,8 +4131,8 @@
               "@tier": "4",
               "Random": {
                 "@maxslotsused": "1",
-                "@activationtimemin": "7200",
-                "@activationtimemax": "50400",
+                "@activationtimemin": "8640",
+                "@activationtimemax": "60480",
                 "@positioncooldown": "10",
                 "TreasureMob": [
                   {
@@ -4162,8 +4162,8 @@
               "@tier": "5",
               "Random": {
                 "@maxslotsused": "1",
-                "@activationtimemin": "7200",
-                "@activationtimemax": "50400",
+                "@activationtimemin": "8640",
+                "@activationtimemax": "60480",
                 "@positioncooldown": "10",
                 "TreasureMob": [
                   {
@@ -4193,8 +4193,8 @@
               "@tier": "6",
               "Random": {
                 "@maxslotsused": "1",
-                "@activationtimemin": "7200",
-                "@activationtimemax": "50400",
+                "@activationtimemin": "8640",
+                "@activationtimemax": "60480",
                 "@positioncooldown": "10",
                 "TreasureMob": [
                   {
@@ -4224,8 +4224,8 @@
               "@tier": "7",
               "Random": {
                 "@maxslotsused": "1",
-                "@activationtimemin": "7200",
-                "@activationtimemax": "50400",
+                "@activationtimemin": "8640",
+                "@activationtimemax": "60480",
                 "@positioncooldown": "10",
                 "TreasureMob": [
                   {
@@ -4255,8 +4255,8 @@
               "@tier": "8",
               "Random": {
                 "@maxslotsused": "1",
-                "@activationtimemin": "7200",
-                "@activationtimemax": "50400",
+                "@activationtimemin": "8640",
+                "@activationtimemax": "60480",
                 "@positioncooldown": "10",
                 "TreasureMob": [
                   {
@@ -4276,167 +4276,6 @@
                   },
                   {
                     "@name": "POWER_CRYSTAL_ROADS_MOB_HIDEOUT_R3",
-                    "@biome": "Roads",
-                    "@weight": "1"
-                  }
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "@name": "Avalon",
-          "@subtype": "WISPS",
-          "ClusterTier": [
-            {
-              "@tier": "4",
-              "Random": {
-                "@maxslotsused": "1",
-                "@activationtimemin": "1700",
-                "@activationtimemax": "12700",
-                "@positioncooldown": "10",
-                "TreasureMob": [
-                  {
-                    "@name": "POWER_CRYSTAL_MOB_WISP_BLACK_R0",
-                    "@biome": "Roads",
-                    "@weight": "59"
-                  },
-                  {
-                    "@name": "POWER_CRYSTAL_MOB_WISP_BLACK_R1",
-                    "@biome": "Roads",
-                    "@weight": "30"
-                  },
-                  {
-                    "@name": "POWER_CRYSTAL_MOB_WISP_BLACK_R2",
-                    "@biome": "Roads",
-                    "@weight": "10"
-                  },
-                  {
-                    "@name": "POWER_CRYSTAL_MOB_WISP_BLACK_R3",
-                    "@biome": "Roads",
-                    "@weight": "1"
-                  }
-                ]
-              }
-            },
-            {
-              "@tier": "5",
-              "Random": {
-                "@maxslotsused": "1",
-                "@activationtimemin": "1700",
-                "@activationtimemax": "12700",
-                "@positioncooldown": "10",
-                "TreasureMob": [
-                  {
-                    "@name": "POWER_CRYSTAL_MOB_WISP_BLACK_R0",
-                    "@biome": "Roads",
-                    "@weight": "59"
-                  },
-                  {
-                    "@name": "POWER_CRYSTAL_MOB_WISP_BLACK_R1",
-                    "@biome": "Roads",
-                    "@weight": "30"
-                  },
-                  {
-                    "@name": "POWER_CRYSTAL_MOB_WISP_BLACK_R2",
-                    "@biome": "Roads",
-                    "@weight": "10"
-                  },
-                  {
-                    "@name": "POWER_CRYSTAL_MOB_WISP_BLACK_R3",
-                    "@biome": "Roads",
-                    "@weight": "1"
-                  }
-                ]
-              }
-            },
-            {
-              "@tier": "6",
-              "Random": {
-                "@maxslotsused": "1",
-                "@activationtimemin": "1700",
-                "@activationtimemax": "12700",
-                "@positioncooldown": "10",
-                "TreasureMob": [
-                  {
-                    "@name": "POWER_CRYSTAL_MOB_WISP_BLACK_R0",
-                    "@biome": "Roads",
-                    "@weight": "59"
-                  },
-                  {
-                    "@name": "POWER_CRYSTAL_MOB_WISP_BLACK_R1",
-                    "@biome": "Roads",
-                    "@weight": "30"
-                  },
-                  {
-                    "@name": "POWER_CRYSTAL_MOB_WISP_BLACK_R2",
-                    "@biome": "Roads",
-                    "@weight": "10"
-                  },
-                  {
-                    "@name": "POWER_CRYSTAL_MOB_WISP_BLACK_R3",
-                    "@biome": "Roads",
-                    "@weight": "1"
-                  }
-                ]
-              }
-            },
-            {
-              "@tier": "7",
-              "Random": {
-                "@maxslotsused": "1",
-                "@activationtimemin": "1700",
-                "@activationtimemax": "12700",
-                "@positioncooldown": "10",
-                "TreasureMob": [
-                  {
-                    "@name": "POWER_CRYSTAL_MOB_WISP_BLACK_R0",
-                    "@biome": "Roads",
-                    "@weight": "59"
-                  },
-                  {
-                    "@name": "POWER_CRYSTAL_MOB_WISP_BLACK_R1",
-                    "@biome": "Roads",
-                    "@weight": "30"
-                  },
-                  {
-                    "@name": "POWER_CRYSTAL_MOB_WISP_BLACK_R2",
-                    "@biome": "Roads",
-                    "@weight": "10"
-                  },
-                  {
-                    "@name": "POWER_CRYSTAL_MOB_WISP_BLACK_R3",
-                    "@biome": "Roads",
-                    "@weight": "1"
-                  }
-                ]
-              }
-            },
-            {
-              "@tier": "8",
-              "Random": {
-                "@maxslotsused": "1",
-                "@activationtimemin": "1700",
-                "@activationtimemax": "12700",
-                "@positioncooldown": "10",
-                "TreasureMob": [
-                  {
-                    "@name": "POWER_CRYSTAL_MOB_WISP_BLACK_R0",
-                    "@biome": "Roads",
-                    "@weight": "59"
-                  },
-                  {
-                    "@name": "POWER_CRYSTAL_MOB_WISP_BLACK_R1",
-                    "@biome": "Roads",
-                    "@weight": "30"
-                  },
-                  {
-                    "@name": "POWER_CRYSTAL_MOB_WISP_BLACK_R2",
-                    "@biome": "Roads",
-                    "@weight": "10"
-                  },
-                  {
-                    "@name": "POWER_CRYSTAL_MOB_WISP_BLACK_R3",
                     "@biome": "Roads",
                     "@weight": "1"
                   }
@@ -4455,7 +4294,7 @@
                 "@maxslotsused": "1",
                 "@activationtimemin": "0",
                 "@activationtimemax": "0",
-                "@positioncooldown": "300",
+                "@positioncooldown": "1",
                 "TreasureMob": [
                   {
                     "@name": "POWER_CRYSTAL_MOB_WISP_YELLOW_R0",
@@ -4514,7 +4353,7 @@
                 "@maxslotsused": "1",
                 "@activationtimemin": "0",
                 "@activationtimemax": "0",
-                "@positioncooldown": "300",
+                "@positioncooldown": "1",
                 "TreasureMob": [
                   {
                     "@name": "POWER_CRYSTAL_MOB_WISP_YELLOW_R0",
@@ -4573,7 +4412,7 @@
                 "@maxslotsused": "1",
                 "@activationtimemin": "0",
                 "@activationtimemax": "0",
-                "@positioncooldown": "300",
+                "@positioncooldown": "1",
                 "TreasureMob": [
                   {
                     "@name": "POWER_CRYSTAL_MOB_WISP_YELLOW_R0",
@@ -4632,7 +4471,7 @@
                 "@maxslotsused": "1",
                 "@activationtimemin": "0",
                 "@activationtimemax": "0",
-                "@positioncooldown": "300",
+                "@positioncooldown": "1",
                 "TreasureMob": [
                   {
                     "@name": "POWER_CRYSTAL_MOB_WISP_YELLOW_R0",
@@ -13080,19 +12919,11 @@
                 "@activationtimemin": "0",
                 "@activationtimemax": "0",
                 "@positioncooldown": "300",
-                "TreasureMob": [
-                  {
-                    "@name": "MISTS_MOB_CRYSTALSPIDER_SMALL_T5",
-                    "@biome": "Mists",
-                    "@weight": "1",
-                    "@pvprule": "PvpForced"
-                  },
-                  {
-                    "@name": "MISTS_MOB_TREASUREDRONE_T5",
-                    "@biome": "Mists",
-                    "@weight": "1"
-                  }
-                ]
+                "TreasureMob": {
+                  "@name": "MISTS_MOB_TREASUREDRONE_T5",
+                  "@biome": "Mists",
+                  "@weight": "1"
+                }
               }
             },
             {
@@ -13102,19 +12933,11 @@
                 "@activationtimemin": "0",
                 "@activationtimemax": "0",
                 "@positioncooldown": "300",
-                "TreasureMob": [
-                  {
-                    "@name": "MISTS_MOB_CRYSTALSPIDER_SMALL_T6",
-                    "@biome": "Mists",
-                    "@weight": "1",
-                    "@pvprule": "PvpForced"
-                  },
-                  {
-                    "@name": "MISTS_MOB_TREASUREDRONE_T6",
-                    "@biome": "Mists",
-                    "@weight": "1"
-                  }
-                ]
+                "TreasureMob": {
+                  "@name": "MISTS_MOB_TREASUREDRONE_T6",
+                  "@biome": "Mists",
+                  "@weight": "1"
+                }
               }
             },
             {
@@ -13124,19 +12947,11 @@
                 "@activationtimemin": "0",
                 "@activationtimemax": "0",
                 "@positioncooldown": "300",
-                "TreasureMob": [
-                  {
-                    "@name": "MISTS_MOB_CRYSTALSPIDER_SMALL_T7",
-                    "@biome": "Mists",
-                    "@weight": "1",
-                    "@pvprule": "PvpForced"
-                  },
-                  {
-                    "@name": "MISTS_MOB_TREASUREDRONE_T7",
-                    "@biome": "Mists",
-                    "@weight": "1"
-                  }
-                ]
+                "TreasureMob": {
+                  "@name": "MISTS_MOB_TREASUREDRONE_T7",
+                  "@biome": "Mists",
+                  "@weight": "1"
+                }
               }
             },
             {
@@ -13146,19 +12961,11 @@
                 "@activationtimemin": "0",
                 "@activationtimemax": "0",
                 "@positioncooldown": "300",
-                "TreasureMob": [
-                  {
-                    "@name": "MISTS_MOB_CRYSTALSPIDER_SMALL_T8",
-                    "@biome": "Mists",
-                    "@weight": "1",
-                    "@pvprule": "PvpForced"
-                  },
-                  {
-                    "@name": "MISTS_MOB_TREASUREDRONE_T8",
-                    "@biome": "Mists",
-                    "@weight": "1"
-                  }
-                ]
+                "TreasureMob": {
+                  "@name": "MISTS_MOB_TREASUREDRONE_T8",
+                  "@biome": "Mists",
+                  "@weight": "1"
+                }
               }
             }
           ]
@@ -13178,37 +12985,37 @@
                   {
                     "@name": "MISTS_MOB_MYTHICAL_GRIFFIN_T4",
                     "@biome": "Mists",
-                    "@weight": "2550",
+                    "@weight": "551",
                     "@pvprule": "PvpAllowed"
                   },
                   {
                     "@name": "MISTS_MOB_MYTHICAL_SPIDER_T4",
                     "@biome": "Mists",
-                    "@weight": "2550",
+                    "@weight": "551",
                     "@pvprule": "PvpAllowed"
                   },
                   {
                     "@name": "MISTS_MOB_MYTHICAL_FAIRYDRAGON_T4",
                     "@biome": "Mists",
-                    "@weight": "2550",
+                    "@weight": "551",
                     "@pvprule": "PvpAllowed"
                   },
                   {
                     "@name": "MISTS_MOB_MYTHICAL_GRIFFIN_T5",
                     "@biome": "Mists",
-                    "@weight": "1020",
+                    "@weight": "449",
                     "@pvprule": "PvpAllowed"
                   },
                   {
                     "@name": "MISTS_MOB_MYTHICAL_SPIDER_T5",
                     "@biome": "Mists",
-                    "@weight": "1020",
+                    "@weight": "449",
                     "@pvprule": "PvpAllowed"
                   },
                   {
                     "@name": "MISTS_MOB_MYTHICAL_FAIRYDRAGON_T5",
                     "@biome": "Mists",
-                    "@weight": "1020",
+                    "@weight": "449",
                     "@pvprule": "PvpAllowed"
                   }
                 ]
@@ -13225,109 +13032,109 @@
                   {
                     "@name": "MISTS_MOB_MYTHICAL_GRIFFIN_T4",
                     "@biome": "Mists",
-                    "@weight": "2550",
+                    "@weight": "551",
                     "@pvprule": "PvpAllowed"
                   },
                   {
                     "@name": "MISTS_MOB_MYTHICAL_SPIDER_T4",
                     "@biome": "Mists",
-                    "@weight": "2550",
+                    "@weight": "551",
                     "@pvprule": "PvpAllowed"
                   },
                   {
                     "@name": "MISTS_MOB_MYTHICAL_FAIRYDRAGON_T4",
                     "@biome": "Mists",
-                    "@weight": "2550",
+                    "@weight": "551",
                     "@pvprule": "PvpAllowed"
                   },
                   {
                     "@name": "MISTS_MOB_MYTHICAL_GRIFFIN_T5",
                     "@biome": "Mists",
-                    "@weight": "1020",
+                    "@weight": "449",
                     "@pvprule": "PvpAllowed"
                   },
                   {
                     "@name": "MISTS_MOB_MYTHICAL_SPIDER_T5",
                     "@biome": "Mists",
-                    "@weight": "1020",
+                    "@weight": "449",
                     "@pvprule": "PvpAllowed"
                   },
                   {
                     "@name": "MISTS_MOB_MYTHICAL_FAIRYDRAGON_T5",
                     "@biome": "Mists",
-                    "@weight": "1020",
+                    "@weight": "449",
                     "@pvprule": "PvpAllowed"
                   },
                   {
                     "@name": "MISTS_MOB_MYTHICAL_GRIFFIN_T5",
                     "@biome": "Mists",
-                    "@weight": "785",
+                    "@weight": "384",
                     "@pvprule": "PvpForced"
                   },
                   {
                     "@name": "MISTS_MOB_MYTHICAL_SPIDER_T5",
                     "@biome": "Mists",
-                    "@weight": "785",
+                    "@weight": "384",
                     "@pvprule": "PvpForced"
                   },
                   {
                     "@name": "MISTS_MOB_MYTHICAL_FAIRYDRAGON_T5",
                     "@biome": "Mists",
-                    "@weight": "785",
+                    "@weight": "384",
                     "@pvprule": "PvpForced"
                   },
                   {
                     "@name": "MISTS_MOB_MYTHICAL_GRIFFIN_T6",
                     "@biome": "Mists",
-                    "@weight": "1275",
+                    "@weight": "503",
                     "@pvprule": "PvpForced"
                   },
                   {
                     "@name": "MISTS_MOB_MYTHICAL_SPIDER_T6",
                     "@biome": "Mists",
-                    "@weight": "1275",
+                    "@weight": "503",
                     "@pvprule": "PvpForced"
                   },
                   {
                     "@name": "MISTS_MOB_MYTHICAL_FAIRYDRAGON_T6",
                     "@biome": "Mists",
-                    "@weight": "1275",
+                    "@weight": "503",
                     "@pvprule": "PvpForced"
                   },
                   {
                     "@name": "MISTS_MOB_MYTHICAL_GRIFFIN_T7",
                     "@biome": "Mists",
-                    "@weight": "255",
+                    "@weight": "76",
                     "@pvprule": "PvpForced"
                   },
                   {
                     "@name": "MISTS_MOB_MYTHICAL_SPIDER_T7",
                     "@biome": "Mists",
-                    "@weight": "255",
+                    "@weight": "76",
                     "@pvprule": "PvpForced"
                   },
                   {
                     "@name": "MISTS_MOB_MYTHICAL_FAIRYDRAGON_T7",
                     "@biome": "Mists",
-                    "@weight": "255",
+                    "@weight": "76",
                     "@pvprule": "PvpForced"
                   },
                   {
                     "@name": "MISTS_MOB_MYTHICAL_GRIFFIN_T8",
                     "@biome": "Mists",
-                    "@weight": "51",
+                    "@weight": "37",
                     "@pvprule": "PvpForced"
                   },
                   {
                     "@name": "MISTS_MOB_MYTHICAL_SPIDER_T8",
                     "@biome": "Mists",
-                    "@weight": "51",
+                    "@weight": "37",
                     "@pvprule": "PvpForced"
                   },
                   {
                     "@name": "MISTS_MOB_MYTHICAL_FAIRYDRAGON_T8",
                     "@biome": "Mists",
-                    "@weight": "51",
+                    "@weight": "37",
                     "@pvprule": "PvpForced"
                   }
                 ]
@@ -13344,73 +13151,73 @@
                   {
                     "@name": "MISTS_MOB_MYTHICAL_GRIFFIN_T5",
                     "@biome": "Mists",
-                    "@weight": "785",
+                    "@weight": "384",
                     "@pvprule": "PvpForced"
                   },
                   {
                     "@name": "MISTS_MOB_MYTHICAL_SPIDER_T5",
                     "@biome": "Mists",
-                    "@weight": "785",
+                    "@weight": "384",
                     "@pvprule": "PvpForced"
                   },
                   {
                     "@name": "MISTS_MOB_MYTHICAL_FAIRYDRAGON_T5",
                     "@biome": "Mists",
-                    "@weight": "785",
+                    "@weight": "384",
                     "@pvprule": "PvpForced"
                   },
                   {
                     "@name": "MISTS_MOB_MYTHICAL_GRIFFIN_T6",
                     "@biome": "Mists",
-                    "@weight": "1275",
+                    "@weight": "503",
                     "@pvprule": "PvpForced"
                   },
                   {
                     "@name": "MISTS_MOB_MYTHICAL_SPIDER_T6",
                     "@biome": "Mists",
-                    "@weight": "1275",
+                    "@weight": "503",
                     "@pvprule": "PvpForced"
                   },
                   {
                     "@name": "MISTS_MOB_MYTHICAL_FAIRYDRAGON_T6",
                     "@biome": "Mists",
-                    "@weight": "1275",
+                    "@weight": "503",
                     "@pvprule": "PvpForced"
                   },
                   {
                     "@name": "MISTS_MOB_MYTHICAL_GRIFFIN_T7",
                     "@biome": "Mists",
-                    "@weight": "255",
+                    "@weight": "76",
                     "@pvprule": "PvpForced"
                   },
                   {
                     "@name": "MISTS_MOB_MYTHICAL_SPIDER_T7",
                     "@biome": "Mists",
-                    "@weight": "255",
+                    "@weight": "76",
                     "@pvprule": "PvpForced"
                   },
                   {
                     "@name": "MISTS_MOB_MYTHICAL_FAIRYDRAGON_T7",
                     "@biome": "Mists",
-                    "@weight": "255",
+                    "@weight": "76",
                     "@pvprule": "PvpForced"
                   },
                   {
                     "@name": "MISTS_MOB_MYTHICAL_GRIFFIN_T8",
                     "@biome": "Mists",
-                    "@weight": "51",
+                    "@weight": "37",
                     "@pvprule": "PvpForced"
                   },
                   {
                     "@name": "MISTS_MOB_MYTHICAL_SPIDER_T8",
                     "@biome": "Mists",
-                    "@weight": "51",
+                    "@weight": "37",
                     "@pvprule": "PvpForced"
                   },
                   {
                     "@name": "MISTS_MOB_MYTHICAL_FAIRYDRAGON_T8",
                     "@biome": "Mists",
-                    "@weight": "51",
+                    "@weight": "37",
                     "@pvprule": "PvpForced"
                   }
                 ]

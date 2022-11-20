@@ -24286,7 +24286,7 @@
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
         "@triggermobspawn": "true",
-        "@alertradius": "53",
+        "@alertradius": "25",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -24342,7 +24342,7 @@
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
         "@triggermobspawn": "true",
-        "@alertradius": "53",
+        "@alertradius": "25",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -24398,7 +24398,7 @@
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
         "@triggermobspawn": "true",
-        "@alertradius": "53",
+        "@alertradius": "25",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -24454,7 +24454,7 @@
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
         "@triggermobspawn": "true",
-        "@alertradius": "53",
+        "@alertradius": "25",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -24510,7 +24510,7 @@
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
         "@triggermobspawn": "true",
-        "@alertradius": "53",
+        "@alertradius": "25",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -24566,7 +24566,7 @@
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
         "@triggermobspawn": "true",
-        "@alertradius": "53",
+        "@alertradius": "25",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -24622,7 +24622,7 @@
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
         "@triggermobspawn": "true",
-        "@alertradius": "53",
+        "@alertradius": "25",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -24678,7 +24678,7 @@
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
         "@triggermobspawn": "true",
-        "@alertradius": "53",
+        "@alertradius": "25",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -24734,7 +24734,7 @@
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
         "@triggermobspawn": "true",
-        "@alertradius": "53",
+        "@alertradius": "25",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -24790,7 +24790,7 @@
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
         "@triggermobspawn": "true",
-        "@alertradius": "53",
+        "@alertradius": "25",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -24846,7 +24846,7 @@
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
         "@triggermobspawn": "true",
-        "@alertradius": "53",
+        "@alertradius": "25",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -24902,7 +24902,7 @@
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
         "@triggermobspawn": "true",
-        "@alertradius": "53",
+        "@alertradius": "25",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -24957,8 +24957,9 @@
         "@uniquename": "AVALON_SMALL_VETERAN_CHAMPION_STANDARD_T4",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "60",
+        "@alertradius": "15",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -25013,8 +25014,9 @@
         "@uniquename": "AVALON_SMALL_VETERAN_CHAMPION_UNCOMMON_T4",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "60",
+        "@alertradius": "15",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -25069,8 +25071,9 @@
         "@uniquename": "AVALON_SMALL_VETERAN_CHAMPION_RARE_T4",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "60",
+        "@alertradius": "15",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -25125,8 +25128,9 @@
         "@uniquename": "AVALON_SMALL_VETERAN_CHAMPION_LEGENDARY_T4",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "60",
+        "@alertradius": "15",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -25181,8 +25185,9 @@
         "@uniquename": "AVALON_SMALL_VETERAN_MINIBOSS_STANDARD_T4",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "60",
+        "@alertradius": "15",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -25237,8 +25242,9 @@
         "@uniquename": "AVALON_SMALL_VETERAN_MINIBOSS_UNCOMMON_T4",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "60",
+        "@alertradius": "15",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -25293,8 +25299,9 @@
         "@uniquename": "AVALON_SMALL_VETERAN_MINIBOSS_RARE_T4",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "60",
+        "@alertradius": "15",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -25349,8 +25356,9 @@
         "@uniquename": "AVALON_SMALL_VETERAN_MINIBOSS_LEGENDARY_T4",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "60",
+        "@alertradius": "15",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -25405,8 +25413,9 @@
         "@uniquename": "AVALON_SMALL_VETERAN_BOSS_STANDARD_T4",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "60",
+        "@alertradius": "15",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -25461,8 +25470,9 @@
         "@uniquename": "AVALON_SMALL_VETERAN_BOSS_UNCOMMON_T4",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "60",
+        "@alertradius": "15",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -25517,8 +25527,9 @@
         "@uniquename": "AVALON_SMALL_VETERAN_BOSS_RARE_T4",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "60",
+        "@alertradius": "15",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -25573,8 +25584,9 @@
         "@uniquename": "AVALON_SMALL_VETERAN_BOSS_LEGENDARY_T4",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "60",
+        "@alertradius": "15",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -25629,8 +25641,9 @@
         "@uniquename": "AVALON_SMALL_VETERAN_CHAMPION_STANDARD_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "60",
+        "@alertradius": "15",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -25685,8 +25698,9 @@
         "@uniquename": "AVALON_SMALL_VETERAN_CHAMPION_UNCOMMON_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "60",
+        "@alertradius": "15",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -25741,8 +25755,9 @@
         "@uniquename": "AVALON_SMALL_VETERAN_CHAMPION_RARE_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "60",
+        "@alertradius": "15",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -25797,8 +25812,9 @@
         "@uniquename": "AVALON_SMALL_VETERAN_CHAMPION_LEGENDARY_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "60",
+        "@alertradius": "15",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -25853,8 +25869,9 @@
         "@uniquename": "AVALON_SMALL_VETERAN_MINIBOSS_STANDARD_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "60",
+        "@alertradius": "15",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -25909,8 +25926,9 @@
         "@uniquename": "AVALON_SMALL_VETERAN_MINIBOSS_UNCOMMON_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "60",
+        "@alertradius": "15",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -25965,8 +25983,9 @@
         "@uniquename": "AVALON_SMALL_VETERAN_MINIBOSS_RARE_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "60",
+        "@alertradius": "15",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -26021,8 +26040,9 @@
         "@uniquename": "AVALON_SMALL_VETERAN_MINIBOSS_LEGENDARY_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "60",
+        "@alertradius": "15",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -26077,8 +26097,9 @@
         "@uniquename": "AVALON_SMALL_VETERAN_BOSS_STANDARD_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "60",
+        "@alertradius": "15",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -26133,8 +26154,9 @@
         "@uniquename": "AVALON_SMALL_VETERAN_BOSS_UNCOMMON_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "60",
+        "@alertradius": "15",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -26189,8 +26211,9 @@
         "@uniquename": "AVALON_SMALL_VETERAN_BOSS_RARE_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "60",
+        "@alertradius": "15",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -26245,8 +26268,9 @@
         "@uniquename": "AVALON_SMALL_VETERAN_BOSS_LEGENDARY_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "60",
+        "@alertradius": "15",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -26301,8 +26325,9 @@
         "@uniquename": "AVALON_SMALL_VETERAN_CHAMPION_STANDARD_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "60",
+        "@alertradius": "15",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -26357,8 +26382,9 @@
         "@uniquename": "AVALON_SMALL_VETERAN_CHAMPION_UNCOMMON_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "60",
+        "@alertradius": "15",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -26413,8 +26439,9 @@
         "@uniquename": "AVALON_SMALL_VETERAN_CHAMPION_RARE_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "60",
+        "@alertradius": "15",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -26469,8 +26496,9 @@
         "@uniquename": "AVALON_SMALL_VETERAN_CHAMPION_LEGENDARY_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "60",
+        "@alertradius": "15",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -26525,8 +26553,9 @@
         "@uniquename": "AVALON_SMALL_VETERAN_MINIBOSS_STANDARD_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "60",
+        "@alertradius": "15",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -26581,8 +26610,9 @@
         "@uniquename": "AVALON_SMALL_VETERAN_MINIBOSS_UNCOMMON_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "60",
+        "@alertradius": "15",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -26637,8 +26667,9 @@
         "@uniquename": "AVALON_SMALL_VETERAN_MINIBOSS_RARE_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "60",
+        "@alertradius": "15",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -26693,8 +26724,9 @@
         "@uniquename": "AVALON_SMALL_VETERAN_MINIBOSS_LEGENDARY_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "60",
+        "@alertradius": "15",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -26749,8 +26781,9 @@
         "@uniquename": "AVALON_SMALL_VETERAN_BOSS_STANDARD_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "60",
+        "@alertradius": "15",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -26805,8 +26838,9 @@
         "@uniquename": "AVALON_SMALL_VETERAN_BOSS_UNCOMMON_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "60",
+        "@alertradius": "15",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -26861,8 +26895,9 @@
         "@uniquename": "AVALON_SMALL_VETERAN_BOSS_RARE_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "60",
+        "@alertradius": "15",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -26917,8 +26952,9 @@
         "@uniquename": "AVALON_SMALL_VETERAN_BOSS_LEGENDARY_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "60",
+        "@alertradius": "15",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -26973,8 +27009,9 @@
         "@uniquename": "AVALON_VETERAN_CHAMPION_STANDARD_T4",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -27029,8 +27066,9 @@
         "@uniquename": "AVALON_VETERAN_CHAMPION_UNCOMMON_T4",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -27085,8 +27123,9 @@
         "@uniquename": "AVALON_VETERAN_CHAMPION_RARE_T4",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -27141,8 +27180,9 @@
         "@uniquename": "AVALON_VETERAN_CHAMPION_LEGENDARY_T4",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -27197,8 +27237,9 @@
         "@uniquename": "AVALON_VETERAN_MINIBOSS_STANDARD_T4",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -27253,8 +27294,9 @@
         "@uniquename": "AVALON_VETERAN_MINIBOSS_UNCOMMON_T4",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -27309,8 +27351,9 @@
         "@uniquename": "AVALON_VETERAN_MINIBOSS_RARE_T4",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -27365,8 +27408,9 @@
         "@uniquename": "AVALON_VETERAN_MINIBOSS_LEGENDARY_T4",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -27421,8 +27465,9 @@
         "@uniquename": "AVALON_VETERAN_BOSS_STANDARD_T4",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -27477,8 +27522,9 @@
         "@uniquename": "AVALON_VETERAN_BOSS_UNCOMMON_T4",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -27533,8 +27579,9 @@
         "@uniquename": "AVALON_VETERAN_BOSS_RARE_T4",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -27589,8 +27636,9 @@
         "@uniquename": "AVALON_VETERAN_BOSS_LEGENDARY_T4",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -27645,8 +27693,9 @@
         "@uniquename": "AVALON_VETERAN_CHAMPION_STANDARD_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -27701,8 +27750,9 @@
         "@uniquename": "AVALON_VETERAN_CHAMPION_UNCOMMON_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -27757,8 +27807,9 @@
         "@uniquename": "AVALON_VETERAN_CHAMPION_RARE_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -27813,8 +27864,9 @@
         "@uniquename": "AVALON_VETERAN_CHAMPION_LEGENDARY_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -27869,8 +27921,9 @@
         "@uniquename": "AVALON_VETERAN_MINIBOSS_STANDARD_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -27925,8 +27978,9 @@
         "@uniquename": "AVALON_VETERAN_MINIBOSS_UNCOMMON_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -27981,8 +28035,9 @@
         "@uniquename": "AVALON_VETERAN_MINIBOSS_RARE_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -28037,8 +28092,9 @@
         "@uniquename": "AVALON_VETERAN_MINIBOSS_LEGENDARY_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -28093,8 +28149,9 @@
         "@uniquename": "AVALON_VETERAN_BOSS_STANDARD_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -28149,8 +28206,9 @@
         "@uniquename": "AVALON_VETERAN_BOSS_UNCOMMON_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -28205,8 +28263,9 @@
         "@uniquename": "AVALON_VETERAN_BOSS_RARE_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -28261,8 +28320,9 @@
         "@uniquename": "AVALON_VETERAN_BOSS_LEGENDARY_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -28317,8 +28377,9 @@
         "@uniquename": "AVALON_VETERAN_CHAMPION_STANDARD_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -28373,8 +28434,9 @@
         "@uniquename": "AVALON_VETERAN_CHAMPION_UNCOMMON_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -28429,8 +28491,9 @@
         "@uniquename": "AVALON_VETERAN_CHAMPION_RARE_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -28485,8 +28548,9 @@
         "@uniquename": "AVALON_VETERAN_CHAMPION_LEGENDARY_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -28541,8 +28605,9 @@
         "@uniquename": "AVALON_VETERAN_MINIBOSS_STANDARD_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -28597,8 +28662,9 @@
         "@uniquename": "AVALON_VETERAN_MINIBOSS_UNCOMMON_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -28653,8 +28719,9 @@
         "@uniquename": "AVALON_VETERAN_MINIBOSS_RARE_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -28709,8 +28776,9 @@
         "@uniquename": "AVALON_VETERAN_MINIBOSS_LEGENDARY_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -28765,8 +28833,9 @@
         "@uniquename": "AVALON_VETERAN_BOSS_STANDARD_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -28821,8 +28890,9 @@
         "@uniquename": "AVALON_VETERAN_BOSS_UNCOMMON_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -28877,8 +28947,9 @@
         "@uniquename": "AVALON_VETERAN_BOSS_RARE_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -28933,8 +29004,9 @@
         "@uniquename": "AVALON_VETERAN_BOSS_LEGENDARY_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "veteran",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -28989,8 +29061,9 @@
         "@uniquename": "AVALON_SMALL_ELITE_CHAMPION_STANDARD_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "70",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -29045,8 +29118,9 @@
         "@uniquename": "AVALON_SMALL_ELITE_CHAMPION_UNCOMMON_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "70",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -29101,8 +29175,9 @@
         "@uniquename": "AVALON_SMALL_ELITE_CHAMPION_RARE_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "70",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -29157,8 +29232,9 @@
         "@uniquename": "AVALON_SMALL_ELITE_CHAMPION_LEGENDARY_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "70",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -29213,8 +29289,9 @@
         "@uniquename": "AVALON_SMALL_ELITE_MINIBOSS_STANDARD_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "70",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -29269,8 +29346,9 @@
         "@uniquename": "AVALON_SMALL_ELITE_MINIBOSS_UNCOMMON_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "70",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -29325,8 +29403,9 @@
         "@uniquename": "AVALON_SMALL_ELITE_MINIBOSS_RARE_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "70",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -29381,8 +29460,9 @@
         "@uniquename": "AVALON_SMALL_ELITE_MINIBOSS_LEGENDARY_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "70",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -29437,8 +29517,9 @@
         "@uniquename": "AVALON_SMALL_ELITE_BOSS_STANDARD_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "70",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -29493,8 +29574,9 @@
         "@uniquename": "AVALON_SMALL_ELITE_BOSS_UNCOMMON_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "70",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -29549,8 +29631,9 @@
         "@uniquename": "AVALON_SMALL_ELITE_BOSS_RARE_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "70",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -29605,8 +29688,9 @@
         "@uniquename": "AVALON_SMALL_ELITE_BOSS_LEGENDARY_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "70",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -29661,8 +29745,9 @@
         "@uniquename": "AVALON_SMALL_ELITE_CHAMPION_STANDARD_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "70",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -29717,8 +29802,9 @@
         "@uniquename": "AVALON_SMALL_ELITE_CHAMPION_UNCOMMON_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "70",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -29773,8 +29859,9 @@
         "@uniquename": "AVALON_SMALL_ELITE_CHAMPION_RARE_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "70",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -29829,8 +29916,9 @@
         "@uniquename": "AVALON_SMALL_ELITE_CHAMPION_LEGENDARY_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "70",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -29885,8 +29973,9 @@
         "@uniquename": "AVALON_SMALL_ELITE_MINIBOSS_STANDARD_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "70",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -29941,8 +30030,9 @@
         "@uniquename": "AVALON_SMALL_ELITE_MINIBOSS_UNCOMMON_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "70",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -29997,8 +30087,9 @@
         "@uniquename": "AVALON_SMALL_ELITE_MINIBOSS_RARE_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "70",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -30053,8 +30144,9 @@
         "@uniquename": "AVALON_SMALL_ELITE_MINIBOSS_LEGENDARY_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "70",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -30109,8 +30201,9 @@
         "@uniquename": "AVALON_SMALL_ELITE_BOSS_STANDARD_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "70",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -30165,8 +30258,9 @@
         "@uniquename": "AVALON_SMALL_ELITE_BOSS_UNCOMMON_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "70",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -30221,8 +30315,9 @@
         "@uniquename": "AVALON_SMALL_ELITE_BOSS_RARE_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "70",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -30277,8 +30372,9 @@
         "@uniquename": "AVALON_SMALL_ELITE_BOSS_LEGENDARY_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "70",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -30333,8 +30429,9 @@
         "@uniquename": "AVALON_ELITE_CHAMPION_STANDARD_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -30389,8 +30486,9 @@
         "@uniquename": "AVALON_ELITE_CHAMPION_UNCOMMON_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -30445,8 +30543,9 @@
         "@uniquename": "AVALON_ELITE_CHAMPION_RARE_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -30501,8 +30600,9 @@
         "@uniquename": "AVALON_ELITE_CHAMPION_LEGENDARY_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -30557,8 +30657,9 @@
         "@uniquename": "AVALON_ELITE_MINIBOSS_STANDARD_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -30613,8 +30714,9 @@
         "@uniquename": "AVALON_ELITE_MINIBOSS_UNCOMMON_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -30669,8 +30771,9 @@
         "@uniquename": "AVALON_ELITE_MINIBOSS_RARE_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -30725,8 +30828,9 @@
         "@uniquename": "AVALON_ELITE_MINIBOSS_LEGENDARY_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -30781,8 +30885,9 @@
         "@uniquename": "AVALON_ELITE_BOSS_STANDARD_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -30837,8 +30942,9 @@
         "@uniquename": "AVALON_ELITE_BOSS_UNCOMMON_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -30893,8 +30999,9 @@
         "@uniquename": "AVALON_ELITE_BOSS_RARE_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -30949,8 +31056,9 @@
         "@uniquename": "AVALON_ELITE_BOSS_LEGENDARY_T6",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -31005,8 +31113,9 @@
         "@uniquename": "AVALON_ELITE_CHAMPION_STANDARD_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -31061,8 +31170,9 @@
         "@uniquename": "AVALON_ELITE_CHAMPION_UNCOMMON_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -31117,8 +31227,9 @@
         "@uniquename": "AVALON_ELITE_CHAMPION_RARE_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -31173,8 +31284,9 @@
         "@uniquename": "AVALON_ELITE_CHAMPION_LEGENDARY_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -31229,8 +31341,9 @@
         "@uniquename": "AVALON_ELITE_MINIBOSS_STANDARD_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -31285,8 +31398,9 @@
         "@uniquename": "AVALON_ELITE_MINIBOSS_UNCOMMON_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -31341,8 +31455,9 @@
         "@uniquename": "AVALON_ELITE_MINIBOSS_RARE_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -31397,8 +31512,9 @@
         "@uniquename": "AVALON_ELITE_MINIBOSS_LEGENDARY_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -31453,8 +31569,9 @@
         "@uniquename": "AVALON_ELITE_BOSS_STANDARD_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -31509,8 +31626,9 @@
         "@uniquename": "AVALON_ELITE_BOSS_UNCOMMON_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -31565,8 +31683,9 @@
         "@uniquename": "AVALON_ELITE_BOSS_RARE_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -31621,8 +31740,9 @@
         "@uniquename": "AVALON_ELITE_BOSS_LEGENDARY_T8",
         "@avatar": "ROAD_LOOTCHEST_AVALON",
         "@faction": "ROAD",
+        "@maximumwatchersallowed": "100",
         "@dangerstate": "elite",
-        "@alertradius": "100",
+        "@alertradius": "20",
         "@locklocatag": "@LOOTCHEST_ROAD_LOCK_MESSAGE",
         "@emptylocatag": "@LOOTCHEST_ROAD_EMPTY_MESSAGE",
         "@spell": "OPEN_LOOTCHEST",
@@ -31771,38 +31891,178 @@
               "LootByTier": [
                 {
                   "@tier": "4",
-                  "LootListReference": {
-                    "@name": "TREASURE_CHEST_LOOT_SOLO_STANDARD",
-                    "@chance": "0.8"
-                  }
+                  "Item": [
+                    {
+                      "@type": "T1_SILVERBAG_NONTRADABLE",
+                      "@chance": "4.93858"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_NONTRADABLE",
+                      "@chance": "0.290505"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_STANDARD",
+                      "@chance": "0.096835"
+                    }
+                  ],
+                  "LootListReference": [
+                    {
+                      "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
+                      "@chance": "2.905047"
+                    },
+                    {
+                      "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
+                      "@chance": "0.087151"
+                    },
+                    {
+                      "@name": "LOOT_ARTEFACTS",
+                      "@chance": "0.012415"
+                    },
+                    {
+                      "@name": "HELL_FRAGMENT_LOOT",
+                      "@chance": "4.401586"
+                    }
+                  ]
                 },
                 {
                   "@tier": "5",
-                  "LootListReference": {
-                    "@name": "TREASURE_CHEST_LOOT_SOLO_STANDARD",
-                    "@chance": "0.8"
-                  }
+                  "Item": [
+                    {
+                      "@type": "T1_SILVERBAG_NONTRADABLE",
+                      "@chance": "4.93858"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_NONTRADABLE",
+                      "@chance": "0.290505"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_STANDARD",
+                      "@chance": "0.096835"
+                    }
+                  ],
+                  "LootListReference": [
+                    {
+                      "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
+                      "@chance": "2.905047"
+                    },
+                    {
+                      "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
+                      "@chance": "0.087151"
+                    },
+                    {
+                      "@name": "LOOT_ARTEFACTS",
+                      "@chance": "0.012415"
+                    },
+                    {
+                      "@name": "HELL_FRAGMENT_LOOT",
+                      "@chance": "4.401586"
+                    }
+                  ]
                 },
                 {
                   "@tier": "6",
-                  "LootListReference": {
-                    "@name": "TREASURE_CHEST_LOOT_SOLO_STANDARD",
-                    "@chance": "0.8"
-                  }
+                  "Item": [
+                    {
+                      "@type": "T1_SILVERBAG_NONTRADABLE",
+                      "@chance": "4.93858"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_NONTRADABLE",
+                      "@chance": "0.290505"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_STANDARD",
+                      "@chance": "0.096835"
+                    }
+                  ],
+                  "LootListReference": [
+                    {
+                      "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
+                      "@chance": "2.905047"
+                    },
+                    {
+                      "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
+                      "@chance": "0.087151"
+                    },
+                    {
+                      "@name": "LOOT_ARTEFACTS",
+                      "@chance": "0.012415"
+                    },
+                    {
+                      "@name": "HELL_FRAGMENT_LOOT",
+                      "@chance": "4.401586"
+                    }
+                  ]
                 },
                 {
                   "@tier": "7",
-                  "LootListReference": {
-                    "@name": "TREASURE_CHEST_LOOT_SOLO_STANDARD",
-                    "@chance": "0.8"
-                  }
+                  "Item": [
+                    {
+                      "@type": "T1_SILVERBAG_NONTRADABLE",
+                      "@chance": "4.93858"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_NONTRADABLE",
+                      "@chance": "0.290505"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_STANDARD",
+                      "@chance": "0.096835"
+                    }
+                  ],
+                  "LootListReference": [
+                    {
+                      "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
+                      "@chance": "2.905047"
+                    },
+                    {
+                      "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
+                      "@chance": "0.087151"
+                    },
+                    {
+                      "@name": "LOOT_ARTEFACTS",
+                      "@chance": "0.012415"
+                    },
+                    {
+                      "@name": "HELL_FRAGMENT_LOOT",
+                      "@chance": "4.401586"
+                    }
+                  ]
                 },
                 {
                   "@tier": "8",
-                  "LootListReference": {
-                    "@name": "TREASURE_CHEST_LOOT_SOLO_STANDARD",
-                    "@chance": "0.8"
-                  }
+                  "Item": [
+                    {
+                      "@type": "T1_SILVERBAG_NONTRADABLE",
+                      "@chance": "4.93858"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_NONTRADABLE",
+                      "@chance": "0.290505"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_STANDARD",
+                      "@chance": "0.096835"
+                    }
+                  ],
+                  "LootListReference": [
+                    {
+                      "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
+                      "@chance": "2.905047"
+                    },
+                    {
+                      "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
+                      "@chance": "0.087151"
+                    },
+                    {
+                      "@name": "LOOT_ARTEFACTS",
+                      "@chance": "0.012415"
+                    },
+                    {
+                      "@name": "HELL_FRAGMENT_LOOT",
+                      "@chance": "4.401586"
+                    }
+                  ]
                 }
               ]
             }
@@ -31847,38 +32107,178 @@
               "LootByTier": [
                 {
                   "@tier": "4",
-                  "LootListReference": {
-                    "@name": "TREASURE_CHEST_LOOT_SOLO_UNCOMMON",
-                    "@chance": "0.8"
-                  }
+                  "Item": [
+                    {
+                      "@type": "T1_SILVERBAG_NONTRADABLE",
+                      "@chance": "8.642513"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_NONTRADABLE",
+                      "@chance": "0.508383"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_STANDARD",
+                      "@chance": "0.169461"
+                    }
+                  ],
+                  "LootListReference": [
+                    {
+                      "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
+                      "@chance": "5.083832"
+                    },
+                    {
+                      "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
+                      "@chance": "0.152515"
+                    },
+                    {
+                      "@name": "LOOT_ARTEFACTS",
+                      "@chance": "0.021726"
+                    },
+                    {
+                      "@name": "HELL_FRAGMENT_LOOT",
+                      "@chance": "7.702776"
+                    }
+                  ]
                 },
                 {
                   "@tier": "5",
-                  "LootListReference": {
-                    "@name": "TREASURE_CHEST_LOOT_SOLO_UNCOMMON",
-                    "@chance": "0.8"
-                  }
+                  "Item": [
+                    {
+                      "@type": "T1_SILVERBAG_NONTRADABLE",
+                      "@chance": "8.642513"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_NONTRADABLE",
+                      "@chance": "0.508383"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_STANDARD",
+                      "@chance": "0.169461"
+                    }
+                  ],
+                  "LootListReference": [
+                    {
+                      "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
+                      "@chance": "5.083832"
+                    },
+                    {
+                      "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
+                      "@chance": "0.152515"
+                    },
+                    {
+                      "@name": "LOOT_ARTEFACTS",
+                      "@chance": "0.021726"
+                    },
+                    {
+                      "@name": "HELL_FRAGMENT_LOOT",
+                      "@chance": "7.702776"
+                    }
+                  ]
                 },
                 {
                   "@tier": "6",
-                  "LootListReference": {
-                    "@name": "TREASURE_CHEST_LOOT_SOLO_UNCOMMON",
-                    "@chance": "0.8"
-                  }
+                  "Item": [
+                    {
+                      "@type": "T1_SILVERBAG_NONTRADABLE",
+                      "@chance": "8.642513"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_NONTRADABLE",
+                      "@chance": "0.508383"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_STANDARD",
+                      "@chance": "0.169461"
+                    }
+                  ],
+                  "LootListReference": [
+                    {
+                      "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
+                      "@chance": "5.083832"
+                    },
+                    {
+                      "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
+                      "@chance": "0.152515"
+                    },
+                    {
+                      "@name": "LOOT_ARTEFACTS",
+                      "@chance": "0.021726"
+                    },
+                    {
+                      "@name": "HELL_FRAGMENT_LOOT",
+                      "@chance": "7.702776"
+                    }
+                  ]
                 },
                 {
                   "@tier": "7",
-                  "LootListReference": {
-                    "@name": "TREASURE_CHEST_LOOT_SOLO_UNCOMMON",
-                    "@chance": "0.8"
-                  }
+                  "Item": [
+                    {
+                      "@type": "T1_SILVERBAG_NONTRADABLE",
+                      "@chance": "8.642513"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_NONTRADABLE",
+                      "@chance": "0.508383"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_STANDARD",
+                      "@chance": "0.169461"
+                    }
+                  ],
+                  "LootListReference": [
+                    {
+                      "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
+                      "@chance": "5.083832"
+                    },
+                    {
+                      "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
+                      "@chance": "0.152515"
+                    },
+                    {
+                      "@name": "LOOT_ARTEFACTS",
+                      "@chance": "0.021726"
+                    },
+                    {
+                      "@name": "HELL_FRAGMENT_LOOT",
+                      "@chance": "7.702776"
+                    }
+                  ]
                 },
                 {
                   "@tier": "8",
-                  "LootListReference": {
-                    "@name": "TREASURE_CHEST_LOOT_SOLO_UNCOMMON",
-                    "@chance": "0.8"
-                  }
+                  "Item": [
+                    {
+                      "@type": "T1_SILVERBAG_NONTRADABLE",
+                      "@chance": "8.642513"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_NONTRADABLE",
+                      "@chance": "0.508383"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_STANDARD",
+                      "@chance": "0.169461"
+                    }
+                  ],
+                  "LootListReference": [
+                    {
+                      "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
+                      "@chance": "5.083832"
+                    },
+                    {
+                      "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
+                      "@chance": "0.152515"
+                    },
+                    {
+                      "@name": "LOOT_ARTEFACTS",
+                      "@chance": "0.021726"
+                    },
+                    {
+                      "@name": "HELL_FRAGMENT_LOOT",
+                      "@chance": "7.702776"
+                    }
+                  ]
                 }
               ]
             }
@@ -31923,38 +32323,178 @@
               "LootByTier": [
                 {
                   "@tier": "4",
-                  "LootListReference": {
-                    "@name": "TREASURE_CHEST_LOOT_SOLO_RARE",
-                    "@chance": "0.8"
-                  }
+                  "Item": [
+                    {
+                      "@type": "T1_SILVERBAG_NONTRADABLE",
+                      "@chance": "15.1244"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_NONTRADABLE",
+                      "@chance": "0.889671"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_STANDARD",
+                      "@chance": "0.296557"
+                    }
+                  ],
+                  "LootListReference": [
+                    {
+                      "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
+                      "@chance": "8.896706"
+                    },
+                    {
+                      "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
+                      "@chance": "0.266901"
+                    },
+                    {
+                      "@name": "LOOT_ARTEFACTS",
+                      "@chance": "0.03802"
+                    },
+                    {
+                      "@name": "HELL_FRAGMENT_LOOT",
+                      "@chance": "13.479857"
+                    }
+                  ]
                 },
                 {
                   "@tier": "5",
-                  "LootListReference": {
-                    "@name": "TREASURE_CHEST_LOOT_SOLO_RARE",
-                    "@chance": "0.8"
-                  }
+                  "Item": [
+                    {
+                      "@type": "T1_SILVERBAG_NONTRADABLE",
+                      "@chance": "15.1244"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_NONTRADABLE",
+                      "@chance": "0.889671"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_STANDARD",
+                      "@chance": "0.296557"
+                    }
+                  ],
+                  "LootListReference": [
+                    {
+                      "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
+                      "@chance": "8.896706"
+                    },
+                    {
+                      "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
+                      "@chance": "0.266901"
+                    },
+                    {
+                      "@name": "LOOT_ARTEFACTS",
+                      "@chance": "0.03802"
+                    },
+                    {
+                      "@name": "HELL_FRAGMENT_LOOT",
+                      "@chance": "13.479857"
+                    }
+                  ]
                 },
                 {
                   "@tier": "6",
-                  "LootListReference": {
-                    "@name": "TREASURE_CHEST_LOOT_SOLO_RARE",
-                    "@chance": "0.8"
-                  }
+                  "Item": [
+                    {
+                      "@type": "T1_SILVERBAG_NONTRADABLE",
+                      "@chance": "15.1244"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_NONTRADABLE",
+                      "@chance": "0.889671"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_STANDARD",
+                      "@chance": "0.296557"
+                    }
+                  ],
+                  "LootListReference": [
+                    {
+                      "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
+                      "@chance": "8.896706"
+                    },
+                    {
+                      "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
+                      "@chance": "0.266901"
+                    },
+                    {
+                      "@name": "LOOT_ARTEFACTS",
+                      "@chance": "0.03802"
+                    },
+                    {
+                      "@name": "HELL_FRAGMENT_LOOT",
+                      "@chance": "13.479857"
+                    }
+                  ]
                 },
                 {
                   "@tier": "7",
-                  "LootListReference": {
-                    "@name": "TREASURE_CHEST_LOOT_SOLO_RARE",
-                    "@chance": "0.8"
-                  }
+                  "Item": [
+                    {
+                      "@type": "T1_SILVERBAG_NONTRADABLE",
+                      "@chance": "15.1244"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_NONTRADABLE",
+                      "@chance": "0.889671"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_STANDARD",
+                      "@chance": "0.296557"
+                    }
+                  ],
+                  "LootListReference": [
+                    {
+                      "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
+                      "@chance": "8.896706"
+                    },
+                    {
+                      "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
+                      "@chance": "0.266901"
+                    },
+                    {
+                      "@name": "LOOT_ARTEFACTS",
+                      "@chance": "0.03802"
+                    },
+                    {
+                      "@name": "HELL_FRAGMENT_LOOT",
+                      "@chance": "13.479857"
+                    }
+                  ]
                 },
                 {
                   "@tier": "8",
-                  "LootListReference": {
-                    "@name": "TREASURE_CHEST_LOOT_SOLO_RARE",
-                    "@chance": "0.8"
-                  }
+                  "Item": [
+                    {
+                      "@type": "T1_SILVERBAG_NONTRADABLE",
+                      "@chance": "15.1244"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_NONTRADABLE",
+                      "@chance": "0.889671"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_STANDARD",
+                      "@chance": "0.296557"
+                    }
+                  ],
+                  "LootListReference": [
+                    {
+                      "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
+                      "@chance": "8.896706"
+                    },
+                    {
+                      "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
+                      "@chance": "0.266901"
+                    },
+                    {
+                      "@name": "LOOT_ARTEFACTS",
+                      "@chance": "0.03802"
+                    },
+                    {
+                      "@name": "HELL_FRAGMENT_LOOT",
+                      "@chance": "13.479857"
+                    }
+                  ]
                 }
               ]
             }
@@ -32005,38 +32545,178 @@
               "LootByTier": [
                 {
                   "@tier": "4",
-                  "LootListReference": {
-                    "@name": "TREASURE_CHEST_LOOT_SOLO_LEGENDARY",
-                    "@chance": "0.8"
-                  }
+                  "Item": [
+                    {
+                      "@type": "T1_SILVERBAG_NONTRADABLE",
+                      "@chance": "26.4677"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_NONTRADABLE",
+                      "@chance": "1.556924"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_STANDARD",
+                      "@chance": "0.518975"
+                    }
+                  ],
+                  "LootListReference": [
+                    {
+                      "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
+                      "@chance": "15.569235"
+                    },
+                    {
+                      "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
+                      "@chance": "0.467077"
+                    },
+                    {
+                      "@name": "LOOT_ARTEFACTS",
+                      "@chance": "0.066535"
+                    },
+                    {
+                      "@name": "HELL_FRAGMENT_LOOT",
+                      "@chance": "23.58975"
+                    }
+                  ]
                 },
                 {
                   "@tier": "5",
-                  "LootListReference": {
-                    "@name": "TREASURE_CHEST_LOOT_SOLO_LEGENDARY",
-                    "@chance": "0.8"
-                  }
+                  "Item": [
+                    {
+                      "@type": "T1_SILVERBAG_NONTRADABLE",
+                      "@chance": "26.4677"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_NONTRADABLE",
+                      "@chance": "1.556924"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_STANDARD",
+                      "@chance": "0.518975"
+                    }
+                  ],
+                  "LootListReference": [
+                    {
+                      "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
+                      "@chance": "15.569235"
+                    },
+                    {
+                      "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
+                      "@chance": "0.467077"
+                    },
+                    {
+                      "@name": "LOOT_ARTEFACTS",
+                      "@chance": "0.066535"
+                    },
+                    {
+                      "@name": "HELL_FRAGMENT_LOOT",
+                      "@chance": "23.58975"
+                    }
+                  ]
                 },
                 {
                   "@tier": "6",
-                  "LootListReference": {
-                    "@name": "TREASURE_CHEST_LOOT_SOLO_LEGENDARY",
-                    "@chance": "0.8"
-                  }
+                  "Item": [
+                    {
+                      "@type": "T1_SILVERBAG_NONTRADABLE",
+                      "@chance": "26.4677"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_NONTRADABLE",
+                      "@chance": "1.556924"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_STANDARD",
+                      "@chance": "0.518975"
+                    }
+                  ],
+                  "LootListReference": [
+                    {
+                      "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
+                      "@chance": "15.569235"
+                    },
+                    {
+                      "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
+                      "@chance": "0.467077"
+                    },
+                    {
+                      "@name": "LOOT_ARTEFACTS",
+                      "@chance": "0.066535"
+                    },
+                    {
+                      "@name": "HELL_FRAGMENT_LOOT",
+                      "@chance": "23.58975"
+                    }
+                  ]
                 },
                 {
                   "@tier": "7",
-                  "LootListReference": {
-                    "@name": "TREASURE_CHEST_LOOT_SOLO_LEGENDARY",
-                    "@chance": "0.8"
-                  }
+                  "Item": [
+                    {
+                      "@type": "T1_SILVERBAG_NONTRADABLE",
+                      "@chance": "26.4677"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_NONTRADABLE",
+                      "@chance": "1.556924"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_STANDARD",
+                      "@chance": "0.518975"
+                    }
+                  ],
+                  "LootListReference": [
+                    {
+                      "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
+                      "@chance": "15.569235"
+                    },
+                    {
+                      "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
+                      "@chance": "0.467077"
+                    },
+                    {
+                      "@name": "LOOT_ARTEFACTS",
+                      "@chance": "0.066535"
+                    },
+                    {
+                      "@name": "HELL_FRAGMENT_LOOT",
+                      "@chance": "23.58975"
+                    }
+                  ]
                 },
                 {
                   "@tier": "8",
-                  "LootListReference": {
-                    "@name": "TREASURE_CHEST_LOOT_SOLO_LEGENDARY",
-                    "@chance": "0.8"
-                  }
+                  "Item": [
+                    {
+                      "@type": "T1_SILVERBAG_NONTRADABLE",
+                      "@chance": "26.4677"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_NONTRADABLE",
+                      "@chance": "1.556924"
+                    },
+                    {
+                      "@type": "T4_SKILLBOOK_STANDARD",
+                      "@chance": "0.518975"
+                    }
+                  ],
+                  "LootListReference": [
+                    {
+                      "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
+                      "@chance": "15.569235"
+                    },
+                    {
+                      "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
+                      "@chance": "0.467077"
+                    },
+                    {
+                      "@name": "LOOT_ARTEFACTS",
+                      "@chance": "0.066535"
+                    },
+                    {
+                      "@name": "HELL_FRAGMENT_LOOT",
+                      "@chance": "23.58975"
+                    }
+                  ]
                 }
               ]
             }
@@ -36259,19 +36939,19 @@
         "LootChest": [
           {
             "@name": "TREASURE_SOLO_STANDARD",
-            "@weight": "590"
+            "@weight": "74"
           },
           {
             "@name": "TREASURE_SOLO_UNCOMMON",
-            "@weight": "300"
+            "@weight": "20"
           },
           {
             "@name": "TREASURE_SOLO_RARE",
-            "@weight": "100"
+            "@weight": "5"
           },
           {
             "@name": "TREASURE_SOLO_LEGENDARY",
-            "@weight": "10"
+            "@weight": "1"
           }
         ]
       },
@@ -36684,19 +37364,19 @@
         "LootChest": [
           {
             "@name": "TREASURE_VETERAN_STANDARD",
-            "@weight": "590"
+            "@weight": "74"
           },
           {
             "@name": "TREASURE_VETERAN_UNCOMMON",
-            "@weight": "300"
+            "@weight": "20"
           },
           {
             "@name": "TREASURE_VETERAN_RARE",
-            "@weight": "100"
+            "@weight": "5"
           },
           {
             "@name": "TREASURE_VETERAN_LEGENDARY",
-            "@weight": "10"
+            "@weight": "1"
           }
         ]
       },
@@ -38755,7 +39435,7 @@
                 "@weight": "590"
               },
               {
-                "@name": "AVALON_ELITE_CHAMPION_CHAMPION_UNCOMMON_T8",
+                "@name": "AVALON_ELITE_CHAMPION_UNCOMMON_T8",
                 "@weight": "300"
               },
               {

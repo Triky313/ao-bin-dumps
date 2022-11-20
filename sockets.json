@@ -746,42 +746,42 @@
           {
             "@socketname": "ore",
             "@bonename": "Skeleton_Root",
-            "@positionOffset": "0 0 0.7"
+            "@positionOffset": "0 0 0"
           },
           {
             "@socketname": "fiber",
             "@bonename": "Skeleton_Root",
-            "@positionOffset": "-0.6 0 0"
+            "@positionOffset": "0 0 0"
           },
           {
             "@socketname": "boar",
             "@bonename": "Skeleton_Root",
-            "@positionOffset": "0.6 0 -0.2"
+            "@positionOffset": "0 0 0"
           },
           {
             "@socketname": "wolf",
             "@bonename": "Skeleton_Root",
-            "@positionOffset": "0.5 0 -0.5"
+            "@positionOffset": "0 0 0"
           },
           {
             "@socketname": "bear",
             "@bonename": "Skeleton_Root",
-            "@positionOffset": "-1 0 0"
+            "@positionOffset": "0 0 0"
           },
           {
             "@socketname": "stag",
             "@bonename": "Skeleton_Root",
-            "@positionOffset": "1.2 0 0.3"
+            "@positionOffset": "0 0 0"
           },
           {
             "@socketname": "rhino",
             "@bonename": "Skeleton_Root",
-            "@positionOffset": "-0.75 0 0"
+            "@positionOffset": "0 0 0"
           },
           {
             "@socketname": "mammoth",
             "@bonename": "Skeleton_Root",
-            "@positionOffset": "-0.3 0 1.03"
+            "@positionOffset": "0 0 0"
           }
         ]
       },

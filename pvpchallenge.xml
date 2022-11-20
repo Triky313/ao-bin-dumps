@@ -16,14 +16,14 @@
     <objective uniquename="PVPCHALLENGE_POWER_CRYSTAL_TERRITORY_1" objectivetype="ENERGYCRYSTAL" might="29083.12" favor="15326.8053" mindivisor="5"/>
     <objective uniquename="PVPCHALLENGE_POWER_CRYSTAL_TERRITORY_2" objectivetype="ENERGYCRYSTAL" might="81432.74" favor="42915.0547" mindivisor="10"/>
     <objective uniquename="PVPCHALLENGE_POWER_CRYSTAL_TERRITORY_3" objectivetype="ENERGYCRYSTAL" might="228011.68" favor="120162.1532" mindivisor="20" />
-    <objective uniquename="PVPCHALLENGE_POWER_CRYSTAL_WISPS_YELLOW_0" personaltype="WISPS" might="0" favor="0" mindivisor="2" fame=" 8431.70" mistcitystanding="1436.61" usequestscalingfactor="true" />
-    <objective uniquename="PVPCHALLENGE_POWER_CRYSTAL_WISPS_YELLOW_1" personaltype="WISPS" might="0" favor="0"  mindivisor="2" fame=" 11804.38" mistcitystanding="2011.26" usequestscalingfactor="true"/>
-    <objective uniquename="PVPCHALLENGE_POWER_CRYSTAL_WISPS_YELLOW_2" personaltype="WISPS" might="0" favor="0" mindivisor="2" fame="16526.138" mistcitystanding="2815.76" usequestscalingfactor="true"/>
-    <objective uniquename="PVPCHALLENGE_POWER_CRYSTAL_WISPS_YELLOW_3" personaltype="WISPS" might="0" favor="0" mindivisor="2" fame="23136.593" mistcitystanding="3942.07" usequestscalingfactor="true"/>
-    <objective uniquename="PVPCHALLENGE_POWER_CRYSTAL_WISPS_BLACK_0" personaltype="WISPS" might="1639.3203" favor="863.9218" mindivisor="5" fame="21079.258" mistcitystanding="3591.53" usequestscalingfactor="true"/>
-    <objective uniquename="PVPCHALLENGE_POWER_CRYSTAL_WISPS_BLACK_1" personaltype="WISPS" might="2295.0480" favor="1209.4906"  mindivisor="5" fame="29510.961" mistcitystanding="5028.15" usequestscalingfactor="true"/>
-    <objective uniquename="PVPCHALLENGE_POWER_CRYSTAL_WISPS_BLACK_2" personaltype="WISPS" might="3213.0675" favor="1693.2868" mindivisor="5" fame="41315.345" mistcitystanding="7039.41" usequestscalingfactor="true"/>
-    <objective uniquename="PVPCHALLENGE_POWER_CRYSTAL_WISPS_BLACK_3" personaltype="WISPS" might="4498.2953" favor="2370.6015" mindivisor="5" fame="57841.483" mistcitystanding="9855.17" usequestscalingfactor="true"/>
+    <objective uniquename="PVPCHALLENGE_POWER_CRYSTAL_WISPS_YELLOW_0" personaltype="WISPS" might="0" favor="0" mindivisor="2" fame="4936.28" mistcitystanding="506.86" usequestscalingfactor="true" />
+    <objective uniquename="PVPCHALLENGE_POWER_CRYSTAL_WISPS_YELLOW_1" personaltype="WISPS" might="0" favor="0"  mindivisor="2" fame="6910.79" mistcitystanding="709.61" usequestscalingfactor="true"/>
+    <objective uniquename="PVPCHALLENGE_POWER_CRYSTAL_WISPS_YELLOW_2" personaltype="WISPS" might="0" favor="0" mindivisor="2" fame="9675.11" mistcitystanding="848.4595" usequestscalingfactor="true"/>
+    <objective uniquename="PVPCHALLENGE_POWER_CRYSTAL_WISPS_YELLOW_3" personaltype="WISPS" might="0" favor="0" mindivisor="2" fame="11568.29" mistcitystanding="1187.844" usequestscalingfactor="true"/>
+    <objective uniquename="PVPCHALLENGE_POWER_CRYSTAL_WISPS_BLACK_0" personaltype="WISPS" might="295.4729" favor="31.1428" mindivisor="2" fame="8431.704" mistcitystanding="865.776" usequestscalingfactor="true"/>
+    <objective uniquename="PVPCHALLENGE_POWER_CRYSTAL_WISPS_BLACK_1" personaltype="WISPS" might="413.6620" favor="43.6"  mindivisor="2" fame="11804.384" mistcitystanding="1212.176" usequestscalingfactor="true"/>
+    <objective uniquename="PVPCHALLENGE_POWER_CRYSTAL_WISPS_BLACK_2" personaltype="WISPS" might="579.1269" favor="61.04" mindivisor="2" fame="16526.136" mistcitystanding="1696.92" usequestscalingfactor="true"/>
+    <objective uniquename="PVPCHALLENGE_POWER_CRYSTAL_WISPS_BLACK_3" personaltype="WISPS" might="810.7778" favor="85.4560" mindivisor="2" fame="23136.596" mistcitystanding="2375.688" usequestscalingfactor="true"/>
     <objective uniquename="PVPCHALLENGE_TREASURES_SMALL_0" objectivetype="TREASURES" might="596.30" favor="0" mindivisor="1"/>
     <objective uniquename="PVPCHALLENGE_TREASURES_SMALL_1" objectivetype="TREASURES" might="894.45" favor="0" mindivisor="1"/>
     <objective uniquename="PVPCHALLENGE_TREASURES_SMALL_2" objectivetype="TREASURES" might="1788.91" favor="0" mindivisor="1"/>
