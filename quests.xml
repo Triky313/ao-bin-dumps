@@ -1222,8 +1222,7 @@
       <item itemid="QUESTITEM_TOKEN_ROYAL_T4" count="1"/>
     </rewards>
   </quest>
-
-
+  
   <!--RETURN TO THE COMMANDER AFTER GATHERER CRAFTER QUEST-->
   <quest uniquename="MISSIONS_T2_TUTORIAL_RETURN_TO_COMMANDER" mobfaction="ROYALARMY" title="@MISSIONS_T2_TUTORIAL_RETURN_TO_COMMANDER_TITLE" offertext="@MISSIONS_T2_TUTORIAL_RETURN_TO_COMMANDER_OFFERTEXT" progresstext="@MISSIONS_T2_TUTORIAL_RETURN_TO_COMMANDER_PROGRESSTEXT" priority="1" minlevel="1" maxlevel="2" tags="crafter" offertimeout="0" questtimeout="3600000" questslotcooldown="0" uicategory="PROMOTION" onceonly="true"   previousquests="MISSIONS_T2_TUTORIAL_CRAFTING_ADVANCED" completetext="@MISSIONS_T2_TUTORIAL_RETURN_TO_COMMANDER_COMPLETIONTEXT" requiresonlyonepreviousquest="true"  cancelable="true">
     <variables>
@@ -5197,9 +5196,59 @@ Light-->
     </rewards>
   </quest>
   
+  <!-- Below here are local quests, those only are only cluster/area local and use a different system than the quest system -->  
+  <localquest uniquename="LOCAL_QUEST_MISTS_MEDIUM_HERETIC" name="@LOCAL_QUEST_CAMP_MEDIUM_HERETIC" type="mobcampquestbig" visibleonminimapbeforevisit="false">
+    <missions>
+      <killmobfame value="2275" scalewithclusterquestfactor="true" faction="HERETIC" countpartykillsinsamelocalquestarea="true" />
+    </missions>
+    <rewards>
+      <famepoints points="2768" scalewithclusterquestfactor="true"/>
+      <mistsfactionstanding points="233" scalewithclusterquestfactor="true"/>
+    </rewards>
+  </localquest>
+  <localquest uniquename="LOCAL_QUEST_MISTS_MEDIUM_UNDEAD" name="@LOCAL_QUEST_CAMP_MEDIUM_UNDEAD" type="mobcampquestbig" visibleonminimapbeforevisit="false">
+    <missions>
+      <killmobfame value="2275" scalewithclusterquestfactor="true" faction="UNDEAD" countpartykillsinsamelocalquestarea="true" />
+    </missions>
+    <rewards>
+      <famepoints points="2768" scalewithclusterquestfactor="true"/>
+      <mistsfactionstanding points="233" scalewithclusterquestfactor="true"/>
+    </rewards>
+  </localquest>
+  <localquest uniquename="LOCAL_QUEST_MISTS_MEDIUM_MORGANA" name="@LOCAL_QUEST_CAMP_MEDIUM_MORGANA" type="mobcampquestbig" visibleonminimapbeforevisit="false">
+    <missions>
+      <killmobfame value="2275" scalewithclusterquestfactor="true" faction="MORGANA" countpartykillsinsamelocalquestarea="true" />
+    </missions>
+    <rewards>
+      <famepoints points="2768" scalewithclusterquestfactor="true"/>
+      <mistsfactionstanding points="233" scalewithclusterquestfactor="true"/>
+    </rewards>
+  </localquest>
+  <localquest uniquename="LOCAL_QUEST_MISTS_SMALL_HERETIC" name="@LOCAL_QUEST_CAMP_SMALL_HERETIC" type="mobcampquestsmall" visibleonminimapbeforevisit="false">
+    <missions>
+      <killmobfame value="1040" scalewithclusterquestfactor="true" faction="HERETIC" countpartykillsinsamelocalquestarea="true" />
+    </missions>
+    <rewards>
+      <famepoints points="1265" scalewithclusterquestfactor="true"/>
+      <mistsfactionstanding points="106" scalewithclusterquestfactor="true"/>
+    </rewards>
+  </localquest>
+  <localquest uniquename="LOCAL_QUEST_MISTS_SMALL_UNDEAD" name="@LOCAL_QUEST_CAMP_SMALL_UNDEAD" type="mobcampquestsmall" visibleonminimapbeforevisit="false">
+    <missions>
+      <killmobfame value="1040" scalewithclusterquestfactor="true" faction="UNDEAD" countpartykillsinsamelocalquestarea="true" />
+    </missions>
+    <rewards>
+      <famepoints points="1265" scalewithclusterquestfactor="true"/>
+      <mistsfactionstanding points="106" scalewithclusterquestfactor="true"/>
+    </rewards>
+  </localquest>
+  <localquest uniquename="LOCAL_QUEST_MISTS_SMALL_MORGANA" name="@LOCAL_QUEST_CAMP_SMALL_MORGANA" type="mobcampquestsmall" visibleonminimapbeforevisit="false">
+    <missions>
+      <killmobfame value="1040" scalewithclusterquestfactor="true" faction="MORGANA" countpartykillsinsamelocalquestarea="true" />
+    </missions>
+    <rewards>
+      <famepoints points="1265" scalewithclusterquestfactor="true"/>
+      <mistsfactionstanding points="106" scalewithclusterquestfactor="true"/>
+    </rewards>
+  </localquest>
 </quests>
-
-
-
-
-
