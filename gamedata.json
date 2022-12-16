@@ -4054,18 +4054,18 @@
         {
           "@type": "mistsyellow",
           "@icon": "yellow",
-          "@famefactor": "1.62",
-          "@moblootfactor": "1",
-          "@mobsilverlootfactor": "1.035",
-          "@questscalingfactor": "1.62"
+          "@famefactor": "1.8",
+          "@moblootfactor": "1.197",
+          "@mobsilverlootfactor": "1.377",
+          "@questscalingfactor": "1.8"
         },
         {
           "@type": "mistsblack",
           "@icon": "black",
-          "@famefactor": "2.844",
-          "@moblootfactor": "1.95",
-          "@mobsilverlootfactor": "2.034",
-          "@questscalingfactor": "2.844"
+          "@famefactor": "3.16",
+          "@moblootfactor": "2.34",
+          "@mobsilverlootfactor": "2.7",
+          "@questscalingfactor": "3.16"
         }
       ]
     },

@@ -778,7 +778,7 @@
                 name="MISTS_SOLO_YELLOW"
                 uipvptype="Limited"
                 pvpwarningtype="yellow"
-                pvprule="PvpAllowed"
+                pvprule="PvpForced"
                 playersarelethal="false"
                 mobsarelethal="false"
                 showpvpplayeronminimap="true"
@@ -799,7 +799,7 @@
                 ignoredestructionmultiplier="true"
                 mightrewards="true"
                 blockmightorfavorgain="true"
-                showpvpplayeronminimapthreshold="3"
+                showpvpplayeronminimapthreshold="10"
                 outlawbuffenabled="false"
                 allowtrade="Disabled"
                 />
@@ -826,7 +826,7 @@
                 zergdebuffenabled="false"
                 ignoredestructionmultiplier="false"
                 mightrewards="true"
-                showpvpplayeronminimapthreshold="3"
+                showpvpplayeronminimapthreshold="10"
                 outlawbuffenabled="false"
                 allowtrade="Disabled"
                 />
@@ -853,7 +853,7 @@
                 zergdebuffenabled="false"
                 ignoredestructionmultiplier="false"
                 mightrewards="true"
-                showpvpplayeronminimapthreshold="5"
+                showpvpplayeronminimapthreshold="10"
                 outlawbuffenabled="false"
                 allowtrade="Disabled"
                />

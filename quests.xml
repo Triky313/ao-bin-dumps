@@ -5202,7 +5202,7 @@ Light-->
       <killmobfame value="2275" scalewithclusterquestfactor="true" faction="HERETIC" countpartykillsinsamelocalquestarea="true" />
     </missions>
     <rewards>
-      <famepoints points="2768" scalewithclusterquestfactor="true"/>
+      <pvekillfame tier="4" points="2768" scalewithclusterquestfactor="true"/>
       <mistsfactionstanding points="233" scalewithclusterquestfactor="true"/>
     </rewards>
   </localquest>
@@ -5211,7 +5211,7 @@ Light-->
       <killmobfame value="2275" scalewithclusterquestfactor="true" faction="UNDEAD" countpartykillsinsamelocalquestarea="true" />
     </missions>
     <rewards>
-      <famepoints points="2768" scalewithclusterquestfactor="true"/>
+      <pvekillfame tier="4" points="2768" scalewithclusterquestfactor="true"/>
       <mistsfactionstanding points="233" scalewithclusterquestfactor="true"/>
     </rewards>
   </localquest>
@@ -5220,7 +5220,7 @@ Light-->
       <killmobfame value="2275" scalewithclusterquestfactor="true" faction="MORGANA" countpartykillsinsamelocalquestarea="true" />
     </missions>
     <rewards>
-      <famepoints points="2768" scalewithclusterquestfactor="true"/>
+      <pvekillfame tier="4" points="2768" scalewithclusterquestfactor="true"/>
       <mistsfactionstanding points="233" scalewithclusterquestfactor="true"/>
     </rewards>
   </localquest>
@@ -5229,7 +5229,7 @@ Light-->
       <killmobfame value="1040" scalewithclusterquestfactor="true" faction="HERETIC" countpartykillsinsamelocalquestarea="true" />
     </missions>
     <rewards>
-      <famepoints points="1265" scalewithclusterquestfactor="true"/>
+      <pvekillfame tier="4" points="1265" scalewithclusterquestfactor="true"/>
       <mistsfactionstanding points="106" scalewithclusterquestfactor="true"/>
     </rewards>
   </localquest>
@@ -5238,7 +5238,7 @@ Light-->
       <killmobfame value="1040" scalewithclusterquestfactor="true" faction="UNDEAD" countpartykillsinsamelocalquestarea="true" />
     </missions>
     <rewards>
-      <famepoints points="1265" scalewithclusterquestfactor="true"/>
+      <pvekillfame tier="4" points="1265" scalewithclusterquestfactor="true"/>
       <mistsfactionstanding points="106" scalewithclusterquestfactor="true"/>
     </rewards>
   </localquest>
@@ -5247,7 +5247,7 @@ Light-->
       <killmobfame value="1040" scalewithclusterquestfactor="true" faction="MORGANA" countpartykillsinsamelocalquestarea="true" />
     </missions>
     <rewards>
-      <famepoints points="1265" scalewithclusterquestfactor="true"/>
+      <pvekillfame tier="4" points="1265" scalewithclusterquestfactor="true"/>
       <mistsfactionstanding points="106" scalewithclusterquestfactor="true"/>
     </rewards>
   </localquest>

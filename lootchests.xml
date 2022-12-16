@@ -11494,49 +11494,49 @@
       <RareState state="standard">
         <Loot>
           <LootByTier tier="4">
-            <Item type="T1_SILVERBAG_NONTRADABLE" chance="4.93858" />
-            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="0.290505" />
-            <Item type="T4_SKILLBOOK_STANDARD" chance="0.096835" />
-            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="2.905047" />
-            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="0.087151" />
-            <LootListReference name="LOOT_ARTEFACTS" chance="0.012415" />
-            <LootListReference name="HELL_FRAGMENT_LOOT" chance="4.401586" />
+            <Item type="T4_SILVERBAG_NONTRADABLE" chance="1.481574" />
+            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="0.871514" />
+            <Item type="T4_SKILLBOOK_STANDARD" chance="0.290505" />
+            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="8.71514" />
+            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="0.261454" />
+            <LootListReference name="LOOT_ARTEFACTS" chance="0.037244" />
+            <LootListReference name="HELL_FRAGMENT_LOOT" chance="13.204758" />
           </LootByTier>
           <LootByTier tier="5">
-            <Item type="T1_SILVERBAG_NONTRADABLE" chance="4.93858" />
-            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="0.290505" />
-            <Item type="T4_SKILLBOOK_STANDARD" chance="0.096835" />
-            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="2.905047" />
-            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="0.087151" />
-            <LootListReference name="LOOT_ARTEFACTS" chance="0.012415" />
-            <LootListReference name="HELL_FRAGMENT_LOOT" chance="4.401586" />
+            <Item type="T4_SILVERBAG_NONTRADABLE" chance="1.481574" />
+            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="0.871514" />
+            <Item type="T4_SKILLBOOK_STANDARD" chance="0.290505" />
+            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="8.71514" />
+            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="0.261454" />
+            <LootListReference name="LOOT_ARTEFACTS" chance="0.037244" />
+            <LootListReference name="HELL_FRAGMENT_LOOT" chance="13.204758" />
           </LootByTier>
           <LootByTier tier="6">
-            <Item type="T1_SILVERBAG_NONTRADABLE" chance="4.93858" />
-            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="0.290505" />
-            <Item type="T4_SKILLBOOK_STANDARD" chance="0.096835" />
-            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="2.905047" />
-            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="0.087151" />
-            <LootListReference name="LOOT_ARTEFACTS" chance="0.012415" />
-            <LootListReference name="HELL_FRAGMENT_LOOT" chance="4.401586" />
+            <Item type="T4_SILVERBAG_NONTRADABLE" chance="1.481574" />
+            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="0.871514" />
+            <Item type="T4_SKILLBOOK_STANDARD" chance="0.290505" />
+            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="8.71514" />
+            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="0.261454" />
+            <LootListReference name="LOOT_ARTEFACTS" chance="0.037244" />
+            <LootListReference name="HELL_FRAGMENT_LOOT" chance="13.204758" />
           </LootByTier>
           <LootByTier tier="7">
-            <Item type="T1_SILVERBAG_NONTRADABLE" chance="4.93858" />
-            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="0.290505" />
-            <Item type="T4_SKILLBOOK_STANDARD" chance="0.096835" />
-            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="2.905047" />
-            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="0.087151" />
-            <LootListReference name="LOOT_ARTEFACTS" chance="0.012415" />
-            <LootListReference name="HELL_FRAGMENT_LOOT" chance="4.401586" />
+            <Item type="T4_SILVERBAG_NONTRADABLE" chance="1.481574" />
+            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="0.871514" />
+            <Item type="T4_SKILLBOOK_STANDARD" chance="0.290505" />
+            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="8.71514" />
+            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="0.261454" />
+            <LootListReference name="LOOT_ARTEFACTS" chance="0.037244" />
+            <LootListReference name="HELL_FRAGMENT_LOOT" chance="13.204758" />
           </LootByTier>
           <LootByTier tier="8">
-            <Item type="T1_SILVERBAG_NONTRADABLE" chance="4.93858" />
-            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="0.290505" />
-            <Item type="T4_SKILLBOOK_STANDARD" chance="0.096835" />
-            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="2.905047" />
-            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="0.087151" />
-            <LootListReference name="LOOT_ARTEFACTS" chance="0.012415" />
-            <LootListReference name="HELL_FRAGMENT_LOOT" chance="4.401586" />
+            <Item type="T4_SILVERBAG_NONTRADABLE" chance="1.481574" />
+            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="0.871514" />
+            <Item type="T4_SKILLBOOK_STANDARD" chance="0.290505" />
+            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="8.71514" />
+            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="0.261454" />
+            <LootListReference name="LOOT_ARTEFACTS" chance="0.037244" />
+            <LootListReference name="HELL_FRAGMENT_LOOT" chance="13.204758" />
           </LootByTier>
         </Loot>
       </RareState>
@@ -11551,49 +11551,49 @@
       <RareState state="uncommon">
         <Loot>
           <LootByTier tier="4">
-            <Item type="T1_SILVERBAG_NONTRADABLE" chance="8.642513" />
-            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="0.508383" />
-            <Item type="T4_SKILLBOOK_STANDARD" chance="0.169461" />
-            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="5.083832" />
-            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="0.152515" />
-            <LootListReference name="LOOT_ARTEFACTS" chance="0.021726" />
-            <LootListReference name="HELL_FRAGMENT_LOOT" chance="7.702776" />
+            <Item type="T4_SILVERBAG_NONTRADABLE" chance="2.592754" />
+            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="1.52515" />
+            <Item type="T4_SKILLBOOK_STANDARD" chance="0.508383" />
+            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="15.251496" />
+            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="0.457545" />
+            <LootListReference name="LOOT_ARTEFACTS" chance="0.065177" />
+            <LootListReference name="HELL_FRAGMENT_LOOT" chance="23.108327" />
           </LootByTier>
           <LootByTier tier="5">
-            <Item type="T1_SILVERBAG_NONTRADABLE" chance="8.642513" />
-            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="0.508383" />
-            <Item type="T4_SKILLBOOK_STANDARD" chance="0.169461" />
-            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="5.083832" />
-            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="0.152515" />
-            <LootListReference name="LOOT_ARTEFACTS" chance="0.021726" />
-            <LootListReference name="HELL_FRAGMENT_LOOT" chance="7.702776" />
+            <Item type="T4_SILVERBAG_NONTRADABLE" chance="2.592754" />
+            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="1.52515" />
+            <Item type="T4_SKILLBOOK_STANDARD" chance="0.508383" />
+            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="15.251496" />
+            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="0.457545" />
+            <LootListReference name="LOOT_ARTEFACTS" chance="0.065177" />
+            <LootListReference name="HELL_FRAGMENT_LOOT" chance="23.108327" />
           </LootByTier>
           <LootByTier tier="6">
-            <Item type="T1_SILVERBAG_NONTRADABLE" chance="8.642513" />
-            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="0.508383" />
-            <Item type="T4_SKILLBOOK_STANDARD" chance="0.169461" />
-            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="5.083832" />
-            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="0.152515" />
-            <LootListReference name="LOOT_ARTEFACTS" chance="0.021726" />
-            <LootListReference name="HELL_FRAGMENT_LOOT" chance="7.702776" />
+            <Item type="T4_SILVERBAG_NONTRADABLE" chance="2.592754" />
+            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="1.52515" />
+            <Item type="T4_SKILLBOOK_STANDARD" chance="0.508383" />
+            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="15.251496" />
+            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="0.457545" />
+            <LootListReference name="LOOT_ARTEFACTS" chance="0.065177" />
+            <LootListReference name="HELL_FRAGMENT_LOOT" chance="23.108327" />
           </LootByTier>
           <LootByTier tier="7">
-            <Item type="T1_SILVERBAG_NONTRADABLE" chance="8.642513" />
-            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="0.508383" />
-            <Item type="T4_SKILLBOOK_STANDARD" chance="0.169461" />
-            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="5.083832" />
-            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="0.152515" />
-            <LootListReference name="LOOT_ARTEFACTS" chance="0.021726" />
-            <LootListReference name="HELL_FRAGMENT_LOOT" chance="7.702776" />
+            <Item type="T4_SILVERBAG_NONTRADABLE" chance="2.592754" />
+            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="1.52515" />
+            <Item type="T4_SKILLBOOK_STANDARD" chance="0.508383" />
+            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="15.251496" />
+            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="0.457545" />
+            <LootListReference name="LOOT_ARTEFACTS" chance="0.065177" />
+            <LootListReference name="HELL_FRAGMENT_LOOT" chance="23.108327" />
           </LootByTier>
           <LootByTier tier="8">
-            <Item type="T1_SILVERBAG_NONTRADABLE" chance="8.642513" />
-            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="0.508383" />
-            <Item type="T4_SKILLBOOK_STANDARD" chance="0.169461" />
-            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="5.083832" />
-            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="0.152515" />
-            <LootListReference name="LOOT_ARTEFACTS" chance="0.021726" />
-            <LootListReference name="HELL_FRAGMENT_LOOT" chance="7.702776" />
+            <Item type="T4_SILVERBAG_NONTRADABLE" chance="2.592754" />
+            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="1.52515" />
+            <Item type="T4_SKILLBOOK_STANDARD" chance="0.508383" />
+            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="15.251496" />
+            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="0.457545" />
+            <LootListReference name="LOOT_ARTEFACTS" chance="0.065177" />
+            <LootListReference name="HELL_FRAGMENT_LOOT" chance="23.108327" />
           </LootByTier>
         </Loot>
       </RareState>
@@ -11608,49 +11608,49 @@
       <RareState state="rare">
         <Loot>
           <LootByTier tier="4">
-            <Item type="T1_SILVERBAG_NONTRADABLE" chance="15.1244" />
-            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="0.889671" />
-            <Item type="T4_SKILLBOOK_STANDARD" chance="0.296557" />
-            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="8.896706" />
-            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="0.266901" />
-            <LootListReference name="LOOT_ARTEFACTS" chance="0.03802" />
-            <LootListReference name="HELL_FRAGMENT_LOOT" chance="13.479857" />
+            <Item type="T4_SILVERBAG_NONTRADABLE" chance="4.53732" />
+            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="2.669012" />
+            <Item type="T4_SKILLBOOK_STANDARD" chance="0.889671" />
+            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="26.690118" />
+            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="0.800704" />
+            <LootListReference name="LOOT_ARTEFACTS" chance="0.11406" />
+            <LootListReference name="HELL_FRAGMENT_LOOT" chance="40.439572" />
           </LootByTier>
           <LootByTier tier="5">
-            <Item type="T1_SILVERBAG_NONTRADABLE" chance="15.1244" />
-            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="0.889671" />
-            <Item type="T4_SKILLBOOK_STANDARD" chance="0.296557" />
-            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="8.896706" />
-            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="0.266901" />
-            <LootListReference name="LOOT_ARTEFACTS" chance="0.03802" />
-            <LootListReference name="HELL_FRAGMENT_LOOT" chance="13.479857" />
+            <Item type="T4_SILVERBAG_NONTRADABLE" chance="4.53732" />
+            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="2.669012" />
+            <Item type="T4_SKILLBOOK_STANDARD" chance="0.889671" />
+            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="26.690118" />
+            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="0.800704" />
+            <LootListReference name="LOOT_ARTEFACTS" chance="0.11406" />
+            <LootListReference name="HELL_FRAGMENT_LOOT" chance="40.439572" />
           </LootByTier>
           <LootByTier tier="6">
-            <Item type="T1_SILVERBAG_NONTRADABLE" chance="15.1244" />
-            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="0.889671" />
-            <Item type="T4_SKILLBOOK_STANDARD" chance="0.296557" />
-            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="8.896706" />
-            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="0.266901" />
-            <LootListReference name="LOOT_ARTEFACTS" chance="0.03802" />
-            <LootListReference name="HELL_FRAGMENT_LOOT" chance="13.479857" />
+            <Item type="T4_SILVERBAG_NONTRADABLE" chance="4.53732" />
+            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="2.669012" />
+            <Item type="T4_SKILLBOOK_STANDARD" chance="0.889671" />
+            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="26.690118" />
+            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="0.800704" />
+            <LootListReference name="LOOT_ARTEFACTS" chance="0.11406" />
+            <LootListReference name="HELL_FRAGMENT_LOOT" chance="40.439572" />
           </LootByTier>
           <LootByTier tier="7">
-            <Item type="T1_SILVERBAG_NONTRADABLE" chance="15.1244" />
-            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="0.889671" />
-            <Item type="T4_SKILLBOOK_STANDARD" chance="0.296557" />
-            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="8.896706" />
-            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="0.266901" />
-            <LootListReference name="LOOT_ARTEFACTS" chance="0.03802" />
-            <LootListReference name="HELL_FRAGMENT_LOOT" chance="13.479857" />
+            <Item type="T4_SILVERBAG_NONTRADABLE" chance="4.53732" />
+            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="2.669012" />
+            <Item type="T4_SKILLBOOK_STANDARD" chance="0.889671" />
+            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="26.690118" />
+            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="0.800704" />
+            <LootListReference name="LOOT_ARTEFACTS" chance="0.11406" />
+            <LootListReference name="HELL_FRAGMENT_LOOT" chance="40.439572" />
           </LootByTier>
           <LootByTier tier="8">
-            <Item type="T1_SILVERBAG_NONTRADABLE" chance="15.1244" />
-            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="0.889671" />
-            <Item type="T4_SKILLBOOK_STANDARD" chance="0.296557" />
-            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="8.896706" />
-            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="0.266901" />
-            <LootListReference name="LOOT_ARTEFACTS" chance="0.03802" />
-            <LootListReference name="HELL_FRAGMENT_LOOT" chance="13.479857" />
+            <Item type="T4_SILVERBAG_NONTRADABLE" chance="4.53732" />
+            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="2.669012" />
+            <Item type="T4_SKILLBOOK_STANDARD" chance="0.889671" />
+            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="26.690118" />
+            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="0.800704" />
+            <LootListReference name="LOOT_ARTEFACTS" chance="0.11406" />
+            <LootListReference name="HELL_FRAGMENT_LOOT" chance="40.439572" />
           </LootByTier>
         </Loot>
       </RareState>
@@ -11666,49 +11666,49 @@
       <RareState state="legendary">
         <Loot>
           <LootByTier tier="4">
-            <Item type="T1_SILVERBAG_NONTRADABLE" chance="26.4677" />
-            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="1.556924" />
-            <Item type="T4_SKILLBOOK_STANDARD" chance="0.518975" />
-            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="15.569235" />
-            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="0.467077" />
-            <LootListReference name="LOOT_ARTEFACTS" chance="0.066535" />
-            <LootListReference name="HELL_FRAGMENT_LOOT" chance="23.58975" />
+            <Item type="T4_SILVERBAG_NONTRADABLE" chance="7.94031" />
+            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="4.670771" />
+            <Item type="T4_SKILLBOOK_STANDARD" chance="1.556924" />
+            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="46.707706" />
+            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="1.401231" />
+            <LootListReference name="LOOT_ARTEFACTS" chance="0.199606" />
+            <LootListReference name="HELL_FRAGMENT_LOOT" chance="70.769251" />
           </LootByTier>
           <LootByTier tier="5">
-            <Item type="T1_SILVERBAG_NONTRADABLE" chance="26.4677" />
-            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="1.556924" />
-            <Item type="T4_SKILLBOOK_STANDARD" chance="0.518975" />
-            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="15.569235" />
-            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="0.467077" />
-            <LootListReference name="LOOT_ARTEFACTS" chance="0.066535" />
-            <LootListReference name="HELL_FRAGMENT_LOOT" chance="23.58975" />
+            <Item type="T4_SILVERBAG_NONTRADABLE" chance="7.94031" />
+            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="4.670771" />
+            <Item type="T4_SKILLBOOK_STANDARD" chance="1.556924" />
+            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="46.707706" />
+            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="1.401231" />
+            <LootListReference name="LOOT_ARTEFACTS" chance="0.199606" />
+            <LootListReference name="HELL_FRAGMENT_LOOT" chance="70.769251" />
           </LootByTier>
           <LootByTier tier="6">
-            <Item type="T1_SILVERBAG_NONTRADABLE" chance="26.4677" />
-            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="1.556924" />
-            <Item type="T4_SKILLBOOK_STANDARD" chance="0.518975" />
-            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="15.569235" />
-            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="0.467077" />
-            <LootListReference name="LOOT_ARTEFACTS" chance="0.066535" />
-            <LootListReference name="HELL_FRAGMENT_LOOT" chance="23.58975" />
+            <Item type="T4_SILVERBAG_NONTRADABLE" chance="7.94031" />
+            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="4.670771" />
+            <Item type="T4_SKILLBOOK_STANDARD" chance="1.556924" />
+            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="46.707706" />
+            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="1.401231" />
+            <LootListReference name="LOOT_ARTEFACTS" chance="0.199606" />
+            <LootListReference name="HELL_FRAGMENT_LOOT" chance="70.769251" />
           </LootByTier>
           <LootByTier tier="7">
-            <Item type="T1_SILVERBAG_NONTRADABLE" chance="26.4677" />
-            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="1.556924" />
-            <Item type="T4_SKILLBOOK_STANDARD" chance="0.518975" />
-            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="15.569235" />
-            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="0.467077" />
-            <LootListReference name="LOOT_ARTEFACTS" chance="0.066535" />
-            <LootListReference name="HELL_FRAGMENT_LOOT" chance="23.58975" />
+            <Item type="T4_SILVERBAG_NONTRADABLE" chance="7.94031" />
+            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="4.670771" />
+            <Item type="T4_SKILLBOOK_STANDARD" chance="1.556924" />
+            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="46.707706" />
+            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="1.401231" />
+            <LootListReference name="LOOT_ARTEFACTS" chance="0.199606" />
+            <LootListReference name="HELL_FRAGMENT_LOOT" chance="70.769251" />
           </LootByTier>
           <LootByTier tier="8">
-            <Item type="T1_SILVERBAG_NONTRADABLE" chance="26.4677" />
-            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="1.556924" />
-            <Item type="T4_SKILLBOOK_STANDARD" chance="0.518975" />
-            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="15.569235" />
-            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="0.467077" />
-            <LootListReference name="LOOT_ARTEFACTS" chance="0.066535" />
-            <LootListReference name="HELL_FRAGMENT_LOOT" chance="23.58975" />
+            <Item type="T4_SILVERBAG_NONTRADABLE" chance="7.94031" />
+            <Item type="T4_SKILLBOOK_NONTRADABLE" chance="4.670771" />
+            <Item type="T4_SKILLBOOK_STANDARD" chance="1.556924" />
+            <LootListReference name="OUTLAND_TREASURES_BLACKMARKET_LOOT" chance="46.707706" />
+            <LootListReference name="OUTLAND_TREASURES_TREASURE_LOOT" chance="1.401231" />
+            <LootListReference name="LOOT_ARTEFACTS" chance="0.199606" />
+            <LootListReference name="HELL_FRAGMENT_LOOT" chance="70.769251" />
           </LootByTier>
         </Loot>
       </RareState>

@@ -341,23 +341,23 @@
           "level": [
             {
               "@level": "0",
-              "@weight": "5900"
+              "@weight": "9556"
             },
             {
               "@level": "1",
-              "@weight": "1700"
+              "@weight": "186"
             },
             {
               "@level": "2",
-              "@weight": "1150"
+              "@weight": "129"
             },
             {
               "@level": "3",
-              "@weight": "750"
+              "@weight": "86"
             },
             {
               "@level": "4",
-              "@weight": "500"
+              "@weight": "43"
             }
           ]
         },
@@ -367,23 +367,23 @@
           "level": [
             {
               "@level": "0",
-              "@weight": "5900"
+              "@weight": "9556"
             },
             {
               "@level": "1",
-              "@weight": "1700"
+              "@weight": "186"
             },
             {
               "@level": "2",
-              "@weight": "1150"
+              "@weight": "129"
             },
             {
               "@level": "3",
-              "@weight": "750"
+              "@weight": "86"
             },
             {
               "@level": "4",
-              "@weight": "500"
+              "@weight": "43"
             }
           ]
         },
@@ -393,23 +393,23 @@
           "level": [
             {
               "@level": "0",
-              "@weight": "5900"
+              "@weight": "9779"
             },
             {
               "@level": "1",
-              "@weight": "1700"
+              "@weight": "93"
             },
             {
               "@level": "2",
-              "@weight": "1150"
+              "@weight": "64"
             },
             {
               "@level": "3",
-              "@weight": "750"
+              "@weight": "43"
             },
             {
               "@level": "4",
-              "@weight": "500"
+              "@weight": "21"
             }
           ]
         },
@@ -574,6 +574,10 @@
         },
         {
           "@clustertype": "TUNNEL_DEEP",
+          "@dungeonclustertype": "DUNGEON_RD_TUNNEL"
+        },
+        {
+          "@clustertype": "TUNNEL_DEEP_RAID",
           "@dungeonclustertype": "DUNGEON_RD_TUNNEL"
         },
         {

@@ -12263,7 +12263,8 @@
           }
         },
         "rewards": {
-          "famepoints": {
+          "pvekillfame": {
+            "@tier": "4",
             "@points": "2768",
             "@scalewithclusterquestfactor": "true"
           },
@@ -12287,7 +12288,8 @@
           }
         },
         "rewards": {
-          "famepoints": {
+          "pvekillfame": {
+            "@tier": "4",
             "@points": "2768",
             "@scalewithclusterquestfactor": "true"
           },
@@ -12311,7 +12313,8 @@
           }
         },
         "rewards": {
-          "famepoints": {
+          "pvekillfame": {
+            "@tier": "4",
             "@points": "2768",
             "@scalewithclusterquestfactor": "true"
           },
@@ -12335,7 +12338,8 @@
           }
         },
         "rewards": {
-          "famepoints": {
+          "pvekillfame": {
+            "@tier": "4",
             "@points": "1265",
             "@scalewithclusterquestfactor": "true"
           },
@@ -12359,7 +12363,8 @@
           }
         },
         "rewards": {
-          "famepoints": {
+          "pvekillfame": {
+            "@tier": "4",
             "@points": "1265",
             "@scalewithclusterquestfactor": "true"
           },
@@ -12383,7 +12388,8 @@
           }
         },
         "rewards": {
-          "famepoints": {
+          "pvekillfame": {
+            "@tier": "4",
             "@points": "1265",
             "@scalewithclusterquestfactor": "true"
           },

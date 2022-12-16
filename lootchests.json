@@ -31893,34 +31893,34 @@
                   "@tier": "4",
                   "Item": [
                     {
-                      "@type": "T1_SILVERBAG_NONTRADABLE",
-                      "@chance": "4.93858"
+                      "@type": "T4_SILVERBAG_NONTRADABLE",
+                      "@chance": "1.481574"
                     },
                     {
                       "@type": "T4_SKILLBOOK_NONTRADABLE",
-                      "@chance": "0.290505"
+                      "@chance": "0.871514"
                     },
                     {
                       "@type": "T4_SKILLBOOK_STANDARD",
-                      "@chance": "0.096835"
+                      "@chance": "0.290505"
                     }
                   ],
                   "LootListReference": [
                     {
                       "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
-                      "@chance": "2.905047"
+                      "@chance": "8.71514"
                     },
                     {
                       "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
-                      "@chance": "0.087151"
+                      "@chance": "0.261454"
                     },
                     {
                       "@name": "LOOT_ARTEFACTS",
-                      "@chance": "0.012415"
+                      "@chance": "0.037244"
                     },
                     {
                       "@name": "HELL_FRAGMENT_LOOT",
-                      "@chance": "4.401586"
+                      "@chance": "13.204758"
                     }
                   ]
                 },
@@ -31928,34 +31928,34 @@
                   "@tier": "5",
                   "Item": [
                     {
-                      "@type": "T1_SILVERBAG_NONTRADABLE",
-                      "@chance": "4.93858"
+                      "@type": "T4_SILVERBAG_NONTRADABLE",
+                      "@chance": "1.481574"
                     },
                     {
                       "@type": "T4_SKILLBOOK_NONTRADABLE",
-                      "@chance": "0.290505"
+                      "@chance": "0.871514"
                     },
                     {
                       "@type": "T4_SKILLBOOK_STANDARD",
-                      "@chance": "0.096835"
+                      "@chance": "0.290505"
                     }
                   ],
                   "LootListReference": [
                     {
                       "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
-                      "@chance": "2.905047"
+                      "@chance": "8.71514"
                     },
                     {
                       "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
-                      "@chance": "0.087151"
+                      "@chance": "0.261454"
                     },
                     {
                       "@name": "LOOT_ARTEFACTS",
-                      "@chance": "0.012415"
+                      "@chance": "0.037244"
                     },
                     {
                       "@name": "HELL_FRAGMENT_LOOT",
-                      "@chance": "4.401586"
+                      "@chance": "13.204758"
                     }
                   ]
                 },
@@ -31963,34 +31963,34 @@
                   "@tier": "6",
                   "Item": [
                     {
-                      "@type": "T1_SILVERBAG_NONTRADABLE",
-                      "@chance": "4.93858"
+                      "@type": "T4_SILVERBAG_NONTRADABLE",
+                      "@chance": "1.481574"
                     },
                     {
                       "@type": "T4_SKILLBOOK_NONTRADABLE",
-                      "@chance": "0.290505"
+                      "@chance": "0.871514"
                     },
                     {
                       "@type": "T4_SKILLBOOK_STANDARD",
-                      "@chance": "0.096835"
+                      "@chance": "0.290505"
                     }
                   ],
                   "LootListReference": [
                     {
                       "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
-                      "@chance": "2.905047"
+                      "@chance": "8.71514"
                     },
                     {
                       "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
-                      "@chance": "0.087151"
+                      "@chance": "0.261454"
                     },
                     {
                       "@name": "LOOT_ARTEFACTS",
-                      "@chance": "0.012415"
+                      "@chance": "0.037244"
                     },
                     {
                       "@name": "HELL_FRAGMENT_LOOT",
-                      "@chance": "4.401586"
+                      "@chance": "13.204758"
                     }
                   ]
                 },
@@ -31998,34 +31998,34 @@
                   "@tier": "7",
                   "Item": [
                     {
-                      "@type": "T1_SILVERBAG_NONTRADABLE",
-                      "@chance": "4.93858"
+                      "@type": "T4_SILVERBAG_NONTRADABLE",
+                      "@chance": "1.481574"
                     },
                     {
                       "@type": "T4_SKILLBOOK_NONTRADABLE",
-                      "@chance": "0.290505"
+                      "@chance": "0.871514"
                     },
                     {
                       "@type": "T4_SKILLBOOK_STANDARD",
-                      "@chance": "0.096835"
+                      "@chance": "0.290505"
                     }
                   ],
                   "LootListReference": [
                     {
                       "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
-                      "@chance": "2.905047"
+                      "@chance": "8.71514"
                     },
                     {
                       "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
-                      "@chance": "0.087151"
+                      "@chance": "0.261454"
                     },
                     {
                       "@name": "LOOT_ARTEFACTS",
-                      "@chance": "0.012415"
+                      "@chance": "0.037244"
                     },
                     {
                       "@name": "HELL_FRAGMENT_LOOT",
-                      "@chance": "4.401586"
+                      "@chance": "13.204758"
                     }
                   ]
                 },
@@ -32033,34 +32033,34 @@
                   "@tier": "8",
                   "Item": [
                     {
-                      "@type": "T1_SILVERBAG_NONTRADABLE",
-                      "@chance": "4.93858"
+                      "@type": "T4_SILVERBAG_NONTRADABLE",
+                      "@chance": "1.481574"
                     },
                     {
                       "@type": "T4_SKILLBOOK_NONTRADABLE",
-                      "@chance": "0.290505"
+                      "@chance": "0.871514"
                     },
                     {
                       "@type": "T4_SKILLBOOK_STANDARD",
-                      "@chance": "0.096835"
+                      "@chance": "0.290505"
                     }
                   ],
                   "LootListReference": [
                     {
                       "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
-                      "@chance": "2.905047"
+                      "@chance": "8.71514"
                     },
                     {
                       "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
-                      "@chance": "0.087151"
+                      "@chance": "0.261454"
                     },
                     {
                       "@name": "LOOT_ARTEFACTS",
-                      "@chance": "0.012415"
+                      "@chance": "0.037244"
                     },
                     {
                       "@name": "HELL_FRAGMENT_LOOT",
-                      "@chance": "4.401586"
+                      "@chance": "13.204758"
                     }
                   ]
                 }
@@ -32109,34 +32109,34 @@
                   "@tier": "4",
                   "Item": [
                     {
-                      "@type": "T1_SILVERBAG_NONTRADABLE",
-                      "@chance": "8.642513"
+                      "@type": "T4_SILVERBAG_NONTRADABLE",
+                      "@chance": "2.592754"
                     },
                     {
                       "@type": "T4_SKILLBOOK_NONTRADABLE",
-                      "@chance": "0.508383"
+                      "@chance": "1.52515"
                     },
                     {
                       "@type": "T4_SKILLBOOK_STANDARD",
-                      "@chance": "0.169461"
+                      "@chance": "0.508383"
                     }
                   ],
                   "LootListReference": [
                     {
                       "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
-                      "@chance": "5.083832"
+                      "@chance": "15.251496"
                     },
                     {
                       "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
-                      "@chance": "0.152515"
+                      "@chance": "0.457545"
                     },
                     {
                       "@name": "LOOT_ARTEFACTS",
-                      "@chance": "0.021726"
+                      "@chance": "0.065177"
                     },
                     {
                       "@name": "HELL_FRAGMENT_LOOT",
-                      "@chance": "7.702776"
+                      "@chance": "23.108327"
                     }
                   ]
                 },
@@ -32144,34 +32144,34 @@
                   "@tier": "5",
                   "Item": [
                     {
-                      "@type": "T1_SILVERBAG_NONTRADABLE",
-                      "@chance": "8.642513"
+                      "@type": "T4_SILVERBAG_NONTRADABLE",
+                      "@chance": "2.592754"
                     },
                     {
                       "@type": "T4_SKILLBOOK_NONTRADABLE",
-                      "@chance": "0.508383"
+                      "@chance": "1.52515"
                     },
                     {
                       "@type": "T4_SKILLBOOK_STANDARD",
-                      "@chance": "0.169461"
+                      "@chance": "0.508383"
                     }
                   ],
                   "LootListReference": [
                     {
                       "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
-                      "@chance": "5.083832"
+                      "@chance": "15.251496"
                     },
                     {
                       "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
-                      "@chance": "0.152515"
+                      "@chance": "0.457545"
                     },
                     {
                       "@name": "LOOT_ARTEFACTS",
-                      "@chance": "0.021726"
+                      "@chance": "0.065177"
                     },
                     {
                       "@name": "HELL_FRAGMENT_LOOT",
-                      "@chance": "7.702776"
+                      "@chance": "23.108327"
                     }
                   ]
                 },
@@ -32179,34 +32179,34 @@
                   "@tier": "6",
                   "Item": [
                     {
-                      "@type": "T1_SILVERBAG_NONTRADABLE",
-                      "@chance": "8.642513"
+                      "@type": "T4_SILVERBAG_NONTRADABLE",
+                      "@chance": "2.592754"
                     },
                     {
                       "@type": "T4_SKILLBOOK_NONTRADABLE",
-                      "@chance": "0.508383"
+                      "@chance": "1.52515"
                     },
                     {
                       "@type": "T4_SKILLBOOK_STANDARD",
-                      "@chance": "0.169461"
+                      "@chance": "0.508383"
                     }
                   ],
                   "LootListReference": [
                     {
                       "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
-                      "@chance": "5.083832"
+                      "@chance": "15.251496"
                     },
                     {
                       "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
-                      "@chance": "0.152515"
+                      "@chance": "0.457545"
                     },
                     {
                       "@name": "LOOT_ARTEFACTS",
-                      "@chance": "0.021726"
+                      "@chance": "0.065177"
                     },
                     {
                       "@name": "HELL_FRAGMENT_LOOT",
-                      "@chance": "7.702776"
+                      "@chance": "23.108327"
                     }
                   ]
                 },
@@ -32214,34 +32214,34 @@
                   "@tier": "7",
                   "Item": [
                     {
-                      "@type": "T1_SILVERBAG_NONTRADABLE",
-                      "@chance": "8.642513"
+                      "@type": "T4_SILVERBAG_NONTRADABLE",
+                      "@chance": "2.592754"
                     },
                     {
                       "@type": "T4_SKILLBOOK_NONTRADABLE",
-                      "@chance": "0.508383"
+                      "@chance": "1.52515"
                     },
                     {
                       "@type": "T4_SKILLBOOK_STANDARD",
-                      "@chance": "0.169461"
+                      "@chance": "0.508383"
                     }
                   ],
                   "LootListReference": [
                     {
                       "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
-                      "@chance": "5.083832"
+                      "@chance": "15.251496"
                     },
                     {
                       "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
-                      "@chance": "0.152515"
+                      "@chance": "0.457545"
                     },
                     {
                       "@name": "LOOT_ARTEFACTS",
-                      "@chance": "0.021726"
+                      "@chance": "0.065177"
                     },
                     {
                       "@name": "HELL_FRAGMENT_LOOT",
-                      "@chance": "7.702776"
+                      "@chance": "23.108327"
                     }
                   ]
                 },
@@ -32249,34 +32249,34 @@
                   "@tier": "8",
                   "Item": [
                     {
-                      "@type": "T1_SILVERBAG_NONTRADABLE",
-                      "@chance": "8.642513"
+                      "@type": "T4_SILVERBAG_NONTRADABLE",
+                      "@chance": "2.592754"
                     },
                     {
                       "@type": "T4_SKILLBOOK_NONTRADABLE",
-                      "@chance": "0.508383"
+                      "@chance": "1.52515"
                     },
                     {
                       "@type": "T4_SKILLBOOK_STANDARD",
-                      "@chance": "0.169461"
+                      "@chance": "0.508383"
                     }
                   ],
                   "LootListReference": [
                     {
                       "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
-                      "@chance": "5.083832"
+                      "@chance": "15.251496"
                     },
                     {
                       "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
-                      "@chance": "0.152515"
+                      "@chance": "0.457545"
                     },
                     {
                       "@name": "LOOT_ARTEFACTS",
-                      "@chance": "0.021726"
+                      "@chance": "0.065177"
                     },
                     {
                       "@name": "HELL_FRAGMENT_LOOT",
-                      "@chance": "7.702776"
+                      "@chance": "23.108327"
                     }
                   ]
                 }
@@ -32325,34 +32325,34 @@
                   "@tier": "4",
                   "Item": [
                     {
-                      "@type": "T1_SILVERBAG_NONTRADABLE",
-                      "@chance": "15.1244"
+                      "@type": "T4_SILVERBAG_NONTRADABLE",
+                      "@chance": "4.53732"
                     },
                     {
                       "@type": "T4_SKILLBOOK_NONTRADABLE",
-                      "@chance": "0.889671"
+                      "@chance": "2.669012"
                     },
                     {
                       "@type": "T4_SKILLBOOK_STANDARD",
-                      "@chance": "0.296557"
+                      "@chance": "0.889671"
                     }
                   ],
                   "LootListReference": [
                     {
                       "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
-                      "@chance": "8.896706"
+                      "@chance": "26.690118"
                     },
                     {
                       "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
-                      "@chance": "0.266901"
+                      "@chance": "0.800704"
                     },
                     {
                       "@name": "LOOT_ARTEFACTS",
-                      "@chance": "0.03802"
+                      "@chance": "0.11406"
                     },
                     {
                       "@name": "HELL_FRAGMENT_LOOT",
-                      "@chance": "13.479857"
+                      "@chance": "40.439572"
                     }
                   ]
                 },
@@ -32360,34 +32360,34 @@
                   "@tier": "5",
                   "Item": [
                     {
-                      "@type": "T1_SILVERBAG_NONTRADABLE",
-                      "@chance": "15.1244"
+                      "@type": "T4_SILVERBAG_NONTRADABLE",
+                      "@chance": "4.53732"
                     },
                     {
                       "@type": "T4_SKILLBOOK_NONTRADABLE",
-                      "@chance": "0.889671"
+                      "@chance": "2.669012"
                     },
                     {
                       "@type": "T4_SKILLBOOK_STANDARD",
-                      "@chance": "0.296557"
+                      "@chance": "0.889671"
                     }
                   ],
                   "LootListReference": [
                     {
                       "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
-                      "@chance": "8.896706"
+                      "@chance": "26.690118"
                     },
                     {
                       "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
-                      "@chance": "0.266901"
+                      "@chance": "0.800704"
                     },
                     {
                       "@name": "LOOT_ARTEFACTS",
-                      "@chance": "0.03802"
+                      "@chance": "0.11406"
                     },
                     {
                       "@name": "HELL_FRAGMENT_LOOT",
-                      "@chance": "13.479857"
+                      "@chance": "40.439572"
                     }
                   ]
                 },
@@ -32395,34 +32395,34 @@
                   "@tier": "6",
                   "Item": [
                     {
-                      "@type": "T1_SILVERBAG_NONTRADABLE",
-                      "@chance": "15.1244"
+                      "@type": "T4_SILVERBAG_NONTRADABLE",
+                      "@chance": "4.53732"
                     },
                     {
                       "@type": "T4_SKILLBOOK_NONTRADABLE",
-                      "@chance": "0.889671"
+                      "@chance": "2.669012"
                     },
                     {
                       "@type": "T4_SKILLBOOK_STANDARD",
-                      "@chance": "0.296557"
+                      "@chance": "0.889671"
                     }
                   ],
                   "LootListReference": [
                     {
                       "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
-                      "@chance": "8.896706"
+                      "@chance": "26.690118"
                     },
                     {
                       "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
-                      "@chance": "0.266901"
+                      "@chance": "0.800704"
                     },
                     {
                       "@name": "LOOT_ARTEFACTS",
-                      "@chance": "0.03802"
+                      "@chance": "0.11406"
                     },
                     {
                       "@name": "HELL_FRAGMENT_LOOT",
-                      "@chance": "13.479857"
+                      "@chance": "40.439572"
                     }
                   ]
                 },
@@ -32430,34 +32430,34 @@
                   "@tier": "7",
                   "Item": [
                     {
-                      "@type": "T1_SILVERBAG_NONTRADABLE",
-                      "@chance": "15.1244"
+                      "@type": "T4_SILVERBAG_NONTRADABLE",
+                      "@chance": "4.53732"
                     },
                     {
                       "@type": "T4_SKILLBOOK_NONTRADABLE",
-                      "@chance": "0.889671"
+                      "@chance": "2.669012"
                     },
                     {
                       "@type": "T4_SKILLBOOK_STANDARD",
-                      "@chance": "0.296557"
+                      "@chance": "0.889671"
                     }
                   ],
                   "LootListReference": [
                     {
                       "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
-                      "@chance": "8.896706"
+                      "@chance": "26.690118"
                     },
                     {
                       "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
-                      "@chance": "0.266901"
+                      "@chance": "0.800704"
                     },
                     {
                       "@name": "LOOT_ARTEFACTS",
-                      "@chance": "0.03802"
+                      "@chance": "0.11406"
                     },
                     {
                       "@name": "HELL_FRAGMENT_LOOT",
-                      "@chance": "13.479857"
+                      "@chance": "40.439572"
                     }
                   ]
                 },
@@ -32465,34 +32465,34 @@
                   "@tier": "8",
                   "Item": [
                     {
-                      "@type": "T1_SILVERBAG_NONTRADABLE",
-                      "@chance": "15.1244"
+                      "@type": "T4_SILVERBAG_NONTRADABLE",
+                      "@chance": "4.53732"
                     },
                     {
                       "@type": "T4_SKILLBOOK_NONTRADABLE",
-                      "@chance": "0.889671"
+                      "@chance": "2.669012"
                     },
                     {
                       "@type": "T4_SKILLBOOK_STANDARD",
-                      "@chance": "0.296557"
+                      "@chance": "0.889671"
                     }
                   ],
                   "LootListReference": [
                     {
                       "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
-                      "@chance": "8.896706"
+                      "@chance": "26.690118"
                     },
                     {
                       "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
-                      "@chance": "0.266901"
+                      "@chance": "0.800704"
                     },
                     {
                       "@name": "LOOT_ARTEFACTS",
-                      "@chance": "0.03802"
+                      "@chance": "0.11406"
                     },
                     {
                       "@name": "HELL_FRAGMENT_LOOT",
-                      "@chance": "13.479857"
+                      "@chance": "40.439572"
                     }
                   ]
                 }
@@ -32547,34 +32547,34 @@
                   "@tier": "4",
                   "Item": [
                     {
-                      "@type": "T1_SILVERBAG_NONTRADABLE",
-                      "@chance": "26.4677"
+                      "@type": "T4_SILVERBAG_NONTRADABLE",
+                      "@chance": "7.94031"
                     },
                     {
                       "@type": "T4_SKILLBOOK_NONTRADABLE",
-                      "@chance": "1.556924"
+                      "@chance": "4.670771"
                     },
                     {
                       "@type": "T4_SKILLBOOK_STANDARD",
-                      "@chance": "0.518975"
+                      "@chance": "1.556924"
                     }
                   ],
                   "LootListReference": [
                     {
                       "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
-                      "@chance": "15.569235"
+                      "@chance": "46.707706"
                     },
                     {
                       "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
-                      "@chance": "0.467077"
+                      "@chance": "1.401231"
                     },
                     {
                       "@name": "LOOT_ARTEFACTS",
-                      "@chance": "0.066535"
+                      "@chance": "0.199606"
                     },
                     {
                       "@name": "HELL_FRAGMENT_LOOT",
-                      "@chance": "23.58975"
+                      "@chance": "70.769251"
                     }
                   ]
                 },
@@ -32582,34 +32582,34 @@
                   "@tier": "5",
                   "Item": [
                     {
-                      "@type": "T1_SILVERBAG_NONTRADABLE",
-                      "@chance": "26.4677"
+                      "@type": "T4_SILVERBAG_NONTRADABLE",
+                      "@chance": "7.94031"
                     },
                     {
                       "@type": "T4_SKILLBOOK_NONTRADABLE",
-                      "@chance": "1.556924"
+                      "@chance": "4.670771"
                     },
                     {
                       "@type": "T4_SKILLBOOK_STANDARD",
-                      "@chance": "0.518975"
+                      "@chance": "1.556924"
                     }
                   ],
                   "LootListReference": [
                     {
                       "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
-                      "@chance": "15.569235"
+                      "@chance": "46.707706"
                     },
                     {
                       "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
-                      "@chance": "0.467077"
+                      "@chance": "1.401231"
                     },
                     {
                       "@name": "LOOT_ARTEFACTS",
-                      "@chance": "0.066535"
+                      "@chance": "0.199606"
                     },
                     {
                       "@name": "HELL_FRAGMENT_LOOT",
-                      "@chance": "23.58975"
+                      "@chance": "70.769251"
                     }
                   ]
                 },
@@ -32617,34 +32617,34 @@
                   "@tier": "6",
                   "Item": [
                     {
-                      "@type": "T1_SILVERBAG_NONTRADABLE",
-                      "@chance": "26.4677"
+                      "@type": "T4_SILVERBAG_NONTRADABLE",
+                      "@chance": "7.94031"
                     },
                     {
                       "@type": "T4_SKILLBOOK_NONTRADABLE",
-                      "@chance": "1.556924"
+                      "@chance": "4.670771"
                     },
                     {
                       "@type": "T4_SKILLBOOK_STANDARD",
-                      "@chance": "0.518975"
+                      "@chance": "1.556924"
                     }
                   ],
                   "LootListReference": [
                     {
                       "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
-                      "@chance": "15.569235"
+                      "@chance": "46.707706"
                     },
                     {
                       "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
-                      "@chance": "0.467077"
+                      "@chance": "1.401231"
                     },
                     {
                       "@name": "LOOT_ARTEFACTS",
-                      "@chance": "0.066535"
+                      "@chance": "0.199606"
                     },
                     {
                       "@name": "HELL_FRAGMENT_LOOT",
-                      "@chance": "23.58975"
+                      "@chance": "70.769251"
                     }
                   ]
                 },
@@ -32652,34 +32652,34 @@
                   "@tier": "7",
                   "Item": [
                     {
-                      "@type": "T1_SILVERBAG_NONTRADABLE",
-                      "@chance": "26.4677"
+                      "@type": "T4_SILVERBAG_NONTRADABLE",
+                      "@chance": "7.94031"
                     },
                     {
                       "@type": "T4_SKILLBOOK_NONTRADABLE",
-                      "@chance": "1.556924"
+                      "@chance": "4.670771"
                     },
                     {
                       "@type": "T4_SKILLBOOK_STANDARD",
-                      "@chance": "0.518975"
+                      "@chance": "1.556924"
                     }
                   ],
                   "LootListReference": [
                     {
                       "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
-                      "@chance": "15.569235"
+                      "@chance": "46.707706"
                     },
                     {
                       "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
-                      "@chance": "0.467077"
+                      "@chance": "1.401231"
                     },
                     {
                       "@name": "LOOT_ARTEFACTS",
-                      "@chance": "0.066535"
+                      "@chance": "0.199606"
                     },
                     {
                       "@name": "HELL_FRAGMENT_LOOT",
-                      "@chance": "23.58975"
+                      "@chance": "70.769251"
                     }
                   ]
                 },
@@ -32687,34 +32687,34 @@
                   "@tier": "8",
                   "Item": [
                     {
-                      "@type": "T1_SILVERBAG_NONTRADABLE",
-                      "@chance": "26.4677"
+                      "@type": "T4_SILVERBAG_NONTRADABLE",
+                      "@chance": "7.94031"
                     },
                     {
                       "@type": "T4_SKILLBOOK_NONTRADABLE",
-                      "@chance": "1.556924"
+                      "@chance": "4.670771"
                     },
                     {
                       "@type": "T4_SKILLBOOK_STANDARD",
-                      "@chance": "0.518975"
+                      "@chance": "1.556924"
                     }
                   ],
                   "LootListReference": [
                     {
                       "@name": "OUTLAND_TREASURES_BLACKMARKET_LOOT",
-                      "@chance": "15.569235"
+                      "@chance": "46.707706"
                     },
                     {
                       "@name": "OUTLAND_TREASURES_TREASURE_LOOT",
-                      "@chance": "0.467077"
+                      "@chance": "1.401231"
                     },
                     {
                       "@name": "LOOT_ARTEFACTS",
-                      "@chance": "0.066535"
+                      "@chance": "0.199606"
                     },
                     {
                       "@name": "HELL_FRAGMENT_LOOT",
-                      "@chance": "23.58975"
+                      "@chance": "70.769251"
                     }
                   ]
                 }

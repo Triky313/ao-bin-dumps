@@ -22,6 +22,8 @@
       "@openworldexitportalalivetimer": "30",
       "@clustershutdowncountdowntimer": "300",
       "@wispsspawninsecbeforeclustershutdown": "300",
+      "@wispsstaggeredspawninterval": "60",
+      "@wispsstaggeredspawnintervalstart": "60",
       "@cityroadsentrancepartybindingtimer": "300",
       "@cityroadsentrancepartyslots": "5",
       "@cityroadsentrancedefaultnoslotsuseddummyclusterid": "TNL-001",
@@ -146,15 +148,15 @@
             "subtype": [
               {
                 "@name": "CHEST",
-                "@rolls": "2",
-                "@chance": "0.26132404",
+                "@rolls": "1",
+                "@chance": "0.454357826",
                 "@initialblocktimeseconds": "60",
                 "@finalblocktimeseconds": "360"
               },
               {
                 "@name": "WISPS",
                 "@rolls": "1",
-                "@chance": "0.35",
+                "@chance": "0.8",
                 "@initialblocktimeseconds": "60",
                 "@finalblocktimeseconds": "420"
               },
@@ -168,7 +170,7 @@
               {
                 "@name": "MYTHICALMOBS",
                 "@rolls": "2",
-                "@chance": "0.110695",
+                "@chance": "0.38406352",
                 "@initialblocktimeseconds": "60",
                 "@finalblocktimeseconds": "420"
               },
@@ -278,15 +280,15 @@
             "subtype": [
               {
                 "@name": "CHEST",
-                "@rolls": "2",
-                "@chance": "0.26595745",
+                "@rolls": "1",
+                "@chance": "0.461181535",
                 "@initialblocktimeseconds": "60",
                 "@finalblocktimeseconds": "360"
               },
               {
                 "@name": "WISPS",
                 "@rolls": "1",
-                "@chance": "0.35",
+                "@chance": "0.8",
                 "@initialblocktimeseconds": "60",
                 "@finalblocktimeseconds": "420"
               },
@@ -300,7 +302,7 @@
               {
                 "@name": "MYTHICALMOBS",
                 "@rolls": "1",
-                "@chance": "0.068022",
+                "@chance": "0.2448792",
                 "@initialblocktimeseconds": "60",
                 "@finalblocktimeseconds": "420"
               },
@@ -410,15 +412,15 @@
             "subtype": [
               {
                 "@name": "CHEST",
-                "@rolls": "2",
-                "@chance": "0.26595745",
+                "@rolls": "1",
+                "@chance": "0.461181535",
                 "@initialblocktimeseconds": "60",
                 "@finalblocktimeseconds": "360"
               },
               {
                 "@name": "WISPS",
                 "@rolls": "1",
-                "@chance": "0.35",
+                "@chance": "0.8",
                 "@initialblocktimeseconds": "60",
                 "@finalblocktimeseconds": "420"
               },
@@ -432,7 +434,7 @@
               {
                 "@name": "MYTHICALMOBS",
                 "@rolls": "1",
-                "@chance": "0.068022",
+                "@chance": "0.2448792",
                 "@initialblocktimeseconds": "60",
                 "@finalblocktimeseconds": "420"
               },
@@ -4994,8 +4996,8 @@
       "resourcepool": [
         {
           "@name": "YELLOW",
-          "@mininitialfill": "0.2",
-          "@maxinitialfill": "0.4",
+          "@mininitialfill": "0.4",
+          "@maxinitialfill": "0.6",
           "resourcepooltier": [
             {
               "@tier": "4",
@@ -5626,8 +5628,8 @@
         },
         {
           "@name": "BLACK",
-          "@mininitialfill": "0.2",
-          "@maxinitialfill": "0.4",
+          "@mininitialfill": "0.4",
+          "@maxinitialfill": "0.6",
           "resourcepooltier": [
             {
               "@tier": "4",
@@ -6264,7 +6266,8 @@
           "@uniquename": "CAGED_WISP_MORGANA",
           "@cageopendurationsec": "3",
           "rewards": {
-            "famepoints": {
+            "pvekillfame": {
+              "@tier": "4",
               "@points": "780",
               "@scalewithclusterquestfactor": "true"
             },
@@ -6278,7 +6281,8 @@
           "@uniquename": "CAGED_WISP_HERETIC",
           "@cageopendurationsec": "3",
           "rewards": {
-            "famepoints": {
+            "pvekillfame": {
+              "@tier": "4",
               "@points": "780",
               "@scalewithclusterquestfactor": "true"
             },
@@ -6292,7 +6296,8 @@
           "@uniquename": "CAGED_WISP_UNDEAD",
           "@cageopendurationsec": "3",
           "rewards": {
-            "famepoints": {
+            "pvekillfame": {
+              "@tier": "4",
               "@points": "780",
               "@scalewithclusterquestfactor": "true"
             },
