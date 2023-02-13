@@ -1355,7 +1355,7 @@
     </rewards>
   </quest>
 
-  <quest uniquename="MISSIONS_T2_TUTORIAL_GATHERING_FIBER_REFINING" mobfaction="ROYALARMY" title="@MISSIONS_T2_TUTORIAL_GATHERING_FIBER_REFINING_TITLE" offertext="@MISSIONS_T2_TUTORIAL_GATHERING_FIBER_REFINING_OFFERTEXT" progresstext="@MISSIONS_T2_TUTORIAL_GATHERING_FIBER_REFINING_PROGRESSTEXT" priority="1" minlevel="1" maxlevel="2" tags="crafter" offertimeout="0" questtimeout="3600000" questslotcooldown="0" uicategory="PROMOTION" onceonly="true" previousquests="MISSIONS_T2_TUTORIAL_GATHERING_FIBER" requiresonlyonepreviousquest="true" completetext="@MISSIONS_T2_TUTORIAL_GATHERING_FIBER_REFINING_COMPLETIONTEXT">
+  <quest uniquename="MISSIONS_T2_TUTORIAL_GATHERING_FIBER_REFINING" mobfaction="ROYALARMY" title="@MISSIONS_T2_TUTORIAL_GATHERING_FIBER_REFINING_TITLE" offertext="@MISSIONS_T2_TUTORIAL_GATHERING_FIBER_REFINING_OFFERTEXT" progresstext="@MISSIONS_T2_TUTORIAL_GATHERING_FIBER_REFINING_PROGRESSTEXT" priority="1" minlevel="1" maxlevel="2" tags="crafter" offertimeout="0" questtimeout="3600000" questslotcooldown="0" uicategory="PROMOTION" onceonly="true" previousquests="MISSIONS_T2_TUTORIAL_GATHERING_FIBER" requiresonlyonepreviousquest="true" completetext="@MISSIONS_T2_TUTORIAL_GATHERING_FIBER_REFINING_COMPLETIONTEXT" cancelable="false">
     <variables>
       <dynamiccluster name="LOCATION_A">
         <distancetocluster mindistance="1" maxdistance="1" />
@@ -4817,7 +4817,7 @@ Light-->
     </rewards>
   </quest>
 
-  <quest uniquename="MISSIONS_T2_TUTORIAL_GATHERING_ORE_REFINING" mobfaction="ROYALARMY" title="@MISSIONS_T2_TUTORIAL_GATHERING_ORE_REFINING_TITLE" offertext="@MISSIONS_T2_TUTORIAL_GATHERING_ORE_REFINING_OFFERTEXT" progresstext="@MISSIONS_T2_TUTORIAL_GATHERING_ORE_REFINING_PROGRESSTEXT" priority="1" minlevel="1" maxlevel="2" tags="crafter" offertimeout="0" questtimeout="3600000" questslotcooldown="0" uicategory="PROMOTION" onceonly="true" previousquests="MISSIONS_T2_TUTORIAL_GATHERING_ORE" requiresonlyonepreviousquest="true" completetext="@MISSIONS_T2_TUTORIAL_GATHERING_ORE_REFINING_COMPLETIONTEXT">
+  <quest uniquename="MISSIONS_T2_TUTORIAL_GATHERING_ORE_REFINING" mobfaction="ROYALARMY" title="@MISSIONS_T2_TUTORIAL_GATHERING_ORE_REFINING_TITLE" offertext="@MISSIONS_T2_TUTORIAL_GATHERING_ORE_REFINING_OFFERTEXT" progresstext="@MISSIONS_T2_TUTORIAL_GATHERING_ORE_REFINING_PROGRESSTEXT" priority="1" minlevel="1" maxlevel="2" tags="crafter" offertimeout="0" questtimeout="3600000" questslotcooldown="0" uicategory="PROMOTION" onceonly="true" previousquests="MISSIONS_T2_TUTORIAL_GATHERING_ORE" requiresonlyonepreviousquest="true" completetext="@MISSIONS_T2_TUTORIAL_GATHERING_ORE_REFINING_COMPLETIONTEXT" cancelable="false">
     <variables>
       <dynamiccluster name="LOCATION_A">
         <distancetocluster mindistance="1" maxdistance="1" />
@@ -4922,7 +4922,7 @@ Light-->
     </rewards>
   </quest>
 
-  <quest uniquename="MISSIONS_T2_TUTORIAL_GATHERING_ROCK_REFINING" mobfaction="ROYALARMY" title="@MISSIONS_T2_TUTORIAL_GATHERING_ROCK_REFINING_TITLE" offertext="@MISSIONS_T2_TUTORIAL_GATHERING_ROCK_REFINING_OFFERTEXT" progresstext="@MISSIONS_T2_TUTORIAL_GATHERING_ROCK_REFINING_PROGRESSTEXT" priority="1" minlevel="1" maxlevel="2" tags="crafter" offertimeout="0" questtimeout="3600000" questslotcooldown="0" uicategory="PROMOTION" onceonly="true" previousquests="MISSIONS_T2_TUTORIAL_GATHERING_ROCK" requiresonlyonepreviousquest="true" completetext="@MISSIONS_T2_TUTORIAL_GATHERING_ROCK_REFINING_COMPLETIONTEXT">
+  <quest uniquename="MISSIONS_T2_TUTORIAL_GATHERING_ROCK_REFINING" mobfaction="ROYALARMY" title="@MISSIONS_T2_TUTORIAL_GATHERING_ROCK_REFINING_TITLE" offertext="@MISSIONS_T2_TUTORIAL_GATHERING_ROCK_REFINING_OFFERTEXT" progresstext="@MISSIONS_T2_TUTORIAL_GATHERING_ROCK_REFINING_PROGRESSTEXT" priority="1" minlevel="1" maxlevel="2" tags="crafter" offertimeout="0" questtimeout="3600000" questslotcooldown="0" uicategory="PROMOTION" onceonly="true" previousquests="MISSIONS_T2_TUTORIAL_GATHERING_ROCK" requiresonlyonepreviousquest="true" completetext="@MISSIONS_T2_TUTORIAL_GATHERING_ROCK_REFINING_COMPLETIONTEXT" cancelable="false">
     <variables>
       <dynamiccluster name="LOCATION_A">
         <distancetocluster mindistance="1" maxdistance="1" />
@@ -5028,7 +5028,7 @@ Light-->
     </rewards>
   </quest>
 
-  <quest uniquename="MISSIONS_T2_TUTORIAL_GATHERING_WOOD_REFINING" mobfaction="ROYALARMY" title="@MISSIONS_T2_TUTORIAL_GATHERING_WOOD_REFINING_TITLE" offertext="@MISSIONS_T2_TUTORIAL_GATHERING_WOOD_REFINING_OFFERTEXT" progresstext="@MISSIONS_T2_TUTORIAL_GATHERING_WOOD_REFINING_PROGRESSTEXT" priority="1" minlevel="1" maxlevel="2" tags="crafter" offertimeout="0" questtimeout="3600000" questslotcooldown="0" uicategory="PROMOTION" onceonly="true" previousquests="MISSIONS_T2_TUTORIAL_GATHERING_WOOD" requiresonlyonepreviousquest="true" completetext="@MISSIONS_T2_TUTORIAL_GATHERING_WOOD_REFINING_COMPLETIONTEXT">
+  <quest uniquename="MISSIONS_T2_TUTORIAL_GATHERING_WOOD_REFINING" mobfaction="ROYALARMY" title="@MISSIONS_T2_TUTORIAL_GATHERING_WOOD_REFINING_TITLE" offertext="@MISSIONS_T2_TUTORIAL_GATHERING_WOOD_REFINING_OFFERTEXT" progresstext="@MISSIONS_T2_TUTORIAL_GATHERING_WOOD_REFINING_PROGRESSTEXT" priority="1" minlevel="1" maxlevel="2" tags="crafter" offertimeout="0" questtimeout="3600000" questslotcooldown="0" uicategory="PROMOTION" onceonly="true" previousquests="MISSIONS_T2_TUTORIAL_GATHERING_WOOD" requiresonlyonepreviousquest="true" completetext="@MISSIONS_T2_TUTORIAL_GATHERING_WOOD_REFINING_COMPLETIONTEXT" cancelable="false">
     <variables>
       <dynamiccluster name="LOCATION_A">
         <distancetocluster mindistance="1" maxdistance="1" />
@@ -5134,7 +5134,7 @@ Light-->
     </rewards>
   </quest>
 
-  <quest uniquename="MISSIONS_T2_TUTORIAL_GATHERING_HIDE_REFINING" mobfaction="ROYALARMY" title="@MISSIONS_T2_TUTORIAL_GATHERING_HIDE_REFINING_TITLE" offertext="@MISSIONS_T2_TUTORIAL_GATHERING_HIDE_REFINING_OFFERTEXT" progresstext="@MISSIONS_T2_TUTORIAL_GATHERING_HIDE_REFINING_PROGRESSTEXT" priority="1" minlevel="1" maxlevel="2" tags="crafter" offertimeout="0" questtimeout="3600000" questslotcooldown="0" uicategory="PROMOTION" onceonly="true" previousquests="MISSIONS_T2_TUTORIAL_GATHERING_HIDE" requiresonlyonepreviousquest="true" completetext="@MISSIONS_T2_TUTORIAL_GATHERING_HIDE_REFINING_COMPLETIONTEXT">
+  <quest uniquename="MISSIONS_T2_TUTORIAL_GATHERING_HIDE_REFINING" mobfaction="ROYALARMY" title="@MISSIONS_T2_TUTORIAL_GATHERING_HIDE_REFINING_TITLE" offertext="@MISSIONS_T2_TUTORIAL_GATHERING_HIDE_REFINING_OFFERTEXT" progresstext="@MISSIONS_T2_TUTORIAL_GATHERING_HIDE_REFINING_PROGRESSTEXT" priority="1" minlevel="1" maxlevel="2" tags="crafter" offertimeout="0" questtimeout="3600000" questslotcooldown="0" uicategory="PROMOTION" onceonly="true" previousquests="MISSIONS_T2_TUTORIAL_GATHERING_HIDE" requiresonlyonepreviousquest="true" completetext="@MISSIONS_T2_TUTORIAL_GATHERING_HIDE_REFINING_COMPLETIONTEXT" cancelable="false">
     <variables>
       <dynamiccluster name="LOCATION_A">
         <distancetocluster mindistance="1" maxdistance="1" />
@@ -5199,56 +5199,62 @@ Light-->
   <!-- Below here are local quests, those only are only cluster/area local and use a different system than the quest system -->  
   <localquest uniquename="LOCAL_QUEST_MISTS_MEDIUM_HERETIC" name="@LOCAL_QUEST_CAMP_MEDIUM_HERETIC" type="mobcampquestbig" visibleonminimapbeforevisit="false">
     <missions>
-      <killmobfame value="2275" scalewithclusterquestfactor="true" faction="HERETIC" countpartykillsinsamelocalquestarea="true" />
+      <killmobfame value="4550" scalewithclusterquestfactor="true" faction="HERETIC" countpartykillsinsamelocalquestarea="true" />
     </missions>
     <rewards>
-      <pvekillfame tier="4" points="2768" scalewithclusterquestfactor="true"/>
-      <mistsfactionstanding points="233" scalewithclusterquestfactor="true"/>
+      <pvekillfame tier="4" points="5536" scalewithclusterquestfactor="true"/>
+      <mistsfactionstanding points="466" scalewithclusterquestfactor="true"/>
+      <pvpchallengeobjective objectivename="PVPCHALLENGE_MISTS_CAMP_MEDIUM"/>
     </rewards>
   </localquest>
   <localquest uniquename="LOCAL_QUEST_MISTS_MEDIUM_UNDEAD" name="@LOCAL_QUEST_CAMP_MEDIUM_UNDEAD" type="mobcampquestbig" visibleonminimapbeforevisit="false">
     <missions>
-      <killmobfame value="2275" scalewithclusterquestfactor="true" faction="UNDEAD" countpartykillsinsamelocalquestarea="true" />
+      <killmobfame value="4550" scalewithclusterquestfactor="true" faction="UNDEAD" countpartykillsinsamelocalquestarea="true" />
     </missions>
     <rewards>
-      <pvekillfame tier="4" points="2768" scalewithclusterquestfactor="true"/>
-      <mistsfactionstanding points="233" scalewithclusterquestfactor="true"/>
+      <pvekillfame tier="4" points="5536" scalewithclusterquestfactor="true"/>
+      <mistsfactionstanding points="466" scalewithclusterquestfactor="true"/>
+      <pvpchallengeobjective objectivename="PVPCHALLENGE_MISTS_CAMP_MEDIUM"/>
     </rewards>
   </localquest>
   <localquest uniquename="LOCAL_QUEST_MISTS_MEDIUM_MORGANA" name="@LOCAL_QUEST_CAMP_MEDIUM_MORGANA" type="mobcampquestbig" visibleonminimapbeforevisit="false">
     <missions>
-      <killmobfame value="2275" scalewithclusterquestfactor="true" faction="MORGANA" countpartykillsinsamelocalquestarea="true" />
+      <killmobfame value="4550" scalewithclusterquestfactor="true" faction="MORGANA" countpartykillsinsamelocalquestarea="true" />
     </missions>
     <rewards>
-      <pvekillfame tier="4" points="2768" scalewithclusterquestfactor="true"/>
-      <mistsfactionstanding points="233" scalewithclusterquestfactor="true"/>
+      <pvekillfame tier="4" points="5536" scalewithclusterquestfactor="true"/>
+      <mistsfactionstanding points="466" scalewithclusterquestfactor="true"/>
+      <pvpchallengeobjective objectivename="PVPCHALLENGE_MISTS_CAMP_MEDIUM"/>
     </rewards>
   </localquest>
   <localquest uniquename="LOCAL_QUEST_MISTS_SMALL_HERETIC" name="@LOCAL_QUEST_CAMP_SMALL_HERETIC" type="mobcampquestsmall" visibleonminimapbeforevisit="false">
     <missions>
-      <killmobfame value="1040" scalewithclusterquestfactor="true" faction="HERETIC" countpartykillsinsamelocalquestarea="true" />
+      <killmobfame value="1664" scalewithclusterquestfactor="true" faction="HERETIC" countpartykillsinsamelocalquestarea="true" />
     </missions>
     <rewards>
-      <pvekillfame tier="4" points="1265" scalewithclusterquestfactor="true"/>
-      <mistsfactionstanding points="106" scalewithclusterquestfactor="true"/>
+      <pvekillfame tier="4" points="2024" scalewithclusterquestfactor="true"/>
+      <mistsfactionstanding points="170" scalewithclusterquestfactor="true"/>
+      <pvpchallengeobjective objectivename="PVPCHALLENGE_MISTS_CAMP_SMALL"/>
     </rewards>
   </localquest>
   <localquest uniquename="LOCAL_QUEST_MISTS_SMALL_UNDEAD" name="@LOCAL_QUEST_CAMP_SMALL_UNDEAD" type="mobcampquestsmall" visibleonminimapbeforevisit="false">
     <missions>
-      <killmobfame value="1040" scalewithclusterquestfactor="true" faction="UNDEAD" countpartykillsinsamelocalquestarea="true" />
+      <killmobfame value="1664" scalewithclusterquestfactor="true" faction="UNDEAD" countpartykillsinsamelocalquestarea="true" />
     </missions>
     <rewards>
-      <pvekillfame tier="4" points="1265" scalewithclusterquestfactor="true"/>
-      <mistsfactionstanding points="106" scalewithclusterquestfactor="true"/>
+      <pvekillfame tier="4" points="2024" scalewithclusterquestfactor="true"/>
+      <mistsfactionstanding points="170" scalewithclusterquestfactor="true"/>
+      <pvpchallengeobjective objectivename="PVPCHALLENGE_MISTS_CAMP_SMALL"/>
     </rewards>
   </localquest>
   <localquest uniquename="LOCAL_QUEST_MISTS_SMALL_MORGANA" name="@LOCAL_QUEST_CAMP_SMALL_MORGANA" type="mobcampquestsmall" visibleonminimapbeforevisit="false">
     <missions>
-      <killmobfame value="1040" scalewithclusterquestfactor="true" faction="MORGANA" countpartykillsinsamelocalquestarea="true" />
+      <killmobfame value="1664" scalewithclusterquestfactor="true" faction="MORGANA" countpartykillsinsamelocalquestarea="true" />
     </missions>
     <rewards>
-      <pvekillfame tier="4" points="1265" scalewithclusterquestfactor="true"/>
-      <mistsfactionstanding points="106" scalewithclusterquestfactor="true"/>
+      <pvekillfame tier="4" points="2024" scalewithclusterquestfactor="true"/>
+      <mistsfactionstanding points="170" scalewithclusterquestfactor="true"/>
+      <pvpchallengeobjective objectivename="PVPCHALLENGE_MISTS_CAMP_SMALL"/>
     </rewards>
   </localquest>
 </quests>

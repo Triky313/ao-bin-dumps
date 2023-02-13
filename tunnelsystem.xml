@@ -12,7 +12,7 @@
     />
     <tunnelexittype 
 	  name="GROUP"
-	  maxcharges="6"
+	  maxcharges="7"
 	  timeperchargeupmin="600"
 	  timeperchargeupmax="600"
     usedconnectionduration="600"
@@ -126,31 +126,27 @@
       <outgoingConnectionWeighting outgoingConnectionKeyword="Tunnel_Hideout_Deep" weight="33"/>
     </tunnelexitpreset>
     <tunnelexitpreset name="OUT_TUNNEL_HIDEOUT" outgoingConnectionChance="1">
-      <outgoingConnectionWeighting outgoingConnectionKeyword="Royalzone_Entrance" weight="31"/>
-      <outgoingConnectionWeighting outgoingConnectionKeyword="Blackzone_Entrance_Low" weight="47"/>
-      <outgoingConnectionWeighting outgoingConnectionKeyword="Blackzone_Entrance_Medium" weight="14"/>
-      <outgoingConnectionWeighting outgoingConnectionKeyword="Blackzone_Entrance_High" weight="8"/>
+      <outgoingConnectionWeighting outgoingConnectionKeyword="Royalzone_Entrance" weight="30"/>
+      <outgoingConnectionWeighting outgoingConnectionKeyword="Blackzone_Entrance_Low" weight="45"/>
+      <outgoingConnectionWeighting outgoingConnectionKeyword="Blackzone_Entrance_Medium" weight="16"/>
+      <outgoingConnectionWeighting outgoingConnectionKeyword="Blackzone_Entrance_High" weight="9"/>
     </tunnelexitpreset>
     <tunnelexitpreset name="OUT_TUNNEL_HIDEOUT_DEEP" outgoingConnectionChance="1">
       <outgoingConnectionWeighting outgoingConnectionKeyword="Tunnel_Low" weight="75"/>
       <outgoingConnectionWeighting outgoingConnectionKeyword="Tunnel_Medium" weight="15"/>
       <outgoingConnectionWeighting outgoingConnectionKeyword="Tunnel_High" weight="10"/>
     </tunnelexitpreset>
-    <tunnelexitpreset name="OUT_TUNNEL_HIDEOUT_ALL" outgoingConnectionChance="0.25">
-      <outgoingConnectionWeighting outgoingConnectionKeyword="Tunnel_Deep_Raid" weight="63"/>
-      <outgoingConnectionWeighting outgoingConnectionKeyword="Blackzone_Entrance_Low" weight="10"/>
-      <outgoingConnectionWeighting outgoingConnectionKeyword="Blackzone_Entrance_Medium" weight="3"/>
-      <outgoingConnectionWeighting outgoingConnectionKeyword="Blackzone_Entrance_High" weight="2"/>
-      <outgoingConnectionWeighting outgoingConnectionKeyword="Tunnel_Hideout" weight="16"/>
-      <outgoingConnectionWeighting outgoingConnectionKeyword="Tunnel_Hideout_Deep" weight="6"/>
+    <tunnelexitpreset name="OUT_TUNNEL_HIDEOUT_ALL" outgoingConnectionChance="0.35">
+      <outgoingConnectionWeighting outgoingConnectionKeyword="Tunnel_Deep_Raid" weight="90"/>
+      <outgoingConnectionWeighting outgoingConnectionKeyword="Blackzone_Entrance_Low" weight="7"/>
+      <outgoingConnectionWeighting outgoingConnectionKeyword="Blackzone_Entrance_Medium" weight="2"/>
+      <outgoingConnectionWeighting outgoingConnectionKeyword="Blackzone_Entrance_High" weight="1"/>
     </tunnelexitpreset>
-    <tunnelexitpreset name="OUT_TUNNEL_HIDEOUT_DEEP_ALL" outgoingConnectionChance="0.25">
-      <outgoingConnectionWeighting outgoingConnectionKeyword="Tunnel_Deep_Raid" weight="69"/>
-      <outgoingConnectionWeighting outgoingConnectionKeyword="Tunnel_Low" weight="5"/>
-      <outgoingConnectionWeighting outgoingConnectionKeyword="Tunnel_Medium" weight="1"/>
+    <tunnelexitpreset name="OUT_TUNNEL_HIDEOUT_DEEP_ALL" outgoingConnectionChance="0.35">
+      <outgoingConnectionWeighting outgoingConnectionKeyword="Tunnel_Deep_Raid" weight="90"/>
+      <outgoingConnectionWeighting outgoingConnectionKeyword="Tunnel_Low" weight="7"/>
+      <outgoingConnectionWeighting outgoingConnectionKeyword="Tunnel_Medium" weight="2"/>
       <outgoingConnectionWeighting outgoingConnectionKeyword="Tunnel_High" weight="1"/>
-      <outgoingConnectionWeighting outgoingConnectionKeyword="Tunnel_Hideout" weight="17"/>
-      <outgoingConnectionWeighting outgoingConnectionKeyword="Tunnel_Hideout_Deep" weight="7"/>
     </tunnelexitpreset>
 
   </tunnelexitpresets>
@@ -292,7 +288,7 @@
         <exit weight="1" tunnelexitpreset="OUT_TUNNEL_DEEP_SECONDARY"/>
 			</exits>
 		</tunnelpreset>
-    <tunnelpreset name="TUNNEL_DEEP_RAID" incomingConnectionKeyword="Tunnel_Deep_Raid" minExits="2" maxExits="2" dialsymbol="RAID">
+    <tunnelpreset name="TUNNEL_DEEP_RAID" incomingConnectionKeyword="Tunnel_Deep_Raid" minExits="4" maxExits="4" dialsymbol="RAID">
       <incomingConnectionWeightings>
         <type name="RAID" weight="1"/>
       </incomingConnectionWeightings>

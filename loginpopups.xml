@@ -7,35 +7,74 @@
       <text tag="@LOGIN_POPUP_GENERAL_TERMS_AND_CONDITIONS"/>
       <text tag="@LOGIN_POPUP_GENERAL_TERMS_AND_CONDITIONS_2"/>
       <text tag="@LOGIN_POPUP_GENERAL_TERMS_AND_CONDITIONS_3"/>
-      <version language="EN-US" version="6.3"/>
-      <version language="DE-DE" version="6.3"/>
-      <version language="FR-FR" version="6.3"/>
-      <version language="RU-RU" version="6.3"/>
-      <version language="PL-PL" version="6.3"/>
-      <version language="ES-ES" version="6.3"/>
-      <version language="PT-BR" version="6.3"/>
-      <version language="ZH-CN" version="6.3"/>
-      <version language="KO-KR" version="6.3"/>
-      <version language="JA-JP" version="6.3"/>
-      <version language="IT-IT" version="6.3"/>
+      <version language="EN-US" version="6.4"/>
+      <version language="DE-DE" version="6.4"/>
+      <version language="FR-FR" version="6.4"/>
+      <version language="RU-RU" version="6.4"/>
+      <version language="PL-PL" version="6.4"/>
+      <version language="ES-ES" version="6.4"/>
+      <version language="PT-BR" version="6.4"/>
+      <version language="ZH-CN" version="6.4"/>
+      <version language="KO-KR" version="6.4"/>
+      <version language="JA-JP" version="6.4"/>
+      <version language="IT-IT" version="6.4"/>
+      <version language="ZH-TW" version="6.4"/>
+      <version language="ID-ID" version="6.4"/>
+    </consentpoint>
+    
+    <consentpoint togglelabel="@LOGIN_POPUP_PERSONAL_DATA_TITLE" tag="DATA" toggledefaultstate="false" country-iso-code-3="KOR">
+      <version language="EN-US" version="1.0"/>
+      <version language="DE-DE" version="1.0"/>
+      <version language="FR-FR" version="1.0"/>
+      <version language="RU-RU" version="1.0"/>
+      <version language="PL-PL" version="1.0"/>
+      <version language="ES-ES" version="1.0"/>
+      <version language="PT-BR" version="1.0"/>
+      <version language="ZH-CN" version="1.0"/>
+      <version language="KO-KR" version="1.0"/>
+      <version language="JA-JP" version="1.0"/>
+      <version language="IT-IT" version="1.0"/>
+      <version language="ZH-TW" version="1.0"/>
+      <version language="ID-ID" version="1.0"/>
+      <subtext tag="@LOGIN_POPUP_PERSONAL_DATA_SUBTEXT"/>
     </consentpoint>
 
+    <consentpoint togglelabel="@LOGIN_POPUP_LEGAL_AGE_TITLE" tag="AGE" toggledefaultstate="false" country-iso-code-3="KOR">
+      <version language="EN-US" version="1.0"/>
+      <version language="DE-DE" version="1.0"/>
+      <version language="FR-FR" version="1.0"/>
+      <version language="RU-RU" version="1.0"/>
+      <version language="PL-PL" version="1.0"/>
+      <version language="ES-ES" version="1.0"/>
+      <version language="PT-BR" version="1.0"/>
+      <version language="ZH-CN" version="1.0"/>
+      <version language="KO-KR" version="1.0"/>
+      <version language="JA-JP" version="1.0"/>
+      <version language="IT-IT" version="1.0"/>
+      <version language="ZH-TW" version="1.0"/>
+      <version language="ID-ID" version="1.0"/>
+    </consentpoint>
+    
     <consentpoint togglelabel="@LOGIN_POPUP_PRIVACY_POLICY_TITLE" tag="PP" toggledefaultstate="false">
       <text tag="@LOGIN_POPUP_PRIVACY_POLICY"/>
       <text tag="@LOGIN_POPUP_PRIVACY_POLICY_2"/>
-      <version language="EN-US" version="1.10"/>
-      <version language="DE-DE" version="1.10"/>
-      <version language="FR-FR" version="1.9"/>
-      <version language="RU-RU" version="1.9"/>
-      <version language="PL-PL" version="1.9"/>
-      <version language="ES-ES" version="1.9"/>
-      <version language="PT-BR" version="1.9"/>
-      <version language="ZH-CN" version="1.9"/>
-      <version language="KO-KR" version="1.9"/>
-      <version language="JA-JP" version="1.9"/>
-      <version language="IT-IT" version="1.9"/>
+      <text tag="@LOGIN_POPUP_PRIVACY_POLICY_3"/>
+      <version language="EN-US" version="2.1"/>
+      <version language="DE-DE" version="2.1"/>
+      <version language="FR-FR" version="2.1"/>
+      <version language="RU-RU" version="2.1"/>
+      <version language="PL-PL" version="2.1"/>
+      <version language="ES-ES" version="2.1"/>
+      <version language="PT-BR" version="2.1"/>
+      <version language="ZH-CN" version="2.1"/>
+      <version language="KO-KR" version="2.1"/>
+      <version language="JA-JP" version="2.1"/>
+      <version language="IT-IT" version="2.1"/>
+      <version language="ZH-TW" version="2.1"/>
+      <version language="ID-ID" version="2.1"/>
     </consentpoint>
   </loginpopupconsentlist>
+
 
   <loginpopupconsentlist headnote="@LOGINGUI_CONSENTLIST_STAY_INFORMED">
     
@@ -48,12 +87,14 @@
       <version language="ES-ES" version="6.2"/>
       <version language="PT-BR" version="6.2"/>
       <version language="ZH-CN" version="6.2"/>
-      <version language="KO-KR" version="6.2"/>
+      <version language="KO-KR" version="6.21"/>
       <version language="JA-JP" version="6.2"/>
       <version language="IT-IT" version="6.2"/>
+      <version language="ZH-TW" version="6.2"/>
+      <version language="ID-ID" version="6.2"/>
     </consentpoint>
  
-    <consentpoint togglelabel="@LOGIN_POPUP_SOCIAL_MEDIA_TITLE" tag="SM" acceptingoptional="true" toggledefaultstate="false">
+    <consentpoint togglelabel="@LOGIN_POPUP_SOCIAL_MEDIA_TITLE" tag="SM" acceptingoptional="true" toggledefaultstate="false" >
       <text tag="@LOGIN_POPUP_SOCIAL_MEDIA_CONTENT"/>
       <version language="EN-US" version="1.1"/>
       <version language="DE-DE" version="1.1"/>
@@ -63,15 +104,18 @@
       <version language="ES-ES" version="1.1"/>
       <version language="PT-BR" version="1.1"/>
       <version language="ZH-CN" version="1.1"/>
-      <version language="KO-KR" version="1.1"/>
+      <version language="KO-KR" version="1.11"/>
       <version language="JA-JP" version="1.1"/>
       <version language="IT-IT" version="1.1"/>
+      <version language="ZH-TW" version="1.1"/>
+      <version language="ID-ID" version="1.1"/>
+      <subtext tag="@LOGIN_POPUP_SOCIAL_MEDIA_SUBTEXT" country-iso-code-3="KOR"/>
     </consentpoint>
   </loginpopupconsentlist>
   
   <loginpopupconsentlist headnote="@LOGINGUI_CONSENTLIST_COLLECT_DATA">
 
-    <consentpoint togglelabel="@LOGIN_POPUP_APPSFLYER_LABEL" tag="MT" mobileonly="true" acceptingoptional="true" toggledefaultstate="false">
+    <consentpoint togglelabel="@LOGIN_POPUP_APPSFLYER_LABEL" tag="MT" mobileonly="true" acceptingoptional="true" toggledefaultstate="false" >
       <text tag="@LOGIN_POPUP_MOBILE_APPSFLYER_DETAILS"/>
       <version language="EN-US" version="1.1"/>
       <version language="DE-DE" version="1.1"/>
@@ -81,9 +125,12 @@
       <version language="ES-ES" version="1.1"/>
       <version language="PT-BR" version="1.1"/>
       <version language="ZH-CN" version="1.1"/>
-      <version language="KO-KR" version="1.1"/>
+      <version language="KO-KR" version="1.11"/>
       <version language="JA-JP" version="1.1"/>
       <version language="IT-IT" version="1.1"/>
+      <version language="ZH-TW" version="1.1"/>
+      <version language="ID-ID" version="1.1"/>
+      <subtext tag="@LOGIN_POPUP_AD_CAMPAIGN_SUBTEXT" country-iso-code-3="KOR"/>
     </consentpoint>
 
     <!--
@@ -100,6 +147,8 @@
       <version language="KO-KR" version="1.0"/>
       <version language="JA-JP" version="1.0"/>
       <version language="IT-IT" version="1.0"/>
+      <version language="ZH-TW" version="1.0"/>
+      <version language="ID-ID" version="1.0"/>
     </consentpoint>-->
   </loginpopupconsentlist>
 

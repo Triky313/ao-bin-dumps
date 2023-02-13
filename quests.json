@@ -3082,6 +3082,7 @@
         "@previousquests": "MISSIONS_T2_TUTORIAL_GATHERING_FIBER",
         "@requiresonlyonepreviousquest": "true",
         "@completetext": "@MISSIONS_T2_TUTORIAL_GATHERING_FIBER_REFINING_COMPLETIONTEXT",
+        "@cancelable": "false",
         "variables": {
           "dynamiccluster": {
             "@name": "LOCATION_A",
@@ -7222,6 +7223,7 @@
         "@previousquests": "MISSIONS_T2_TUTORIAL_GATHERING_ORE",
         "@requiresonlyonepreviousquest": "true",
         "@completetext": "@MISSIONS_T2_TUTORIAL_GATHERING_ORE_REFINING_COMPLETIONTEXT",
+        "@cancelable": "false",
         "variables": {
           "dynamiccluster": {
             "@name": "LOCATION_A",
@@ -7471,6 +7473,7 @@
         "@previousquests": "MISSIONS_T2_TUTORIAL_GATHERING_ROCK",
         "@requiresonlyonepreviousquest": "true",
         "@completetext": "@MISSIONS_T2_TUTORIAL_GATHERING_ROCK_REFINING_COMPLETIONTEXT",
+        "@cancelable": "false",
         "variables": {
           "dynamiccluster": {
             "@name": "LOCATION_A",
@@ -7720,6 +7723,7 @@
         "@previousquests": "MISSIONS_T2_TUTORIAL_GATHERING_WOOD",
         "@requiresonlyonepreviousquest": "true",
         "@completetext": "@MISSIONS_T2_TUTORIAL_GATHERING_WOOD_REFINING_COMPLETIONTEXT",
+        "@cancelable": "false",
         "variables": {
           "dynamiccluster": {
             "@name": "LOCATION_A",
@@ -7969,6 +7973,7 @@
         "@previousquests": "MISSIONS_T2_TUTORIAL_GATHERING_HIDE",
         "@requiresonlyonepreviousquest": "true",
         "@completetext": "@MISSIONS_T2_TUTORIAL_GATHERING_HIDE_REFINING_COMPLETIONTEXT",
+        "@cancelable": "false",
         "variables": {
           "dynamiccluster": {
             "@name": "LOCATION_A",
@@ -12256,7 +12261,7 @@
         "@visibleonminimapbeforevisit": "false",
         "missions": {
           "killmobfame": {
-            "@value": "2275",
+            "@value": "4550",
             "@scalewithclusterquestfactor": "true",
             "@faction": "HERETIC",
             "@countpartykillsinsamelocalquestarea": "true"
@@ -12265,12 +12270,15 @@
         "rewards": {
           "pvekillfame": {
             "@tier": "4",
-            "@points": "2768",
+            "@points": "5536",
             "@scalewithclusterquestfactor": "true"
           },
           "mistsfactionstanding": {
-            "@points": "233",
+            "@points": "466",
             "@scalewithclusterquestfactor": "true"
+          },
+          "pvpchallengeobjective": {
+            "@objectivename": "PVPCHALLENGE_MISTS_CAMP_MEDIUM"
           }
         }
       },
@@ -12281,7 +12289,7 @@
         "@visibleonminimapbeforevisit": "false",
         "missions": {
           "killmobfame": {
-            "@value": "2275",
+            "@value": "4550",
             "@scalewithclusterquestfactor": "true",
             "@faction": "UNDEAD",
             "@countpartykillsinsamelocalquestarea": "true"
@@ -12290,12 +12298,15 @@
         "rewards": {
           "pvekillfame": {
             "@tier": "4",
-            "@points": "2768",
+            "@points": "5536",
             "@scalewithclusterquestfactor": "true"
           },
           "mistsfactionstanding": {
-            "@points": "233",
+            "@points": "466",
             "@scalewithclusterquestfactor": "true"
+          },
+          "pvpchallengeobjective": {
+            "@objectivename": "PVPCHALLENGE_MISTS_CAMP_MEDIUM"
           }
         }
       },
@@ -12306,7 +12317,7 @@
         "@visibleonminimapbeforevisit": "false",
         "missions": {
           "killmobfame": {
-            "@value": "2275",
+            "@value": "4550",
             "@scalewithclusterquestfactor": "true",
             "@faction": "MORGANA",
             "@countpartykillsinsamelocalquestarea": "true"
@@ -12315,12 +12326,15 @@
         "rewards": {
           "pvekillfame": {
             "@tier": "4",
-            "@points": "2768",
+            "@points": "5536",
             "@scalewithclusterquestfactor": "true"
           },
           "mistsfactionstanding": {
-            "@points": "233",
+            "@points": "466",
             "@scalewithclusterquestfactor": "true"
+          },
+          "pvpchallengeobjective": {
+            "@objectivename": "PVPCHALLENGE_MISTS_CAMP_MEDIUM"
           }
         }
       },
@@ -12331,7 +12345,7 @@
         "@visibleonminimapbeforevisit": "false",
         "missions": {
           "killmobfame": {
-            "@value": "1040",
+            "@value": "1664",
             "@scalewithclusterquestfactor": "true",
             "@faction": "HERETIC",
             "@countpartykillsinsamelocalquestarea": "true"
@@ -12340,12 +12354,15 @@
         "rewards": {
           "pvekillfame": {
             "@tier": "4",
-            "@points": "1265",
+            "@points": "2024",
             "@scalewithclusterquestfactor": "true"
           },
           "mistsfactionstanding": {
-            "@points": "106",
+            "@points": "170",
             "@scalewithclusterquestfactor": "true"
+          },
+          "pvpchallengeobjective": {
+            "@objectivename": "PVPCHALLENGE_MISTS_CAMP_SMALL"
           }
         }
       },
@@ -12356,7 +12373,7 @@
         "@visibleonminimapbeforevisit": "false",
         "missions": {
           "killmobfame": {
-            "@value": "1040",
+            "@value": "1664",
             "@scalewithclusterquestfactor": "true",
             "@faction": "UNDEAD",
             "@countpartykillsinsamelocalquestarea": "true"
@@ -12365,12 +12382,15 @@
         "rewards": {
           "pvekillfame": {
             "@tier": "4",
-            "@points": "1265",
+            "@points": "2024",
             "@scalewithclusterquestfactor": "true"
           },
           "mistsfactionstanding": {
-            "@points": "106",
+            "@points": "170",
             "@scalewithclusterquestfactor": "true"
+          },
+          "pvpchallengeobjective": {
+            "@objectivename": "PVPCHALLENGE_MISTS_CAMP_SMALL"
           }
         }
       },
@@ -12381,7 +12401,7 @@
         "@visibleonminimapbeforevisit": "false",
         "missions": {
           "killmobfame": {
-            "@value": "1040",
+            "@value": "1664",
             "@scalewithclusterquestfactor": "true",
             "@faction": "MORGANA",
             "@countpartykillsinsamelocalquestarea": "true"
@@ -12390,12 +12410,15 @@
         "rewards": {
           "pvekillfame": {
             "@tier": "4",
-            "@points": "1265",
+            "@points": "2024",
             "@scalewithclusterquestfactor": "true"
           },
           "mistsfactionstanding": {
-            "@points": "106",
+            "@points": "170",
             "@scalewithclusterquestfactor": "true"
+          },
+          "pvpchallengeobjective": {
+            "@objectivename": "PVPCHALLENGE_MISTS_CAMP_SMALL"
           }
         }
       }

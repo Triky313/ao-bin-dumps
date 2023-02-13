@@ -39,10 +39,10 @@
         },
         {
           "@uniquename": "PVPCHALLENGE_CRYSTAL_SPIDER_MISTS",
-          "@objectivetype": "SPIDERS",
-          "@might": "500.894",
-          "@favor": "32.996",
-          "@mindivisor": "3",
+          "@personaltype": "SPIDERLINGS",
+          "@might": "1669.65",
+          "@favor": "109.99",
+          "@mindivisor": "2",
           "@usemobrewardfactor": "true"
         },
         {
@@ -197,6 +197,22 @@
           "@pvekillfame": "23136.596",
           "@pvekillfametier": "4",
           "@mistcitystanding": "2375.688",
+          "@usequestscalingfactor": "true"
+        },
+        {
+          "@uniquename": "PVPCHALLENGE_MISTS_CAMP_SMALL",
+          "@personaltype": "MISTCAMPS",
+          "@might": "32.384",
+          "@favor": "8.532",
+          "@mindivisor": "1",
+          "@usequestscalingfactor": "true"
+        },
+        {
+          "@uniquename": "PVPCHALLENGE_MISTS_CAMP_MEDIUM",
+          "@personaltype": "MISTCAMPS",
+          "@might": "88.576",
+          "@favor": "23.3398",
+          "@mindivisor": "1",
           "@usequestscalingfactor": "true"
         },
         {
@@ -866,6 +882,7 @@
     "weeklychallenge": {
       "@itemreward": "UNIQUE_LOOTCHEST_CONQUEROR_WEEKLY_REWARD",
       "@mightrequirement": "20000",
+      "@starttimeref": "DOWNTIME",
       "reward": [
         {
           "@mightrequirement": "5000",
@@ -1496,6 +1513,108 @@
           {
             "@mightrequirement": "1500000",
             "@item": "UNIQUE_AVATAR_GVGSEASON_18_CRYSTAL",
+            "@boughtpremium": "true",
+            "@premium": "false",
+            "@nonpremium": "false",
+            "@upgradeline": "2"
+          }
+        ]
+      },
+      {
+        "@uniquename": "GVG_SEASON_19",
+        "@displayname": "@SEASONS_SEASONNAME_SEASON_19",
+        "reward": [
+          {
+            "@mightrequirement": "10000",
+            "@item": "T4_GVGSEASONREWARD_FAMEBUFF",
+            "@boughtpremium": "true",
+            "@premium": "false",
+            "@nonpremium": "false",
+            "@upgradeline": "1"
+          },
+          {
+            "@mightrequirement": "30000",
+            "@item": "UNIQUE_AVATAR_GVGSEASON_19_BRONZE",
+            "@boughtpremium": "true",
+            "@premium": "false",
+            "@nonpremium": "false",
+            "@upgradeline": "2"
+          },
+          {
+            "@mightrequirement": "60000",
+            "@item": "T5_GVGSEASONREWARD_FAMEBUFF",
+            "@boughtpremium": "true",
+            "@premium": "false",
+            "@nonpremium": "false",
+            "@upgradeline": "1"
+          },
+          {
+            "@mightrequirement": "100000",
+            "@item": "UNIQUE_MOUNT_BASTION_SILVER",
+            "@boughtpremium": "true",
+            "@premium": "false",
+            "@nonpremium": "false",
+            "@upgradeline": "3"
+          },
+          {
+            "@mightrequirement": "145000",
+            "@item": "T6_GVGSEASONREWARD_FAMEBUFF",
+            "@boughtpremium": "true",
+            "@premium": "false",
+            "@nonpremium": "false",
+            "@upgradeline": "1"
+          },
+          {
+            "@mightrequirement": "200000",
+            "@item": "UNIQUE_AVATAR_GVGSEASON_19_SILVER",
+            "@boughtpremium": "true",
+            "@premium": "false",
+            "@nonpremium": "false",
+            "@upgradeline": "2"
+          },
+          {
+            "@mightrequirement": "260000",
+            "@item": "T7_GVGSEASONREWARD_FAMEBUFF",
+            "@boughtpremium": "true",
+            "@premium": "false",
+            "@nonpremium": "false",
+            "@upgradeline": "1"
+          },
+          {
+            "@mightrequirement": "330000",
+            "@item": "UNIQUE_MOUNT_BASTION_GOLD",
+            "@boughtpremium": "true",
+            "@premium": "false",
+            "@nonpremium": "false",
+            "@upgradeline": "3"
+          },
+          {
+            "@mightrequirement": "430000",
+            "@item": "T8_GVGSEASONREWARD_FAMEBUFF",
+            "@boughtpremium": "true",
+            "@premium": "false",
+            "@nonpremium": "false",
+            "@upgradeline": "1"
+          },
+          {
+            "@mightrequirement": "650000",
+            "@item": "UNIQUE_AVATAR_GVGSEASON_19_GOLD",
+            "@boughtpremium": "true",
+            "@premium": "false",
+            "@nonpremium": "false",
+            "@upgradeline": "2"
+          },
+          {
+            "@mightrequirement": "1000000",
+            "@item": "UNIQUE_MOUNT_BASTION_CRYSTAL",
+            "@boughtpremium": "true",
+            "@premium": "false",
+            "@nonpremium": "false",
+            "@upgradeline": "3"
+          },
+          {
+            "@mightrequirement": "1500000",
+            "@item": "UNIQUE_AVATAR_GVGSEASON_19_CRYSTAL",
             "@boughtpremium": "true",
             "@premium": "false",
             "@nonpremium": "false",

@@ -4,11 +4,29 @@
 <!-- Note: multiplying with 100 f now omitted for all values (silver, rv, fame, durability)  -->
 <AO-GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="gamedata.xsd">
   <ServerSettings>
+    <EarlyAccess>
+      <!-- BETA -->
+      <stage start="2023-2-20 11:00" end="2023-3-13 10:00">
+        <founder level="none" accessafterhours="672" />
+        <founder level="bronze" accessafterhours="0" />
+        <founder level="silver" accessafterhours="0" />
+        <founder level="gold" accessafterhours="0" />
+        <founder level="crystal" accessafterhours="0" />
+      </stage>
+      <!-- Asia Launch -->
+      <stage start="2023-3-15 11:00">
+        <founder level="none" accessafterhours="120" />
+        <founder level="bronze" accessafterhours="96" />
+        <founder level="silver" accessafterhours="48" />
+        <founder level="gold" accessafterhours="0" />
+        <founder level="crystal" accessafterhours="0" />
+      </stage>
+    </EarlyAccess>
     <MiniMap zergcellsize="40.0" zergmingroupsize="11" maxplayerspermsg="30" staticdungeonminimapdisplayinterestareamodifier="115"/>
     <ClientUpdate moveupdateinms="100" />
     <Items vanishtimeforunuseditems="432000" />
     <Guild 
-    cost="100000" 
+    cost="1000000" 
     guildinvitationdelayinseconds="300" 
     initialclaimterritoryguildfamerequirement="1000000" 
     claimterritoryguildfamerequirement="1000000"
@@ -53,7 +71,7 @@
 	</transactionlimits>
     
     <Territory territoryclaimtimeinsec="15" />
-    <Alliance cost="500000" upkeeptimerinmin="10080" upkeepcostperguild="0" changecooldownminutes="10080" maxplayers="30000" maxguilds="100"/>
+    <Alliance cost="5000000" upkeeptimerinmin="10080" upkeepcostperguild="0" changecooldownminutes="10080" maxplayers="30000" maxguilds="100"/>
     <GoldMarket setupsellordercost="10" setupbuyordercost="10" swaptransactiongoldpurchaseinterval="5" />
     <Respawn autorespawntimerinsecs="600" />
     <PveFameSession sessionconclusiondelaysecs="600"/>
@@ -125,6 +143,15 @@
         shoes="5"
         potion="5"
         food="5"/>
+      <OnLongHostileDismount
+        mainhand1="15"
+        mainhand2="15"
+        offhandormainhand3="15"
+        armor="15"
+        head="15"
+        shoes="15"
+        potion="15"
+        food="15"/>
     </SpellCooldowns> 
     <CrowdControlDiminishingReturns
       breaksondamagefactor="0.7"
@@ -830,12 +857,12 @@
         <TierModifier tier="8" modifier="30.0" />
   </TravelSettings>
   <RealEstateSettings realestateupkeeptimerinmin="1440" realestateupkeepwarningintervalinmin="2" realestateupkeepwarningchecktimespaninhours="24">
-    <Sale squaremeterpricenormal="0.0" squaremeterpricebuildingarea="100000.0" overallpricefactor="1">
-        <LocationQuality locationType="A" factor="2" />
-        <LocationQuality locationType="B" factor="1.5" />
-        <LocationQuality locationType="C" factor="1" />
-        <LocationQuality locationType="D" factor="0.75" />
-        <LocationQuality locationType="E" factor="0.5" />
+    <Sale squaremeterpricenormal="0.0" squaremeterpricebuildingarea="12500.0" overallpricefactor="1">
+        <LocationQuality locationType="A" factor="40" />
+        <LocationQuality locationType="B" factor="9" />
+        <LocationQuality locationType="C" factor="3" />
+        <LocationQuality locationType="D" factor="1.5" />
+        <LocationQuality locationType="E" factor="1" />
     </Sale>
     <Upkeep squaremeterpricenormal="0.0" squaremeterpricebuildingarea="0.0" overallpricefactor="1">
         <LocationQuality locationType="A" factor="0.0" />
@@ -851,7 +878,7 @@
     </OutlineTypes>
   </RealEstateSettings>
   <MailSettings postage="50" sendmaillimitperday="30" />
-  <MountSettings halfmountvfx="FX/ClientPrefabs/fx_spell_mount_radius" halfmountvfx_originalSize="15" combatmountcooldown="10" hostiledismountdetectionradius="40"/>
+  <MountSettings halfmountvfx="FX/ClientPrefabs/fx_spell_mount_radius" halfmountvfx_originalSize="15" combatmountcooldown="10" hostiledismountdetectionradius="40" longhostiledismountdetectionradius="40"/>
   <VfxSettings fadeouttime="1.0" />
 
   <TownPortalSettings
@@ -1417,10 +1444,10 @@
     <WhisperCooldownInMs value="500"/>
   </ChatSettings>
   <PremiumPackages>
-   <PremiumPackage name="PREMIUMPACKAGEDAY30" days="30" goldcost="3000" goldcostswitch="3750"/>
-   <PremiumPackage name="PREMIUMPACKAGEDAY90" days="90" goldcost="7350" goldcostswitch="10500"/>
-   <PremiumPackage name="PREMIUMPACKAGEDAY180" days="180" goldcost="13750" goldcostswitch="19500"/>
-   <PremiumPackage name="PREMIUMPACKAGEDAY360" days="360" goldcost="24500" goldcostswitch="36000"/>
+   <PremiumPackage name="PREMIUMPACKAGEDAY30" days="30" goldcost="3750"/>
+   <PremiumPackage name="PREMIUMPACKAGEDAY90" days="90" goldcost="10500"/>
+   <PremiumPackage name="PREMIUMPACKAGEDAY180" days="180" goldcost="19500"/>
+   <PremiumPackage name="PREMIUMPACKAGEDAY360" days="360" goldcost="36000"/>
   </PremiumPackages>
   <PremiumLifeTimeRewards>
     <Reward days="7" title="@PREMIUM_STORE_BENEFIT_CONDITIONAL_FIRST_PURCHASE">
@@ -1443,9 +1470,9 @@
     <ClusterDangerBonus type="corrupted_intermediate" icon="corruptedintermediate" famefactor="5.1"  moblootfactor="2.6"  mobsilverlootfactor="3"    questscalingfactor="5.1"/>
     <ClusterDangerBonus type="corrupted_pro"          icon="corruptedpro"          famefactor="3.5"  moblootfactor="2.6"  mobsilverlootfactor="3"    questscalingfactor="3.5"/>
     <ClusterDangerBonus type="expedition"             icon="safe"                  famefactor="1"    moblootfactor="0.5"  mobsilverlootfactor="0.5"  questscalingfactor="1"  />
-    <ClusterDangerBonus type="tunnel"                 icon="black"                 famefactor="4.2"  moblootfactor="2.6"  mobsilverlootfactor="3"    questscalingfactor="4.2"/>
-    <ClusterDangerBonus type="mistsyellow"            icon="yellow"                famefactor="1.8"  moblootfactor="1.197" mobsilverlootfactor="1.377" questscalingfactor="1.8"/>
-    <ClusterDangerBonus type="mistsblack"             icon="black"                 famefactor="3.16" moblootfactor="2.34"  mobsilverlootfactor="2.7" questscalingfactor="3.16"/>    
+    <ClusterDangerBonus type="tunnel"                 icon="black"                 famefactor="6"    moblootfactor="7.1"  mobsilverlootfactor="8.17" questscalingfactor="6"  />
+    <ClusterDangerBonus type="mistsyellow"            icon="yellow"                famefactor="1.8"  moblootfactor="1.33" mobsilverlootfactor="1.53" questscalingfactor="1.8"/>
+    <ClusterDangerBonus type="mistsblack"             icon="black"                 famefactor="3.16" moblootfactor="2.6"  mobsilverlootfactor="3"    questscalingfactor="3.16"/>    
   </ClusterDangerBonusTypes>
   <QuestScalingByClusterTier>
     <Tier tier="1" scalingfactor="1"/>
@@ -1974,4 +2001,5 @@
   </ClusterValueVisualization>
   <FurnituresPlacementRules openworldfurnituremindistance="10" lootplacementblockadditionalborder="2"/>
   <BatchUseSkillBook maxfame="10000000"/>
+  <CharacterAndGuildNameReservation availableuntil="2023-06-13T02:00:00Z"/>
 </AO-GameData>

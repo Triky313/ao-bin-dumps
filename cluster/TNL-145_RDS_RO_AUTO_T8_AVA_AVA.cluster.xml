@@ -27,8 +27,8 @@
   <templateinstance id="instanceslot_05" ref="M_FR_ROAD_RES_Cave_01" pos="-325 0 365" rot="90">
     <activelayer id="Layer_26" />
   </templateinstance>
-  <templateinstance id="instanceslot_06" ref="M_FR_ROAD_PVE_GROUP_01" pos="-25 0 -35">
-    <activelayer id="Layer_03" />
+  <templateinstance id="instanceslot_06" ref="M_FR_ROAD_PVE_RAID_01" pos="-25 0 -35">
+    <activelayer id="Layer_01" />
   </templateinstance>
   <templateinstance id="instanceslot_07" ref="M_FR_ROAD_Medium_Sleeve_01" pos="-25 0 -35" rot="180">
     <activelayer id="Layer_04" />

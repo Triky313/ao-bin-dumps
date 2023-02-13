@@ -8,6 +8,24 @@
     "@xsi:noNamespaceSchemaLocation": "assetvfx.xsd",
     "AssetVfxInfo": [
       {
+        "@uniquename": "UNIQUE_MOUNT_HORSE_FOUNDER_ASIA_CRYSTAL",
+        "AssetVfx": {
+          "@socketname": "head_mount_chimera",
+          "Vfx": {
+            "@prefabName": "FX/ClientPrefabs/fx_mount_horse_founder_crystal_head_01"
+          }
+        }
+      },
+      {
+        "@uniquename": "UNIQUE_MOUNT_COUGAR_RANGER",
+        "AssetVfx": {
+          "@socketname": "head_mount",
+          "Vfx": {
+            "@prefabName": "FX/ClientPrefabs/fx_mount_cougar_ranger_head_01"
+          }
+        }
+      },
+      {
         "@uniquename": "UNIQUE_MOUNT_HORSE_PRIEST_HOLY",
         "AssetVfx": [
           {
@@ -740,6 +758,23 @@
         }
       },
       {
+        "@uniquename": "MOUNT_OX_CHRISTMAS_DECORATION",
+        "AssetVfx": [
+          {
+            "@socketname": "christmas_presents",
+            "Vfx": {
+              "@prefabName": "FX/ClientPrefabs/fx_mount_ox_christmas_presents"
+            }
+          },
+          {
+            "@socketname": "christmas_tree",
+            "Vfx": {
+              "@prefabName": "FX/ClientPrefabs/fx_mount_ox_christmas_tree"
+            }
+          }
+        ]
+      },
+      {
         "@uniquename": "MOUNT_CART_HERETIC",
         "AssetVfx": [
           {
@@ -1090,19 +1125,13 @@
         "@uniquename": "MOUNT_COUGAR_02",
         "AssetVfx": [
           {
-            "@socketname": "eye_left",
+            "@socketname": "head_mount",
             "Vfx": {
               "@prefabName": "FX/ClientPrefabs/fx_mount_cougar_eyeglow"
             }
           },
           {
-            "@socketname": "eye_right",
-            "Vfx": {
-              "@prefabName": "FX/ClientPrefabs/fx_mount_cougar_eyeglow"
-            }
-          },
-          {
-            "@socketname": "body_glow",
+            "@socketname": "jaw_mount",
             "Vfx": {
               "@prefabName": "FX/ClientPrefabs/fx_mount_cougar_glow_neck"
             }
@@ -9503,6 +9532,55 @@
             "@socketname": "mainhand",
             "Vfx": {
               "@prefabName": "FX/ClientPrefabs/fx_anniversary_statue_SECOND_RightHandHardPoint"
+            }
+          }
+        ]
+      },
+      {
+        "@uniquename": "UNIQUE_ARMOR_VANITY_FOUNDER_ASIA_CRYSTAL",
+        "AssetVfx": [
+          {
+            "@socketname": "vanity_chest_founder_asia",
+            "Vfx": {
+              "@prefabName": "FX/ClientPrefabs/fx_UNIQUE_ARMOR_VANITY_FOUNDER_ASIA_CRYSTAL_Spine_3_01"
+            }
+          },
+          {
+            "@socketname": "vanity_leftarm_founder_asia",
+            "Vfx": {
+              "@prefabName": "FX/ClientPrefabs/fx_UNIQUE_ARMOR_VANITY_FOUNDER_ASIA_CRYSTAL_LeftArm_2_01"
+            }
+          },
+          {
+            "@socketname": "vanity_rightarm_founder_asia",
+            "Vfx": {
+              "@prefabName": "FX/ClientPrefabs/fx_UNIQUE_ARMOR_VANITY_FOUNDER_ASIA_CRYSTAL_RightArm_2_01"
+            }
+          }
+        ]
+      },
+      {
+        "@uniquename": "UNIQUE_HEAD_VANITY_FOUNDER_ASIA_CRYSTAL",
+        "AssetVfx": {
+          "@socketname": "vanity_head_founder_asia",
+          "Vfx": {
+            "@prefabName": "FX/ClientPrefabs/fx_UNIQUE_HEAD_VANITY_FOUNDER_ASIA_CRYSTAL_Neck_Head_01"
+          }
+        }
+      },
+      {
+        "@uniquename": "UNIQUE_ARMOR_VANITY_RANGER",
+        "AssetVfx": [
+          {
+            "@socketname": "vanity_leftshoulder_ranger",
+            "Vfx": {
+              "@prefabName": "FX/ClientPrefabs/fx_UNIQUE_ARMOR_VANITY_RANGER_LeftShoulder_01"
+            }
+          },
+          {
+            "@socketname": "vanity_rightshoulder_ranger",
+            "Vfx": {
+              "@prefabName": "FX/ClientPrefabs/fx_UNIQUE_ARMOR_VANITY_RANGER_RightShoulder_01"
             }
           }
         ]
